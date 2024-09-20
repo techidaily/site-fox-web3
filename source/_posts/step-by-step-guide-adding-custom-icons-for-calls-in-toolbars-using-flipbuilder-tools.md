@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Adding Custom Icons for Calls in Toolbars Using FlipBuilder Tools"
-date: 2024-09-19 17:52:24
-updated: 2024-09-20 11:28:31
+date: 2024-09-12T18:48:42.054Z
+updated: 2024-09-20T02:13:31.981Z
 tags:
   - product
 categories:
@@ -37,11 +37,17 @@ Follow below steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
