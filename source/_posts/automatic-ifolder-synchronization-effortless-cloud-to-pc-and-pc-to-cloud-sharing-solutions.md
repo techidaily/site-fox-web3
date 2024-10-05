@@ -1,7 +1,7 @@
 ---
 title: "Automatic iFolder Synchronization: Effortless Cloud-to-PC & PC-to-Cloud Sharing Solutions"
-date: 2024-09-28T02:30:16.597Z
-updated: 2024-09-30T11:39:53.028Z
+date: 2024-10-01T18:36:23.395Z
+updated: 2024-10-05T16:26:02.677Z
 tags:
   - user-guide
 categories:
@@ -116,16 +116,16 @@ Table of Contents
 This interface is meant to specify details about folder synchronization to a source folder on disk.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -133,10 +133,10 @@ This interface is meant to specify details about folder synchronization to a sou
 IFolderSync : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -158,10 +158,10 @@ IFolderSync : IDispatch
 **String FileComponentAssigning** \- Gets or sets the way that the component is assigned to file added in the project. The option set here is applied only to new files added by synchronization, from the moment it is selected. Components for existing files are untouched when this option gets changed. Supported values: BestSuitedComponent NewComponent FolderComponent.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -205,22 +205,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tailored-thumbnail-for-twitter-clips/"><u>[New] 2024 Approved Tailored Thumbnail for Twitter Clips</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-ultimate-drone-racing-headset-compilation/"><u>[New] The Ultimate Drone Racing Headset Compilation</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-million-viewer-milestone-and-associated-income-levels-for-2024/"><u>[Updated] Million-Viewer Milestone and Associated Income Levels for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/10-quick-x-formerly-twitter-tips-for-beginners/"><u>10 Quick X (Formerly Twitter) Tips for Beginners</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/download-songs-and-videos-in-various-formats-with-singsnap-mp3-wav-aac-and-more/"><u>Download Songs and Videos in Various Formats with SingSnap - MP3, WAV, AAC & More</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/download-the-complete-deadpool-film-as-mp4-for-free-ultimate-torrent-and-mirror-sites/"><u>Download the Complete Deadpool Film as MP4 for Free - Ultimate Torrent & Mirror Sites</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/downloading-episodes-from-apple-daily-a-users-manual-to-obtaining-mp4-files-on-windows-and-macos-systems/"><u>Downloading Episodes From Apple Daily: A User's Manual to Obtaining MP4 Files on Windows and macOS Systems</u></a></li>
-<li><a href="https://app-tips.techidaily.com/easy-steps-for-reinstating-your-data-from-icloud-backup-without-a-hardware-reset/"><u>Easy Steps for Reinstating Your Data From iCloud Backup without a Hardware Reset</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effortless-access-to-mls-soccer-content-video-music-and-sounds-quick-download/"><u>Effortless Access to MLS Soccer Content: Video, Music & Sounds - Quick Download</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effortless-al-jazeera-media-extraction-tool-for-mac-and-windows/"><u>Effortless Al Jazeera Media Extraction Tool for Mac and Windows</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effortless-offline-watching-how-to-convert-and-download-vgtv-videos-in-mp4-format-for-windows-and-macos-users/"><u>Effortless Offline Watching: How to Convert & Download VGTV Videos in MP4 Format for Windows and macOS Users</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effortlessly-access-and-save-lessons-from-yoyo-chinese-for-language-study/"><u>Effortlessly Access and Save Lessons From Yoyo Chinese for Language Study</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/enjoy-youtube-on-roku-discover-2-simple-ways-to-access-and-view-videos/"><u>Enjoy YouTube on Roku? Discover 2 Simple Ways to Access and View Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ating-youtubes-revenue-mechanisms-for-2024/"><u>Navigating YouTube's Revenue Mechanisms for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-elevate-your-videos-from-ordinary-to-extraordinary/"><u>New In 2024, Elevate Your Videos From Ordinary to Extraordinary</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/talent-showcase-whos-the-top-generative-chatbot-winner/"><u>Talent Showcase: Who's the Top Generative Chatbot Winner?</u></a></li>
-<li><a href="https://common-error.techidaily.com/unfreeze-your-web-surfing-solving-non-responsive-google-chrome-troubles/"><u>Unfreeze Your Web Surfing: Solving Non-Responsive Google Chrome Troubles</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-new-era-for-sony-blu-ray-player-s6700/"><u>[New] In 2024, New Era for Sony Blu-Ray Player S6700</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unleash-your-photo-and-video-potential-with-your-cellphones-webcam-features/"><u>[Updated] In 2024, Unleash Your Photo & Video Potential with Your Cellphone's Webcam Features</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/2-personalized-spacecraft-deployment-criteria/"><u>2. Personalized Spacecraft Deployment Criteria</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-capturing-quality-logitech-webcam-recording-guide/"><u>2024 Approved Capturing Quality Logitech Webcam Recording Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/a-guide-to-adjusting-your-file-folders-characteristics-via-the-properties-panel/"><u>A Guide to Adjusting Your File Folders' Characteristics via the Properties Panel</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/a-guide-to-designing-professional-quote-graphics/"><u>A Guide to Designing Professional Quote Graphics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/avoiding-manual-transcription-by-leveraging-voice-recognition-in-ppt/"><u>Avoiding Manual Transcription by Leveraging Voice Recognition in PPT</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-wirelessly-charge-your-iphone-try-these-7-remedies-now/"><u>Can't Wirelessly Charge Your iPhone? Try These 7 Remedies Now</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-techniques-for-reducing-the-size-of-wav-audio-files/"><u>Effective Techniques for Reducing the Size of WAV Audio Files</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-chatgpt-can-help-you-land-your-dream-job/"><u>How ChatGPT Can Help You Land Your Dream Job</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/rapid-immersion-learn-a-new-language-fast/"><u>Rapid Immersion: Learn a New Language Fast</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/seamless-data-management-understanding-the-duplicate-and-relocate-interface/"><u>Seamless Data Management: Understanding the Duplicate & Relocate Interface</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-sound-headphones-and-playstation-5/"><u>Seamless Sound: Headphones & PlayStation 5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-successfully-exiting-safe-mode-in-windows-11/"><u>Step-by-Step Guide: Successfully Exiting Safe Mode in Windows 11</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/sync-your-files-with-ease-the-ultimate-guide-to-seamless-folder-sync/"><u>Sync Your Files with Ease: The Ultimate Guide to Seamless Folder Sync</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/the-ultimate-list-of-top-5-essential-live-streaming-platforms/"><u>The Ultimate List of Top 5 Essential Live Streaming Platforms</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-strategy-tips-and-tricks-for-excelling-at-boom-beach-on-windows-and-mac/"><u>Ultimate Strategy: Tips and Tricks for Excelling at Boom Beach on Windows and Mac</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 2. Personalized Spacecraft Deployment Criteria
-date: 2024-09-29T08:08:29.596Z
-updated: 2024-09-30T05:50:11.846Z
+date: 2024-10-02T16:39:33.584Z
+updated: 2024-10-05T21:06:15.792Z
 tags:
   - user-guide
 categories:
@@ -38,36 +38,42 @@ Table of Contents
 ## ICustomLaunchConditions
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
 
 ICustomLaunchConditions : IDispatch
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Overview
 
 This interface is meant to access, edit or remove custom launch conditions
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Properties
 
 **Array<ICustomLaunchCondition> LaunchConditions**Gets the custom launch conditions list  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -79,10 +85,10 @@ Creates new custom launch condition. The installation will run only if the custo
 Deletes and existing custom launch condition
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -124,18 +130,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-capture-and-share-your-win10-gaming-life/"><u>[New] Capture and Share Your Win10 Gaming Life</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-premier-mp4-uploader-and-downloader-for-fb/"><u>[New] In 2024, Premier MP4 Uploader & Downloader for FB</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1-effortless-video-transfer-save-your-favorite-content-from-buzznet-in-high-quality-formats-like-mp4-mov-and-avi/"><u>1. Effortless Video Transfer: Save Your Favorite Content From BuzzNet in High-Quality Formats Like MP4, MOV & AVI</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-metaverse-marketing-techniques/"><u>2024 Approved Mastering Metaverse Marketing Techniques</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/access-all-universal-class-learning-free-downloads-of-online-courses/"><u>Access All Universal Class Learning: Free Downloads of Online Courses</u></a></li>
-<li><a href="https://win-dash.techidaily.com/asus-pce-ac56-driver-compatibility-solved-for-windows-11-8-and-7-systems/"><u>ASUS PCE-AC56 Driver Compatibility Solved for Windows 11, 8, and 7 Systems</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/budget-smartphone-revealed-zte-blade-a3y-delivers-solid-features-at-great-value/"><u>Budget Smartphone Revealed: ZTE Blade A3Y Delivers Solid Features at Great Value</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-samsung-galaxy-m34-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Samsung Galaxy M34 5G</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-to-update-your-flipbuilder-account-with-the-newest-software/"><u>Step-by-Step Guide to Update Your FlipBuilder Account with the Newest Software</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-saving-your-flipboard-books-as-local-pdfs-tips-and-tricks/"><u>Step-by-Step Guide: Saving Your FlipBoard Books as Local PDFs - Tips & Tricks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/structuring-a-compelling-resume-cv-on-linkedin/"><u>Structuring a Compelling Resume (CV) on LinkedIn</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/techniques-for-duplicating-multimedia-elements-across-pages-a-guide-using-flipbuilder/"><u>Techniques for Duplicating Multimedia Elements Across Pages: A Guide Using FlipBuilder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/unlocking-hidden-gems-discover-special-content-with-flipbuilder/"><u>Unlocking Hidden Gems: Discover Special Content with FlipBuilder</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-engaging-audiences-triad-of-effective-storytelling/"><u>[Updated] 2024 Approved Engaging Audiences Triad of Effective Storytelling</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/automatic-ifolder-synchronization-effortless-cloud-to-pc-and-pc-to-cloud-sharing-solutions/"><u>Automatic iFolder Synchronization: Effortless Cloud-to-PC & PC-to-Cloud Sharing Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/download-your-favorite-songs-at-no-cost-using-top-rated-safari-mp3-downloader/"><u>Download Your Favorite Songs at No Cost Using Top-Rated Safari MP3 Downloader</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/expert-techniques-for-inserting-pdf-content-into-existing-files-a-complete-replacement-guide/"><u>Expert Techniques for Inserting PDF Content Into Existing Files - A Complete Replacement Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/guide-to-uncovering-active-software-installations-on-pc-or-mac/"><u>Guide to Uncovering Active Software Installations on PC or Mac</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/is-it-possible-for-malicious-software-to-conceal-within-bios-systems-securing-your-computer-against-viruses/"><u>Is It Possible for Malicious Software to Conceal Within BIOS Systems? Securing Your Computer Against Viruses</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-audio-capture-on-your-mac-with-apowersoft-the-complete-how-to-guide/"><u>Mastering Audio Capture on Your Mac with Apowersoft - The Complete How-To Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimal-spectrum-adjuster/"><u>Optimal Spectrum Adjuster</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/recovering-deleted-contact-info-from-your-iphone-7-expert-tips-and-tricks/"><u>Recovering Deleted Contact Info From Your iPhone 7: Expert Tips & Tricks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/spinning-tales-in-sound-your-ultimate-guide-to-podcast-scripts-for-2024/"><u>Spinning Tales in Sound Your Ultimate Guide to Podcast Scripts for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-fascinating-world-of-stock-pictures-and-meme-lore/"><u>The Fascinating World of Stock Pictures & Meme Lore</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-of-accessories-to-enhance-your-sj4000-for-2024/"><u>The Ultimate List of Accessories to Enhance Your SJ4000 for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-infinix-hot-40-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Infinix Hot 40 Location | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/we-cant-sign-into-your-account-in-windows-10-solved/"><u>We Can’t Sign Into Your Account in Windows 10 [Solved]</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/we-know-you-love-making-digital-invitation-cards-but-what-about-having-a-video-invitation-maker-app-to-get-started-sounds-fun-right-learn-more-here-for-2024/"><u>We Know You Love Making Digital Invitation Cards. But What About Having a Video Invitation Maker App to Get Started? Sounds Fun, Right? Learn More Here for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Seamless Link Management: Your Essential File Association Hub"
-date: 2024-09-29T02:10:45.859Z
-updated: 2024-09-30T05:08:13.346Z
+date: 2024-09-30T18:18:40.236Z
+updated: 2024-10-05T21:08:03.717Z
 tags:
   - user-guide
 categories:
@@ -90,26 +90,26 @@ The left-side pane contains a tree with all the ProgIDs you defined on the first
 
 ![New File Association Wizard](https://cdn.advancedinstaller.com/img/toolbar/wizard.png "New File Association Wizard")Use the \[New File Association Wizard \] toolbar button, to quickly and easily set up a new file association, following step-by-step directions.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating new ProgIDs
 
 ![New ProgID](https://cdn.advancedinstaller.com/img/toolbar/new-progid.png "New ProgID")Use the \[New ProgID \] toolbar button, the “New ProgID” tree context menu item or press the \* key while the “ProgID, Extensions and Verbs” panel is focused. This action will create a ProgID that can be associated with either an extension or a COM in the [COM page](https://tools.techidaily.com/advancedinstaller/products/). This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/).
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)A ProgID will not be created at install time unless it is associated with an extension or a COM.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Only one extension should be associated with each ProgID.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating new extensions
@@ -117,10 +117,10 @@ The left-side pane contains a tree with all the ProgIDs you defined on the first
 ![New Extension](https://cdn.advancedinstaller.com/img/toolbar/extension-new.png "New Extension") Use the \[New Extension \] toolbar button, the “New Extension” tree context menu item or press the Insert key while the “ProgID, Extensions and Verbs” panel is focused. This action will also create a ProgID and an extension with default properties. To create an extension under an existing ProgID make sure the ProgID (or one of its children) is selected before doing a\[New Extension \]. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating new verbs
@@ -128,28 +128,15 @@ The left-side pane contains a tree with all the ProgIDs you defined on the first
 ![New Verb](https://cdn.advancedinstaller.com/img/toolbar/verb-new.png "New Verb") Use the \[New Verb \] toolbar button, the “New Verb” tree context menu item or press the + key while the “ProgID, Extensions and Verbs” panel is focused. This action will create a verb with default properties for the selected extension. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating new default programs
 
 ![Default Programs](https://cdn.advancedinstaller.com/img/toolbar/default-prog.png "Default Programs")Use the \[New Default Program \] toolbar button, the “New Default Program” tree context menu item or press the \- key while the “ProgID, Extensions, Verbs and Default Programs” panel is focused. This action will create a default program with default properties for the selected extension. 
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Creating new shell context menu
 
@@ -158,15 +145,28 @@ The left-side pane contains a tree with all the ProgIDs you defined on the first
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)The Drive Context Menu option is not supported by the new Windows 11 Context Menu.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Renaming ProgIDs, extensions,verbs, default programs and context menus
 
  Use the “Rename” tree context menu item or press theF2 key while an element from the left-side panel is selected.
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Locating the attached component for an extension
 
@@ -176,22 +176,16 @@ The left-side pane contains a tree with all the ProgIDs you defined on the first
 
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove") Use the \[Delete \] toolbar button, the “Delete” tree context menu item or press the Delete key while an element from the “ProgID, Extensions and Verbs” panel is selected.
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## See Also
 
 For more in-depth information please see [Create new file extensions and make file associations](https://tools.techidaily.com/advancedinstaller/products/) article.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -239,18 +233,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-growth-acceleration-on-youtube-expert-tips-for-video-partnerships/"><u>[New] 2024 Approved Growth Acceleration on YouTube Expert Tips for Video Partnerships</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-reducing-noise-amplitude-gently-using-lumafusion/"><u>[New] In 2024, Reducing Noise Amplitude Gently Using Lumafusion</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-reel-in-the-future-top-5-ps-vr-games-on-the-brink-of-launch/"><u>[Updated] In 2024, Reel in the Future Top 5 PS VR Games on The Brink of Launch</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/adding-a-custom-logo-to-your-e-book-with-flipbuilder-technology/"><u>Adding a Custom Logo to Your E-Book with FlipBuilder Technology</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/adding-comprehensive-guides-to-readers-hands-utilizing-flipbuilder-for-ebook-assistance-pages/"><u>Adding Comprehensive Guides to Readers' Hands: Utilizing FlipBuilder for eBook Assistance Pages</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/adjusting-toolbar-placement-using-floating-templates-in-flipbook-a-step-by-step-guide/"><u>Adjusting Toolbar Placement Using Floating Templates in FlipBook - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advanced-techniques-to-master-voice-activated-accessibility-on-windows/"><u>Advanced Techniques to Master Voice-Activated Accessibility on Windows</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/boost-your-flipbooks-reach-how-to-set-up-social-sharing-for-facebook-twitter-and-linkedin-on-flipbuildercom/"><u>Boost Your FlipBook's Reach: How to Set Up Social Sharing for Facebook, Twitter & LinkedIn on flipbuilder.com</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expert-iphone-tips-change-image-dimensions-proficiently/"><u>Expert iPhone Tips Change Image Dimensions Proficiently</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-samsung-galaxy-a05-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Samsung Galaxy A05 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-need-to-learn-about-halftone-effects-learn-how-to-quickly-create-a-halftone-effect-in-adobe-photoshop-with-simple-easy-to-follow-instructions/"><u>New In 2024, Need to Learn About Halftone Effects? Learn How to Quickly Create a Halftone Effect in Adobe Photoshop with Simple, Easy-to-Follow Instructions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/on-the-go-literacy-lovers-guide-comprehensive-kobo-clara-hd-reader-evaluation/"><u>On-the-Go Literacy Lover's Guide: Comprehensive Kobo Clara HD Reader Evaluation</u></a></li>
-<li><a href="https://fox-that.techidaily.com/safari-wont-show-pictures-here-are-9-fixes-to-restore-them-on-your-iphone/"><u>Safari Won't Show Pictures? Here Are 9 Fixes to Restore Them on Your iPhone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-become-a-communication-connoisseur-with-google-meet/"><u>[New] Become a Communication Connoisseur with Google Meet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-how-to-get-1k-followers-every-month-on-instagram/"><u>[New] In 2024, How to Get 1K Followers Every Month on Instagram</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-rtmp-streams-overcoming-premieres-export-hurdle/"><u>2024 Approved Unraveling RTMP Streams Overcoming Premiere's Export Hurdle</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/5-most-effective-methods-for-capturing-presentations-with-powerpoint/"><u>5 Most Effective Methods for Capturing Presentations with PowerPoint</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/downloadable-youtube-sound-capture-tool-easily-record-any-audio-from-youtube-videos/"><u>Downloadable YouTube Sound Capture Tool: Easily Record Any Audio From YouTube Videos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-15-pro-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 15 Pro How to Bypass?</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/professional-media-management-dashboard/"><u>Professional Media Management Dashboard</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/simple-tricks-seamlessly-connecting-your-iphone-with-itunes/"><u>Simple Tricks: Seamlessly Connecting Your iPhone with iTunes</u></a></li>
 </ul></div>
 

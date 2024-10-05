@@ -1,7 +1,7 @@
 ---
 title: Execute Command in Custom Directory - Efficient File Management
-date: 2024-09-29T11:42:05.593Z
-updated: 2024-09-30T06:48:06.769Z
+date: 2024-10-02T20:11:12.977Z
+updated: 2024-10-05T16:40:17.273Z
 tags:
   - user-guide
 categories:
@@ -125,32 +125,32 @@ Table of Contents
 
 ## IExeWithWorkingDirectoryCustomAction
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 IExeWithWorkingDirectoryCustomAction : ICustomAction
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Overview
 
 This interface facilitates editing custom action for launching existing executable file on the disk. The file has a designated folder as Working Directory .
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -162,10 +162,10 @@ This interface facilitates editing custom action for launching existing executab
 **IFolder WorkingDirectory** \- Get or sets the working directory for launching executable file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Examples
@@ -180,10 +180,10 @@ $custAct.FilePath = "[#MyApp.exe]"
    Copy
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -225,20 +225,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-screenshot-perfection-on-mac-selecting-top-10-recorders-reviewed/"><u>[Updated] In 2024, Screenshot Perfection on Mac Selecting Top 10 Recorders Reviewed</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-seamless-audio-edits-with-garageband-features/"><u>[Updated] Seamless Audio Edits with GarageBand Features</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-top-10-free-graphics-websites-a-compreran-analysis/"><u>[Updated] Top 10 FREE Graphics Websites A Compreran Analysis</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-voice-assignment-verification-for-2024/"><u>[Updated] Voice Assignment Verification for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1-effortless-video-transfer-save-your-favorite-content-from-buzznet-in-high-quality-formats-like-mp4-mov-and-avi/"><u>1. Effortless Video Transfer: Save Your Favorite Content From BuzzNet in High-Quality Formats Like MP4, MOV & AVI</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-droning-success-key-elements-in-selecting-ideal-fpv-propellers/"><u>2024 Approved Droning Success Key Elements in Selecting Ideal FPV Propellers</u></a></li>
-<li><a href="https://win-able.techidaily.com/deathloop-stability-issues-heres-how-to-keep-it-running-smoothly-on-pc/"><u>Deathloop Stability Issues? Here's How to Keep It Running Smoothly on PC</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-moto-g04-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-why-does-instagram-keep-flipping-my-video/"><u>In 2024, Why Does Instagram Keep Flipping My Video?</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-to-update-your-flipbuilder-account-with-the-newest-software/"><u>Step-by-Step Guide to Update Your FlipBuilder Account with the Newest Software</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-integrating-flipbook-content-on-your-site-using-flipbuilder/"><u>Step-by-Step Guide: Integrating Flipbook Content on Your Site Using FlipBuilder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-saving-your-flipboard-books-as-local-pdfs-tips-and-tricks/"><u>Step-by-Step Guide: Saving Your FlipBoard Books as Local PDFs - Tips & Tricks</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/techniques-for-duplicating-multimedia-elements-across-pages-a-guide-using-flipbuilder/"><u>Techniques for Duplicating Multimedia Elements Across Pages: A Guide Using FlipBuilder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/unlocking-hidden-gems-discover-special-content-with-flipbuilder/"><u>Unlocking Hidden Gems: Discover Special Content with FlipBuilder</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/unveiling-personalization-updating-user-status-and-images-in-discord/"><u>Unveiling Personalization Updating User Status and Images in Discord</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-streamline-the-integration-of-youtube-playlists-into-a-sites-layout/"><u>[New] 2024 Approved How To Streamline the Integration of YouTube Playlists Into a Site's Layout</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-navigate-to-constant-watch-enable-auto-play-feature-for-youtube-videos-on-fb/"><u>[New] 2024 Approved Navigate to Constant Watch Enable Auto-Play Feature for YouTube Videos on FB</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-social-media-sound-to-personal-melody-an-in-depth-guide/"><u>[New] From Social Media Sound to Personal Melody - An In-Depth Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-journey-to-joyrides-top-housing-ideas-for-new-players/"><u>[Updated] 2024 Approved Journey to Joyrides Top Housing Ideas for New Players</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-groundbreision-of-top-8-free-video-call-software-for-companies/"><u>[Updated] In 2024, Groundbreision of Top 8 Free Video Call Software for Companies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-reel-downloads-quick-save-methods/"><u>[Updated] In 2024, Instagram Reel Downloads Quick Save Methods</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/2-personalized-spacecraft-deployment-criteria/"><u>2. Personalized Spacecraft Deployment Criteria</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-boost-visuals-zoom-in-on-snapchat-content/"><u>2024 Approved Boost Visuals Zoom in on Snapchat Content</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/a-guide-to-adjusting-your-file-folders-characteristics-via-the-properties-panel/"><u>A Guide to Adjusting Your File Folders' Characteristics via the Properties Panel</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/a-guide-to-designing-professional-quote-graphics/"><u>A Guide to Designing Professional Quote Graphics</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-pixels-customizing-gaming-banners-with-style/"><u>Brand Pixels Customizing Gaming Banners with Style</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-techniques-for-reducing-the-size-of-wav-audio-files/"><u>Effective Techniques for Reducing the Size of WAV Audio Files</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/seamless-data-management-understanding-the-duplicate-and-relocate-interface/"><u>Seamless Data Management: Understanding the Duplicate & Relocate Interface</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/sync-your-files-with-ease-the-ultimate-guide-to-seamless-folder-sync/"><u>Sync Your Files with Ease: The Ultimate Guide to Seamless Folder Sync</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/the-ultimate-list-of-top-5-essential-live-streaming-platforms/"><u>The Ultimate List of Top 5 Essential Live Streaming Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/twitch-basics-unraveling-common-mysteries-for-beginner-viewers/"><u>Twitch Basics: Unraveling Common Mysteries for Beginner Viewers</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-strategy-tips-and-tricks-for-excelling-at-boom-beach-on-windows-and-mac/"><u>Ultimate Strategy: Tips and Tricks for Excelling at Boom Beach on Windows and Mac</u></a></li>
 </ul></div>
 

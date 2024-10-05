@@ -1,7 +1,7 @@
 ---
 title: "Sync Your Files with Ease: The Ultimate Guide to Seamless Folder Sync"
-date: 2024-09-27T08:28:40.440Z
-updated: 2024-09-30T09:22:52.310Z
+date: 2024-10-03T20:49:16.927Z
+updated: 2024-10-05T19:53:13.113Z
 tags:
   - user-guide
 categories:
@@ -118,10 +118,10 @@ Enable this option in order to activate the synchronization of a folder from the
 Use the \[... \] button to select the source folder from the disk. Synchronized folders will be marked visually with this icon:![Synchronized Folder](https://cdn.advancedinstaller.com/img/gfx/synchronized-folder.png "Synchronized Folder").
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can [edit filters](https://tools.techidaily.com/advancedinstaller/products/) that will allow you to specify which files will be added to the package. Use the \[Edit filters... \] button to do that.
@@ -137,16 +137,10 @@ If you want to use the same filters for multiple synchronized folders, use the\[
 Select the feature that will contain the components resulted after the synchronization process.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Options
@@ -170,10 +164,10 @@ If this option is enabled, the files contained by the synchronized folder will n
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When this option is set for a synchronized folder, the synchronized files that were present in that folder before will be removed from the project.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Component Options
@@ -190,16 +184,10 @@ When a file is added to the project by synchronization, a component is selected 
     Extensions can be added in the exception list without leading "." and separated by a blank space " ". The rules recommended by Windows Installer are applied for these exceptions.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -240,24 +228,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-exclusive-video-player-for-high-quality-avi-on-devices/"><u>[New] Exclusive Video Player for High-Quality AVI on Devices</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-achieve-peak-meeting-performance-a-detailed-zoom-guide-for-2024/"><u>[Updated] Achieve Peak Meeting Performance A Detailed Zoom Guide for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-live-recording-simplified-logitech-webcam-setup-steps/"><u>2024 Approved Live Recording Simplified Logitech Webcam Setup Steps</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-reno-10-proplus-5g-by-drfone-android/"><u>How to Bypass FRP from Oppo Reno 10 Pro+ 5G?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-sony-xperia-5-v-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Sony Xperia 5 V Phones? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-address-and-resolve-the-user-profile-service-failure-in-windows-11/"><u>How to Successfully Address and Resolve the User Profile Service Failure in Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-nubia-red-magic-9-proplus-phone-by-drfone-android/"><u>How to Unlock a Network Locked Nubia Red Magic 9 Pro+ Phone?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-select-high-quality-drones-for-sale/"><u>In 2024, Select High-Quality Drones For Sale</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/integrating-multimedia-in-pdfs-with-flippdf-a-complete-guide/"><u>Integrating Multimedia in PDFs with FlipPDF - A Complete Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/is-it-possible-to-showcase-an-entire-flipping-book-within-a-single-webpage-on-flipbuilder/"><u>Is It Possible to Showcase an Entire Flipping Book Within a Single Webpage on FlipBuilder?</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/is-your-books-cover-included-in-the-flipbook-created-with-flipbuildercom/"><u>Is Your Book's Cover Included in the Flipbook Created with FlipBuilder.com?</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/master-the-art-of-crafting-html5-ebooks-for-ios-devices-with-flip-pdf-effortless-tutorial-flipbuildercom/"><u>Master the Art of Crafting HTML5 eBooks for iOS Devices with Flip PDF – Effortless Tutorial [FlipBuilder.com]</u></a></li>
-<li><a href="https://facebook.techidaily.com/mastering-facebooks-privacy-settings-7-essential-tips/"><u>Mastering Facebook's Privacy Settings: 7 Essential Tips</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/mastering-flipbook-designs-how-to-seamlessly-add-new-themes-via-flipbuilder-platform/"><u>Mastering FlipBook Designs: How to Seamlessly Add New Themes via FlipBuilder Platform</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/mastering-headerfooter-settings-in-pre-conversion-for-optimal-flipbook-outputs/"><u>Mastering Header/Footer Settings in Pre-Conversion for Optimal FlipBook Outputs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-motorola-moto-g24-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Motorola Moto G24</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/quick-and-simple-online-tool-for-converting-pictures-to-various-image-formats-free/"><u>Quick & Simple Online Tool for Converting Pictures to Various Image Formats - FREE!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-adding-custom-icons-for-calls-in-toolbars-using-flipbuilder-tools/"><u>Step-by-Step Guide: Adding Custom Icons for Calls in Toolbars Using FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-integrating-flipbook-content-on-your-site-using-flipbuilder/"><u>Step-by-Step Guide: Integrating Flipbook Content on Your Site Using FlipBuilder</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mac-recording-hub-essential-insights-for-2024/"><u>[Updated] Mac Recording Hub Essential Insights for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/rutube/"><u>「Rutubeから動画ダウンロード・セーブ手順」</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-hiccups-journey-the-right-sequence-to-experience-how-to-train-your-dragon-movies/"><u>Complete Hiccup's Journey: The Right Sequence to Experience How to Train Your Dragon Movies</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/discover-the-optimal-techniques-for-cable-free-mi-tv-and-pc-screen-mirroring/"><u>Discover the Optimal Techniques for Cable-Free Mi TV and PC Screen Mirroring</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/enhanced-gui-designs-for-advanced-installation-software/"><u>Enhanced GUI Designs for Advanced Installation Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nokia-150-2023-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Nokia 150 (2023) Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-metaverse-musings-top-30-quotes-for-immersive-living/"><u>In 2024, Metaverse Musings Top 30 Quotes for Immersive Living</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/optimizing-your-web-content-mastering-sql-database-pages/"><u>Optimizing Your Web Content: Mastering SQL Database Pages</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-youtube-presentations-with-captions-for-2024/"><u>Streamline Your YouTube Presentations with Captions for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/the-ultimate-guide-to-efficient-video-compressing-apps-on-windows-11/"><u>The Ultimate Guide to Efficient Video Compressing Apps on Windows 11</u></a></li>
 </ul></div>
 

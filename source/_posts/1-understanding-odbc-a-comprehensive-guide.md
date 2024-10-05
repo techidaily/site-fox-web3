@@ -1,7 +1,7 @@
 ---
 title: "1. Understanding ODBC: A Comprehensive Guide"
-date: 2024-09-27T16:14:44.303Z
-updated: 2024-09-30T06:32:03.302Z
+date: 2024-10-04T16:02:54.141Z
+updated: 2024-10-05T19:43:07.825Z
 tags:
   - user-guide
 categories:
@@ -81,10 +81,10 @@ There are three ODBC components you can add in this page: drivers, data sources 
 ![Odbc page](https://cdn.advancedinstaller.com/img/ui/odbc-page.png "Odbc page")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a driver
@@ -97,20 +97,6 @@ There are three ODBC components you can add in this page: drivers, data sources 
 
 ![New ODBC Data Source](https://cdn.advancedinstaller.com/img/toolbar/data-source-new.png "New ODBC Data Source") Use the \[New Data Source \] toolbar button, the “New Data Source” tree context menu item or press the Insert key while the tree control is focused. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Importing an existing data source
 
 ![Import ODBC Data Source](https://cdn.advancedinstaller.com/img/toolbar/data-source-import.png "Import ODBC Data Source") Use the \[Data Source \] toolbar button or the “Import Data Source” tree context menu item. You can import DSN files directly or DSNs registered on your development machine, listed in the [Import Data Source Dialog](https://tools.techidaily.com/advancedinstaller/products/).
@@ -118,10 +104,10 @@ There are three ODBC components you can add in this page: drivers, data sources 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Only the data source's name and attributes will be imported. You will need to set the ODBC driver yourself.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a translator
@@ -133,10 +119,10 @@ There are three ODBC components you can add in this page: drivers, data sources 
  Use the “Go To Component” tree context menu item or press theF8 key while an element from the tree control is selected. This command will activate the [Organization](https://tools.techidaily.com/advancedinstaller/products/) page with the appropriate component selected in the left tree control.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Setting the Current Feature
@@ -145,7 +131,21 @@ There are three ODBC components you can add in this page: drivers, data sources 
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can further manage the your package's organization in the [Organization](https://tools.techidaily.com/advancedinstaller/products/) page.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This feature is not available for Merge Module projects. For more details see the [Merge Module Organization](https://tools.techidaily.com/advancedinstaller/products/) page.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -191,16 +191,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-web3.techidaily.com/access-premium-video-lessons-easy-steps-to-get-your-discovery-learning-materials/"><u>Access Premium Video Lessons: Easy Steps to Get Your Discovery Learning Materials</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/alternative-audio-extractor-convert-your-videos-to-mp3-on-mac-and-pc/"><u>Alternative Audio Extractor: Convert Your Videos to MP3 on Mac & PC</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/alternative-download-manager-for-macos-sierra-and-windows-quick-and-easy-orbit-app/"><u>Alternative Download Manager for MacOS Sierra & Windows: Quick and Easy Orbit App</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/anybunny-video-library-easily-convert-and-save-adult-films-as-mp4avi-files-for-offline-viewing/"><u>Anybunny Video Library - Easily Convert and Save Adult Films as MP4/AVI Files for Offline Viewing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/beyond-basic-editing-innovative-use-of-luts-for-photography/"><u>Beyond Basic Editing Innovative Use of LUTs for Photography</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/complete-guide-converting-and-downloading-all-asce-on-demand-webinar-content-as-mp4mp3/"><u>Complete Guide: Converting and Downloading All ASCE On-Demand Webinar Content as MP4/MP3</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-xr-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone XR Data From iTunes? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-nokia-c02-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Nokia C02 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-evolution-of-editing-software-reviewed-magix-vpx-for-2024/"><u>The Evolution of Editing Software Reviewed Magix VPX for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transforming-unboxing-into-art-for-2024/"><u>Transforming Unboxing Into Art for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-honor-x8b-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Honor X8b Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-all-you-need-to-know-about-adobe-storages-including-top-non-adobe-alternates/"><u>[New] 2024 Approved All You Need to Know About Adobe Storages, Including Top Non-Adobe Alternates</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-10-free-youtube-thumbnail-downloaderssavers-online-for-2024/"><u>[Updated] 10 Free YouTube Thumbnail Downloaders/Savers Online for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-outstanding-20-anime-opening-melodies/"><u>[Updated] 2024 Approved Outstanding 20 Anime Opening Melodies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-make-a-photo-video-with-pixiz-for-2024/"><u>[Updated] How to Make a Photo Video with Pixiz for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-essential-tips-for-simple-hdr-mastery/"><u>2024 Approved Essential Tips for Simple HDR Mastery</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/advanced-techniques-in-digital-analytics-pages-enhancing-online-performance/"><u>Advanced Techniques in Digital Analytics Pages: Enhancing Online Performance</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/custom-file-handling-actions-innovative-approaches/"><u>Custom File Handling Actions: Innovative Approaches</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-strategies-to-protect-your-chrome-browser-from-invasive-pop-up-threats-with-malwarefox/"><u>Effective Strategies to Protect Your Chrome Browser From Invasive Pop-Up Threats with MalwareFox</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-techniques-for-reducing-the-size-of-wav-audio-files/"><u>Effective Techniques for Reducing the Size of WAV Audio Files</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/high-quality-dvd-duplication-secure-and-flawless-transfer-of-data-from-original-to-duplicate-disc/"><u>High-Quality DVD Duplication: Secure & Flawless Transfer of Data From Original to Duplicate Disc</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hochwertige-kostenfreie-hd-konvertierung-fur-hevch2email-protected-medien-auf-mp4/"><u>Hochwertige Kostenfreie HD-Konvertierung Für HEVC/H.2([email Protected] Medien Auf MP4</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/seamlessly-importing-personalized-ringtones-onto-your-ios-device/"><u>Seamlessly Importing Personalized Ringtones Onto Your iOS Device</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-tutorial-download-youtube-videos-in-pieces-for-2024/"><u>Step-by-Step Tutorial Download YouTube Videos in Pieces for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/understanding-the-ixmlfilemanager-component/"><u>Understanding the iXMLFileManager Component</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-itel-p55plus-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Itel P55+ Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

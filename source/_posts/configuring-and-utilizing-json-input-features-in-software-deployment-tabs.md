@@ -1,7 +1,7 @@
 ---
 title: Configuring and Utilizing JSON Input Features in Software Deployment Tabs
-date: 2024-09-26T17:06:44.108Z
-updated: 2024-09-30T10:43:45.815Z
+date: 2024-10-04T21:01:22.444Z
+updated: 2024-10-05T19:30:56.944Z
 tags:
   - user-guide
 categories:
@@ -101,13 +101,6 @@ This section allows you to configure the JSON file's installation behavior.
 
 If the requested JSON file does not already exist on the target system, it will be generated using the specified configuration.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Remove file on uninstall
 
 If you wish to delete the JSON file from the target system during component uninstalling, use one of the following options:
@@ -118,22 +111,29 @@ If you wish to delete the JSON file from the target system during component unin
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If none of the two checkbox choices is selected, the file will not be deleted during the uninstall process.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Component
 
 This field specifies the component whose install or removal will trigger the JSON update operation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Error Policy
 
@@ -142,19 +142,6 @@ Select what action should be performed in case an error occurs during the JSON i
 * Abort installation - all system changes will rollback.
 * Skip file - the file which caused the error will be skipped. All the changes performed by the installation on this file will be reverted and the installation will continue.
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Create backup before updating
 
 Prior to the update procedure, a backup copy of the original JSON file will be generated if this option is selected. 
@@ -162,6 +149,13 @@ Prior to the update procedure, a backup copy of the original JSON file will be g
 **Backup Filename Template** \- Use **#** to specify the backup index. This character will be automatically replaced with the backup number when installing the package. The following characters can be part of the filename: **.** ,**\-** , **%** , **^** , **\~** , **&** and**\_**. Leaving a blank input will automatically default the template toYourFilename.#.back.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Due to the possibility of JSON file updates occurring during the uninstall process, a backup of the file will be made during the uninstall process as well. If during uninstall an error occurs, a backup of the file will be created (regardless of this option) and the uninstall process will continue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)It highly recommended that you leave this option **enabled**, because an unexpected error during the JSON update process may _corrupt_ parts of your existing JSON file.
 
@@ -204,21 +198,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-affordable-mp3-recording-skype-calls-saved/"><u>[New] 2024 Approved Affordable MP3 Recording Skype Calls Saved</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeos-gratis-editing-guide-enhance-videos-on-budget/"><u>[New] 2024 Approved Vimeo's Gratis Editing Guide Enhance Videos on Budget</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-how-can-you-air-facebook-videos-on-your-television-set/"><u>[Updated] How Can You Air Facebook Videos on Your Television Set?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfect-your-pcs-sound-with-these-5-windows-11-recording-tips/"><u>[Updated] Perfect Your PC's Sound with These 5 Windows 11 Recording Tips</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-nubia-z50-ultra-frp-bypass-by-drfone-android/"><u>About Nubia Z50 Ultra FRP Bypass</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/downloading-episodes-from-apple-daily-a-users-manual-to-obtaining-mp4-files-on-windows-and-macos-systems/"><u>Downloading Episodes From Apple Daily: A User's Manual to Obtaining MP4 Files on Windows and macOS Systems</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effortless-access-to-mls-soccer-content-video-music-and-sounds-quick-download/"><u>Effortless Access to MLS Soccer Content: Video, Music & Sounds - Quick Download</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effortless-al-jazeera-media-extraction-tool-for-mac-and-windows/"><u>Effortless Al Jazeera Media Extraction Tool for Mac and Windows</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effortless-offline-watching-how-to-convert-and-download-vgtv-videos-in-mp4-format-for-windows-and-macos-users/"><u>Effortless Offline Watching: How to Convert & Download VGTV Videos in MP4 Format for Windows and macOS Users</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effortlessly-access-and-save-lessons-from-yoyo-chinese-for-language-study/"><u>Effortlessly Access and Save Lessons From Yoyo Chinese for Language Study</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/enjoy-youtube-on-roku-discover-2-simple-ways-to-access-and-view-videos/"><u>Enjoy YouTube on Roku? Discover 2 Simple Ways to Access and View Videos</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/free-video-downloader-get-movies-from-cliphunter-without-paying-a-dime/"><u>Free Video Downloader: Get Movies From ClipHunter without Paying a Dime</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-step-by-step-guide-to-gopro-time-lapse-mastery/"><u>In 2024, A Step-by-Step Guide to GoPro Time-Lapse Mastery</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oppo-reno-8t-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Oppo Reno 8T 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-honor-80-pro-straight-screen-edition-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Honor 80 Pro Straight Screen Edition Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-fainter-frequencies-for-pc-and-mac-harmony-for-2024/"><u>[New] Fainter Frequencies for PC & Mac Harmony for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-gopro-hero5-black-secrets-elevating-your-cinematic-craft/"><u>2024 Approved GoPro Hero5 Black Secrets Elevating Your Cinematic Craft</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/best-free-and-premium-pdf-reader-apps-for-iphone-x11se-top-11-picks/"><u>Best Free & Premium PDF Reader Apps for iPhone X/11/SE: Top 11 Picks</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/customize-your-server-settings-the-ultimate-guide-to-editing-instance-properties/"><u>Customize Your Server Settings: The Ultimate Guide to Editing Instance Properties</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/execute-command-in-custom-directory-efficient-file-management/"><u>Execute Command in Custom Directory - Efficient File Management</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/find-your-perfect-match-with-these-best-5-iphone-pods-for-2024/"><u>Find Your Perfect Match with These Best 5 iPhone Pods for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-unveiled-decrypting-the-algorithm-of-conversation/"><u>GPT Unveiled: Decrypting the Algorithm of Conversation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-live-recording-mastery-with-innovative-webcams-explored/"><u>In 2024, Live Recording Mastery with Innovative WebCams Explored</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-speed-with-premium-controller-add-ons/"><u>In 2024, Mastering Speed with Premium Controller Add-Ons</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-best-free-srt-translation-services-for-2024/"><u>Navigating the Best FREE SRT Translation Services for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/professional-apowersoft-advisory-solutions/"><u>Professional Apowersoft Advisory Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-turning-off-website-notifications-across-chrome-firefox-and-edge-browsers/"><u>Step-by-Step Guide: Turning Off Website Notifications Across Chrome, Firefox and Edge Browsers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-essentials-of-dynamic-visual-communication-for-2024/"><u>The Essentials of Dynamic Visual Communication for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-your-potential-for-green-screen-excellence-in-kinemaster/"><u>Unlock Your Potential for Green Screen Excellence in Kinemaster</u></a></li>
 </ul></div>
 

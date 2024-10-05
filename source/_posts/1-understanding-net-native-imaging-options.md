@@ -1,7 +1,7 @@
 ---
 title: 1. Understanding .NET Native Imaging Options
-date: 2024-09-29T09:37:48.277Z
-updated: 2024-09-30T06:07:15.297Z
+date: 2024-10-01T20:21:20.584Z
+updated: 2024-10-05T17:22:01.601Z
 tags:
   - user-guide
 categories:
@@ -81,13 +81,6 @@ Table of Contents
 
 ![.NET Native Image Dialog](https://cdn.advancedinstaller.com/img/dialog/net-native-image.png ".NET Native Image Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Scenarios
 
 ### Debug
@@ -95,10 +88,10 @@ Table of Contents
 Use this option to generate native images that can be used under a debugger.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Profile
@@ -108,6 +101,13 @@ Use this option to generate native images that can be used under a profiler.
 ### No Dependencies
 
 Use this option to generate the minimum number of native images required.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Installation
 
@@ -119,16 +119,16 @@ Use this option to generate the minimum number of native images required.
 * 32-bit and 64-bit native images - Generate native image for both the 32-bit and the 64-bit .NET Framework versions.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Priority
@@ -144,27 +144,20 @@ Use this option to generate the minimum number of native images required.
 
 Select this option if you don't have any dependencies or you want to let the generator use its default dependencies search mechanism.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use the specified executable assembly's configuration
 
 Since the generator needs to make the same decisions as the loader when binding to dependencies for DLL assemblies which are loaded via reflection, this field should indicate the application which will load this assembly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use specified folder as the application base
 
 Folder used as the application base when locating dependencies.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Generator Version
 
@@ -176,6 +169,13 @@ Here you can specify the supported generator versions of this assembly by select
 The assembly required version will be used in case no version is specified. When specifying a version use the full version string like: 2.0.50727
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Configuration file, Dependencies Base and No Dependencies options as well as Asynchronous or Idle generation priorities are supported by Native Image Generator (NGEN) starting with v2.0\. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -210,18 +210,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-exploring-the-best-ultimate-guide-to-premium-unboxing-youtubers-2024/"><u>[New] Exploring the Best Ultimate Guide to Premium Unboxing YouTubers, 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-reels-unlocking-the-ninja-mindset/"><u>[Updated] 2024 Approved Instagram Reels Unlocking the Ninja Mindset</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mastering-gif-transformation-to-stickers-on-whatsapp-discord-and-telegram/"><u>[Updated] 2024 Approved Mastering GIF Transformation To Stickers on WhatsApp, Discord & Telegram</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-vuebell-doorbell-overview-a-top-contender-in-economical-security/"><u>Affordable VueBell Doorbell Overview: A Top Contender in Economical Security</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-the-code-overcoming-launch-failures-in-windows-obs/"><u>Deciphering the Code: Overcoming Launch Failures in Windows OBS</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ensure-perfect-display-of-your-conversion-e-books-on-smartphones-with-easy-steps/"><u>Ensure Perfect Display of Your Conversion E-Books on Smartphones with Easy Steps!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ensuring-your-digital-flipbooks-safety-on-flipbuilder-a-comprehensive-tutorial/"><u>Ensuring Your Digital Flipbook's Safety on FlipBuilder - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-apply-watermarks-to-your-flipbook-prints-easily-with-flipbuilder/"><u>How to Apply Watermarks to Your FlipBook Prints Easily with FlipBuilder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-create-various-formats-of-flipbooks-using-flip-pdf-on-a-mac-a-comprehensive-guide/"><u>How to Create Various Formats of Flipbooks Using Flip PDF on a Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-modify-the-inner-and-outer-page-designs-in-your-flipbook-on-flipbuilder-expert-guide/"><u>How to Modify the Inner and Outer Page Designs in Your Flipbook on FlipBuilder - Expert Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/instantly-convert-pdf-files-into-ebooks-using-the-powerful-flip-pdf-converter-tool-try-it-free-at-flipbuildercom/"><u>Instantly Convert PDF Files Into Ebooks Using the Powerful Flip PDF Converter Tool | Try It Free at FlipBuilder.com</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/lessons-visualized-storytelling-on-your-channel-for-2024/"><u>Life Lessons Visualized Storytelling on Your Channel for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-vr-for-the-on-the-move-top-10-headsets-reviewed/"><u>[New] In 2024, VR for the On-the-Move Top 10 Headsets Reviewed</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/onthly-earnings-potential-on-youtube/"><u>[New] Monthly Earnings Potential on YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-snap-up-engagement-streamlined-methods-for-crop-and-export-to-instagram-for-2024/"><u>[Updated] Snap Up Engagement Streamlined Methods for Crop & Export to Instagram for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1-top-solutions-for-creating-a-transparent-logo-across-various-digital-mediums/"><u>1. Top Solutions for Creating a Transparent Logo Across Various Digital Mediums</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-rhythmic-repository-perfect-dj-templates-instantly-downloadable/"><u>2024 Approved Rhythmic Repository Perfect DJ Templates, Instantly Downloadable</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-chatgpt-the-next-evolutionary-leap-for-generative-ai-and-chatbots/"><u>Beyond ChatGPT: The Next Evolutionary Leap for Generative AI and Chatbots?</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/essential-remote-work-mastery-the-top-5-must-have-productivity-tools/"><u>Essential Remote Work Mastery: The Top 5 Must-Have Productivity Tools</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-quick-shots-effective-techniques-for-taking-a-screenshot-on-your-lenovo-device/"><u>Mastering Quick Shots: Effective Techniques for Taking a Screenshot on Your Lenovo Device</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-dividing-your-pdf-into-individual-documents/"><u>Step-by-Step Guide: Dividing Your PDF Into Individual Documents</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-how-to-cleanly-extract-stickers-from-your-reels-video-content/"><u>Step-by-Step Guide: How to Cleanly Extract Stickers From Your Reels Video Content</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-perfect-blend-of-performance-and-style-inside-look-at-the-corsair-one-pro-rig/"><u>The Perfect Blend of Performance & Style: Inside Look at the Corsair One Pro Rig</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-a05s-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy A05s FRP</u></a></li>
 </ul></div>
 

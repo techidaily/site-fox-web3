@@ -1,7 +1,7 @@
 ---
 title: "Tabular Features: A Guide to Software Labeling and Classification"
-date: 2024-09-27T11:08:25.920Z
-updated: 2024-09-30T07:19:18.924Z
+date: 2024-10-01T19:18:40.268Z
+updated: 2024-10-05T19:27:53.722Z
 tags:
   - user-guide
 categories:
@@ -85,13 +85,6 @@ Table of Contents
 
 ## Mandatory Tags
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Identifier
 
  This field uniquelly identifies a software product and a version. Organization that creates the tags (Tag Creator) is responsible to ensure this unicity between all tagged products and all versions. Content of this field can be a GUID or can have any other structure, for example productname\_version. This field cannot contain characters that cannot appear in a filename. 
@@ -99,10 +92,10 @@ Table of Contents
  Three entities involved in software application creation and distribution must be specified: the entity that created the software, the entity that licensed the software and the entity that created the file with information required by ISO 19770-2 standard.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Software Creator Name
@@ -117,6 +110,13 @@ Table of Contents
 
 The name of the entity that owns the copyright of the software package.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Software Licensor ID
 
 The [unique registration identifier](https://tools.techidaily.com/advancedinstaller/products/) of the software licensor entity. If this entity is no longer in business or the identifier is not available then unknown value can be used.
@@ -125,27 +125,20 @@ The [unique registration identifier](https://tools.techidaily.com/advancedinstal
 
 The name of the entity that created these ISO 19770-2 tags. In our case, should be the name of the entity that created the Advanced Installer project.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tag Creator ID
 
 The [unique registration identifier](https://tools.techidaily.com/advancedinstaller/products/) of the entity that created the tags.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Entitlement Required
 
 Indicates if a rights to use the software verification should be performed in order to asses the software compliance.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Optional Tags
 
@@ -162,6 +155,13 @@ Provides information about how a software was obtained and installed and clues a
 * **Channel Type** \- the distribution channel for that the software package was designated. The default possible values are Volume, Retail, OEM and Academic but other values can be added as well. If you want use other value, type it in the combobox edit area. This field allows to a Software Asset Management practitioner to quickly identify some non compliant software. For example, products distributed on Academic channel are usually not appropiate for corporate use.
 * **Channel Name** \- the name of a distribution or channel partner.
 * **Customer Type** \- the target customer type for the software package. The default possible values are Government, Corporate, Educational, Retail but other values can be used as well. If you want to use another value, just type it in the combobox edit area.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -201,24 +201,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-pioneering-methods-for-increased-srt-on-macoswindows/"><u>[New] Pioneering Methods for Increased SRT on macOS/Windows</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-pop-sync-streamlining-song-placement-on-instagram-stories/"><u>[New] Pop Sync Streamlining Song Placement on Instagram Stories</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/apples-revolutionary-ai-tech-revealed-key-insights-from-the-wwdc-202n-event/"><u>Apple's Revolutionary AI Tech Revealed: Key Insights From the WWDC 202N Event</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-nokia-130-music-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Nokia 130 Music Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effortlessly-access-and-save-lessons-from-yoyo-chinese-for-language-study/"><u>Effortlessly Access and Save Lessons From Yoyo Chinese for Language Study</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ending-blanking-windows-11-monitor/"><u>Ending Blanking Windows 11 Monitor</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/enjoy-youtube-on-roku-discover-2-simple-ways-to-access-and-view-videos/"><u>Enjoy YouTube on Roku? Discover 2 Simple Ways to Access and View Videos</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/free-video-downloader-get-movies-from-cliphunter-without-paying-a-dime/"><u>Free Video Downloader: Get Movies From ClipHunter without Paying a Dime</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/get-the-best-audio-quality-for-your-music-with-zingmp3-downloads-now-available-as-mp3-flac-wav-aac-and-m4a/"><u>Get the Best Audio Quality for Your Music with ZingMP3 Downloads Now Available as MP3, FLAC, WAV, AAC, and M4A</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/guide-enjoy-spotify-tunes-anywhere-learn-how-to-listen-offline-without-a-paid-subscription/"><u>Guide: Enjoy Spotify Tunes Anywhere - Learn How to Listen Offline Without a Paid Subscription</u></a></li>
-<li><a href="https://extra-information.techidaily.com/harmonymix-pro-mac-and-windows-version/"><u>HarmonyMix Pro Mac & Windows Version</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-8-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-save-your-favorite-songs-from-grooveshark-as-high-quality-mp3s-compatible-with-both-mac-and-pc/"><u>How to Save Your Favorite Songs From Grooveshark as High-Quality MP3s: Compatible with Both Mac & PC</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-successfully-embed-an-mp4-file-in-powerpoint-a-step-by-step-guide-for-flawless-media-playback-during-presentations/"><u>How to Successfully Embed an MP4 File in PowerPoint: A Step-by-Step Guide for Flawless Media Playback During Presentations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-face-off-a-detailed-comparison-guide/"><u>In 2024, GoPro Face-Off A Detailed Comparison Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/m3u8-file-converter-for-multiple-platforms-easily-switch-to-mp4-avi-mov-on-windows-and-mac/"><u>M3U8 File Converter for Multiple Platforms - Easily Switch to MP4, AVI, MOV on Windows and Mac</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-huawei-nova-y91-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Huawei Nova Y91 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/save-your-favorite-tv-shows-as-mp4wmvmovaviflv-files-for-easy-viewing/"><u>Save Your Favorite TV Shows as MP4/WMV/MOV/AVI/FLV Files for Easy Viewing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unpacking-italys-decision-for-swiftly-banning-chatgpt-without-delay/"><u>Unpacking Italy's Decision for Swiftly Banning ChatGPT Without Delay</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagrams-ultimate-guide-to-the-best-grid-software-of-the-year/"><u>[New] 2024 Approved Instagram's Ultimate Guide to the Best Grid Software of the Year</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-seamless-gopro-broadcasts-tips-for-facebook-and-periscope-channeling/"><u>[Updated] 2024 Approved Seamless GoPro Broadcasts Tips for Facebook & Periscope Channeling</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-playcapture-pro-your-own-screen-recorder-free/"><u>[Updated] PlayCapture Pro Your Own Screen Recorder, Free</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-powering-up-your-action-footage-one-gadget-at-a-time/"><u>2024 Approved Powering Up Your Action Footage, One Gadget at a Time</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/alternative-video-editing-tools-taking-over-from-windows-movie-maker/"><u>Alternative Video Editing Tools Taking Over From Windows Movie Maker</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/best-free-screen-recording-software-replacements-for-pc-and-macos/"><u>Best Free Screen Recording Software Replacements for PC & macOS</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/complete-guide-to-virus-elimination-using-malwarefox-techniques/"><u>Complete Guide to Virus Elimination: Using MalwareFox Techniques</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/economical-studiolightkit-unveiled/"><u>Economical StudioLightkit Unveiled</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-methods-of-dispatching-text-messages-via-computer-a-guide-for-android-mobile-users/"><u>Effective Methods of Dispatching Text Messages via Computer: A Guide for Android Mobile Users</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/efficient-methods-for-moving-videos-onto-your-samsung-galaxy-note-3/"><u>Efficient Methods for Moving Videos Onto Your Samsung Galaxy Note 3</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-fun-side-top-6-games-to-enjoy-on-chatgpt/"><u>Explore The Fun Side: Top 6 Games To Enjoy on ChatGPT</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/master-your-audio-projects-using-audacitys-powerful-tools-for-macos/"><u>Master Your Audio Projects Using Audacity's Powerful Tools for macOS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/smoothly-blending-bio-and-linktree-on-your-tiktok-platform/"><u>Smoothly Blending Bio & Linktree on Your TikTok Platform</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-eliminating-white-canvas-in-images/"><u>Step-by-Step Guide: Eliminating White Canvas in Images</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-free-sites-to-stream-and-download-mix-tapes-online/"><u>Top Free Sites to Stream & Download Mix Tapes Online</u></a></li>
 </ul></div>
 

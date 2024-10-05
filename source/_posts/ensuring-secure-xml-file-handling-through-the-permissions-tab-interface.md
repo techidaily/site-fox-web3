@@ -1,7 +1,7 @@
 ---
 title: Ensuring Secure XML File Handling Through the Permissions Tab Interface
-date: 2024-09-26T21:35:15.884Z
-updated: 2024-09-30T00:46:08.355Z
+date: 2024-10-01T20:19:07.297Z
+updated: 2024-10-05T18:13:46.965Z
 tags:
   - user-guide
 categories:
@@ -104,10 +104,10 @@ Table of Contents
 ![Permissions Dialog](https://cdn.advancedinstaller.com/img/dialog/xml-permissions.png "Permissions Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New...
@@ -115,10 +115,10 @@ Table of Contents
  This button creates a new permission for the selected file, folder, registry key or value. You will be able to edit the newly created permission in the popped up [Permission Dialog](https://tools.techidaily.com/advancedinstaller/products/). You can use the Insert key while the "Groups or user names" list is focused to create a new share permission. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Edit...
@@ -126,10 +126,10 @@ Table of Contents
  Shows you the selected permission's properties and allows you to change them. You can use the Space key while an element is selected, to edit its properties.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Remove
@@ -169,22 +169,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-luminous-techniques-crafting-captivating-cinematic-pieces-for-2024/"><u>[New] Luminous Techniques Crafting Captivating Cinematic Pieces for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-lifecast-your-show-a-basic-podcast-streaming-strategy/"><u>[Updated] Lifecast Your Show A Basic Podcast Streaming Strategy</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-transformative-visual-experiences-with-tiktok-enhancements-for-2024/"><u>[Updated] Transformative Visual Experiences with TikTok Enhancements for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1-ideal-locations-to-showcase-your-creations-with-flipbuilder-a-comprehensive-guide/"><u>1. Ideal Locations to Showcase Your Creations with FlipBuilder: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/compact-play-enjoy-spotify-in-facebooks-miniplayer/"><u>Compact Play: Enjoy Spotify in Facebook's Miniplayer</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/complimentary-black-theme-premium-bootstrap-and-angular-admin-template-by-creative-tim/"><u>Complimentary Black Theme: Premium Bootstrap & Angular Admin Template by Creative Tim</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creative-tims-premier-vue-soft-ui-control-panel-for-vuejs-3-and-bootstrap-5-enthusiasts/"><u>Creative Tim's Premier Vue Soft UI Control Panel for VueJS 3 and Bootstrap 5 Enthusiasts</u></a></li>
-<li><a href="https://win-able.techidaily.com/destiny-2-beyond-light-how-to-fix-pc-version-crashing-problems-for-smooth-play/"><u>Destiny 2 Beyond Light - How to Fix PC Version Crashing Problems for Smooth Play</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/head-to-head-comparison-which-is-better-google-nest-audio-or-apple-homepod/"><u>Head-to-Head Comparison: Which Is Better, Google Nest Audio or Apple HomePod?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-honored-proposals-leading-ringtone-creators-iphone/"><u>In 2024, Honored Proposals Leading Ringtone Creators iPhone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/insight-into-the-t6-dslr-budget-friendly-model/"><u>Insight Into the T6 DSLR: Budget-Friendly Model</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-image-creation-integrating-dall-e-into-chatgpt-4-for-creative-visuals/"><u>Mastering Image Creation: Integrating DALL-E Into ChatGPT-4 for Creative Visuals</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/modern-admin-panel-ready-in-no-time-black-ui-powered-by-angular-plus-bootstrap-4-designed-at-creativetim/"><u>Modern Admin Panel Ready in No Time: Black UI, Powered by Angular + Bootstrap 4 | Designed at CreativeTim</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/section-cuation/"><u>Section Cuation:</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/the-applicability-of-article-2-may-vary-by-state-due-to-variations-in-adoption-and-implementation/"><u>The Applicability of Article 2 May Vary by State Due to Variations in Adoption and Implementation.</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/top-4-free-flutter-mobile-app-designs-from-creative-tim/"><u>Top 4 FREE Flutter Mobile App Designs From Creative Tim</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/unlock-top-tier-web-development-with-argon-pro-a-premier-react-design-toolkit-for-bootstrap-and-reactstrap-enthusiasts-by-creative-tim/"><u>Unlock Top-Tier Web Development with Argon PRO - A Premier React Design Toolkit for Bootstrap and Reactstrap Enthusiasts by Creative Tim</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-smile-slam-the-best-comedy-moments-on-social-media/"><u>[Updated] In 2024, Smile Slam The Best Comedy Moments on Social Media</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-premier-videochat-services-for-team-meetings/"><u>2024 Approved Premier Videochat Services for Team Meetings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-lava-storm-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Lava Storm 5G</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/automatic-ifolder-synchronization-effortless-cloud-to-pc-and-pc-to-cloud-sharing-solutions/"><u>Automatic iFolder Synchronization: Effortless Cloud-to-PC & PC-to-Cloud Sharing Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-the-add-folder-now-obstacle-in-windows-onedrive-for-a-smooth-experience/"><u>Bypassing the 'Add Folder Now' Obstacle in Windows OneDrive for a Smooth Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-the-mystery-of-dvrs-what-are-they-really/"><u>Decoding the Mystery of DVRs: What Are They Really?</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/efficient-strategies-for-combining-various-images-into-one-unified-pdf-document/"><u>Efficient Strategies for Combining Various Images Into One Unified PDF Document</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-samsung-galaxy-m54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Samsung Galaxy M54 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-imovies-repaired-files-in-quicktime-player-a-step-by-step-guide/"><u>How to Play iMovie's Repaired Files in QuickTime Player: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/is-it-possible-for-malicious-software-to-conceal-within-bios-systems-securing-your-computer-against-viruses/"><u>Is It Possible for Malicious Software to Conceal Within BIOS Systems? Securing Your Computer Against Viruses</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/recovering-deleted-contact-info-from-your-iphone-7-expert-tips-and-tricks/"><u>Recovering Deleted Contact Info From Your iPhone 7: Expert Tips & Tricks</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/revolutionize-your-business-with-ipatchsolutions-the-ultimate-project-management-tool/"><u>Revolutionize Your Business with IPatchSolutions: The Ultimate Project Management Tool</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-echoing-quietness-a-guide-to-purifying-your-podcasts-from-high-frequency-humming/"><u>Updated In 2024, Echoing Quietness A Guide to Purifying Your Podcasts From High-Frequency Humming</u></a></li>
 </ul></div>
 

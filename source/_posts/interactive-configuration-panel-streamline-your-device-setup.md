@@ -1,7 +1,7 @@
 ---
 title: "Interactive Configuration Panel: Streamline Your Device Setup"
-date: 2024-09-24T22:06:44.057Z
-updated: 2024-09-29T21:04:34.146Z
+date: 2024-09-30T16:02:20.830Z
+updated: 2024-10-05T16:52:57.018Z
 tags:
   - user-guide
 categories:
@@ -92,10 +92,16 @@ If the ID from the machine part is not present in the user part, a command is ex
 If the ID from the machine part is found also in the user part, no further action is performed as the current user profile has already been initialized.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Commands
@@ -105,10 +111,10 @@ In this section, you can create add a new Active Setup command by using\[New... 
 When a command is selected, you can use the \[Edit... \] button to modify it. Also, you can use the \[Delete \] button to delete the command.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -149,24 +155,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-strategies-in-the-art-of-win10/"><u>[New] Expert Strategies in the Art of Win10</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-laughter-ledger-twittersphere-tales/"><u>[New] In 2024, Laughter Ledger Twittersphere Tales</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-iphoneipad-screenshot-tools/"><u>[New] In 2024, The Ultimate Guide to iPhone/iPad Screenshot Tools</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-mastery-in-making-essential-gear-for-yi-4k-enthusiasts-for-2024/"><u>[New] Mastery in Making - Essential Gear for YI 4K Enthusiasts for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-seamless-4k-upgrade-youtube-to-hd-with-ease-for-2024/"><u>[New] Seamless 4K Upgrade YouTube to HD with Ease for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-algorithm-behind-youtubes-post-upload-logic/"><u>[Updated] 2024 Approved The Algorithm Behind YouTube's Post-Upload Logic</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/advanced-argon-dashboard-pro-high-quality-premium-template-for-angular-apps-from-creative-tim/"><u>Advanced Argon Dashboard Pro - High-Quality, Premium Template for Angular Apps From Creative Tim</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/build-free-comprehensive-webstack-solutions-with-vue-3-plus-laravel-backend-offered-by-creative-tim/"><u>Build Free, Comprehensive Webstack Solutions with Vue 3 + Laravel Backend - Offered by Creative Tim</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creative-tims-complimentary-vite-soft-ui-dashboard-advanced-integration-with-vuejs-section-1-problem-the-theme-question-urban-planning-scale-representation.5/"><u>Creative Tim's Complimentary Vite Soft UI Dashboard: Advanced Integration with VueJS # Section 1: Problem - The Theme Question (Urban Planning Scale Representation)</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creative-tims-premier-argon-ghost-theme-elevate-your-website-design/"><u>Creative Tim's Premier Argon Ghost Theme - Elevate Your Website Design</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creative-tims-ultimate-pro-admin-template-with-nuxt-3-and-bootstrap-n5-for-next-gen-websites/"><u>Creative Tim's Ultimate Pro-Admin Template with Nuxt 3 & Bootstrap N5 for Next-Gen Websites</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creative-tims-vue-dashboard-an-elegant-admin-panel-solution/"><u>Creative Tim's Vue Dashboard: An Elegant Admin Panel Solution</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/discover-the-extensive-43plus-ui-elements-collection-of-bootstraps-by-creative-tim-for-superior-web-designs/"><u>Discover the Extensive 43+ UI Elements Collection of Bootstraps by Creative Tim for Superior Web Designs</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/download-your-complimentary-nextjstailwind-course-kit-premium-templates-from-creative-tim/"><u>Download Your Complimentary NextJS/Tailwind Course Kit – Premium Templates From Creative Tim!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/explore-more-than-30-premium-free-vuejs-sites-and-frameworks-by-creative-tim/"><u>Explore More than 30 Premium-Free Vue.js Sites & Frameworks by Creative Tim</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-motorola-moto-g84-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Motorola Moto G84 5G? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Motorola Moto G04? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-vivo-y100a-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo Y100A working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-crafting-success-with-these-15-youtube-introduction-plans/"><u>[New] In 2024, Crafting Success with These 15 YouTube Introduction Plans</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-list-of-affordable-high-definition-cameras/"><u>[Updated] Prime List of Affordable High Definition Cameras</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-top-tools-for-effortless-recording-of-desktop-screens-on-windows-10/"><u>2024 Approved Top Tools for Effortless Recording of Desktop Screens on Windows 10</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/advanced-techniques-in-digital-analytics-pages-enhancing-online-performance/"><u>Advanced Techniques in Digital Analytics Pages: Enhancing Online Performance</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/custom-file-handling-actions-innovative-approaches/"><u>Custom File Handling Actions: Innovative Approaches</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-strategies-to-protect-your-chrome-browser-from-invasive-pop-up-threats-with-malwarefox/"><u>Effective Strategies to Protect Your Chrome Browser From Invasive Pop-Up Threats with MalwareFox</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-techniques-for-reducing-the-size-of-wav-audio-files/"><u>Effective Techniques for Reducing the Size of WAV Audio Files</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-bring-out-the-vibes-using-radial-blurs-in-your-projects/"><u>In 2024, Bring Out the Vibes Using Radial Blurs in Your Projects</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-storm-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Lava Storm 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-x-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone X Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/managing-files-and-organizing-directories-in-installation-setup/"><u>Managing Files & Organizing Directories in Installation Setup</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/masterful-mentorship-with-ai-six-ways-for-an-outstanding-dungeon-master/"><u>Masterful Mentorship with AI: Six Ways for an Outstanding Dungeon Master</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/seamlessly-importing-personalized-ringtones-onto-your-ios-device/"><u>Seamlessly Importing Personalized Ringtones Onto Your iOS Device</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/strategies-to-perfect-the-last-push-on-your-vimeo-videos-for-2024/"><u>Strategies to Perfect the Last Push on Your Vimeo Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-essential-tutorial-for-vrecorder-setup/"><u>The Essential Tutorial for VRecorder Setup</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/understanding-the-ixmlfilemanager-component/"><u>Understanding the iXMLFileManager Component</u></a></li>
 </ul></div>
 

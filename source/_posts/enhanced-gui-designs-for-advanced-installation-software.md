@@ -1,7 +1,7 @@
 ---
 title: Enhanced GUI Designs for Advanced Installation Software
-date: 2024-09-29T03:17:50.618Z
-updated: 2024-09-30T11:06:03.179Z
+date: 2024-10-03T16:03:46.797Z
+updated: 2024-10-05T18:03:13.345Z
 tags:
   - user-guide
 categories:
@@ -65,25 +65,11 @@ Table of Contents
 
 The Advanced Installer main window is organized into four sections: [Ribbon](https://tools.techidaily.com/advancedinstaller/products/) (or [Main Menu](https://tools.techidaily.com/advancedinstaller/products/) plus toolbar), left pane, page display and info pane. Each page may in turn be organized in multiple tabs and/or dialog boxes. Most dialog boxes can be resized by dragging their bottom-right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Ribbon
 
 Starting with Advanced Installer 9 on _Windows Vista SP2 with Platform Update_ or higher, the [ribbon control](https://tools.techidaily.com/advancedinstaller/products/) replaces the combined functionalities of the main menu and toolbar.
 
 ![Ribbon](https://cdn.advancedinstaller.com/img/ui/ribbon.png "Ribbon")  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Toolbar
 
@@ -91,37 +77,57 @@ The toolbar allows quick access to most commands provided by the menu system. Fr
 
 ![Main Menu](https://cdn.advancedinstaller.com/img/ui/quick-toolbar.png "Main Menu")
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Left Pane
 
  The left pane contains grouped lists of conceptually related pages: [Product Information](https://tools.techidaily.com/advancedinstaller/products/), [Resources](https://tools.techidaily.com/advancedinstaller/products/),[Package Definition](https://tools.techidaily.com/advancedinstaller/products/), [Requirements](https://tools.techidaily.com/advancedinstaller/products/),[User Interface](https://tools.techidaily.com/advancedinstaller/products/), [System Changes](https://tools.techidaily.com/advancedinstaller/products/), [Server](https://tools.techidaily.com/advancedinstaller/products/), [Custom Behavior](https://tools.techidaily.com/advancedinstaller/products/). From general to detailed, clicking on these items will display, to the right, the various configuration options for your installer. The currently selected item is displayed in **bold**.
 
 ![Left Pane](https://cdn.advancedinstaller.com/img/ui/page-menu.png "Left Pane")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can toggle the left pane on and off from the “View > Show > Left Pane” menu. The size of the icons and elements can also be changed by selecting the “Compact Left Pane” option from the “View > Show” toolbar menu.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Use the “Quick filter” above the left pane page menu to quickly reach pages of interest. The filter not only supports searching in the actual menu entries, but also looks in a predefined set of keywords relevant to each page when trying to match your query. For example typing _"variable"_ in the filter will bring up the [Environment Variables Page](https://tools.techidaily.com/advancedinstaller/products/) page, where you can configure environment variables.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Page Display
 
 The center stage for creating your installer is this large area on the right. It is the main work area - all project data is displayed here.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Info Panes
 
 This panel will display one of the selected panes from the “View > Info Panes” menu and it is hidden by default. You can close it again by clicking on its top-right corner \[Close \] button.
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -171,24 +177,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-nostruggle-livecast-how-to-simplify-your-podcast-broadcast/"><u>[New] 2024 Approved NoStruggle Livecast How to Simplify Your Podcast Broadcast</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-filmmaking-for-the-future-adapting-videos-vertically-for-instagram-for-2024/"><u>[New] Filmmaking for the Future Adapting Videos Vertically for Instagram for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-speeding-up-instagram-media-mobile-methods/"><u>[New] In 2024, Speeding Up Instagram Media Mobile Methods</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-step-up-your-visual-effects-game-with-free-lessons-from-4-innovative-youtube-channels/"><u>[New] Step Up Your Visual Effects Game with Free Lessons From 4 Innovative YouTube Channels</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-ultimate-treasure-trove-of-inspirational-video-concepts-for-2024/"><u>[New] The Ultimate Treasure Trove of Inspirational Video Concepts for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-from-puzzles-to-peril-the-gaming-genres-progression/"><u>[Updated] In 2024, From Puzzles to Peril The Gaming Genre's Progression</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/convert-multiple-pdf-documents-into-word-format-for-free-with-flipbuilder/"><u>Convert Multiple PDF Documents Into Word Format for Free with FlipBuilder!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/create-unique-buttons-on-flipbuilder-quick-and-simple-digital-printer-access-for-custom-designs/"><u>Create Unique Buttons on FlipBuilder: Quick & Simple Digital Printer Access for Custom Designs</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creating-dynamic-email-links-within-flipbook-presentations-using-flipbuilder/"><u>Creating Dynamic Email Links Within FlipBook Presentations Using FlipBuilder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creating-interactive-digital-flipbooks-by-combining-several-photos-a-step-by-step-guide-with-flipbuilder/"><u>Creating Interactive Digital Flipbooks by Combining Several Photos: A Step-by-Step Guide with FlipBuilder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/design-and-develop-an-engaging-online-sales-catalogue-with-flipbuilder-tools/"><u>Design and Develop an Engaging Online Sales Catalogue with FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/distinctive-characteristics-of-each-flipbuildercom-template-selection/"><u>Distinctive Characteristics of Each FlipBuilder.com Template Selection</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effective-ways-to-present-your-business-details-using-flash-flipbook-with-flipbuilder/"><u>Effective Ways to Present Your Business Details Using Flash FlipBook with FlipBuilder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/enabling-automatic-playback-in-your-customized-flipbooks-a-complete-guide-with-flipbuilder/"><u>Enabling Automatic Playback in Your Customized Flipbooks - A Complete Guide with FlipBuilder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ensure-perfect-display-of-your-conversion-e-books-on-smartphones-with-easy-steps/"><u>Ensure Perfect Display of Your Conversion E-Books on Smartphones with Easy Steps!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-youtube-vs-dailymention-identifying-key-variations/"><u>In 2024, YouTube Vs. DailyMention Identifying Key Variations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/spotting-fake-chatgpt-websites-steps-for-internet-users-to-stay-secure/"><u>Spotting Fake ChatGPT Websites: Steps for Internet Users to Stay Secure</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/uncover-hidden-digits-methods-for-finding-lost-number-information-in-your-android-device/"><u>Uncover Hidden Digits: Methods for Finding Lost Number Information in Your Android Device</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-digital-media-hacks-top-5-online-techniques-for-video-trimming-on-vimeo/"><u>[New] Digital Media Hacks Top 5 Online Techniques for Video Trimming on Vimeo</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-essential-tips-for-choosing-tiktok-screenshots/"><u>[New] Essential Tips for Choosing TikTok Screenshots</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mastering-on-screen-labels-and-descriptions-for-video-files-windows-11/"><u>[Updated] Mastering On-Screen Labels and Descriptions for Video Files (Windows 11)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tailoring-your-content-to-perfection-youtube-edits-in-sony-vegas-style/"><u>[Updated] Tailoring Your Content to Perfection YouTube Edits in Sony Vegas Style</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1-understanding-net-native-imaging-options/"><u>1. Understanding .NET Native Imaging Options</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-ultimate-roundup-no-fee-videocalling-plus-live-desktop-share/"><u>2024 Approved Ultimate Roundup No-Fee Videocalling + Live Desktop Share</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-vlogventures-in-cosmetics-how-to-create-your-fashion-forward-channel/"><u>2024 Approved Vlogventures in Cosmetics How to Create Your Fashion-Forward Channel</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/best-free-software-for-windows-users-to-change-video-formats-for-free/"><u>Best Free Software for Windows Users to Change Video Formats for Free</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-team-management-mastering-the-organizational-search-interface/"><u>Effective Team Management: Mastering the Organizational Search Interface</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-top-10-music-video-creation-tools-for-stunning-visuals/"><u>New Top 10 Music Video Creation Tools for Stunning Visuals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tackle-to-dos-smarter-how-chatgpt-can-transform-your-time-management/"><u>Tackle To-Dos Smarter: How ChatGPT Can Transform Your Time Management</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/tailored-actions-series-crafting-personalized-interaction-flows-for-enhanced-engagement/"><u>Tailored Actions Series: Crafting Personalized Interaction Flows for Enhanced Engagement</u></a></li>
 </ul></div>
 

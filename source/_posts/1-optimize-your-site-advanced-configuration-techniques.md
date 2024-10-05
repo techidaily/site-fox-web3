@@ -1,7 +1,7 @@
 ---
 title: "1. Optimize Your Site: Advanced Configuration Techniques"
-date: 2024-09-27T01:22:18.416Z
-updated: 2024-09-30T05:09:34.757Z
+date: 2024-10-04T16:17:02.915Z
+updated: 2024-10-05T20:01:13.323Z
 tags:
   - user-guide
 categories:
@@ -108,16 +108,10 @@ The _friendly name_ of the website. This field is of [Formatted Type](https://to
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg) If, at install time, the site name is set to "Default Web Site", then the configuration for that site will be skipped. Only the settings configured for its child items (web applications and virtual directories) will be set and installed under "Default Website".
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Physical Folder
@@ -131,10 +125,10 @@ You can set a condition for the installation of this website. The condition will
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Use the following _recommended condition_ so that web sites can get removed or installed during maintenance depending on how the user sets their feature states:
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 (!WebSiteFeature = 3 AND &WebSiteFeature <> 2) OR (&WebSiteFeature = 3)
@@ -143,29 +137,22 @@ Copy
 
 Where WebSiteFeature is the [identifier](https://tools.techidaily.com/advancedinstaller/products/) of the feature containing the website's resources.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Physical Path Credentials
 
 You can set the physical path credentials (eg. set a property-based username and password) by clicking on the Physical Path Credentials hyperlink. The [Physical Path Credentials Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Enable pre-loading
 
 The website is loaded before the first request for it arrives from the users. This refers to database connections, .NET Framework, and the just-in-time compilation for ASP.NET applications, that usually get loaded the first time a user requests the website.
 
 Having all the above already loaded will make improve the UX for the first user accessing the website.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Start website immediately
 
@@ -180,10 +167,10 @@ Although you can configure a _friendly name_ for your website, this plays absolu
 When Advanced Installer IIS configuration tool creates a website on a server, automatically assigns it the _first available index_ on that system, so you don't have to worry about manually managing the conflicts between existing websites.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Manual
@@ -195,10 +182,10 @@ However, you may want to manually specify a website identifier (index). This can
 ## Error Policy
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Action if duplicate
@@ -211,6 +198,13 @@ Select the IIS configuration tool's desired behavior when a duplicate website is
 * **Prompt user to overwrite item or rollback installation** \- when a duplicate website is found the user will be prompted to choose whether to continue the installation**overwriting** that item or to abort.
 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)The **overwrite** operation cannot be undone by_uninstall_ or _rollback_ !
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -245,24 +239,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-androids-gratis-screen-capture-utility/"><u>[New] Android's Gratis Screen Capture Utility</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-guide-to-reverse-playback-in-snapchat-for-2024/"><u>[New] The Ultimate Guide to Reverse Playback in Snapchat for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-beyond-expression-understanding-snapchat-emojis-deeply/"><u>[Updated] 2024 Approved Beyond Expression Understanding Snapchat Emojis Deeply</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-detailed-guide-to-googles-voice-to-text-service-features-and-usage-for-2024/"><u>[Updated] Detailed Guide to Google's Voice-to-Text Service Features and Usage for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/1716040964837-updated-the-7-best-fps-games-for-2024/"><u>[Updated] The 7 Best FPS Games for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/becoming-an-expert-in-fisheye-panoramic-shots/"><u>Becoming an Expert in Fisheye Panoramic Shots</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/can-i-integrate-videos-in-your-platforms-ebook-using-flipbuilders-flash-technology/"><u>Can I Integrate Videos in Your Platform's eBook Using FlipBuilder's Flash Technology?</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/convert-multiple-pdf-documents-into-word-format-for-free-with-flipbuilder/"><u>Convert Multiple PDF Documents Into Word Format for Free with FlipBuilder!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/create-unique-buttons-on-flipbuilder-quick-and-simple-digital-printer-access-for-custom-designs/"><u>Create Unique Buttons on FlipBuilder: Quick & Simple Digital Printer Access for Custom Designs</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creating-dynamic-email-links-within-flipbook-presentations-using-flipbuilder/"><u>Creating Dynamic Email Links Within FlipBook Presentations Using FlipBuilder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creating-interactive-digital-flipbooks-by-combining-several-photos-a-step-by-step-guide-with-flipbuilder/"><u>Creating Interactive Digital Flipbooks by Combining Several Photos: A Step-by-Step Guide with FlipBuilder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/design-and-develop-an-engaging-online-sales-catalogue-with-flipbuilder-tools/"><u>Design and Develop an Engaging Online Sales Catalogue with FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/distinctive-characteristics-of-each-flipbuildercom-template-selection/"><u>Distinctive Characteristics of Each FlipBuilder.com Template Selection</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effective-ways-to-present-your-business-details-using-flash-flipbook-with-flipbuilder/"><u>Effective Ways to Present Your Business Details Using Flash FlipBook with FlipBuilder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/enabling-automatic-playback-in-your-customized-flipbooks-a-complete-guide-with-flipbuilder/"><u>Enabling Automatic Playback in Your Customized Flipbooks - A Complete Guide with FlipBuilder</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-football-manager-2021-freezing-issues-on-your-windows-pc/"><u>How to Fix Football Manager 2021 Freezing Issues on Your Windows PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-13-pro-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone 13 Pro in the Best Ways</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-motorola-moto-g-stylus-5g-2023-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Motorola Moto G Stylus 5G (2023)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-ranking-waterproof-mobile-protectors/"><u>Top-Ranking Waterproof Mobile Protectors</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-crafting-squares-for-viral-videos-in-a-social-media-world/"><u>[New] Crafting Squares for Viral Videos in a Social Media World</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-highly-effective-ways-to-stream-and-record-sports-games/"><u>[New] In 2024, Highly Effective Ways to Stream and Record Sports Games</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-combat-fuzzy-visuals-facebook-videos-tips-and-tricks-for-2024/"><u>[Updated] Combat Fuzzy Visuals Facebook Videos Tips & Tricks for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-four-approaches-to-airing-fb-live-on-tv-channels-for-2024/"><u>[Updated] Four Approaches to Airing FB Live on TV Channels for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-prosperous-gaming-vids-through-smart-hash-implementation/"><u>[Updated] Prosperous Gaming Vids Through Smart Hash Implementation</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1-understanding-odbc-a-comprehensive-guide/"><u>1. Understanding ODBC: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/complete-guide-to-virus-elimination-using-malwarefox-techniques/"><u>Complete Guide to Virus Elimination: Using MalwareFox Techniques</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/enhance-your-sound-capture-experience-with-apowersofts-updated-40-streaming-audio-recorder/"><u>Enhance Your Sound Capture Experience with Apowersoft's Updated 4.0 Streaming Audio Recorder!</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/expert-tips-for-optimizing-your-ibaseshortcut-usage/"><u>Expert Tips for Optimizing Your IBaseShortcut Usage</u></a></li>
+<li><a href="https://fox-info.techidaily.com/fundamentals-for-newcomers-on-screen-quality-measures/"><u>Fundamentals for Newcomers on Screen Quality Measures</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-12r-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus 12R to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/navigating-through-apowerrecs-transaction-policies-a-comprehensive-guide/"><u>Navigating Through ApowerREC's Transaction Policies: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/portable-cinematic-vibration-reliever-kit-for-2024/"><u>Portable Cinematic Vibration Reliever Kit for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-remedies-for-handling-not-found-msidll-issues/"><u>Step-by-Step Remedies for Handling 'Not Found msi.dll' Issues</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/tabular-features-a-guide-to-software-labeling-and-classification/"><u>Tabular Features: A Guide to Software Labeling and Classification</u></a></li>
+<li><a href="https://win11.techidaily.com/tricks-to-turbocharge-your-epic-launcher-speed/"><u>Tricks to Turbocharge Your Epic Launcher Speed</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-guide-mastering-audio-recording-techniques-in-windows-11/"><u>Ultimate Guide: Mastering Audio Recording Techniques in Windows 11</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/understanding-the-default-web-page-how-it-works-in-browsers/"><u>Understanding the Default Web Page: How It Works in Browsers</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/voiceover-success-in-video-creation-simplified-techniques-for-high-quality-results/"><u>Voiceover Success in Video Creation: Simplified Techniques for High-Quality Results</u></a></li>
 </ul></div>
 

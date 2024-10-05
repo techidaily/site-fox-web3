@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: How to Access the Add Classpath Files Window in Java"
-date: 2024-09-29T06:44:23.514Z
-updated: 2024-09-29T17:25:05.449Z
+date: 2024-09-28T17:41:04.106Z
+updated: 2024-10-05T21:01:23.841Z
 tags:
   - user-guide
 categories:
@@ -84,10 +84,10 @@ Table of Contents
 ![Add Classpath Files Dialog](https://cdn.advancedinstaller.com/img/dialog/add-classpath-files.png "Add Classpath Files Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Wildcard Path
@@ -97,25 +97,19 @@ In this field, you can declare custom locations with wildcard support. The files
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) field can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The location of the files can be **absolute** or**relative**. If the location will not point to an**absolute** path, it is considered as **relative** to the Java Product folder.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Examples:
@@ -170,20 +164,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/hannel-conversion-secrets-yt-vs-igtv/"><u>[New] Channel Conversion Secrets YT Vs IGTV</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-quick-guide-applying-on-screen-captions-to-photos-videos-for-2024/"><u>[New] Quick Guide Applying On-Screen Captions to Photos Videos for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-viewership-cost-effectively-with-subscriber-purchase/"><u>Boost Viewership Cost-Effectively with Subscriber Purchase</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ensure-perfect-display-of-your-conversion-e-books-on-smartphones-with-easy-steps/"><u>Ensure Perfect Display of Your Conversion E-Books on Smartphones with Easy Steps!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ensuring-your-digital-flipbooks-safety-on-flipbuilder-a-comprehensive-tutorial/"><u>Ensuring Your Digital Flipbook's Safety on FlipBuilder - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722978508114-get-the-newest-asus-dvd-controller-drivers-here/"><u>Get the Newest ASUS DVD Controller Drivers Here</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-apply-watermarks-to-your-flipbook-prints-easily-with-flipbuilder/"><u>How to Apply Watermarks to Your FlipBook Prints Easily with FlipBuilder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-create-various-formats-of-flipbooks-using-flip-pdf-on-a-mac-a-comprehensive-guide/"><u>How to Create Various Formats of Flipbooks Using Flip PDF on a Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-modify-the-inner-and-outer-page-designs-in-your-flipbook-on-flipbuilder-expert-guide/"><u>How to Modify the Inner and Outer Page Designs in Your Flipbook on FlipBuilder - Expert Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-youtube-title-generator/"><u>In 2024, Best YouTube Title Generator</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mcb-template-pack-download-now/"><u>In 2024, MCB Template Pack Download Now</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/instantly-convert-pdf-files-into-ebooks-using-the-powerful-flip-pdf-converter-tool-try-it-free-at-flipbuildercom/"><u>Instantly Convert PDF Files Into Ebooks Using the Powerful Flip PDF Converter Tool | Try It Free at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/integrating-multimedia-in-pdfs-with-flippdf-a-complete-guide/"><u>Integrating Multimedia in PDFs with FlipPDF - A Complete Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/new-ceo-at-ai-hub-impact-on-gpt-usage/"><u>New CEO at AI Hub Impact on GPT Usage</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/ultimate-guide-to-non-time-restricted-recorders/"><u>Ultimate Guide to Non-Time Restricted Recorders</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-online-platforms-embedding-video-playlists-from-youtube/"><u>[New] 2024 Approved Online Platforms Embedding Video Playlists From YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-androvid-video-editor-complete-review/"><u>[Updated] AndroVid Video Editor – Complete Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-srt-insertion-a-complete-guide-to-mp4-improvement/"><u>2024 Approved Mastering SRT Insertion A Complete Guide to MP4 Improvement</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/choose-your-tongue-mastering-the-select-language-prompt/"><u>Choose Your Tongue: Mastering the Select Language Prompt</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/enhance-visibility-with-easy-billboard-copy-modification-tips/"><u>Enhance Visibility with Easy Billboard Copy Modification Tips</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/exploring-features-and-settings-of-right-click-options-in-user-interfaces/"><u>Exploring Features and Settings of Right-Click Options in User Interfaces</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-8-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 8, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-apple-iphone-11-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>In 2024, Change Location on Yik Yak For your Apple iPhone 11 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/introducing-apowersoft-mac-screen-recorder-v20-experience-advanced-recording-capabilities-and-smooth-operation-on-your-mac/"><u>Introducing Apowersoft Mac Screen Recorder v2.0 – Experience Advanced Recording Capabilities and Smooth Operation on Your Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/maximize-your-drones-visual-potential-essential-gimbal-selection-tips/"><u>Maximize Your Drones' Visual Potential Essential Gimbal Selection Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-virtualbox-install-handle-dependencies/"><u>Optimize VirtualBox Install: Handle Dependencies</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/pc-gaming-tips-learn-the-ins-and-outs-of-excelling-at-snowballio-online/"><u>PC Gaming Tips: Learn the Ins and Outs of Excelling at Snowball.io Online</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/seamless-link-management-your-essential-file-association-hub/"><u>Seamless Link Management: Your Essential File Association Hub</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-incorporating-a-youtube-playlist-into-your-site-with-seamless-autoplay-features/"><u>Step-by-Step Guide: Incorporating a YouTube Playlist Into Your Site with Seamless Autoplay Features</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-3-apps-for-effortlessly-moving-your-iphone-content-and-info/"><u>Top 3 Apps for Effortlessly Moving Your iPhone Content and Info</u></a></li>
 </ul></div>
 

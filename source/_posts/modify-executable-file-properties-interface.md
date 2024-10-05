@@ -1,7 +1,7 @@
 ---
 title: Modify Executable File Properties Interface
-date: 2024-09-26T02:32:53.806Z
-updated: 2024-09-30T05:31:05.507Z
+date: 2024-10-02T19:42:17.240Z
+updated: 2024-10-05T18:21:50.831Z
 tags:
   - user-guide
 categories:
@@ -96,10 +96,10 @@ This dialog allows you to edit EXE metadata fields.
 After selecting an item in the list either double-click it, access its “Edit...” context menu(right-click) or press theEdit field link button on the bottom right corner. This will show the [Edit EXE Metadata Field Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -140,18 +140,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-strategic-use-of-tags-a-guide-to-youtube-success/"><u>[New] The Strategic Use of Tags A Guide to YouTube Success</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-free-mp3s-galore-10-no-cost-online-tools/"><u>[Updated] Free Mp3s Galore 10 No-Cost Online Tools</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/adjusting-toolbar-placement-using-floating-templates-in-flipbook-a-step-by-step-guide/"><u>Adjusting Toolbar Placement Using Floating Templates in FlipBook - A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/best-alternatives-to-wordle-discover-7-exciting-word-challenges/"><u>Best Alternatives to Wordle: Discover 7 Exciting Word Challenges!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/boost-your-flipbooks-reach-how-to-set-up-social-sharing-for-facebook-twitter-and-linkedin-on-flipbuildercom/"><u>Boost Your FlipBook's Reach: How to Set Up Social Sharing for Facebook, Twitter & LinkedIn on flipbuilder.com</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/can-i-integrate-videos-in-your-platforms-ebook-using-flipbuilders-flash-technology/"><u>Can I Integrate Videos in Your Platform's eBook Using FlipBuilder's Flash Technology?</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/convert-multiple-pdf-documents-into-word-format-for-free-with-flipbuilder/"><u>Convert Multiple PDF Documents Into Word Format for Free with FlipBuilder!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/create-unique-buttons-on-flipbuilder-quick-and-simple-digital-printer-access-for-custom-designs/"><u>Create Unique Buttons on FlipBuilder: Quick & Simple Digital Printer Access for Custom Designs</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creating-dynamic-email-links-within-flipbook-presentations-using-flipbuilder/"><u>Creating Dynamic Email Links Within FlipBook Presentations Using FlipBuilder</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Vivo X Flip? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-perils-of-a-tipped-gaming-innovation-system/"><u>The Perils of a Tipped Gaming Innovation System</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/user-satisfaction-report-in-depth-review-of-anthropics-smart-photo-editing-tool/"><u>User Satisfaction Report: In-Depth Review of Anthropics Smart Photo Editing Tool</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-comprehensively-reviewing-youtubes-restrictions-vs-cc-flexibility/"><u>[Updated] 2024 Approved Comprehensively Reviewing YouTube's Restrictions Vs. CC Flexibility</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-confirmed-age-adjustment-editing-your-profile-on-tiktok-easily/"><u>[Updated] Confirmed Age Adjustment Editing Your Profile on TikTok Easily</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-realme-gt-5-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-pro-learning-snapseed-essentials/"><u>2024 Approved From Novice to Pro Learning Snapseed Essentials</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-metaverse-marketing-revolutionizing-customer-outreach/"><u>2024 Approved Metaverse Marketing Revolutionizing Customer Outreach</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unveiling-the-power-of-azure-voice-recognition-api/"><u>2024 Approved Unveiling the Power of Azure Voice Recognition API</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/best-free-and-premium-pdf-reader-apps-for-iphone-x11se-top-11-picks/"><u>Best Free & Premium PDF Reader Apps for iPhone X/11/SE: Top 11 Picks</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/complete-guide-retrieving-lost-files-on-your-motorola-droid-razr-maxx-hd-with-data-rescue-techniques/"><u>Complete Guide: Retrieving Lost Files on Your Motorola Droid Razr Maxx HD with Data Rescue Techniques</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/customize-your-server-settings-the-ultimate-guide-to-editing-instance-properties/"><u>Customize Your Server Settings: The Ultimate Guide to Editing Instance Properties</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-false-vulnerability-signal-in-chrome/"><u>Eliminating False Vulnerability Signal in Chrome</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/endless-tunes-with-mp3-jam-substitutes-discover-explore-and-download-free-songs/"><u>Endless Tunes with MP3 Jam Substitutes: Discover, Explore & Download Free Songs</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/execute-command-in-custom-directory-efficient-file-management/"><u>Execute Command in Custom Directory - Efficient File Management</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-14-pro-max-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 14 Pro Max? Learn All 4 Methods</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/professional-apowersoft-advisory-solutions/"><u>Professional Apowersoft Advisory Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-turning-off-website-notifications-across-chrome-firefox-and-edge-browsers/"><u>Step-by-Step Guide: Turning Off Website Notifications Across Chrome, Firefox and Edge Browsers</u></a></li>
 </ul></div>
 

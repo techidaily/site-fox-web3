@@ -1,7 +1,7 @@
 ---
 title: "Advanced Techniques in Digital Analytics Pages: Enhancing Online Performance"
-date: 2024-09-27T20:29:13.170Z
-updated: 2024-09-29T19:19:51.777Z
+date: 2024-09-30T20:54:32.456Z
+updated: 2024-10-05T18:28:05.590Z
 tags:
   - user-guide
 categories:
@@ -75,14 +75,14 @@ On this page, you can enable and configure automatic tracking of your applicatio
 
 Each distributed package will send out data to Advanced Installer's Analytics servers enabling you to view reports and installation statistics from all your clients.
 
-## Tracking
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Tracking
 
 ### Track installs using Advanced Installer
 
@@ -95,33 +95,13 @@ Generate a new application ID using the “Create a tracking code for this insta
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg) If you have an [Installer Analytics](https://installeranalytics.com/ "Installer Analytics") account then you can generate this code from your account, after logging in.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Report installation data
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Always
 
@@ -133,6 +113,13 @@ The installation information will be centralized only when the user agrees to th
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg) In case your application is installed silent or with Basic UI, then the Analytics will not send any data since there is no LicenseAgreementDlg displayed. In this case, you should select the Always option.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Enabled using a custom trigger
 
 Set the AI\_IA\_ENABLE property from any custom trigger to submit the installation data. For example, you can [publish an event](https://tools.techidaily.com/advancedinstaller/products/) from a control.
@@ -140,10 +127,10 @@ Set the AI\_IA\_ENABLE property from any custom trigger to submit the installati
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The Installer Analytics will be enabled for a package if the_AI\_IA\_ENABLE_ is set. At run time this property can set to empty and the Analytics will not be enabled. For example, you can launch the package with the following command line : _Setup.exe AI\_IA\_ENABLE=""_
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Send collected data using a secured connection
@@ -151,10 +138,10 @@ Set the AI\_IA\_ENABLE property from any custom trigger to submit the installati
 Check this option if you want to use a secured connection for sending the data collected by Installer Analytics.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Custom Properties
@@ -166,6 +153,13 @@ To track a property, click on \[Add ...\] button and pick any property.
 To delete a property from the list, select it and click on \[Remove ...\] button.
 
 Double click on a property from the list to add or edit a comment.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Uninstall
 
@@ -218,17 +212,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-social-feeds-with-panoramic-content-a-guide-for-iosandroid-users/"><u>[New] Navigating Social Feeds with Panoramic Content A Guide for iOS/Android Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-on-launching-dead-space-remake-successfully-avoiding-common-pitfalls-of-2024/"><u>Expert Tips on Launching Dead Space Remake Successfully - Avoiding Common Pitfalls of 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-hp-deskjet-inkjet-printers-on-windows-os-versions-7810-driver-guide-and-downloads/"><u>How to Install HP Deskjet Inkjet Printers on Windows OS Versions: 7/8/10 – Driver Guide & Downloads</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-house-flipper-2-from-crashing-on-windows-and-mac-devices/"><u>How to Stop House Flipper 2 From Crashing on Windows and Mac Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-not-working-here-are-7-possible-explanations-behind-the-problematic-touchscreen/"><u>IPhone Not Working? Here Are 7 Possible Explanations Behind the Problematic Touchscreen</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/save-your-favorite-tv-shows-as-mp4wmvmovaviflv-files-for-easy-viewing/"><u>Save Your Favorite TV Shows as MP4/WMV/MOV/AVI/FLV Files for Easy Viewing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/seamless-new-york-times-video-extractor-software-compatible-with-windowsmac-os-save-clips-as-high-quality-mp4-avi-files/"><u>Seamless New York Times Video Extractor Software Compatible with Windows/Mac OS - Save Clips as High-Quality MP4, AVI Files</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/speedyview-streams-instant-access-to-complimentary-vids-and-elite-video-library/"><u>SpeedyView Streams: Instant Access to Complimentary Vids & Elite Video Library</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/streamline-podcast-listening-by-transforming-to-multiple-videoaudio-codes-like-avi-wav-aac-for-windows-and-macos-users/"><u>Streamline Podcast Listening by Transforming to Multiple Video/Audio Codes Like AVI, WAV, AAC for Windows and macOS Users</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/tagesschau-media-grabber-secure-your-favorite-broadcasts-with-easy-video-and-audio-downloads/"><u>Tagesschau Media Grabber: Secure Your Favorite Broadcasts with Easy Video & Audio Downloads</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/thors-mighty-saga-ragnarok-dawns/"><u>Thor's Mighty Saga Ragnarok Dawns</u></a></li>
-<li><a href="https://techtrends.techidaily.com/uncover-the-most-effective-skype-substitutes-free-options/"><u>Uncover the Most Effective Skype Substitutes - Free Options !</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-game-enhancing-screens-top-5-for-ps5-and-xbox-gamers/"><u>[New] Game-Enhancing Screens Top 5 for PS5 & Xbox Gamers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-trimmed-techniques-quick-quality-recording-for-dell/"><u>[Updated] 2024 Approved Trimmed Techniques Quick, Quality Recording for Dell</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-turning-your-youtube-views-into-a-screen-capture-made-simple-and-free/"><u>[Updated] In 2024, Turning Your YouTube Views Into a Screen Capture Made Simple and Free</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/easy-steps-to-clear-out-voicemail-messages-on-your-iphone-device/"><u>Easy Steps to Clear Out Voicemail Messages on Your iPhone Device</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ensuring-secure-xml-file-handling-through-the-permissions-tab-interface/"><u>Ensuring Secure XML File Handling Through the Permissions Tab Interface</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/exploring-various-templates-and-styles-the-ultimate-guide-to-theme-pages/"><u>Exploring Various Templates and Styles: The Ultimate Guide to Theme Pages</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/find-folders-quickly-with-smart-search-locator/"><u>Find Folders Quickly with Smart Search Locator</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-tecno-phantom-v-fold-by-drfone-android/"><u>In 2024, How to Bypass FRP on Tecno Phantom V Fold?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-5-pro-snipers-on-macos/"><u>In 2024, Top 5 Pro Snipers on macOS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-guide-to-generating-speech-in-different-languages-with-the-best-tools-for-2024/"><u>New Guide to Generating Speech in Different Languages With the Best Tools for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/practical-methods-for-retrieving-sound-from-mp4-videos/"><u>Practical Methods for Retrieving Sound From MP4 Videos</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/revitalize-your-health-with-iverbboost-a-comprehensive-herbal-supplement-guide/"><u>Revitalize Your Health with IVerbBoost: A Comprehensive Herbal Supplement Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oppo-find-x6-pro-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Oppo Find X6 Pro</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/selecting-secure-queries-essential-tips-for-optimal-account-protection/"><u>Selecting Secure Queries: Essential Tips for Optimal Account Protection</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/the-ultimate-guide-alternative-apps-to-samsung-kies-for-seamless-android-file-handling/"><u>The Ultimate Guide: Alternative Apps to Samsung Kies for Seamless Android File Handling</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-collection-of-no-cost-online-music-libraries-you-can-trust/"><u>Ultimate Collection of No-Cost Online Music Libraries You Can Trust</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unleash-creativity-capturing-quality-videos-on-logitech-for-2024/"><u>Unleash Creativity Capturing Quality Videos on Logitech for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-reaping-the-digital-rewards-top-10-plugin-essentials-for-streamlined-editing-workflows/"><u>Updated 2024 Approved Reaping the Digital Rewards Top 10 Plugin Essentials for Streamlined Editing Workflows</u></a></li>
 </ul></div>
 

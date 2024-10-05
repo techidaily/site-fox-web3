@@ -1,7 +1,7 @@
 ---
 title: Professional Media Management Dashboard
-date: 2024-09-28T11:38:43.734Z
-updated: 2024-09-30T11:30:20.978Z
+date: 2024-09-28T20:36:01.305Z
+updated: 2024-10-05T21:15:51.915Z
 tags:
   - user-guide
 categories:
@@ -88,31 +88,31 @@ Table of Contents
 
 In this tab you can perform extensive customization for the media volumes and CABs. This tab appears **only** if the_Advanced CAB Layout_ option is selected in the [Configuration tab](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Common media volumes settings
 
 You can specify them in the [Media Volumes Common Properties](https://tools.techidaily.com/advancedinstaller/products/) page. This page is displayed when the “Volumes” item is selected in the tree
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The modifications performed will be applied to all media volumes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Individual volume settings
 
 You can specify them in the [Volume Properties](https://tools.techidaily.com/advancedinstaller/products/) page. This page is displayed when a media volume item![Media Volume](https://cdn.advancedinstaller.com/img/toolbar/media-volume.png "Media Volume") is selected in the tree.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can rename a media volume by using the “Rename” context menu item or by pressing the F2 key.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## CAB settings
 
@@ -122,27 +122,27 @@ You can choose to hide this page by using the “View->CAB Properties” context
 
 You can rename a CAB by using the “Rename” context menu item or by pressing the F2 key.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Moving CABs
 
 You can move the selected CAB to a new or existing media volume by using the “Move To->Existing Volume...” or “Move To->New Volume” context menu items.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Moving resource files
 
 You can move the selected resource file to a new or existing media volume or CAB by using the “Move To->Existing Volume...”, “Move To->New Volume”, “Move To->Existing CAB...” or “Move To->New CAB” context menu items.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -186,19 +186,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-gigglegrid-generate-memes-with-ease-and-speed/"><u>[New] GiggleGrid Generate Memes with Ease and Speed</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-pioneers-in-the-realm-of-vr-viewing/"><u>[Updated] In 2024, Pioneers in the Realm of VR Viewing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/access-all-universal-class-learning-free-downloads-of-online-courses/"><u>Access All Universal Class Learning: Free Downloads of Online Courses</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/access-iversity-online-lessons-secure-your-copy-of-mooca-and-professional-tutorial-videos/"><u>Access Iversity Online Lessons: Secure Your Copy of MOOCA and Professional Tutorial Videos</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/access-premium-video-lessons-easy-steps-to-get-your-discovery-learning-materials/"><u>Access Premium Video Lessons: Easy Steps to Get Your Discovery Learning Materials</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/alternative-audio-extractor-convert-your-videos-to-mp3-on-mac-and-pc/"><u>Alternative Audio Extractor: Convert Your Videos to MP3 on Mac & PC</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/alternative-download-manager-for-macos-sierra-and-windows-quick-and-easy-orbit-app/"><u>Alternative Download Manager for MacOS Sierra & Windows: Quick and Easy Orbit App</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/anybunny-video-library-easily-convert-and-save-adult-films-as-mp4avi-files-for-offline-viewing/"><u>Anybunny Video Library - Easily Convert and Save Adult Films as MP4/AVI Files for Offline Viewing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-playbook-for-youtube-brand-development-and-expansion/"><u>In 2024, The Ultimate Playbook for YouTube Brand Development and Expansion</u></a></li>
-<li><a href="https://win11.techidaily.com/pros-choice-top-video-trimming-apps-for-windows-pcs/"><u>Pro's Choice: Top Video Trimming Apps for Windows PCs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/simplify-broadcasting-merge-obs-and-streamlabs-mac-for-2024/"><u>Simplify Broadcasting Merge OBS and Streamlabs (Mac) for 2024</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/tips-for-perfecting-your-talking-face-content-a-complete-guide/"><u>Tips for Perfecting Your Talking Face Content A Complete Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-the-secrets-of-ffxp-mode-for-2024/"><u>Unlocking the Secrets of FFXP Mode for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-design-and-produce-your-fb-profile-vids-for-2024/"><u>[New] Design and Produce Your FB Profile Vids for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-mastering-games-with-kinemaster-app-android-analysis/"><u>2024 Approved Mastering Games with KineMaster App - Android Analysis</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/complete-guide-retrieving-lost-files-on-your-motorola-droid-razr-maxx-hd-with-data-rescue-techniques/"><u>Complete Guide: Retrieving Lost Files on Your Motorola Droid Razr Maxx HD with Data Rescue Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-the-world-understanding-facebook-twitter-instagram-and-youtubes-roles-in-social-media/"><u>Connecting the World: Understanding Facebook, Twitter, Instagram and YouTube’s Roles in Social Media</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/customize-your-server-settings-the-ultimate-guide-to-editing-instance-properties/"><u>Customize Your Server Settings: The Ultimate Guide to Editing Instance Properties</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/endless-tunes-with-mp3-jam-substitutes-discover-explore-and-download-free-songs/"><u>Endless Tunes with MP3 Jam Substitutes: Discover, Explore & Download Free Songs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-insight-into-mematics-app-features/"><u>In 2024, Exclusive Insight Into Mematic's App Features</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-turning-off-website-notifications-across-chrome-firefox-and-edge-browsers/"><u>Step-by-Step Guide: Turning Off Website Notifications Across Chrome, Firefox and Edge Browsers</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-smart-7-hd-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Smart 7 HD Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

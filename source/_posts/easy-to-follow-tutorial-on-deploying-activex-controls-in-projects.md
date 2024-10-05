@@ -1,7 +1,7 @@
 ---
 title: Easy-to-Follow Tutorial on Deploying ActiveX Controls in Projects
-date: 2024-09-28T20:15:55.088Z
-updated: 2024-09-29T23:17:48.309Z
+date: 2024-09-28T19:05:46.148Z
+updated: 2024-10-05T20:10:53.563Z
 tags:
   - user-guide
 categories:
@@ -82,68 +82,74 @@ On this page you can install and register COMs, Interfaces, COM+, Type Libraries
 
 ![Com page](https://cdn.advancedinstaller.com/img/ui/com-page.png "Com page")  
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adding a new Class
 
 ![New Class](https://cdn.advancedinstaller.com/img/toolbar/new-class.png "New Class")Use the \[New Class \] toolbar button, the “New Class” tree context menu item or press the Insert key while the "COM, Interfaces, COM+, Type Libraries" panel is focused.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Adding a new Interface
 
 ![New Interface](https://cdn.advancedinstaller.com/img/toolbar/new-interface.png "New Interface") Use the \[New Interface \] toolbar button or the “New Interface” tree context menu item.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding a new type library
 
 ![New Type Library](https://cdn.advancedinstaller.com/img/toolbar/new-type.png "New Type Library")Use the \[New Type Library \] toolbar button, the “New Type Library” tree context menu item or press the + key while the "COM, Interfaces, COM+, Type Libraries" panel is focused.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Adding a new COM+
 
 ![New COM+](https://cdn.advancedinstaller.com/img/toolbar/new-com.png "New COM+")Use the \[New COM+ \] toolbar button, the “New COM+” tree context menu item or press the \* key while the "COM, Interfaces, COM+, Type Libraries" panel is focused.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Importing COM+
 
 ![Import COM+](https://cdn.advancedinstaller.com/img/toolbar/import-complus.png "Import COM+")Use the \[Import COM+ \] toolbar button or the “Import COM+” context menu item. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Editing elements
 
 Use the “Rename” tree context menu item or press theF2 key while an element is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Deleting elements
 
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove")Use the \[Delete \] toolbar button, the “Delete” tree context menu item or press the Delete key while an element from the "COM, Interfaces, COM+, Type Libraries" panel is selected. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Converting Type Library
 
@@ -152,10 +158,16 @@ Use the “Rename” tree context menu item or press theF2 key while an element 
  By default, a type library defined in COM page will be handled and installed through the support of Windows Installer's _TypeLib_ table. Convert Type Library option will change this behavior by simply extracting the COM registration registries within the type library file and silently import them in [Registry](https://tools.techidaily.com/advancedinstaller/products/) page, without the support of _TypeLib_ table.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -206,24 +218,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-the-art-of-building-engaging-facebook-moment-slides-for-2024/"><u>[Updated] The Art of Building Engaging Facebook Moment Slides for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/altwindirstat-reigniting-your-file-systems-potential-on-windows/"><u>AltWinDirStat: Reigniting Your File System's Potential on Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/change-video-output-in-handbrake-from-m4v-to-mp4-a-step-by-step-guide-for-easy-conversion/"><u>Change Video Output in Handbrake From M4V to MP4: A Step-by-Step Guide for Easy Conversion</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/complimentary-black-theme-premium-bootstrap-and-angular-admin-template-by-creative-tim/"><u>Complimentary Black Theme: Premium Bootstrap & Angular Admin Template by Creative Tim</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creative-tims-premier-vue-soft-ui-control-panel-for-vuejs-3-and-bootstrap-5-enthusiasts/"><u>Creative Tim's Premier Vue Soft UI Control Panel for VueJS 3 and Bootstrap 5 Enthusiasts</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-lava-storm-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Lava Storm 5G</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/free-laravel-paper-theme-by-creative-tim-premium-admin-interface-template/"><u>Free Laravel Paper Theme by Creative Tim: Premium Admin Interface Template</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x-fold-2-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo X Fold 2 Phone without PIN</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/immutable-tiktok-hyperlink-process-for-profiles-for-2024/"><u>Immutable TikTok Hyperlink Process for Profiles for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-iphone-13-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On iPhone 13?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-no-money-all-fcp-unveiled-methods/"><u>In 2024, No Money, All FCP – Unveiled Methods</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/innovative-laravel-based-material-ui-react-dashboard-design-by-creative-tim-and-updivision-team/"><u>Innovative Laravel-Based Material UI React Dashboard Design by Creative Tim and UPDIVISION Team</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/modern-admin-panel-ready-in-no-time-black-ui-powered-by-angular-plus-bootstrap-4-designed-at-creativetim/"><u>Modern Admin Panel Ready in No Time: Black UI, Powered by Angular + Bootstrap 4 | Designed at CreativeTim</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/next-level-ui-design-with-argon-professional-bootstrap-n5-admin-suite-from-creative-tim/"><u>Next-Level UI Design with Argon: Professional Bootstrap N5 Admin Suite From Creative Tim</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/over-26-amazing-free-bootstrap-and-wordpress-themes-from-creative-tim/"><u>Over 26 Amazing Free Bootstrap & WordPress Themes From Creative Tim</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/the-applicability-of-article-2-may-vary-by-state-due-to-variations-in-adoption-and-implementation/"><u>The Applicability of Article 2 May Vary by State Due to Variations in Adoption and Implementation.</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-zte-blade-a73-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent ZTE Blade A73 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/top-4-free-flutter-mobile-app-designs-from-creative-tim/"><u>Top 4 FREE Flutter Mobile App Designs From Creative Tim</u></a></li>
-<li><a href="https://fox-links.techidaily.com/ultimate-backdrop-change-kit-pixelpioneers-reveal-for-2024/"><u>Ultimate Backdrop Change Kit PixelPioneer's Reveal for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-6-services-for-visual-text-interpretation/"><u>[New] Best 6 Services for Visual Text Interpretation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-clipmaster-software/"><u>[Updated] In 2024, ClipMaster Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-must-know-windows-11-tips-and-tricks/"><u>[Updated] Must-Know Windows 11 Tips and Tricks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-reimagining-photo-presentation-with-top-frame-tools/"><u>[Updated] Reimagining Photo Presentation with Top Frame Tools</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-re-establish-audible-vids-on-social-sound/"><u>2024 Approved Re-Establish Audible Vids on Social Sound</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-cropping-skills-for-image-clarity-for-2024/"><u>Advanced Cropping Skills for Image Clarity for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/comprehensive-guide-to-font-file-registration-process-for-webmasters/"><u>Comprehensive Guide to Font File Registration Process for Webmasters</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/expert-guide-utilizing-preset-conversations-in-your-resume/"><u>Expert Guide: Utilizing Preset Conversations in Your Resume</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/find-folders-quickly-with-smart-search-locator/"><u>Find Folders Quickly with Smart Search Locator</u></a></li>
+<li><a href="https://win-dash.techidaily.com/instant-access-to-usb-camera-driver-downloads-expert-guide/"><u>Instant Access to USB Camera Driver Downloads - Expert Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/navigating-content-distribution-a-close-look-at-igtv-and-youtube/"><u>Navigating Content Distribution A Close Look at IGTV and YouTube</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nest-audio-a-high-fidelity-choice-for-music-fans-seeking-a-smart-sound-solution/"><u>Nest Audio: A High-Fidelity Choice for Music Fans Seeking a Smart Sound Solution</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/practical-methods-for-retrieving-sound-from-mp4-videos/"><u>Practical Methods for Retrieving Sound From MP4 Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/razers-compact-beast-unveiled-a-comprehensive-book-13-assessment/"><u>Razer's Compact Beast Unveiled: A Comprehensive Book 13 Assessment</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/seamless-transfer-of-iphone-contacts-to-your-ipad-a-hassle-free-approach/"><u>Seamless Transfer of iPhone Contacts to Your iPad - A Hassle-Free Approach</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/selecting-secure-queries-essential-tips-for-optimal-account-protection/"><u>Selecting Secure Queries: Essential Tips for Optimal Account Protection</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/the-ultimate-guide-alternative-apps-to-samsung-kies-for-seamless-android-file-handling/"><u>The Ultimate Guide: Alternative Apps to Samsung Kies for Seamless Android File Handling</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-collection-of-no-cost-online-music-libraries-you-can-trust/"><u>Ultimate Collection of No-Cost Online Music Libraries You Can Trust</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/wireless-display-show-your-iphone-screen-on-an-lg-smart-tv/"><u>Wireless Display: Show Your iPhone Screen on an LG Smart TV</u></a></li>
 </ul></div>
 

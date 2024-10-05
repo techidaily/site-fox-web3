@@ -1,7 +1,7 @@
 ---
 title: "Tailored Actions Series: Crafting Personalized Interaction Flows for Enhanced Engagement"
-date: 2024-09-24T03:16:07.915Z
-updated: 2024-09-30T03:19:09.977Z
+date: 2024-10-01T16:40:21.265Z
+updated: 2024-10-05T17:40:30.119Z
 tags:
   - user-guide
 categories:
@@ -126,38 +126,31 @@ Table of Contents
 ## ICustomActionSequence
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
 
 ICustomActionSequence : IDispatch
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Overview
 
 This interface facilitates editing custom action sequence condition editing.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -173,10 +166,16 @@ This interface facilitates editing custom action sequence condition editing.
 **String Condition** \- Gets or sets a boolean expression which must be true for the custom action to be executed.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Examples
@@ -190,6 +189,13 @@ $exeSeqCond.Upgrade = $false
 $exeSeqCond.Condition = 'AI_DETECTED_DOTNET_VERSION >= "4.0.1"'
 
     Copy
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -230,17 +236,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-crafting-an-engaging-review-vlog-for-everyday-items/"><u>[New] Crafting an Engaging Review Vlog for Everyday Items</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-maximize-your-webcam-hp-and-chromebook-strategies-for-2024/"><u>[New] Maximize Your Webcam HP & Chromebook Strategies for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-premium-psd-aesthetic-optimization-for-2024/"><u>[Updated] Premium PSD Aesthetic Optimization for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creating-interactive-digital-flipbooks-by-combining-several-photos-a-step-by-step-guide-with-flipbuilder/"><u>Creating Interactive Digital Flipbooks by Combining Several Photos: A Step-by-Step Guide with FlipBuilder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/design-and-develop-an-engaging-online-sales-catalogue-with-flipbuilder-tools/"><u>Design and Develop an Engaging Online Sales Catalogue with FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/distinctive-characteristics-of-each-flipbuildercom-template-selection/"><u>Distinctive Characteristics of Each FlipBuilder.com Template Selection</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effective-ways-to-present-your-business-details-using-flash-flipbook-with-flipbuilder/"><u>Effective Ways to Present Your Business Details Using Flash FlipBook with FlipBuilder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/enabling-automatic-playback-in-your-customized-flipbooks-a-complete-guide-with-flipbuilder/"><u>Enabling Automatic Playback in Your Customized Flipbooks - A Complete Guide with FlipBuilder</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-zte-axon-40-lite-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on ZTE Axon 40 Lite 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How Do I Stop Someone From Tracking My Apple iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-snapping-images-using-logitech-keyboards/"><u>Step-by-Step Tutorial on Snapping Images Using Logitech Keyboards</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-instant-screen-capture-pro-chrome/"><u>[New] 2024 Approved Instant Screen Capture Pro (Chrome)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-sending-direct-tweets-share-photosvideos-on-twitter-without-retweeting/"><u>[New] In 2024, Sending Direct Tweets Share Photos/Videos on Twitter without Retweeting</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-pioneering-video-content-creation-via-google-trends-study/"><u>2024 Approved Pioneering Video Content Creation via Google Trends Study</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-softer-sounds-guide-for-pcos-users/"><u>2024 Approved Softer Sounds Guide for PC/OS Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dealing-with-a-broken-msi-ws65-performance-pc-a-comprehensive-guide/"><u>Dealing With a Broken MSI WS65 Performance PC – A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/easy-to-follow-tutorial-on-deploying-activex-controls-in-projects/"><u>Easy-to-Follow Tutorial on Deploying ActiveX Controls in Projects</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-installation-process-a-guide-to-streamlined-setup/"><u>Effective Installation Process: A Guide to Streamlined Setup</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-asus-rog-phone-7-ultimate-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Asus ROG Phone 7 Ultimate Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-honor-x8b-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Honor X8b</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-90-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor 90 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-pc-gaming-a-complete-guide-to-playing-brawl-stars/"><u>Mastering PC Gaming: A Complete Guide to Playing Brawl Stars</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/navigating-through-the-interface-an-insightful-look-at-users-and-groups-dashboard/"><u>Navigating Through the Interface: An Insightful Look at 'Users and Groups' Dashboard</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-strategies-on-how-to-shorten-audio-tracks-perfectly/"><u>Step-by-Step Strategies on How to Shorten Audio Tracks Perfectly</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/the-ultimate-ranking-best-image-editing-applications-in-2vear-2021-for-android-and-ios-devices/"><u>The Ultimate Ranking: Best Image Editing Applications in 2Vear 2021 for Android and iOS Devices</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-10-tips-for-mastering-the-art-of-pretending-to-be-a-skilled-hacker-a-friendly-guide/"><u>Top 10 Tips for Mastering the Art of Pretending to Be a Skilled Hacker – A Friendly Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-ranked-windows-10-image-viewer-applications-the-ultimate-guide/"><u>Top-Ranked Windows 10 Image Viewer Applications - The Ultimate Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: A Guide to Adjusting Your File Folders' Characteristics via the Properties Panel
-date: 2024-09-28T03:30:01.410Z
-updated: 2024-09-30T04:13:33.991Z
+date: 2024-10-01T17:50:38.947Z
+updated: 2024-10-05T21:16:03.654Z
 tags:
   - user-guide
 categories:
@@ -95,10 +95,10 @@ Table of Contents
 This dialog allows you to specify folder settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -145,16 +145,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/orrected-clandestine-miniature-video-absence/"><u>[New] Corrected Clandestine Miniature Video Absence</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-disable-non-specific-youtube-video-alerts/"><u>[Updated] In 2024, Disable Non-Specific YouTube Video Alerts</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/consistent-nutrition-for-your-furry-friend-using-the-petsafe-auto-feeder/"><u>Consistent Nutrition for Your Furry Friend Using the PetSafe Auto Feeder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-apply-watermarks-to-your-flipbook-prints-easily-with-flipbuilder/"><u>How to Apply Watermarks to Your FlipBook Prints Easily with FlipBuilder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-create-various-formats-of-flipbooks-using-flip-pdf-on-a-mac-a-comprehensive-guide/"><u>How to Create Various Formats of Flipbooks Using Flip PDF on a Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-modify-the-inner-and-outer-page-designs-in-your-flipbook-on-flipbuilder-expert-guide/"><u>How to Modify the Inner and Outer Page Designs in Your Flipbook on FlipBuilder - Expert Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-selecting-your-perfect-21-hdmi-monitor-a-buyers-guide/"><u>In 2024, Selecting Your Perfect 2.1 HDMI Monitor - A Buyer's Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/instantly-convert-pdf-files-into-ebooks-using-the-powerful-flip-pdf-converter-tool-try-it-free-at-flipbuildercom/"><u>Instantly Convert PDF Files Into Ebooks Using the Powerful Flip PDF Converter Tool | Try It Free at FlipBuilder.com</u></a></li>
-<li><a href="https://win-blog.techidaily.com/reviving-game-sounds-comprehensive-guide-to-resolving-robloxs-no-sound-challenge-for-windows-users/"><u>Reviving Game Sounds: Comprehensive Guide to Resolving Roblox's No Sound Challenge for Windows Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-the-potential-of-auto-gpt-with-these-8-strategic-applications/"><u>Unlock the Potential of Auto-GPT with These 8 Strategic Applications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-windows-info-a-direct-approach/"><u>Unveiling Windows Info: A Direct Approach</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-apowersoft-reviewed-a-guide-to-pc-screen-capture/"><u>[New] 2024 Approved Apowersoft Reviewed A Guide to PC Screen Capture</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-current-lighting-infrastructure/"><u>[New] 2024 Approved Current Lighting Infrastructure</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-transform-your-farm-with-stardews-most-innovative-mods-7-best/"><u>[New] In 2024, Transform Your Farm with Stardew's Most Innovative Mods (7 Best)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-from-fandom-to-fame-gamers-livestream-success-strategies/"><u>[Updated] 2024 Approved From Fandom to Fame Gamers' Livestream Success Strategies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-display-guide-the-best-monitors-for-pixel-enthusiasts-for-2024/"><u>[Updated] Ultimate Display Guide - The Best Monitors for Pixel Enthusiasts for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1-top-solutions-for-creating-a-transparent-logo-across-various-digital-mediums/"><u>1. Top Solutions for Creating a Transparent Logo Across Various Digital Mediums</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/essential-remote-work-mastery-the-top-5-must-have-productivity-tools/"><u>Essential Remote Work Mastery: The Top 5 Must-Have Productivity Tools</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-hp-officejet-n4650-windows-drivers-free-downloads/"><u>Get the Latest HP OfficeJet N4650 Windows Drivers – Free Downloads</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps/"><u>In 2024, Explore iPhone's Best Value Top 10 Budget-Friendly Photo Collage Apps</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-quick-shots-effective-techniques-for-taking-a-screenshot-on-your-lenovo-device/"><u>Mastering Quick Shots: Effective Techniques for Taking a Screenshot on Your Lenovo Device</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/optimizing-inbound-dll-function-requests-through-tailored-callbacks/"><u>Optimizing Inbound Dll Function Requests Through Tailored Callbacks</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-dividing-your-pdf-into-individual-documents/"><u>Step-by-Step Guide: Dividing Your PDF Into Individual Documents</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-how-to-cleanly-extract-stickers-from-your-reels-video-content/"><u>Step-by-Step Guide: How to Cleanly Extract Stickers From Your Reels Video Content</u></a></li>
 </ul></div>
 

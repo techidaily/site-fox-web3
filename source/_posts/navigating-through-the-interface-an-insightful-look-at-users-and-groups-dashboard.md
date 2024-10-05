@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through the Interface: An Insightful Look at 'Users and Groups' Dashboard"
-date: 2024-09-27T08:14:26.662Z
-updated: 2024-09-30T09:49:13.677Z
+date: 2024-10-01T16:56:29.285Z
+updated: 2024-10-05T18:13:39.118Z
 tags:
   - user-guide
 categories:
@@ -84,26 +84,26 @@ On this page you can set up the creation of new users and groups.
 ![Add a new group](https://cdn.advancedinstaller.com/img/pages/add-group.png "Add a new group") Setup the creation of a new group by using the \[New Group \] toolbar button, selecting the “New Group” context menu option or by pressing the Insert key while the “Users and Groups” pane is focused.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Create a new user
 
 ![Add a new user](https://cdn.advancedinstaller.com/img/pages/add-user.png "Add a new user")Setup the creation of a new user account by using the \[New User \] toolbar button, selecting the “New User” context menu option or by pressing the + key while the “Users and Groups” pane is focused.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Rename a user or group
 
 Rename a user or group by using the “Rename” context menu option or by pressing the F2 key while an element is selected.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Browse users or groups
 
@@ -114,10 +114,16 @@ Rename a user or group by using the “Rename” context menu option or by press
 ![Remove a user account](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove a user account")Remove a user account from the list by using the\[Remove \] toolbar button, selecting the “Remove” context menu option or by pressing the Del key while the desired element is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Notes
@@ -127,10 +133,10 @@ If the user or group already exist on target computer the installation will fail
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Both user and groups names can use [Windows Installer Formatted Type](https://tools.techidaily.com/advancedinstaller/products/). If you provide a formatted reference, the names will be resolved accordingly at install time. On the other hand, if the names you provide don't have a formatted syntax, they will be validated according to the above notes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -175,22 +181,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-optimal-sustainable-screen-capture-tools-usage-strategies/"><u>[New] In 2024, Optimal Sustainable Screen Capture Tools Usage Strategies</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-transformative-techniques-mastering-lut-application-in-post-production/"><u>[New] Transformative Techniques Mastering LUT Application in Post-Production</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fix-batman-arkham-knight-crashing-fatal-error/"><u>[Quick Fix] Batman Arkham Knight Crashing/ Fatal Error</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-video-spark-illuminating-techniques-for-stellar-footage/"><u>[Updated] 2024 Approved Video Spark Illuminating Techniques for Stellar Footage</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-nokia35-review-surpassing-expectations-for-value-conscious-shoppers/"><u>Comprehensive Analysis of Nokia'35 Review: Surpassing Expectations for Value-Conscious Shoppers</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/convert-multiple-pdf-documents-into-word-format-for-free-with-flipbuilder/"><u>Convert Multiple PDF Documents Into Word Format for Free with FlipBuilder!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/create-unique-buttons-on-flipbuilder-quick-and-simple-digital-printer-access-for-custom-designs/"><u>Create Unique Buttons on FlipBuilder: Quick & Simple Digital Printer Access for Custom Designs</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creating-dynamic-email-links-within-flipbook-presentations-using-flipbuilder/"><u>Creating Dynamic Email Links Within FlipBook Presentations Using FlipBuilder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creating-interactive-digital-flipbooks-by-combining-several-photos-a-step-by-step-guide-with-flipbuilder/"><u>Creating Interactive Digital Flipbooks by Combining Several Photos: A Step-by-Step Guide with FlipBuilder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/design-and-develop-an-engaging-online-sales-catalogue-with-flipbuilder-tools/"><u>Design and Develop an Engaging Online Sales Catalogue with FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/distinctive-characteristics-of-each-flipbuildercom-template-selection/"><u>Distinctive Characteristics of Each FlipBuilder.com Template Selection</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/diversify-your-laptop-editing-beyond-inshot/"><u>Diversify Your Laptop Editing Beyond Inshot</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effective-ways-to-present-your-business-details-using-flash-flipbook-with-flipbuilder/"><u>Effective Ways to Present Your Business Details Using Flash FlipBook with FlipBuilder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/enabling-automatic-playback-in-your-customized-flipbooks-a-complete-guide-with-flipbuilder/"><u>Enabling Automatic Playback in Your Customized Flipbooks - A Complete Guide with FlipBuilder</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-se-2020-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone SE (2020) System? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-forcibly-deleting-resistant-files-in-windows-11-with-revo-uninstaller/"><u>Step-by-Step Guide: Forcibly Deleting Resistant Files in Windows 11 with Revo Uninstaller</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tga-bmp/"><u>무료 인터넷 용인 - TGA 폴리스타일을 BMP으로 전환하기</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-essential-8-web-destinations-for-3d-text-psd-sharing/"><u>[New] 2024 Approved Essential 8 Web Destinations for 3D Text PSD Sharing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-a-practical-approach-to-scheduling-on-zoom-platforms-for-2024/"><u>[New] A Practical Approach to Scheduling on Zoom Platforms for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-top-picks-procuring-start-up-youtube-channel-monetization-platforms/"><u>[Updated] Top Picks Procuring Start-Up YouTube Channel Monetization Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chat-commander-the-ultimate-guide-to-text-from-voice/"><u>2024 Approved Chat Commander The Ultimate Guide to Text From Voice</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/activex-component-class-exploring-icom-and-beyond/"><u>ActiveX Component Class - Exploring ICOM and Beyond</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-strategies-to-fix-apowerrec-device-recording-failures/"><u>Effective Strategies to Fix aPowerREC Device Recording Failures</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/engaging-kids-mastering-the-art-of-effective-child-conversations/"><u>Engaging Kids: Mastering the Art of Effective Child Conversations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-picks-the-finest-cardboard-compatible-virtual-reality-titles/"><u>In 2024, Prime Picks The Finest Cardboard-Compatible Virtual Reality Titles</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-modular-architecture-with-ibuildcomponent-solutions/"><u>Mastering Modular Architecture with iBuildComponent Solutions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solving-pci-cryptographic-module-driver-errors-comprehensive-guide/"><u>Solving PCI Cryptographic Module Driver Errors – Comprehensive Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-retrieving-deleted-texts-on-your-iphone/"><u>Step-by-Step Guide: Retrieving Deleted Texts on Your iPhone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/understanding-the-app-v-configuration-navigating-the-options-and-file-settings-panel/"><u>Understanding the App-V Configuration: Navigating the Options and File Settings Panel</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-the-causes-of-public-enrolment-termination-in-digital-services-by-authorities/"><u>Understanding the Causes of Public Enrolment Termination in Digital Services by Authorities</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-players-selective-list-of-dual-platform-games/"><u>Uniting Players: Selective List of Dual-Platform Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmatched-add-ons-supercharging-your-gpt-experience-in-vs-code/"><u>Unmatched Add-Ons: Supercharging Your GPT Experience in VS Code</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/unraveling-the-differences-antivirus-software-versus-anti-malware-making-the-right-decision/"><u>Unraveling the Differences: Antivirus Software Versus Anti-Malware – Making the Right Decision</u></a></li>
 </ul></div>
 

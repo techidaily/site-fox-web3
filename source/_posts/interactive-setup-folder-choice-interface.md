@@ -1,7 +1,7 @@
 ---
 title: Interactive Setup Folder Choice Interface
-date: 2024-09-26T19:20:41.863Z
-updated: 2024-09-30T04:03:29.436Z
+date: 2024-10-04T19:18:24.334Z
+updated: 2024-10-05T19:42:44.165Z
 tags:
   - user-guide
 categories:
@@ -85,36 +85,36 @@ Table of Contents
  This dialog allows you to select a validation method for the selected installation path. The actual validation is performed when pressing \[Next \] button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use native Windows Installer validation
 
 The default option. The installation path is verified automatically by Windows Installer using its standard mechanism. This validation is usually restricted to checking if the path can be accessed of if the specified drive exists.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Display an error if the installation folder already exists
 
 Displays a standard message box with an error if the selected folder already exists on disk. The installation folder dialog will remain visibile.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Ask about overwriting the installation folder if it already exists
 
 If the selected folder already exists on disk, a message box will ask the user about overwriting it. If the answer is Yes, the installation continues. Otherwise, the installation folder dialog will remain visible.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Display an error if a specific file or subfolder exists in the installation path
@@ -144,10 +144,10 @@ Subfolder Name\Another subfolder
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Display an error if a specific file or subfolder does not exist in the installation path
@@ -189,21 +189,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-screenplay-genius-weaving-compelling-narratives-and-dialogues/"><u>[New] Screenplay Genius Weaving Compelling Narratives and Dialogues</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mastery-of-mobile-and-desktop-calendar-integration-with-zoom/"><u>[Updated] In 2024, Mastery of Mobile and Desktop Calendar Integration with Zoom</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-insightful-guide-to-sharex-critiques-and-counterparts/"><u>2024 Approved Insightful Guide to ShareX Critiques & Counterparts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-stellar-15-stop-motion-films-to-remember/"><u>2024 Approved Stellar 15 Stop-Motion Films to Remember</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/boa-de-conversao-do-tipo-mkv-para-mka-online-gratuita-ajuda-do-movavi/"><u>Bóa De Conversão Do Tipo MKV Para MKA Online Gratuita - Ajuda Do Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expanding-ai-assistance-bringing-chatgpt-features-into-diverse-applications/"><u>Expanding AI Assistance: Bringing ChatGPT Features Into Diverse Applications</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-successfully-embed-an-mp4-file-in-powerpoint-a-step-by-step-guide-for-flawless-media-playback-during-presentations/"><u>How to Successfully Embed an MP4 File in PowerPoint: A Step-by-Step Guide for Flawless Media Playback During Presentations</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/m3u8-file-converter-for-multiple-platforms-easily-switch-to-mp4-avi-mov-on-windows-and-mac/"><u>M3U8 File Converter for Multiple Platforms - Easily Switch to MP4, AVI, MOV on Windows and Mac</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-missing-entry-on-windows-system/"><u>Overcoming Missing Entry on Windows System</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/save-your-favorite-tv-shows-as-mp4wmvmovaviflv-files-for-easy-viewing/"><u>Save Your Favorite TV Shows as MP4/WMV/MOV/AVI/FLV Files for Easy Viewing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/seamless-new-york-times-video-extractor-software-compatible-with-windowsmac-os-save-clips-as-high-quality-mp4-avi-files/"><u>Seamless New York Times Video Extractor Software Compatible with Windows/Mac OS - Save Clips as High-Quality MP4, AVI Files</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/speedyview-streams-instant-access-to-complimentary-vids-and-elite-video-library/"><u>SpeedyView Streams: Instant Access to Complimentary Vids & Elite Video Library</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/streamline-podcast-listening-by-transforming-to-multiple-videoaudio-codes-like-avi-wav-aac-for-windows-and-macos-users/"><u>Streamline Podcast Listening by Transforming to Multiple Video/Audio Codes Like AVI, WAV, AAC for Windows and macOS Users</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/tagesschau-media-grabber-secure-your-favorite-broadcasts-with-easy-video-and-audio-downloads/"><u>Tagesschau Media Grabber: Secure Your Favorite Broadcasts with Easy Video & Audio Downloads</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-y27s-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo Y27s for Parents | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-audience-anticipation-crafting-captivating-video-content-on-social-media-for-2024/"><u>[New] Audience Anticipation Crafting Captivating Video Content on Social Media for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-assessing-instagrams-limits-on-posted-videos/"><u>[Updated] 2024 Approved Assessing Instagram's Limits on Posted Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-rev-voice-recorder-download-and-review-for-2024/"><u>[Updated] Rev Voice Recorder Download and Review for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-top-15-booktok-books-recommendation-tiktok-books/"><u>[Updated] Top 15 Booktok Books Recommendation [TikTok Books]</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/choose-your-tongue-mastering-the-select-language-prompt/"><u>Choose Your Tongue: Mastering the Select Language Prompt</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/configuring-and-utilizing-json-input-features-in-software-deployment-tabs/"><u>Configuring and Utilizing JSON Input Features in Software Deployment Tabs</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/enhance-visibility-with-easy-billboard-copy-modification-tips/"><u>Enhance Visibility with Easy Billboard Copy Modification Tips</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/exploring-features-and-settings-of-right-click-options-in-user-interfaces/"><u>Exploring Features and Settings of Right-Click Options in User Interfaces</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-logitech-g35-usb-headphones-drivers-latest-version-for-win-7-810-supported/"><u>Free Logitech G35 USB Headphones Drivers - Latest Version for Win 7, 8/10 Supported</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-6s-plus-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and Apple iPhone 6s Plus without Apple Account</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-honor-90-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Honor 90 Pro Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-7-plus-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 7 Plus Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/pc-gaming-tips-learn-the-ins-and-outs-of-excelling-at-snowballio-online/"><u>PC Gaming Tips: Learn the Ins and Outs of Excelling at Snowball.io Online</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/seamless-link-management-your-essential-file-association-hub/"><u>Seamless Link Management: Your Essential File Association Hub</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-incorporating-a-youtube-playlist-into-your-site-with-seamless-autoplay-features/"><u>Step-by-Step Guide: Incorporating a YouTube Playlist Into Your Site with Seamless Autoplay Features</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-branding-edge-design-strategies-for-game-changing-banners-for-2024/"><u>The Branding Edge Design Strategies for Game-Changing Banners for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-3-apps-for-effortlessly-moving-your-iphone-content-and-info/"><u>Top 3 Apps for Effortlessly Moving Your iPhone Content and Info</u></a></li>
 </ul></div>
 

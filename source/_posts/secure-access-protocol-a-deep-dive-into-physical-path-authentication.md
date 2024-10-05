@@ -1,7 +1,7 @@
 ---
 title: "Secure Access Protocol: A Deep Dive Into Physical Path Authentication"
-date: 2024-09-29T02:03:32.474Z
-updated: 2024-09-30T00:00:57.563Z
+date: 2024-10-01T17:22:35.528Z
+updated: 2024-10-05T20:27:57.639Z
 tags:
   - user-guide
 categories:
@@ -100,26 +100,13 @@ In this dialog you can set physical path credentials for your IIS Web Site or Vi
 ![Iis physical path dialog](https://cdn.advancedinstaller.com/img/dialog/iis-physical-path-dialog.png "Iis physical path dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Connect As
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Application user (pass-through authentication)
 
@@ -130,19 +117,19 @@ Connect as the application user (pass-through authentication).
 Specify a user to connect as.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## User
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Property based user
@@ -154,6 +141,13 @@ Use a property based user. Click on the \[... \] button to select a property.
 Use an installed user. Click on the \[... \] button to select an account.
 
 ## Password
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Use predefined password
 
@@ -196,24 +190,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-optimizing-colors-in-films-via-luts/"><u>[New] Optimizing Colors in Films via Luts</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/uick-transition-from-original-pictures-to-standout-youtube-thumbnails-for-2024/"><u>[New] Quick Transition From Original Pictures To Standout YouTube Thumbnails for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-explore-beyond-youtube-with-these-top-5-video-tools/"><u>[Updated] In 2024, Explore Beyond Youtube with These Top 5 Video Tools</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creative-tims-vue-dashboard-an-elegant-admin-panel-solution/"><u>Creative Tim's Vue Dashboard: An Elegant Admin Panel Solution</u></a></li>
-<li><a href="https://win-special.techidaily.com/critical-deadline-approaching-for-microsoft-to-fix-windows-11-issues-in-just-one-year-insights-from-zdnet/"><u>Critical Deadline Approaching for Microsoft to Fix Windows 11 Issues in Just One Year | Insights From ZDNet</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/discover-the-extensive-43plus-ui-elements-collection-of-bootstraps-by-creative-tim-for-superior-web-designs/"><u>Discover the Extensive 43+ UI Elements Collection of Bootstraps by Creative Tim for Superior Web Designs</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/download-your-complimentary-nextjstailwind-course-kit-premium-templates-from-creative-tim/"><u>Download Your Complimentary NextJS/Tailwind Course Kit – Premium Templates From Creative Tim!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/downloading-from-vimeo-made-simple-software-free-or-not-in-2024/"><u>Downloading From Vimeo Made Simple Software-Free or Not, In 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/explore-more-than-30-premium-free-vuejs-sites-and-frameworks-by-creative-tim/"><u>Explore More than 30 Premium-Free Vue.js Sites & Frameworks by Creative Tim</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/exploring-the-best-vue-frameworks-tailwind-css-and-pre-made-templates-by-creative-tim/"><u>Exploring the Best Vue Frameworks: Tailwind CSS and Pre-Made Templates by Creative Tim</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/free-bootstrap-ui-toolkit-by-creative-tim-essential-tools-for-efficient-development/"><u>Free Bootstrap UI Toolkit by Creative Tim: Essential Tools for Efficient Development</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/free-laravel-paper-theme-by-creative-tim-premium-admin-interface-template/"><u>Free Laravel Paper Theme by Creative Tim: Premium Admin Interface Template</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/harmonizing-multiple-clips-an-android-tutorial/"><u>Harmonizing Multiple Clips An Android Tutorial</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-2-pro-phone-without-password-by-drfone-android/"><u>How To Unlock Lava Blaze 2 Pro Phone Without Password?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-lightning-loop-top-10-agile-games-on-mobilepc/"><u>In 2024, Lightning Loop Top 10 Agile Games on Mobile/PC</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-the-inconspicuous-footprint-of-social-media-engagements/"><u>In 2024, The Inconspicuous Footprint of Social Media Engagements</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/innovative-laravel-based-material-ui-react-dashboard-design-by-creative-tim-and-updivision-team/"><u>Innovative Laravel-Based Material UI React Dashboard Design by Creative Tim and UPDIVISION Team</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/next-level-ui-design-with-argon-professional-bootstrap-n5-admin-suite-from-creative-tim/"><u>Next-Level UI Design with Argon: Professional Bootstrap N5 Admin Suite From Creative Tim</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/standing-and-resolving-the-issue-of-missing-shorts-thumbnails/"><u>Understanding & Resolving the Issue of Missing Shorts Thumbnails</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-calculating-viewing-time-for-a-20mb-video-for-2024/"><u>[New] Calculating Viewing Time for a 20Mb Video for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-pros-choice-top-laptop-recording-tools-reviewed/"><u>[Updated] 2024 Approved Pro's Choice Top Laptop Recording Tools Reviewed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-cutting-edge-simulators-for-sonys-playstation-3-games-pc-for-2024/"><u>[Updated] Cutting-Edge Simulators for Sony's PlayStation 3 Games (PC) for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-essential-tips-for-capturing-evening-portraits/"><u>2024 Approved Essential Tips for Capturing Evening Portraits</u></a></li>
+<li><a href="https://extra-information.techidaily.com/3-top-notch-smartphones-excelling-at-video-capture/"><u>3 Top-Notch Smartphones Excelling at Video Capture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-itop-screen-recorder-review/"><u>In 2024, ITop Screen Recorder Review</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/leading-photo-blending-software-transform-your-photography-experience/"><u>Leading Photo Blending Software: Transform Your Photography Experience</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/optimizing-compression-a-guide-to-lzma-configuration-options/"><u>Optimizing Compression: A Guide to LZMA Configuration Options</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-tutorial-transforming-your-avchd-videos-into-avi-on-a-windows-pc/"><u>Step-by-Step Tutorial: Transforming Your AVCHD Videos Into AVI on a Windows PC</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-5-essential-steps-for-securing-your-profile-after-a-facebook-compromise/"><u>Top 5 Essential Steps for Securing Your Profile After a Facebook Compromise</u></a></li>
 </ul></div>
 

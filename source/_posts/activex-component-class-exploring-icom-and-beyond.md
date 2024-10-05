@@ -1,7 +1,7 @@
 ---
 title: ActiveX Component Class - Exploring ICOM and Beyond
-date: 2024-09-28T06:00:49.386Z
-updated: 2024-09-30T03:41:03.184Z
+date: 2024-10-03T20:57:41.194Z
+updated: 2024-10-05T19:53:26.645Z
 tags:
   - user-guide
 categories:
@@ -114,22 +114,15 @@ Table of Contents
 
 ## IComClassActiveX
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 IComClassActiveX: IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -137,10 +130,10 @@ IComClassActiveX: IDispatch
 This interface is meant to edit COM classes that will be registered.  
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -170,10 +163,10 @@ This interface is meant to edit COM classes that will be registered.
 **Array<String> ImplementedCategories** \- Gets the categories this COM implements.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -187,6 +180,13 @@ This interface is meant to edit COM classes that will be registered.
 **AddSafeForInitializingCategory()** \- specifies that this COM implements "Controls safely initializable from persistent data" category.
 
 **RemoveCategory(String aCategory)** \- removes the specified category.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -227,22 +227,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-chromatic-confluence-music-and-photography-online/"><u>[New] In 2024, Chromatic Confluence Music & Photography Online</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-unlock-your-music-best-free-on-web-tiktok-to-mp3-convertors-for-2024/"><u>[New] Unlock Your Music Best Free, On-Web TikTok to MP3 Convertors for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-snap-to-gifs-making-twitter-video-freely-convertible/"><u>[Updated] Snap to GIFs Making Twitter Video Freely Convertible</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-xcover-6-pro-tactical-edition-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy XCover 6 Pro Tactical Edition Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-living-room-to-video-call-how-to-project-zoom-sessions-onto-your-tv-display/"><u>From Living Room to Video Call: How to Project Zoom Sessions Onto Your TV Display</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guide-to-optimal-audio-changer-tools-for-vtubers-for-2024/"><u>Guide to Optimal Audio Changer Tools for VTubers for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-successfully-embed-an-mp4-file-in-powerpoint-a-step-by-step-guide-for-flawless-media-playback-during-presentations/"><u>How to Successfully Embed an MP4 File in PowerPoint: A Step-by-Step Guide for Flawless Media Playback During Presentations</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/m3u8-file-converter-for-multiple-platforms-easily-switch-to-mp4-avi-mov-on-windows-and-mac/"><u>M3U8 File Converter for Multiple Platforms - Easily Switch to MP4, AVI, MOV on Windows and Mac</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/save-your-favorite-tv-shows-as-mp4wmvmovaviflv-files-for-easy-viewing/"><u>Save Your Favorite TV Shows as MP4/WMV/MOV/AVI/FLV Files for Easy Viewing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/seamless-new-york-times-video-extractor-software-compatible-with-windowsmac-os-save-clips-as-high-quality-mp4-avi-files/"><u>Seamless New York Times Video Extractor Software Compatible with Windows/Mac OS - Save Clips as High-Quality MP4, AVI Files</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/speedyview-streams-instant-access-to-complimentary-vids-and-elite-video-library/"><u>SpeedyView Streams: Instant Access to Complimentary Vids & Elite Video Library</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/streamline-podcast-listening-by-transforming-to-multiple-videoaudio-codes-like-avi-wav-aac-for-windows-and-macos-users/"><u>Streamline Podcast Listening by Transforming to Multiple Video/Audio Codes Like AVI, WAV, AAC for Windows and macOS Users</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/tagesschau-media-grabber-secure-your-favorite-broadcasts-with-easy-video-and-audio-downloads/"><u>Tagesschau Media Grabber: Secure Your Favorite Broadcasts with Easy Video & Audio Downloads</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/transform-franklincovery-content-into-smooth-hd-mp4-files-for-easy-viewing/"><u>Transform FranklinCovery Content Into Smooth HD MP4 Files for Easy Viewing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/video-driver-debugged-at-code-43/"><u>Video Driver Debugged at Code #43</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-navigating-through-top-film-makers-landscape/"><u>[New] In 2024, Navigating Through Top Film Makers' Landscape</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-precision-perfecting-10-must-know-pixlr-hacks/"><u>[New] Precision Perfecting 10 Must-Know Pixlr Hacks</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-navigating-the-world-of-video-editing-for-youtube-creators/"><u>[Updated] Navigating the World of Video Editing for YouTube Creators</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/best-software-solutions-for-tablet-screenshots-and-recording/"><u>Best Software Solutions for Tablet Screenshots and Recording</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/complete-guide-retrieving-lost-files-on-your-motorola-droid-razr-maxx-hd-with-data-rescue-techniques/"><u>Complete Guide: Retrieving Lost Files on Your Motorola Droid Razr Maxx HD with Data Rescue Techniques</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/discover-the-latest-innovations-must-have-iphone-12-updates/"><u>Discover the Latest Innovations: Must-Have iPhone 12 Updates</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/endless-tunes-with-mp3-jam-substitutes-discover-explore-and-download-free-songs/"><u>Endless Tunes with MP3 Jam Substitutes: Discover, Explore & Download Free Songs</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-bypass-the-configuring-windows-stuck-phase-and-continue-setup/"><u>How to Bypass the 'Configuring Windows' Stuck Phase and Continue Setup</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-solutions-for-oneplus-network-unlock-by-drfone-android/"><u>In 2024, Best Solutions for OnePlus Network Unlock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-dawn-of-ai-pcs-can-your-new-2024-laptop-match-the-power-of-microsoft-copilotplus/"><u>The Dawn of 'AI PCs': Can Your New 2024 Laptop Match the Power of Microsoft Copilot+?</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-techniques-to-transform-cda-tracks-into-high-quality-mp3-streams/"><u>Top Techniques to Transform CDA Tracks Into High-Quality MP3 Streams</u></a></li>
 </ul></div>
 

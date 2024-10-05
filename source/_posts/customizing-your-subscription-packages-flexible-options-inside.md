@@ -1,7 +1,7 @@
 ---
 title: "Customizing Your Subscription Packages: Flexible Options Inside"
-date: 2024-09-24T09:08:36.215Z
-updated: 2024-09-29T17:30:40.103Z
+date: 2024-09-29T19:21:05.546Z
+updated: 2024-10-05T19:39:56.274Z
 tags:
   - user-guide
 categories:
@@ -92,10 +92,10 @@ To edit an option from the list, select it and press the\[Customize... \] button
 After editing an option, its value will be shown in the "Value" column. You can choose what options get included in the_Package.ini_ file by checking/unchecking their checkboxes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -136,14 +136,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-tiny-tycoons-car-contests/"><u>[New] 2024 Approved Tiny Tycoons' Car Contests</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-the-perfect-tone-accessible-software-for-effortless-vocal-transformation/"><u>[Updated] Crafting the Perfect Tone Accessible Software for Effortless Vocal Transformation</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1-ideal-locations-to-showcase-your-creations-with-flipbuilder-a-comprehensive-guide/"><u>1. Ideal Locations to Showcase Your Creations with FlipBuilder: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1-mastering-button-font-customization-in-flipbook-professional-a-comprehensive-guide/"><u>1) Mastering Button Font Customization in FlipBook Professional: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/adding-a-custom-logo-to-your-e-book-with-flipbuilder-technology/"><u>Adding a Custom Logo to Your E-Book with FlipBuilder Technology</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-maximize-views-the-art-of-timestamp-integration-on-youtube/"><u>In 2024, Maximize Views The Art of Timestamp Integration on YouTube</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oneplus-12-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 OnePlus 12 Android SIM Unlock APK</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-free-artistic-software-on-mac-for-2024/"><u>The Ultimate Guide to Free Artistic Software on Mac for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/unlock-top-tier-web-development-with-argon-pro-a-premier-react-design-toolkit-for-bootstrap-and-reactstrap-enthusiasts-by-creative-tim/"><u>Unlock Top-Tier Web Development with Argon PRO - A Premier React Design Toolkit for Bootstrap and Reactstrap Enthusiasts by Creative Tim</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-unveiling-techniques-for-3d-text-transformation-in-ps/"><u>[New] In 2024, Unveiling Techniques for 3D Text Transformation in PS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/inning-the-subscriber-race-on-youtube-for-2024/"><u>[New] Winning the Subscriber Race on YouTube for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-convenient-approaches-to-archive-vimeo-video/"><u>2024 Approved Convenient Approaches to Archive Vimeo Video</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/event-management-software-the-ultimate-guide-to-an-effective-events-editor/"><u>Event Management Software: The Ultimate Guide to an Effective Events Editor</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-ais-role-in-making-money-chagpts-guideposts/"><u>Exploring AI's Role in Making Money: ChaGPT’s Guideposts</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/interactive-setup-folder-choice-interface/"><u>Interactive Setup Folder Choice Interface</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-cooling-technology-from-noctua-targets-high-performance-nvidia-gh2-superchip/"><u>Next-Level Cooling Technology From Noctua Targets High-Performance NVIDIA GH2# Superchip</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/secure-access-protocol-a-deep-dive-into-physical-path-authentication/"><u>Secure Access Protocol: A Deep Dive Into Physical Path Authentication</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/snap-up-engagement-streamlined-methods-for-crop-and-export-to-instagram-for-2024/"><u>Snap Up Engagement Streamlined Methods for Crop & Export to Instagram for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-free-sites-to-stream-and-download-mix-tapes-online/"><u>Top Free Sites to Stream & Download Mix Tapes Online</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-recommended-substitutes-for-bearshare-worth-exploring/"><u>Top Recommended Substitutes for BearShare Worth Exploring</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-guide-to-powerful-apps-seamless-removal-of-items-in-photographs/"><u>Ultimate Guide to Powerful Apps: Seamless Removal of Items in Photographs</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-strategy-tips-and-tricks-for-excelling-at-boom-beach-on-windows-and-mac/"><u>Ultimate Strategy: Tips and Tricks for Excelling at Boom Beach on Windows and Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-to-effective-imagery-discovery-on-facebook-platforms/"><u>Unlocking the Secrets to Effective Imagery Discovery on Facebook Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/writers-who-defined-genres-through-exceptional-works/"><u>Writers Who Defined Genres Through Exceptional Works</u></a></li>
 </ul></div>
 

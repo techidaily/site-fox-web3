@@ -1,7 +1,7 @@
 ---
 title: Optimizing Inbound Dll Function Requests Through Tailored Callbacks
-date: 2024-09-25T16:56:22.646Z
-updated: 2024-09-30T10:25:53.093Z
+date: 2024-09-29T17:08:10.480Z
+updated: 2024-10-05T20:47:03.087Z
 tags:
   - user-guide
 categories:
@@ -126,10 +126,10 @@ Table of Contents
 ## IAttachedDllFunctionCallCustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,10 +137,10 @@ Table of Contents
 IAttachedDllFunctionCallCustomAction: ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -156,10 +156,10 @@ This interface facilitates editing custom action for calling function from attac
 **String ActionData** \- .Gets or sets the value of the CustomActionData property. This property can be retrieved as a regular property inside Deferred custom actions and it is available only for DLL, JScript and VBScript custom actions. A common usage scenario is to use the CustomActionData property in Rollback Custom Actions since they are also deferred
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Example
@@ -172,10 +172,10 @@ $custAct.FunctionName = "MyFunction1"
     Copy
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -217,22 +217,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-experts-choice-the-10-best-movie-making-cameras/"><u>[New] 2024 Approved Expert's Choice The 10 Best Movie Making Cameras</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-become-a-streaming-star-utilizing-obs-capabilities/"><u>[Updated] 2024 Approved Become a Streaming Star Utilizing OBS Capabilities</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-elevate-your-productivity-io-screen-capture-secrets/"><u>[Updated] Elevate Your Productivity IO Screen Capture Secrets</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/clandestine-snaps-stealthy-image-recording-hacks-for-snapchat/"><u>Clandestine Snaps Stealthy Image Recording Hacks for Snapchat</u></a></li>
-<li><a href="https://discover-best.techidaily.com/cookiebot-enhanced-boost-your-websites-performance-and-engagement/"><u>Cookiebot-Enhanced: Boost Your Website's Performance and Engagement</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-short-form-content-breakdown-now/"><u>In 2024, Short Form Content Breakdown Now!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/instantly-convert-pdf-files-into-ebooks-using-the-powerful-flip-pdf-converter-tool-try-it-free-at-flipbuildercom/"><u>Instantly Convert PDF Files Into Ebooks Using the Powerful Flip PDF Converter Tool | Try It Free at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/integrating-multimedia-in-pdfs-with-flippdf-a-complete-guide/"><u>Integrating Multimedia in PDFs with FlipPDF - A Complete Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/is-it-possible-to-showcase-an-entire-flipping-book-within-a-single-webpage-on-flipbuilder/"><u>Is It Possible to Showcase an Entire Flipping Book Within a Single Webpage on FlipBuilder?</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/is-your-books-cover-included-in-the-flipbook-created-with-flipbuildercom/"><u>Is Your Book's Cover Included in the Flipbook Created with FlipBuilder.com?</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/master-the-art-of-crafting-html5-ebooks-for-ios-devices-with-flip-pdf-effortless-tutorial-flipbuildercom/"><u>Master the Art of Crafting HTML5 eBooks for iOS Devices with Flip PDF – Effortless Tutorial [FlipBuilder.com]</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/master-the-art-of-fb-video-ads-with-a-complimentary-kit-for-2024/"><u>Master the Art of FB Video Ads with a Complimentary Kit for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/mastering-flipbook-designs-how-to-seamlessly-add-new-themes-via-flipbuilder-platform/"><u>Mastering FlipBook Designs: How to Seamlessly Add New Themes via FlipBuilder Platform</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/mastering-headerfooter-settings-in-pre-conversion-for-optimal-flipbook-outputs/"><u>Mastering Header/Footer Settings in Pre-Conversion for Optimal FlipBook Outputs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mosaic-masterpieces-elevating-your-living-space/"><u>Mosaic Masterpieces Elevating Your Living Space</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/quick-and-simple-online-tool-for-converting-pictures-to-various-image-formats-free/"><u>Quick & Simple Online Tool for Converting Pictures to Various Image Formats - FREE!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-20-free-footage-sites-a-comprehensively-curated-list-for-2024/"><u>Top 20 Free Footage Sites A Comprehensively Curated List for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ultimate-ios-tutorial-downloading-episodes-effortlessly-for-2024/"><u>[New] Ultimate iOS Tutorial Downloading Episodes Effortlessly for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-mastering-snapchats-call-and-chat-features/"><u>[Updated] 2024 Approved The Ultimate Guide Mastering Snapchat's Call & Chat Features</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/best-free-and-premium-pdf-reader-apps-for-iphone-x11se-top-11-picks/"><u>Best Free & Premium PDF Reader Apps for iPhone X/11/SE: Top 11 Picks</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/customize-your-server-settings-the-ultimate-guide-to-editing-instance-properties/"><u>Customize Your Server Settings: The Ultimate Guide to Editing Instance Properties</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-max-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Max Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-poco-x5-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Poco X5 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-infinix-smart-8-plus-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Infinix Smart 8 Plus Phone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-sony-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Sony Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-drivers-available-for-canon-pixma-mg3022-free-downloads-and-installation-tips/"><u>Latest Drivers Available for Canon PIXMA MG3022 - Free Downloads & Installation Tips</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/professional-apowersoft-advisory-solutions/"><u>Professional Apowersoft Advisory Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-turning-off-website-notifications-across-chrome-firefox-and-edge-browsers/"><u>Step-by-Step Guide: Turning Off Website Notifications Across Chrome, Firefox and Edge Browsers</u></a></li>
 </ul></div>
 

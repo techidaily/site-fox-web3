@@ -1,7 +1,7 @@
 ---
 title: "Effective Team Management: Mastering the Organizational Search Interface"
-date: 2024-09-24T11:23:42.990Z
-updated: 2024-09-30T00:41:31.601Z
+date: 2024-10-01T21:02:11.789Z
+updated: 2024-10-05T20:10:17.739Z
 tags:
   - user-guide
 categories:
@@ -101,16 +101,16 @@ In this pane you can perform the following operations:
 * Remove - Deletes the selected items from the list.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -153,14 +153,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-inside-look-the-full-power-of-polarr-photo-editor/"><u>[Updated] Inside Look The Full Power of Polarr Photo Editor</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-enhance-playstation-2-gaming-the-ultimate-guide-to-android-emulation-tools/"><u>In 2024, Enhance PlayStation 2 Gaming The Ultimate Guide to Android Emulation Tools</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/mastering-headerfooter-settings-in-pre-conversion-for-optimal-flipbook-outputs/"><u>Mastering Header/Footer Settings in Pre-Conversion for Optimal FlipBook Outputs</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/quick-and-simple-online-tool-for-converting-pictures-to-various-image-formats-free/"><u>Quick & Simple Online Tool for Converting Pictures to Various Image Formats - FREE!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-on-creating-a-gif-from-your-favorite-youtube-video/"><u>Step-by-Step Guide on Creating a GIF From Your Favorite YouTube Video</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-adding-custom-icons-for-calls-in-toolbars-using-flipbuilder-tools/"><u>Step-by-Step Guide: Adding Custom Icons for Calls in Toolbars Using FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-integrating-flipbook-content-on-your-site-using-flipbuilder/"><u>Step-by-Step Guide: Integrating Flipbook Content on Your Site Using FlipBuilder</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/streamlining-film-shoots-a-beginners-guide/"><u>Streamlining Film Shoots A Beginner's Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/utilizing-in-device-recording-on-huawei-mate-series-phones-mate-10-mate-20-and-p-series-p20-p10-for-2024/"><u>Utilizing In-Device Recording on Huawei Mate Series Phones (Mate 10, Mate 20) & P Series (P20, P10) for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/applications-include-aircraft-part-fabrication-tank-manufacturing-and-joining-dissimilar-metals/"><u>Applications Include Aircraft Part Fabrication, Tank Manufacturing, and Joining Dissimilar Metals.</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/automatic-ifolder-synchronization-effortless-cloud-to-pc-and-pc-to-cloud-sharing-solutions/"><u>Automatic iFolder Synchronization: Effortless Cloud-to-PC & PC-to-Cloud Sharing Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/efficient-strategies-for-combining-various-images-into-one-unified-pdf-document/"><u>Efficient Strategies for Combining Various Images Into One Unified PDF Document</u></a></li>
+<li><a href="https://solve-info.techidaily.com/enhanced-marketing-insights-through-cookiebot-technology/"><u>Enhanced Marketing Insights Through Cookiebot Technology</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-14-pro-max-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 14 Pro Max</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-vivo-v30-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo V30 Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/is-it-possible-for-malicious-software-to-conceal-within-bios-systems-securing-your-computer-against-viruses/"><u>Is It Possible for Malicious Software to Conceal Within BIOS Systems? Securing Your Computer Against Viruses</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/make-stunning-tiktok-videos-using-these-templates-for-2024/"><u>Make Stunning TikTok Videos Using These Templates for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-audio-capture-on-your-mac-with-apowersoft-the-complete-how-to-guide/"><u>Mastering Audio Capture on Your Mac with Apowersoft - The Complete How-To Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/recovering-deleted-contact-info-from-your-iphone-7-expert-tips-and-tricks/"><u>Recovering Deleted Contact Info From Your iPhone 7: Expert Tips & Tricks</u></a></li>
 </ul></div>
 

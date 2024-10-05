@@ -1,7 +1,7 @@
 ---
 title: "Mastering IComponents: The Building Blocks of Modern Applications"
-date: 2024-09-29T03:09:13.804Z
-updated: 2024-09-29T21:47:34.831Z
+date: 2024-10-04T18:00:26.572Z
+updated: 2024-10-05T18:55:24.507Z
 tags:
   - user-guide
 categories:
@@ -111,10 +111,10 @@ Table of Contents
 ## IComponent
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -122,10 +122,10 @@ Table of Contents
 IComponent: IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -133,16 +133,10 @@ IComponent: IDispatch
 This interface is meant to change properties of a component.  
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -195,16 +189,16 @@ Gets or sets an option that specifies uninstall mode of a superseding patch. Ins
 Gets or sets an option that marks the component as shared among multiple packages. In doing so, if a package containing this component is uninstalled, the highest version of it (installed by other packages) will still be shared by Windows Installer. It is enough to mark the component as shared in one package for it to become shared among multiple packages. If the DisableSharedComponent policy is set to "1", this flag is ignored for all components.
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### See also
@@ -246,20 +240,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-asus-mg28uq-a-gateway-to-unprecedented-4k-gaming-and-more/"><u>[New] ASUS MG28UQ - A Gateway to Unprecedented 4K Gaming and More</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-analyzing-the-best-for-gaming-screens/"><u>[Updated] 2024 Approved Analyzing the Best for Gaming Screens</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-facebook-live-shopping-a-comprehensive-guide/"><u>2024 Approved Facebook Live Shopping A Comprehensive Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/essential-strategies-for-ppt-on-google-meet-laptopiosandroid-for-2024/"><u>Essential Strategies for PPT on Google Meet Laptop/iOS/Android for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-when-your-windows-10-device-keeps-awake-solution-found/"><u>How to Fix When Your Windows 10 Device Keeps Awake - Solution Found</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/is-it-possible-to-showcase-an-entire-flipping-book-within-a-single-webpage-on-flipbuilder/"><u>Is It Possible to Showcase an Entire Flipping Book Within a Single Webpage on FlipBuilder?</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/is-your-books-cover-included-in-the-flipbook-created-with-flipbuildercom/"><u>Is Your Book's Cover Included in the Flipbook Created with FlipBuilder.com?</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/master-the-art-of-crafting-html5-ebooks-for-ios-devices-with-flip-pdf-effortless-tutorial-flipbuildercom/"><u>Master the Art of Crafting HTML5 eBooks for iOS Devices with Flip PDF – Effortless Tutorial [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/mastering-flipbook-designs-how-to-seamlessly-add-new-themes-via-flipbuilder-platform/"><u>Mastering FlipBook Designs: How to Seamlessly Add New Themes via FlipBuilder Platform</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/mastering-headerfooter-settings-in-pre-conversion-for-optimal-flipbook-outputs/"><u>Mastering Header/Footer Settings in Pre-Conversion for Optimal FlipBook Outputs</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-venture-beyond-final-cut-pro-x-10-impressive-video-editing-software-alternatives/"><u>New 2024 Approved Venture Beyond Final Cut Pro X 10 Impressive Video Editing Software Alternatives</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/overwatch-assessment-exciting-and-challenging-cooperative-firefights-for-gamers/"><u>Overwatch Assessment: Exciting and Challenging Cooperative Firefights for Gamers</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/quick-and-simple-online-tool-for-converting-pictures-to-various-image-formats-free/"><u>Quick & Simple Online Tool for Converting Pictures to Various Image Formats - FREE!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/revitalize-your-dell-computer-step-by-step-instructions-for-downloading-and-updating-the-wireless-network-adapter-driver/"><u>Revitalize Your Dell Computer: Step-by-Step Instructions for Downloading and Updating the Wireless Network Adapter Driver</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-animated-video-magic-12-best-online-makers-to-try-now/"><u>Updated Animated Video Magic 12 Best Online Makers to Try Now</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-beats-in-pictures-the-insta-storytelling-wave/"><u>[New] Beats in Pictures The Insta Storytelling Wave</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-mastering-free-picture-quality-enhancement-techniques/"><u>[New] In 2024, Mastering Free Picture Quality Enhancement Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-mastering-the-art-of-viral-video-marketing/"><u>[New] In 2024, Mastering the Art of Viral Video Marketing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-a-compreeved-look-at-effective-spotify-ad-implementation/"><u>[Updated] A Compreeved Look at Effective Spotify Ad Implementation</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-calculating-viewing-time-for-a-20mb-video/"><u>[Updated] Calculating Viewing Time for a 20Mb Video</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/accelerated-viewer-of-best-images-in-os/"><u>Accelerated Viewer of Best Images in OS</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/configuring-and-utilizing-json-input-features-in-software-deployment-tabs/"><u>Configuring and Utilizing JSON Input Features in Software Deployment Tabs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-videos-free-web-service-change-mp4-files-into-wma-format-with-viditransfer/"><u>Convert Videos Free Web Service: Change MP4 Files Into WMA Format with VidiTransfer</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/launch-configuration-options-in-the-system-setup-tab-a-comprehensive-guide/"><u>Launch Configuration Options in the System Setup Tab: A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-xiaomi-redmi-k70-pro-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Xiaomi Redmi K70 Pro, is it possible?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-eradicating-tracking-cookies-from-your-windows-11-and-android-device/"><u>Step-by-Step Guide: Eradicating Tracking Cookies From Your Windows 11 & Android Device</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-moving-images-from-your-iphone-to-macos-catalina/"><u>Step-by-Step Guide: Moving Images From Your iPhone to macOS Catalina</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-pick-spotify-recorder-app-perfectly-compatible-with-macos-el-capitan-a-must-have-tool/"><u>Top Pick: Spotify Recorder App Perfectly Compatible with macOS El Capitan - A Must-Have Tool!</u></a></li>
 </ul></div>
 

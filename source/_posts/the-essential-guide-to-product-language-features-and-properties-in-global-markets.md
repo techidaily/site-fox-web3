@@ -1,7 +1,7 @@
 ---
 title: The Essential Guide to Product Language Features and Properties in Global Markets
-date: 2024-09-26T01:09:22.407Z
-updated: 2024-09-29T16:29:31.640Z
+date: 2024-09-28T19:40:30.169Z
+updated: 2024-10-05T17:17:22.097Z
 tags:
   - user-guide
 categories:
@@ -84,10 +84,10 @@ There are two ways Advanced Installer handles the ProductLanguage property depen
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Languages that don't appear in the list are not yet localized in Advanced Installer. They can be accessed by selecting 'All' from the 'Show' drop-down, but you will have to add the localized strings yourself.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ProductLanguage codes for localized languages
@@ -166,22 +166,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-stories-essential-tips-for-youtube-video-editors-for-2024/"><u>[Updated] Crafting Stories Essential Tips for YouTube Video Editors for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-avoiding-poverty-earning-in-beauty-media/"><u>[Updated] In 2024, Avoiding Poverty Earning in Beauty Media</u></a></li>
-<li><a href="https://article-tips.techidaily.com/boost-visuals-zoom-in-on-snapchat-content-for-2024/"><u>Boost Visuals Zoom in on Snapchat Content for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-epson-printer-running-smoothly-update-drivers-in-windows-10/"><u>Get Your Epson Printer Running Smoothly: Update Drivers in Windows 10</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-apply-watermarks-to-your-flipbook-prints-easily-with-flipbuilder/"><u>How to Apply Watermarks to Your FlipBook Prints Easily with FlipBuilder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-create-various-formats-of-flipbooks-using-flip-pdf-on-a-mac-a-comprehensive-guide/"><u>How to Create Various Formats of Flipbooks Using Flip PDF on a Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-modify-the-inner-and-outer-page-designs-in-your-flipbook-on-flipbuilder-expert-guide/"><u>How to Modify the Inner and Outer Page Designs in Your Flipbook on FlipBuilder - Expert Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-nubia-red-magic-9-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Nubia Red Magic 9 Pro Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/instant-access-download-and-setup-hp-officejet-5740-printer-software/"><u>Instant Access: Download and Setup HP OfficeJet 5740 Printer Software</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/instantly-convert-pdf-files-into-ebooks-using-the-powerful-flip-pdf-converter-tool-try-it-free-at-flipbuildercom/"><u>Instantly Convert PDF Files Into Ebooks Using the Powerful Flip PDF Converter Tool | Try It Free at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/integrating-multimedia-in-pdfs-with-flippdf-a-complete-guide/"><u>Integrating Multimedia in PDFs with FlipPDF - A Complete Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/is-it-possible-to-showcase-an-entire-flipping-book-within-a-single-webpage-on-flipbuilder/"><u>Is It Possible to Showcase an Entire Flipping Book Within a Single Webpage on FlipBuilder?</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/is-your-books-cover-included-in-the-flipbook-created-with-flipbuildercom/"><u>Is Your Book's Cover Included in the Flipbook Created with FlipBuilder.com?</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/master-the-art-of-crafting-html5-ebooks-for-ios-devices-with-flip-pdf-effortless-tutorial-flipbuildercom/"><u>Master the Art of Crafting HTML5 eBooks for iOS Devices with Flip PDF – Effortless Tutorial [FlipBuilder.com]</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pioneering-platforms-for-ai-idea-exchange/"><u>Pioneering Platforms for AI Idea Exchange</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-gamers-hidden-gem-the-top-ranked-samsung-projector-for-unbeatable-play-experiences-insider-review/"><u>Unlocking Gamers' Hidden Gem: The Top-Ranked Samsung Projector for Unbeatable Play Experiences - Insider Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-x-audio-capture-pc-version-for-2024/"><u>[New] X-Audio Capture PC Version for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-innovative-dialogues-the-key-to-listener-retention/"><u>[Updated] 2024 Approved Innovative Dialogues The Key to Listener Retention</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-user-friendly-steps-for-storing-google-voice-conversations-for-2024/"><u>[Updated] User-Friendly Steps for Storing Google Voice Conversations for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/a-deeper-dive-into-video-enhancement-techniques-for-pcmobile/"><u>A Deeper Dive Into Video Enhancement Techniques for PC/Mobile</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/activex-component-class-exploring-icom-and-beyond/"><u>ActiveX Component Class - Exploring ICOM and Beyond</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-radeon-r9-graphics-driver-update-for-windows-11-secure-download-and-installation-tutorial/"><u>AMD Radeon R9 Graphics Driver Update for Windows 11 - Secure Download and Installation Tutorial</u></a></li>
+<li><a href="https://windows11.techidaily.com/arrow-keys-in-distress-heres-what-you-can-do/"><u>Arrow Keys in Distress? Here's What You Can Do</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/comparing-powerhouses-iphone-xs-max-versus-samsung-galaxy-note-9-a-comprehensive-showdown/"><u>Comparing Powerhouses: IPhone XS Max Versus Samsung Galaxy Note 9 – A Comprehensive Showdown</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-sending-audio-notes-with-your-iphone-easily/"><u>Complete Guide: Sending Audio Notes with Your iPhone Easily</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-strategies-to-fix-apowerrec-device-recording-failures/"><u>Effective Strategies to Fix aPowerREC Device Recording Failures</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ensuring-secure-xml-file-handling-through-the-permissions-tab-interface/"><u>Ensuring Secure XML File Handling Through the Permissions Tab Interface</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/exploring-various-templates-and-styles-the-ultimate-guide-to-theme-pages/"><u>Exploring Various Templates and Styles: The Ultimate Guide to Theme Pages</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-itel-s23-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Itel S23</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-the-art-of-multitasking-with-multiple-browsing-tabs/"><u>Mastering the Art of Multitasking with Multiple Browsing Tabs</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/unraveling-the-differences-antivirus-software-versus-anti-malware-making-the-right-decision/"><u>Unraveling the Differences: Antivirus Software Versus Anti-Malware – Making the Right Decision</u></a></li>
 </ul></div>
 

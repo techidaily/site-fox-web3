@@ -1,7 +1,7 @@
 ---
 title: "Launch Configuration Options in the System Setup Tab: A Comprehensive Guide"
-date: 2024-09-23T02:42:50.905Z
-updated: 2024-09-30T02:27:37.327Z
+date: 2024-10-03T18:39:35.809Z
+updated: 2024-10-05T18:19:37.318Z
 tags:
   - user-guide
 categories:
@@ -84,17 +84,17 @@ Predefined conditions that must be fulfilled in order to launch the installation
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Installation packages created with Advanced Installer 10.5 or newer cannot be installed on Windows 9x machines.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Windows Installer
@@ -106,16 +106,10 @@ Edit this field with the minimum [Windows Installer](https://tools.techidaily.co
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The installation packages created with Advanced Installer require Windows Installer 2.0 or higher to run.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## System Requirements
@@ -136,10 +130,10 @@ Add system-related launch conditions to your package. The available options are:
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The "Prevent running on Virtual Machine" option only targets Virtual Box (Oracle), Hyper-V and VMWare virtual machines
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)In Windows Vista and above, the "Run only if user has administrator privileges" launch condition verifies whether or not the package is elevated at the moment this is tested for. This means the user might be an administrator but the package did not yet elevate, meaning the launch condition will fail.
@@ -183,19 +177,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-apowersoft-screen-record-review-and-top-contenders-unveiled/"><u>[New] Apowersoft Screen Record Review & Top Contenders Unveiled</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-essential-12-pc-clicker-games-to-elevate-gameplay-for-2024/"><u>[New] Essential 12 PC Clicker Games to Elevate Gameplay for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-enchanting-escapades-childhood-playtime-picks/"><u>[Updated] Enchanting Escapades Childhood Playtime Picks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-navigating-the-art-of-live-stream-archiving-for-tv-series/"><u>[Updated] Navigating the Art of Live Stream Archiving for TV Series</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-apple-iphone-8-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 8 When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-influence-six-revolutionary-ways-it-enhances-smartwatch-capabilities/"><u>ChatGPT's Influence: Six Revolutionary Ways It Enhances Smartwatch Capabilities</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-lava-blaze-2-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Lava Blaze 2 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-xiaomi-civi-3-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Xiaomi Civi 3 for Parents | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-to-update-your-flipbuilder-account-with-the-newest-software/"><u>Step-by-Step Guide to Update Your FlipBuilder Account with the Newest Software</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-adding-custom-icons-for-calls-in-toolbars-using-flipbuilder-tools/"><u>Step-by-Step Guide: Adding Custom Icons for Calls in Toolbars Using FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-integrating-flipbook-content-on-your-site-using-flipbuilder/"><u>Step-by-Step Guide: Integrating Flipbook Content on Your Site Using FlipBuilder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-saving-your-flipboard-books-as-local-pdfs-tips-and-tricks/"><u>Step-by-Step Guide: Saving Your FlipBoard Books as Local PDFs - Tips & Tricks</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/techniques-for-duplicating-multimedia-elements-across-pages-a-guide-using-flipbuilder/"><u>Techniques for Duplicating Multimedia Elements Across Pages: A Guide Using FlipBuilder</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-exploring-best-4k-video-converter-apps-for-mp3-output-for-2024/"><u>[New] Exploring Best 4K Video Converter Apps for MP3 Output for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-get-precise-audio-capturing-for-your-pc-with-x-recorder-for-2024/"><u>[New] Get Precise Audio Capturing for Your PC with X-Recorder for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-premiere-cameras-to-document-the-next-wave-of-concert-videos/"><u>[New] In 2024, Premiere Cameras to Document the Next Wave of Concert Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-art-of-photo-edits-clearing-out-backgrounds/"><u>[New] In 2024, The Art of Photo Edits Clearing Out Backgrounds</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-face-forward-top-makeup-creatives/"><u>[New] The Face Forward Top Makeup Creatives</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-giggle-guide-quick-tips-for-meme-artistry/"><u>[Updated] Giggle Guide Quick Tips for Meme Artistry</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tier-auditory-theatre-plays/"><u>[Updated] Top-Tier Auditory Theatre Plays</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1-optimize-your-site-advanced-configuration-techniques/"><u>1. Optimize Your Site: Advanced Configuration Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/conquer-sluggish-download-times-in-battlenet-games/"><u>Conquer Sluggish Download Times in Battle.net Games</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/easy-guide-how-to-access-the-add-classpath-files-window-in-java/"><u>Easy Guide: How to Access the Add Classpath Files Window in Java</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-techniques-for-separating-your-logo-from-its-background/"><u>Effective Techniques for Separating Your Logo From Its Background</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/interactive-configuration-panel-streamline-your-device-setup/"><u>Interactive Configuration Panel: Streamline Your Device Setup</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-icomponents-the-building-blocks-of-modern-applications/"><u>Mastering IComponents: The Building Blocks of Modern Applications</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-your-g435s-sound-a-guide-to-resolving-no-audio-issues/"><u>Restore Your G435's Sound: A Guide to Resolving 'No Audio' Issues</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-recommended-software-for-projecting-your-iphone-screen-onto-a-computer/"><u>Top Recommended Software for Projecting Your iPhone Screen Onto a Computer</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-tutorial-mastering-the-art-of-capturing-screenshots-on-your-dell-device/"><u>Ultimate Tutorial: Mastering the Art of Capturing Screenshots on Your Dell Device</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/understanding-the-distinctions-a-comparative-analysis-of-antivirus-software-and-firewalls/"><u>Understanding the Distinctions: A Comparative Analysis of Antivirus Software and Firewalls</u></a></li>
 </ul></div>
 

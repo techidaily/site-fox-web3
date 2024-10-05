@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your Data Organization: Essential Guide to File Management on the Documents & Folders Interface"
-date: 2024-09-23T21:08:04.403Z
-updated: 2024-09-30T05:03:52.860Z
+date: 2024-09-28T17:21:56.816Z
+updated: 2024-10-05T17:08:33.302Z
 tags:
   - user-guide
 categories:
@@ -102,6 +102,14 @@ Table of Contents
 
 ![Properties](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Properties") Use the\[Properties... \] toolbar button, the “Properties...” list context menu item, press theEnter key while a file is selected in the “Files” panel or double click on a file.  
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the [File Properties Tab](https://tools.techidaily.com/advancedinstaller/products/) dialog box you can mark the selected file for self-registration, change its source path, set its attributes and add, edit or remove its permissions. Additionally, you can register fonts.  
 
 ### Setting multiple files properties
@@ -110,36 +118,15 @@ Table of Contents
 
 In the [Multiple Files Properties Tab](https://tools.techidaily.com/advancedinstaller/products/) dialog box you can mark the selected files for self-registration, register fonts, set their attributes and add, edit or remove their permissions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### File Dependencies
 
 Use the “Dependencies” context menu item while a file is selected. The [Add Dependencies Dialog](https://tools.techidaily.com/advancedinstaller/products/) will pop up allowing you to add to the project the modules that the selected file depends on.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This option is available only for DLL and EXE file types.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Opening files
 
 Use the “Open” context menu item or press theF9 key.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Renaming files
 
@@ -149,15 +136,28 @@ Use the “Rename” context menu item or press theF2 key. The file name is of [
 
 Use the “Go To Component” list context menu item or press the F8 key. This command will activate the[Organization](https://tools.techidaily.com/advancedinstaller/products/) page with the appropriate component selected in the left tree control.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Moving files to a different folder
 
 Select the items to be moved then drag and drop them to the target folder. If you press the SHIFT key while moving the file you will create a duplicate copy of the file. This duplicate copy will have a very small size (it is not an actual copy) and it will tell the installer to create a copy of the file in the folder which contains the duplicate.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing files
@@ -166,22 +166,29 @@ Select the items to be moved then drag and drop them to the target folder. If yo
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You cannot remove a file which is referenced from another part of the installation package (for example from a custom action).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Hashing Files
 
 ![Hash Non Versioned Files](https://cdn.advancedinstaller.com/img/toolbar/hashfiles.png "Hash Non Versioned Files")Use the\[Hash Files \] toolbar button or the “Hash Files” tree context menu item to turn [File Hashes](https://tools.techidaily.com/advancedinstaller/products/) on and off. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ignore Attributes
@@ -196,17 +203,10 @@ Select the items to be moved then drag and drop them to the target folder. If yo
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about the resources and attributes that can be configured, please see: [Configurable Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Repackager settings
@@ -218,6 +218,13 @@ These settings are available in a file's context menu. They are used to work wit
 Specify what files should be disregarded during a repackager scan.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Files from the Application Folder or Application Shortcut Folder cannot be added to the ignore list.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Ignore files
 
@@ -271,14 +278,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-prime-dialogue-designer-space/"><u>[New] 2024 Approved Prime Dialogue Designer Space</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-seo-secrets-unveiled-a-comprehensive-guide-to-boosting-podcast-rankings/"><u>[Updated] SEO Secrets Unveiled A Comprehensive Guide to Boosting Podcast Rankings</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ensure-perfect-display-of-your-conversion-e-books-on-smartphones-with-easy-steps/"><u>Ensure Perfect Display of Your Conversion E-Books on Smartphones with Easy Steps!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ensuring-your-digital-flipbooks-safety-on-flipbuilder-a-comprehensive-tutorial/"><u>Ensuring Your Digital Flipbook's Safety on FlipBuilder - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-apply-watermarks-to-your-flipbook-prints-easily-with-flipbuilder/"><u>How to Apply Watermarks to Your FlipBook Prints Easily with FlipBuilder</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-create-various-formats-of-flipbooks-using-flip-pdf-on-a-mac-a-comprehensive-guide/"><u>How to Create Various Formats of Flipbooks Using Flip PDF on a Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-xiaomi-redmi-12-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Xiaomi Redmi 12 5G without App | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-from-footage-to-dvd-mastering-home-video-production-for-2024/"><u>New From Footage to DVD Mastering Home Video Production for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transforming-your-dvds-10-effective-methods-to-convert-to-mp4-format-on-windows-and-mac-os/"><u>Transforming Your DVDs: 10 Effective Methods to Convert to MP4 Format on Windows and Mac OS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitvid-mastery-your-go-to-resource-for-video-downloads/"><u>[New] TwitVid Mastery Your Go-To Resource for Video Downloads</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-imitation-ingenuity-generating-parodies-of-films/"><u>[Updated] 2024 Approved Imitation Ingenuity Generating Parodies of Films</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-comparing-2024s-cloud-storage-prices-for-max-savings/"><u>[Updated] Comparing 2024'S Cloud Storage Prices for Max Savings</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/enhance-visibility-with-easy-billboard-copy-modification-tips/"><u>Enhance Visibility with Easy Billboard Copy Modification Tips</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/enhance-your-sound-capture-experience-with-apowersofts-updated-40-streaming-audio-recorder/"><u>Enhance Your Sound Capture Experience with Apowersoft's Updated 4.0 Streaming Audio Recorder!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/erase-youtubes-short-snippet-playback-option-for-2024/"><u>Erase YouTube's Short Snippet Playback Option for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-techniques-for-linking-up-a-subwoofer-with-your-samsung-soundbar-system/"><u>Expert Techniques for Linking Up a Subwoofer with Your Samsung Soundbar System</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/exploring-features-and-settings-of-right-click-options-in-user-interfaces/"><u>Exploring Features and Settings of Right-Click Options in User Interfaces</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-beginning-a-charitable-cyber-fundraiser-on-fb/"><u>In 2024, Beginning a Charitable Cyber Fundraiser on FB</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/introducing-apowersoft-mac-screen-recorder-v20-experience-advanced-recording-capabilities-and-smooth-operation-on-your-mac/"><u>Introducing Apowersoft Mac Screen Recorder v2.0 – Experience Advanced Recording Capabilities and Smooth Operation on Your Mac</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/navigating-through-apowerrecs-transaction-policies-a-comprehensive-guide/"><u>Navigating Through ApowerREC's Transaction Policies: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-take-your-editing-to-the-next-level-5-final-cut-pro-hacks/"><u>New Take Your Editing to the Next Level 5 Final Cut Pro Hacks</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/seamless-link-management-your-essential-file-association-hub/"><u>Seamless Link Management: Your Essential File Association Hub</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/snowball-rally-highlights-from-the-beijing-games-2022-for-2024/"><u>Snowball Rally Highlights From the Beijing Games, 2022 for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-incorporating-a-youtube-playlist-into-your-site-with-seamless-autoplay-features/"><u>Step-by-Step Guide: Incorporating a YouTube Playlist Into Your Site with Seamless Autoplay Features</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-guide-to-choosing-the-most-effective-9-multimedia-devices-ios-android/"><u>The Ultimate Guide to Choosing the Most Effective 9 Multimedia Devices (iOS, Android)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tips-and-tricks-repairing-media-files-in-windowsmac/"><u>Tips & Tricks: Repairing Media Files in Windows/Mac</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-3-apps-for-effortlessly-moving-your-iphone-content-and-info/"><u>Top 3 Apps for Effortlessly Moving Your iPhone Content and Info</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-guide-mastering-audio-recording-techniques-in-windows-11/"><u>Ultimate Guide: Mastering Audio Recording Techniques in Windows 11</u></a></li>
 </ul></div>
 

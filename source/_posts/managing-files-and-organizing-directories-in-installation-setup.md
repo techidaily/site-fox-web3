@@ -1,7 +1,7 @@
 ---
 title: Managing Files & Organizing Directories in Installation Setup
-date: 2024-09-26T00:02:05.590Z
-updated: 2024-09-30T06:48:15.239Z
+date: 2024-10-04T20:47:18.346Z
+updated: 2024-10-05T18:10:41.670Z
 tags:
   - user-guide
 categories:
@@ -115,10 +115,10 @@ The files, folders or shortcuts will be placed in one of the[Folders](https://to
 The right pane lists all the files from the selected folder of the left panel, and their details. If a file doesn't exist anymore at the specified location, it will be shown with a question mark icon ![Missing File](https://cdn.advancedinstaller.com/img/gfx/missing-file.png "Missing File") and “???” as its size. You can restore this file by double-clicking it and setting its correct path.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Setting the Current Feature
@@ -127,34 +127,40 @@ Advanced Installer will create components for the added resources as necessary, 
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can further manage your package's organization in the [Organization](https://tools.techidaily.com/advancedinstaller/products/) page. Note that the components created in this page respect the Windows Installer rules and best practices.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This feature is not available for Merge Module projects. For more details see the [Merge Module Organization](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Visible Members
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The feature is available starting with the Advanced Installer Professional Edition.
 
-This option enables you to filter the members that are displayed on the _Files And Folders_ page by their type. For example, you can only display _Files, Shortcuts, INI Files, Xml Files, Json Files, File Removal operations, File Duplication operations, File Move operations, Temporary Files, Libraries, Text File Updates, File Downloads, Extract Archives_ or any combination of the above elements. To achieve this, click on the_Visible Members_ toolbar button and select from the menu what types of members you want to display.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+This option enables you to filter the members that are displayed on the _Files And Folders_ page by their type. For example, you can only display _Files, Shortcuts, INI Files, Xml Files, Json Files, File Removal operations, File Duplication operations, File Move operations, Temporary Files, Libraries, Text File Updates, File Downloads, Extract Archives_ or any combination of the above elements. To achieve this, click on the_Visible Members_ toolbar button and select from the menu what types of members you want to display.
 
 ## Topics
 
@@ -216,24 +222,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instaloops-unlocked-the-addictive-power-of-instagrams-boomers/"><u>[Updated] 2024 Approved InstaLoops Unlocked The Addictive Power of Instagram's Boomers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-top-social-media-viewing-sites-fb-1-10/"><u>[Updated] 2024 Approved Top Social Media Viewing Sites (FB) #1-10</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-how-to-use-whiteboard-in-zoom-meeting-desktopiosandroid/"><u>[Updated] In 2024, How to Use Whiteboard in Zoom Meeting [Desktop/iOS/Android]</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-perfect-guide-iosipad-podcast-recording-tips-for-engaging-interviews/"><u>[Updated] In 2024, Perfect Guide IOS/iPad Podcast Recording Tips for Engaging Interviews</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-windows-10-game-recording-5-methods/"><u>[Updated] Windows 10 Game Recording [5 Methods]</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/advanced-argon-dashboard-pro-high-quality-premium-template-for-angular-apps-from-creative-tim/"><u>Advanced Argon Dashboard Pro - High-Quality, Premium Template for Angular Apps From Creative Tim</u></a></li>
-<li><a href="https://win-blog.techidaily.com/boost-your-frame-rate-and-eliminate-stutters-optimize-performance-in-the-ascent/"><u>Boost Your Frame Rate & Eliminate Stutters: Optimize Performance in 'The Ascent'</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/build-free-comprehensive-webstack-solutions-with-vue-3-plus-laravel-backend-offered-by-creative-tim/"><u>Build Free, Comprehensive Webstack Solutions with Vue 3 + Laravel Backend - Offered by Creative Tim</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creative-tims-complimentary-vite-soft-ui-dashboard-advanced-integration-with-vuejs-section-1-problem-the-theme-question-urban-planning-scale-representation.5/"><u>Creative Tim's Complimentary Vite Soft UI Dashboard: Advanced Integration with VueJS # Section 1: Problem - The Theme Question (Urban Planning Scale Representation)</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creative-tims-premier-argon-ghost-theme-elevate-your-website-design/"><u>Creative Tim's Premier Argon Ghost Theme - Elevate Your Website Design</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creative-tims-ultimate-pro-admin-template-with-nuxt-3-and-bootstrap-n5-for-next-gen-websites/"><u>Creative Tim's Ultimate Pro-Admin Template with Nuxt 3 & Bootstrap N5 for Next-Gen Websites</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creative-tims-vue-dashboard-an-elegant-admin-panel-solution/"><u>Creative Tim's Vue Dashboard: An Elegant Admin Panel Solution</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/discover-the-extensive-43plus-ui-elements-collection-of-bootstraps-by-creative-tim-for-superior-web-designs/"><u>Discover the Extensive 43+ UI Elements Collection of Bootstraps by Creative Tim for Superior Web Designs</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/download-your-complimentary-nextjstailwind-course-kit-premium-templates-from-creative-tim/"><u>Download Your Complimentary NextJS/Tailwind Course Kit – Premium Templates From Creative Tim!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensuring-smooth-performance-downloading-and-installing-drivers-for-your-asus-motherboard-on-windows/"><u>Ensuring Smooth Performance: Downloading & Installing Drivers for Your ASUS Motherboard on Windows</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/explore-more-than-30-premium-free-vuejs-sites-and-frameworks-by-creative-tim/"><u>Explore More than 30 Premium-Free Vue.js Sites & Frameworks by Creative Tim</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-proplus-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Realme 12 Pro+ 5G Phone without Google Account?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-creative-music-videos-a-list-of-15-youtube-projects/"><u>In 2024, Creative Music Videos A List of 15 YouTube Projects</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722899629740-simplified-techniques-for-a-quick-reboot-of-your-iphone-15-get-started-now/"><u>Simplified Techniques for a Quick Reboot of Your iPhone 15 - Get Started Now</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-nikon-1j5-takes-video-to-the-next-level-with-its-4k-features/"><u>[New] Nikon 1J5 Takes Video to the Next Level with Its 4K Features</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/capture-your-brilliance-in-insta-cinematic-footage/"><u>Capture Your Brilliance in Insta Cinematic Footage</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/customizing-your-subscription-packages-flexible-options-inside/"><u>Customizing Your Subscription Packages: Flexible Options Inside</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-instructions-for-connecting-a-samsung-soundbar-to-your-tv-unit/"><u>Easy Instructions for Connecting a Samsung Soundbar to Your TV Unit</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/easy-steps-how-can-you-insert-timestamps-on-photos-detailed-explanation-inside/"><u>Easy Steps: How Can You Insert Timestamps on Photos? Detailed Explanation Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-for-defrosting-sluggish-computers-fast/"><u>Expert Advice for Defrosting Sluggish Computers Fast</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-nokia-c12-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-proven-ways-to-record-and-save-ps4-games/"><u>In 2024, Proven Ways to Record and Save PS4 Games</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/optimizing-your-data-organization-essential-guide-to-file-management-on-the-documents-and-folders-interface/"><u>Optimizing Your Data Organization: Essential Guide to File Management on the Documents & Folders Interface</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/simple-tips-on-transforming-high-quality-flac-audio-into-compatible-mp3-format-seamlessly/"><u>Simple Tips on Transforming High-Quality FLAC Audio Into Compatible MP3 Format Seamlessly</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/simple-tips-the-guide-to-effortlessly-printing-text-messages-from-your-iphone/"><u>Simple Tips: The Guide to Effortlessly Printing Text Messages From Your iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sonys-pursuit-of-perfection-the-4k-smartphone-experience/"><u>Sony's Pursuit of Perfection The 4K Smartphone Experience</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/spotting-fraudulent-facebook-accounts-with-these-top-6-tips/"><u>Spotting Fraudulent Facebook Accounts with These Top 6 Tips</u></a></li>
 </ul></div>
 

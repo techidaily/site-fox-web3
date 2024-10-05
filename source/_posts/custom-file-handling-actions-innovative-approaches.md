@@ -1,7 +1,7 @@
 ---
 title: "Custom File Handling Actions: Innovative Approaches"
-date: 2024-09-27T10:01:08.877Z
-updated: 2024-09-30T05:49:01.018Z
+date: 2024-10-03T19:32:04.672Z
+updated: 2024-10-05T20:49:36.220Z
 tags:
   - user-guide
 categories:
@@ -125,27 +125,27 @@ Table of Contents
 
 ## IFileCustomAction
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 IFileCustomAction : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
 
 This interface facilitates editing custom action that allows the launching of a file into execution or opening of a folder (the same action that occurs when you double-click it in Explorer).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Properties
 
@@ -162,10 +162,10 @@ This interface facilitates editing custom action that allows the launching of a 
 **Bool Use64BitLauncher** \- Gets or sets the property of the custom action to use a 64-bit process to launch the file.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Example
@@ -173,10 +173,10 @@ This interface facilitates editing custom action that allows the launching of a 
 $advinst = new-object -com AdvancedInstaller $project = $advinst.CreateProjectS(“architect”) $project.FilesComponent.AddFileS("appdir", "D:\\MyApp.exe") $custAct = $project.CustomActionsComponent.NewLaunchFileFromDisk("\[#MyApp.exe\]")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -218,18 +218,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-buzz-building-blueprints-igniting-interest-in-the-feed/"><u>[New] 2024 Approved Buzz-Building Blueprints Igniting Interest in the Feed</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bid-farewell-to-intermittent-wi-fi-on-your-iphone-5-remedies-for-a-reliable-connection/"><u>Bid Farewell to Intermittent Wi-Fi on Your iPhone: 5 Remedies for a Reliable Connection</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Honor Play 7T? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-put-iphone-8-plus-or-ipad-on-recovery-mode-step-by-step-tutorial-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Put iPhone 8 Plus or iPad on Recovery mode? (Step by Step Tutorial) | Stellar</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-topping-bargain-software-for-screen-capture-on-chromebook/"><u>In 2024, Topping Bargain Software for Screen Capture on Chromebook</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-high-end-hardware-tips-and-tricks-from-tom/"><u>Navigating High-End Hardware: Tips and Tricks From Tom</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-vivo-x-flip-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Vivo X Flip</u></a></li>
-<li><a href="https://extra-information.techidaily.com/simplify-complex-designs-by-mastering-figmas-backdrop-cleansing/"><u>Simplify Complex Designs by Mastering Figma's Backdrop Cleansing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/transform-franklincovery-content-into-smooth-hd-mp4-files-for-easy-viewing/"><u>Transform FranklinCovery Content Into Smooth HD MP4 Files for Easy Viewing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/troubleshooting-the-udemy-dl-downloader-a-comprehensive-guide/"><u>Troubleshooting the Udemy-Dl Downloader: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ultimate-guide-to-fastest-download-managers-not-getaway-optimize-your-pc-or-mac-experience/"><u>Ultimate Guide to Fastest Download Managers, Not Getaway - Optimize Your PC or Mac Experience</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ultimate-list-of-top-5-anime-sites-a-complete-guide-to-downloading-your-favorite-shows/"><u>Ultimate List of Top 5 Anime Sites: A Complete Guide to Downloading Your Favorite Shows</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-upgrades-in-samsung-galaxy-watch-active-2-a-step-forward-from-its-precursor-in-control-and-integration-capabilities/"><u>Unveiling the Upgrades in Samsung Galaxy Watch Active 2: A Step Forward From Its Precursor in Control and Integration Capabilities</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigating-the-social-wave-share-your-viewpoint/"><u>[New] In 2024, Navigating the Social Wave Share Your Viewpoint</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-best-8-online-hubs-for-downloading-free-3d-text-psdfiles-for-2024/"><u>[Updated] The Best 8 Online Hubs for Downloading Free 3D Text PSDFiles for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/18-tips-for-free-online-event-streaming-techniques/"><u>18 Tips for Free Online Event Streaming Techniques</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/comparing-powerhouses-iphone-xs-max-versus-samsung-galaxy-note-9-a-comprehensive-showdown/"><u>Comparing Powerhouses: IPhone XS Max Versus Samsung Galaxy Note 9 – A Comprehensive Showdown</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-strategies-to-fix-apowerrec-device-recording-failures/"><u>Effective Strategies to Fix aPowerREC Device Recording Failures</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-the-art-of-multitasking-with-multiple-browsing-tabs/"><u>Mastering the Art of Multitasking with Multiple Browsing Tabs</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/simplifying-avi-gif-conversion-with-filmora-on-windowsmac-for-2024/"><u>Simplifying AVI-GIF Conversion with Filmora on Windows/Mac for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/tailor-made-tunes-for-chrome-companions-for-2024/"><u>Tailor-Made Tunes for Chrome Companions for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/unraveling-the-differences-antivirus-software-versus-anti-malware-making-the-right-decision/"><u>Unraveling the Differences: Antivirus Software Versus Anti-Malware – Making the Right Decision</u></a></li>
 </ul></div>
 
