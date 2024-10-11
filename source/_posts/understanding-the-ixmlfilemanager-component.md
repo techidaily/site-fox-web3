@@ -1,7 +1,7 @@
 ---
 title: Understanding the iXMLFileManager Component
-date: 2024-09-29T19:43:55.619Z
-updated: 2024-10-05T20:01:01.952Z
+date: 2024-10-09T04:43:17.157Z
+updated: 2024-10-11T01:45:20.089Z
 tags:
   - user-guide
 categories:
@@ -113,22 +113,16 @@ Table of Contents
 
 This interface allows you to import or create an XML file and to get all the XML files from the project.
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 IXmlFilesComponent : IDispatch
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Properties
 
@@ -137,10 +131,10 @@ IXmlFilesComponent : IDispatch
 **Bool ImpersonateUser** \- Sets or gets the impersonate user flag.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -156,23 +150,17 @@ IXmlFilesComponent : IDispatch
 ![Ixmlfilescomponent](https://cdn.advancedinstaller.com/img/powershell-automation/ixmlfilescomponent.png "Ixmlfilescomponent")  
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -214,16 +202,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-refine-your-beauty-videos-with-youtubes-palette-tweaking/"><u>[Updated] In 2024, Refine Your Beauty Videos with Youtube's Palette Tweaking</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-best-action-hats-motorcycle-cameras-reviewed-and-ranked/"><u>[Updated] The Best Action Hats Motorcycle Cameras Reviewed and Ranked</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/best-methods-for-streaming-pubg-mobile-gameplay-from-pc-or-mac/"><u>Best Methods for Streaming PUBG Mobile Gameplay From PC or Mac</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/complete-user-manual-mastering-the-art-of-using-apowershow/"><u>Complete User Manual: Mastering the Art of Using ApowerShow</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/deep-dive-into-expert-level-installer-programming-strategies/"><u>Deep Dive Into Expert-Level Installer Programming Strategies</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/doxxing-explained-essential-tips-for-protection-from-cybersecurity-expert-malwarefox/"><u>Doxxing Explained: Essential Tips for Protection From Cybersecurity Expert, MalwareFox</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-advice-what-to-do-when-you-cant-use-spotify-on-a-windows-computer/"><u>Expert Advice: What to Do When You Can’t Use Spotify on a Windows Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-bugs-swift-solutions-to-avoid-batman-arkham-knight-crashes/"><u>Fixing Bugs: Swift Solutions to Avoid Batman: Arkham Knight Crashes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-upgrade-free-hp-officejet-pro-9015-printer-drivers-now-available/"><u>Get the Latest Upgrade: Free HP OfficeJet Pro 9015 Printer Drivers Now Available!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/hdmi-display-showdown-the-creme-de-la-creme-monitors/"><u>HDMI Display Showdown The Crème De La Crème Monitors</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-modify-options-in-the-thinapp-setup-window-for-optimal-performance/"><u>How to Modify Options in the ThinApp Setup Window for Optimal Performance</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-top-5-kung-fu-games-just-like-sifu/"><u>[Updated] 2024 Approved Top 5 Kung Fu Games Just Like Sifu</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-jestful-joymaker-online/"><u>[Updated] Jestful Joymaker Online</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/easy-to-follow-tutorial-on-deploying-activex-controls-in-projects/"><u>Easy-to-Follow Tutorial on Deploying ActiveX Controls in Projects</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-installation-process-a-guide-to-streamlined-setup/"><u>Effective Installation Process: A Guide to Streamlined Setup</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/execute-command-in-custom-directory-efficient-file-management/"><u>Execute Command in Custom Directory - Efficient File Management</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-the-persistent-game-crashes-of-among-us-essential-advice-from-2024/"><u>How to Stop the Persistent Game Crashes of Among Us: Essential Advice From 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-windows-manages-reserved-memory-resources/"><u>How Windows Manages Reserved Memory Resources</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-samsung-galaxy-s23-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Samsung Galaxy S23</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-pc-gaming-a-complete-guide-to-playing-brawl-stars/"><u>Mastering PC Gaming: A Complete Guide to Playing Brawl Stars</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/navigating-through-the-interface-an-insightful-look-at-users-and-groups-dashboard/"><u>Navigating Through the Interface: An Insightful Look at 'Users and Groups' Dashboard</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/numerical-methods-like-finite-difference-and-finite-element-are-often-used-to-solve-complex-transient-heat-transfer-problems/"><u>Numerical Methods Like Finite Difference and Finite Element Are Often Used to Solve Complex Transient Heat Transfer Problems.</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/professional-apowersoft-advisory-solutions/"><u>Professional Apowersoft Advisory Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-strategies-on-how-to-shorten-audio-tracks-perfectly/"><u>Step-by-Step Strategies on How to Shorten Audio Tracks Perfectly</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/the-ultimate-ranking-best-image-editing-applications-in-2vear-2021-for-android-and-ios-devices/"><u>The Ultimate Ranking: Best Image Editing Applications in 2Vear 2021 for Android and iOS Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-cache-miss-errors-in-chrome-browser/"><u>Troubleshooting Cache Miss Errors in Chrome Browser</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-infinix-zero-5g-2023-turbo-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Infinix Zero 5G 2023 Turbo IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-8-securely-accessing-safe-mode-and-removing-gpu-drivers/"><u>Windows 8: Securely Accessing Safe Mode & Removing GPU Drivers</u></a></li>
 </ul></div>
 

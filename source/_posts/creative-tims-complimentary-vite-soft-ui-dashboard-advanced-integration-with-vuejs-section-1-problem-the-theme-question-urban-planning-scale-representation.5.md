@@ -1,7 +1,7 @@
 ---
 title: "Creative Tim's Complimentary Vite Soft UI Dashboard: Advanced Integration with VueJS # Section 1: Problem - The Theme Question (Urban Planning Scale Representation)"
-date: 2024-10-04T18:09:03.803Z
-updated: 2024-10-05T16:46:18.815Z
+date: 2024-10-10T03:00:20.507Z
+updated: 2024-10-11T05:12:45.508Z
 tags:
   - product
 categories:
@@ -20,19 +20,19 @@ thumbnail: https://thmb.techidaily.com/b2db5fedee40970035cb3002dc7dfcbc1c0c6f7d7
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,22 +54,24 @@ thumbnail: https://thmb.techidaily.com/b2db5fedee40970035cb3002dc7dfcbc1c0c6f7d7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-engaging-presentations-tips-for-uploading-youtube-videos-into-slides/"><u>[New] 2024 Approved Engaging Presentations Tips for Uploading YouTube Videos Into Slides</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1-top-solutions-for-creating-a-transparent-logo-across-various-digital-mediums/"><u>1. Top Solutions for Creating a Transparent Logo Across Various Digital Mediums</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-twist-your-imagery-instagrams-video-rotation-guide/"><u>2024 Approved Twist Your Imagery Instagram's Video Rotation Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/chroma-lens-reimagined-embracing-the-power-of-4k-for-2024/"><u>Chroma Lens Reimagined Embracing the Power of 4K for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-newest-driver-for-hp-deskjet-3755-all-in-one-on-windows-1087/"><u>Download the Newest Driver for HP DeskJet 3755 All-In-One on Windows 10/8/7</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhance-your-privacy-on-apple-music-with-these-4-essential-strategies/"><u>Enhance Your Privacy on Apple Music with These 4 Essential Strategies</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/essential-remote-work-mastery-the-top-5-must-have-productivity-tools/"><u>Essential Remote Work Mastery: The Top 5 Must-Have Productivity Tools</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/mastering-quick-shots-effective-techniques-for-taking-a-screenshot-on-your-lenovo-device/"><u>Mastering Quick Shots: Effective Techniques for Taking a Screenshot on Your Lenovo Device</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/optimizing-inbound-dll-function-requests-through-tailored-callbacks/"><u>Optimizing Inbound Dll Function Requests Through Tailored Callbacks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/step-by-step-for-beginner-3d-lut-masters/"><u>Step-by-Step for Beginner 3D LUT Masters</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-dividing-your-pdf-into-individual-documents/"><u>Step-by-Step Guide: Dividing Your PDF Into Individual Documents</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-how-to-cleanly-extract-stickers-from-your-reels-video-content/"><u>Step-by-Step Guide: How to Cleanly Extract Stickers From Your Reels Video Content</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-directors-toolkit-youtube-lessons-on-film-making-for-2024/"><u>The Director's Toolkit YouTube Lessons on Film Making for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-verdict-on-samsungs-cf591-a-comprehensive-review-for-enthusiasts/"><u>The Verdict on Samsung's CF591: A Comprehensive Review for Enthusiasts</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/top-10-tips-for-mastering-the-art-of-pretending-to-be-a-skilled-hacker-a-friendly-guide/"><u>Top 10 Tips for Mastering the Art of Pretending to Be a Skilled Hacker – A Friendly Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/top-ranked-windows-10-image-viewer-applications-the-ultimate-guide/"><u>Top-Ranked Windows 10 Image Viewer Applications - The Ultimate Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-a-beginners-guide-to-professional-gif-creation/"><u>[New] 2024 Approved A Beginner's Guide to Professional GIF Creation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-navigating-the-world-of-speech-to-text-with-google-expertly/"><u>[New] 2024 Approved Navigating the World of Speech-to-Text with Google Expertly</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-pro-tips-for-pioneering-board-use-in-webinars-android-iphone-and-windows-users/"><u>[New] 2024 Approved Pro Tips for Pioneering Board Use in Webinars Android, iPhone & Windows Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-2023-fb-link-collection-access-8-free-and-online-downloads/"><u>[Updated] In 2024, 2023 FB Link Collection Access 8 Free & Online Downloads</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/choose-your-tongue-mastering-the-select-language-prompt/"><u>Choose Your Tongue: Mastering the Select Language Prompt</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/configuring-and-utilizing-json-input-features-in-software-deployment-tabs/"><u>Configuring and Utilizing JSON Input Features in Software Deployment Tabs</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/enhance-visibility-with-easy-billboard-copy-modification-tips/"><u>Enhance Visibility with Easy Billboard Copy Modification Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-eradicating-v-ray-stuttering-for-flawless-rendering-experience-on-personal-computers/"><u>Expert Advice: Eradicating V-Ray Stuttering for Flawless Rendering Experience on Personal Computers</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/exploring-features-and-settings-of-right-click-options-in-user-interfaces/"><u>Exploring Features and Settings of Right-Click Options in User Interfaces</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-iphone-8-by-drfone-ios/"><u>How to Bypass iCloud Lock on iPhone 8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-update-files-are-missing-error-0x80070003-on-windows/"><u>How to Fix the Update Files Are Missing Error 0X80070003 on Windows</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/pc-gaming-tips-learn-the-ins-and-outs-of-excelling-at-snowballio-online/"><u>PC Gaming Tips: Learn the Ins and Outs of Excelling at Snowball.io Online</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/seamless-link-management-your-essential-file-association-hub/"><u>Seamless Link Management: Your Essential File Association Hub</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-incorporating-a-youtube-playlist-into-your-site-with-seamless-autoplay-features/"><u>Step-by-Step Guide: Incorporating a YouTube Playlist Into Your Site with Seamless Autoplay Features</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-moving-images-from-your-iphone-to-macos-catalina/"><u>Step-by-Step Guide: Moving Images From Your iPhone to macOS Catalina</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-top-social-media-sites-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Guide to Top Social Media Sites - Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-3-apps-for-effortlessly-moving-your-iphone-content-and-info/"><u>Top 3 Apps for Effortlessly Moving Your iPhone Content and Info</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-how-to-fix-windows-10-search-issues-quickly/"><u>Troubleshooting: How to Fix Windows 10 Search Issues Quickly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-list-of-instagram-video-editors-perfect-apps-for-uploading-and-downloading-with-style/"><u>Ultimate List of Instagram Video Editors: Perfect Apps for Uploading and Downloading with Style</u></a></li>
 </ul></div>
 

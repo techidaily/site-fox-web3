@@ -1,7 +1,7 @@
 ---
 title: Enhanced GUI Designs for Advanced Installation Software
-date: 2024-10-03T16:03:46.797Z
-updated: 2024-10-05T18:03:13.345Z
+date: 2024-10-10T00:23:17.045Z
+updated: 2024-10-11T01:05:45.384Z
 tags:
   - user-guide
 categories:
@@ -78,10 +78,10 @@ The toolbar allows quick access to most commands provided by the menu system. Fr
 ![Main Menu](https://cdn.advancedinstaller.com/img/ui/quick-toolbar.png "Main Menu")
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Left Pane
@@ -90,43 +90,37 @@ The toolbar allows quick access to most commands provided by the menu system. Fr
 
 ![Left Pane](https://cdn.advancedinstaller.com/img/ui/page-menu.png "Left Pane")  
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can toggle the left pane on and off from the “View > Show > Left Pane” menu. The size of the icons and elements can also be changed by selecting the “Compact Left Pane” option from the “View > Show” toolbar menu.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Use the “Quick filter” above the left pane page menu to quickly reach pages of interest. The filter not only supports searching in the actual menu entries, but also looks in a predefined set of keywords relevant to each page when trying to match your query. For example typing _"variable"_ in the filter will bring up the [Environment Variables Page](https://tools.techidaily.com/advancedinstaller/products/) page, where you can configure environment variables.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Page Display
 
 The center stage for creating your installer is this large area on the right. It is the main work area - all project data is displayed here.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Info Panes
 
 This panel will display one of the selected panes from the “View > Info Panes” menu and it is hidden by default. You can close it again by clicking on its top-right corner \[Close \] button.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -177,17 +171,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-digital-media-hacks-top-5-online-techniques-for-video-trimming-on-vimeo/"><u>[New] Digital Media Hacks Top 5 Online Techniques for Video Trimming on Vimeo</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-essential-tips-for-choosing-tiktok-screenshots/"><u>[New] Essential Tips for Choosing TikTok Screenshots</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-mastering-on-screen-labels-and-descriptions-for-video-files-windows-11/"><u>[Updated] Mastering On-Screen Labels and Descriptions for Video Files (Windows 11)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-tailoring-your-content-to-perfection-youtube-edits-in-sony-vegas-style/"><u>[Updated] Tailoring Your Content to Perfection YouTube Edits in Sony Vegas Style</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1-understanding-net-native-imaging-options/"><u>1. Understanding .NET Native Imaging Options</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-ultimate-roundup-no-fee-videocalling-plus-live-desktop-share/"><u>2024 Approved Ultimate Roundup No-Fee Videocalling + Live Desktop Share</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-vlogventures-in-cosmetics-how-to-create-your-fashion-forward-channel/"><u>2024 Approved Vlogventures in Cosmetics How to Create Your Fashion-Forward Channel</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/best-free-software-for-windows-users-to-change-video-formats-for-free/"><u>Best Free Software for Windows Users to Change Video Formats for Free</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effective-team-management-mastering-the-organizational-search-interface/"><u>Effective Team Management: Mastering the Organizational Search Interface</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-top-10-music-video-creation-tools-for-stunning-visuals/"><u>New Top 10 Music Video Creation Tools for Stunning Visuals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tackle-to-dos-smarter-how-chatgpt-can-transform-your-time-management/"><u>Tackle To-Dos Smarter: How ChatGPT Can Transform Your Time Management</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/tailored-actions-series-crafting-personalized-interaction-flows-for-enhanced-engagement/"><u>Tailored Actions Series: Crafting Personalized Interaction Flows for Enhanced Engagement</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-top-9-live-stream-networks-revealed-secrets/"><u>2024 Approved Top 9 Live Stream Networks - Revealed Secrets</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/complete-guide-to-virus-elimination-using-malwarefox-techniques/"><u>Complete Guide to Virus Elimination: Using MalwareFox Techniques</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-of-new-wifi-drivers-for-windos-7/"><u>Easy Installation of New WiFi Drivers for WinDos 7</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/expert-tips-for-optimizing-your-ibaseshortcut-usage/"><u>Expert Tips for Optimizing Your IBaseShortcut Usage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-successfully-repairing-unknown-usb-device-detected-port-reset-problems-in-windows-10/"><u>Guide: Successfully Repairing 'Unknown USB Device Detected - Port Reset' Problems in Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-flawless-frame-capturer-kit/"><u>In 2024, Flawless Frame Capturer Kit</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-supercharge-your-channel-with-smart-youtube-collaborations/"><u>In 2024, Supercharge Your Channel with Smart YouTube Collaborations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unraveling-the-metaverse-an-analysis-of-6-complex-instances/"><u>In 2024, Unraveling the Metaverse An Analysis of 6 Complex Instances</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/master-your-audio-projects-using-audacitys-powerful-tools-for-macos/"><u>Master Your Audio Projects Using Audacity's Powerful Tools for macOS</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-eliminating-white-canvas-in-images/"><u>Step-by-Step Guide: Eliminating White Canvas in Images</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/tabular-features-a-guide-to-software-labeling-and-classification/"><u>Tabular Features: A Guide to Software Labeling and Classification</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/voiceover-success-in-video-creation-simplified-techniques-for-high-quality-results/"><u>Voiceover Success in Video Creation: Simplified Techniques for High-Quality Results</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-m54-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy M54 5G Phone Network-Ready</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Custom File Handling Actions: Innovative Approaches"
-date: 2024-10-03T19:32:04.672Z
-updated: 2024-10-05T20:49:36.220Z
+date: 2024-10-06T02:15:39.058Z
+updated: 2024-10-10T23:52:11.396Z
 tags:
   - user-guide
 categories:
@@ -125,26 +125,38 @@ Table of Contents
 
 ## IFileCustomAction
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 IFileCustomAction : ICustomAction
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Overview
 
 This interface facilitates editing custom action that allows the launching of a file into execution or opening of a folder (the same action that occurs when you double-click it in Explorer).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -162,10 +174,16 @@ This interface facilitates editing custom action that allows the launching of a 
 **Bool Use64BitLauncher** \- Gets or sets the property of the custom action to use a 64-bit process to launch the file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Example
@@ -173,10 +191,10 @@ This interface facilitates editing custom action that allows the launching of a 
 $advinst = new-object -com AdvancedInstaller $project = $advinst.CreateProjectS(“architect”) $project.FilesComponent.AddFileS("appdir", "D:\\MyApp.exe") $custAct = $project.CustomActionsComponent.NewLaunchFileFromDisk("\[#MyApp.exe\]")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -218,15 +236,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigating-the-social-wave-share-your-viewpoint/"><u>[New] In 2024, Navigating the Social Wave Share Your Viewpoint</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-best-8-online-hubs-for-downloading-free-3d-text-psdfiles-for-2024/"><u>[Updated] The Best 8 Online Hubs for Downloading Free 3D Text PSDFiles for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/18-tips-for-free-online-event-streaming-techniques/"><u>18 Tips for Free Online Event Streaming Techniques</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/comparing-powerhouses-iphone-xs-max-versus-samsung-galaxy-note-9-a-comprehensive-showdown/"><u>Comparing Powerhouses: IPhone XS Max Versus Samsung Galaxy Note 9 – A Comprehensive Showdown</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effective-strategies-to-fix-apowerrec-device-recording-failures/"><u>Effective Strategies to Fix aPowerREC Device Recording Failures</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/mastering-the-art-of-multitasking-with-multiple-browsing-tabs/"><u>Mastering the Art of Multitasking with Multiple Browsing Tabs</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/simplifying-avi-gif-conversion-with-filmora-on-windowsmac-for-2024/"><u>Simplifying AVI-GIF Conversion with Filmora on Windows/Mac for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/tailor-made-tunes-for-chrome-companions-for-2024/"><u>Tailor-Made Tunes for Chrome Companions for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/unraveling-the-differences-antivirus-software-versus-anti-malware-making-the-right-decision/"><u>Unraveling the Differences: Antivirus Software Versus Anti-Malware – Making the Right Decision</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-immersive-sound-listening-on-the-go-with-iphone/"><u>[New] Immersive Sound Listening on the Go With iPhone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-remote-recording-techniques-for-podcasts-for-2024/"><u>[New] Remote Recording Techniques for Podcasts for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-keeping-it-secretive-watching-instagram-live-undetected/"><u>[Updated] Keeping It Secretive Watching Instagram Live Undetected</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-comprehensive-guide-to-adding-a-link-in-your-tiktok-profile/"><u>2024 Approved The Comprehensive Guide to Adding a Link in Your TikTok Profile</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-in-your-browser-the-best-8-extensions-for-task-efficiency/"><u>AI in Your Browser: The Best 8 Extensions for Task Efficiency</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/busting-stereotypes-truths-behind-language-learning/"><u>Busting Stereotypes: Truths Behind Language Learning</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/discover-the-optimal-techniques-for-cable-free-mi-tv-and-pc-screen-mirroring/"><u>Discover the Optimal Techniques for Cable-Free Mi TV and PC Screen Mirroring</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/download-your-favorite-songs-at-no-cost-using-top-rated-safari-mp3-downloader/"><u>Download Your Favorite Songs at No Cost Using Top-Rated Safari MP3 Downloader</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/expert-techniques-for-inserting-pdf-content-into-existing-files-a-complete-replacement-guide/"><u>Expert Techniques for Inserting PDF Content Into Existing Files - A Complete Replacement Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/guide-to-uncovering-active-software-installations-on-pc-or-mac/"><u>Guide to Uncovering Active Software Installations on PC or Mac</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-sync-across-platforms-downloading-and-storing-gifs-from-facebook/"><u>In 2024, Sync Across Platforms Downloading and Storing GIFs From Facebook</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/is-it-possible-for-malicious-software-to-conceal-within-bios-systems-securing-your-computer-against-viruses/"><u>Is It Possible for Malicious Software to Conceal Within BIOS Systems? Securing Your Computer Against Viruses</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-audio-capture-on-your-mac-with-apowersoft-the-complete-how-to-guide/"><u>Mastering Audio Capture on Your Mac with Apowersoft - The Complete How-To Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/selecting-superior-selfie-equipment-a-comprehensive-tutorial-with-6-pro-tips/"><u>Selecting Superior Selfie Equipment: A Comprehensive Tutorial with 6 Pro Tips</u></a></li>
 </ul></div>
 

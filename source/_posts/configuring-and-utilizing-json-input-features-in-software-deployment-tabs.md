@@ -1,7 +1,7 @@
 ---
 title: Configuring and Utilizing JSON Input Features in Software Deployment Tabs
-date: 2024-10-04T21:01:22.444Z
-updated: 2024-10-05T19:30:56.944Z
+date: 2024-10-07T01:50:11.872Z
+updated: 2024-10-11T04:40:46.386Z
 tags:
   - user-guide
 categories:
@@ -97,9 +97,23 @@ This section allows you to configure the JSON file's installation behavior.
 
  You have the following options: 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Create file if it doesn't already exists
 
 If the requested JSON file does not already exist on the target system, it will be generated using the specified configuration.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Remove file on uninstall
 
@@ -110,29 +124,15 @@ If you wish to delete the JSON file from the target system during component unin
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If none of the two checkbox choices is selected, the file will not be deleted during the uninstall process.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Component
 
 This field specifies the component whose install or removal will trigger the JSON update operation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Error Policy
@@ -151,10 +151,10 @@ Prior to the update procedure, a backup copy of the original JSON file will be g
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Due to the possibility of JSON file updates occurring during the uninstall process, a backup of the file will be made during the uninstall process as well. If during uninstall an error occurs, a backup of the file will be created (regardless of this option) and the uninstall process will continue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)It highly recommended that you leave this option **enabled**, because an unexpected error during the JSON update process may _corrupt_ parts of your existing JSON file.
@@ -198,19 +198,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-fainter-frequencies-for-pc-and-mac-harmony-for-2024/"><u>[New] Fainter Frequencies for PC & Mac Harmony for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-gopro-hero5-black-secrets-elevating-your-cinematic-craft/"><u>2024 Approved GoPro Hero5 Black Secrets Elevating Your Cinematic Craft</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/best-free-and-premium-pdf-reader-apps-for-iphone-x11se-top-11-picks/"><u>Best Free & Premium PDF Reader Apps for iPhone X/11/SE: Top 11 Picks</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/customize-your-server-settings-the-ultimate-guide-to-editing-instance-properties/"><u>Customize Your Server Settings: The Ultimate Guide to Editing Instance Properties</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/execute-command-in-custom-directory-efficient-file-management/"><u>Execute Command in Custom Directory - Efficient File Management</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/find-your-perfect-match-with-these-best-5-iphone-pods-for-2024/"><u>Find Your Perfect Match with These Best 5 iPhone Pods for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-unveiled-decrypting-the-algorithm-of-conversation/"><u>GPT Unveiled: Decrypting the Algorithm of Conversation</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-live-recording-mastery-with-innovative-webcams-explored/"><u>In 2024, Live Recording Mastery with Innovative WebCams Explored</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-speed-with-premium-controller-add-ons/"><u>In 2024, Mastering Speed with Premium Controller Add-Ons</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-the-best-free-srt-translation-services-for-2024/"><u>Navigating the Best FREE SRT Translation Services for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/professional-apowersoft-advisory-solutions/"><u>Professional Apowersoft Advisory Solutions</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-turning-off-website-notifications-across-chrome-firefox-and-edge-browsers/"><u>Step-by-Step Guide: Turning Off Website Notifications Across Chrome, Firefox and Edge Browsers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-essentials-of-dynamic-visual-communication-for-2024/"><u>The Essentials of Dynamic Visual Communication for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlock-your-potential-for-green-screen-excellence-in-kinemaster/"><u>Unlock Your Potential for Green Screen Excellence in Kinemaster</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-stream-success-starts-here-choosing-the-right-camera-for-twitch/"><u>[Updated] In 2024, Stream Success Starts Here Choosing the Right Camera for Twitch</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-smudge-free-life-with-sharp-clean-gopro-images/"><u>2024 Approved A Smudge-Free Life with Sharp, Clean GoPro Images</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/exploring-features-and-settings-of-right-click-options-in-user-interfaces/"><u>Exploring Features and Settings of Right-Click Options in User Interfaces</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/introducing-apowersoft-mac-screen-recorder-v20-experience-advanced-recording-capabilities-and-smooth-operation-on-your-mac/"><u>Introducing Apowersoft Mac Screen Recorder v2.0 – Experience Advanced Recording Capabilities and Smooth Operation on Your Mac</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-problem-of-gta-5-failing-to-start-a-complete-guide/"><u>Overcoming the Problem of GTA 5 Failing to Start: A Complete Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/pc-gaming-tips-learn-the-ins-and-outs-of-excelling-at-snowballio-online/"><u>PC Gaming Tips: Learn the Ins and Outs of Excelling at Snowball.io Online</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-reviews-and-analysis-on-digital-devices-by-toms-technology-experts/"><u>Pioneering Reviews and Analysis on Digital Devices by Tom's Technology Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-discord-from-launching-with-every-system-boots/"><u>Preventing Discord From Launching with Every System Boots</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/seamless-link-management-your-essential-file-association-hub/"><u>Seamless Link Management: Your Essential File Association Hub</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-hidden-truth-of-virtual-conversations-demystifying-the-who-is-behind-your-digital-footprint-dead-internet-theory-insight/"><u>The Hidden Truth of Virtual Conversations: Demystifying the Who Is Behind Your Digital Footprint? - Dead Internet Theory Insight</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-3-apps-for-effortlessly-moving-your-iphone-content-and-info/"><u>Top 3 Apps for Effortlessly Moving Your iPhone Content and Info</u></a></li>
 </ul></div>
 

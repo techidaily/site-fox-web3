@@ -1,7 +1,7 @@
 ---
 title: Spotting Fraudulent Facebook Accounts with These Top 6 Tips
-date: 2024-09-28T16:53:12.591Z
-updated: 2024-10-05T16:37:04.088Z
+date: 2024-10-05T20:07:22.040Z
+updated: 2024-10-11T04:42:05.857Z
 tags:
   - product
   - antivirus
@@ -50,6 +50,13 @@ The first thing you see in a profile on Facebook is their profile picture. You c
 
 ![Check Profile Picture](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Check-Profile-Picture.jpg "Check Profile Picture")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Single Profile Picture**
 
 An active user on Facebook regularly changes his/her profile picture. If you see only one profile picture and the profile is new or 2-3 years old, it should raise a concern.
@@ -88,6 +95,13 @@ Click on **Upload an image** and then click on **Choose file**, select the profi
 
 ![Search on Google Image 2](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Search-on-Google-Image-2.jpg "Search on Google Image 2")
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Read the About Section
 
 Another way to spot a fake Facebook profile is to look in the about section. Genuine people on Facebook like to enter their accomplishments in detail. They would adequately list their school, college, previous and current employment, etc. If you see nothing on the about section, then it might be a fake account.
@@ -96,27 +110,20 @@ Another way to spot a fake Facebook profile is to look in the about section. Gen
 
 Also, when you see lots of patterns like Works in California, Went to the University of California, Lives in California, then it is a sign of a fake account. Fake account creators don’t go into details they fill in common and famous things to look credible. It could be the renowned name of famous places like New York, California, Los Angles, Texas, Or it could be the name of famous universities like Harvard University, New York University, or Stanford University.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Check Friend List
 
 Now it’s time to check the friend list; a genuine person would like to connect with more local persons. When you see so many foreign friends, and no or fewer local friends, then it could be a fake profile. If a person is from New York then why would he connect with so many Saudi Arab Emirates persons?
 
 ![Check the Friend List - Spot Fake Facebook Account](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Check-the-Friendlist.jpg "Check the Friend List")
 
-If it is a girl profile and you see 3-4K friends on the list, then it should raise a red flag. Usually, genuine girls on Facebook don’t like unknown people, and they have limited friends. When you see so many friends, and most of them are fake, then don’t accept the friend request and block the person.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If it is a girl profile and you see 3-4K friends on the list, then it should raise a red flag. Usually, genuine girls on Facebook don’t like unknown people, and they have limited friends. When you see so many friends, and most of them are fake, then don’t accept the friend request and block the person.
 
 ## Check Different Name in URL and Profile
 
@@ -134,6 +141,13 @@ Now it comes to reading the Timeline. If a user is posting too many links of one
 
 Users on Facebook shares different things like jokes, music, video, or pictures. They also share their activity like traveling, reading, and listening. If you don’t see such different types of posts, then it could also be a sign of a fake account. Just scroll the timeline to grasp what users are sharing and compare it with what they were sharing earlier. Shifting of content on the timeline indicates the same.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Check the Lack of Interactions on the Posts
 
 Now check the profile carefully, click on the pictures and check the likes and comments. When you see so many likes, and generic comments on pictures of girls’ accounts like beautiful, cute, sweet, and the account holder hasn’t replied to anyone then it is a sign of a fake profile. A genuine person at least thanks when someone comments on his or her picture.
@@ -148,9 +162,29 @@ If you see no such activity, then the profile is not genuine.
 
 ![Read the Timeline](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Read-the-Timeline.jpg "Read the Timeline")
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 There are lots of ways to identify a fake Facebook account; however, none of them are proof that the account is fake. Maybe someone doesn’t willingly display their original picture or listed his or her actual about section for privacy concerns. It usually happens with old-age people they don’t like to share everything on Facebook. However, this doesn’t happen with younger persons. They wish to advertise everything they do. If you see such hidden things on a profile of a younger person, then it is suspicious. Also in the final step to confirm you can send a personal message to the person to see if they reply. Most fake account holder doesn’t like to respond.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 26 thoughts on “How to Spot Fake Facebook Profile”
 
@@ -167,13 +201,6 @@ This is serious as fake fb pages are used to breach false DV .Can put innocent i
 2. ![](https://secure.gravatar.com/avatar/afbc265199aa8a4a4276a5e918e8751f?s=50&d=mm&r=g)  
 Harvey Myers  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [April 7, 2020 at 6:30 pm](https://tools.techidaily.com/malwarefox/products/)  
 First, my compliments on the website, nice and easy to navigate.  
 Going into the nitty gritty of #5 and #6, I check for those kinds of things. I have nearly 5000 friends and every now and then I get a request that ‘seems’ to pass all that, but I find a few patterns suspicious. One is when they post a wide variety of subjects, as if fishing for one that you’re interested in, within minutes of each other, or some 3 in the same minute sometimes. Often they have some scattered comments, but from the same small set of users and then I try to see i the comments are relevant or just kind of generic.  
@@ -182,13 +209,6 @@ Good Article, Thank you
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/c4101fdbb94875d098b0f7db475b8315?s=50&d=mm&r=g)  
    elisa  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    [March 7, 2022 at 1:45 pm](https://tools.techidaily.com/malwarefox/products/)  
    dude, no one has 5000 friends  
@@ -200,6 +220,14 @@ Good Article, Thank you
          [Reply](https://tools.techidaily.com/malwarefox/products/)
 3. ![](https://secure.gravatar.com/avatar/74c9641235b0b9af703dfcf352432087?s=50&d=mm&r=g)  
 debbie james  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [April 26, 2020 at 12:02 am](https://tools.techidaily.com/malwarefox/products/)  
 great article, i see a lot of empty profiles/pictures on my friends list. I have been deleting all morning. One cannot be too careful these days…  
 Thank you  
@@ -253,31 +281,11 @@ Wow
 9. ![](https://secure.gravatar.com/avatar/8eedcf8385a6b1bf53274b15233600cc?s=50&d=mm&r=g)  
 Xoliiey swaa  
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [March 4, 2021 at 4:26 am](https://tools.techidaily.com/malwarefox/products/)  
 Love yourself before you love others  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 10. ![](https://secure.gravatar.com/avatar/c77b69ca0d1424b4e59e9401b1f52aea?s=50&d=mm&r=g)  
 Robert Teague  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [September 24, 2021 at 9:18 am](https://tools.techidaily.com/malwarefox/products/)  
 I notice almost all fake fb accounts are people from W. Africa. They always use a beautiful white woman as their profile photo. If you scroll down you will usually come across a pic or two of the actual account creator. It’s so obvious, and they hardly ever have any mutual friends. And there is no need to report them to FB, they use AI to determine if it is real, and they won’t take it down. So annoying.  
@@ -294,13 +302,6 @@ If the profile photo and inbox messages disappear, can it also be a false profil
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 12. ![](https://secure.gravatar.com/avatar/4309ff686f116f0d65081fa918bbf5b0?s=50&d=mm&r=g)  
 Kim  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [February 6, 2022 at 3:07 am](https://tools.techidaily.com/malwarefox/products/)  
 Wow, my FB profile must look so fake… I hate pictures of myself and I have no friends. Or family. The only people I ever interact with are random strangers that were kind enough to accept my desperate friendrequest, people that I have never met and never will meet. I am just lonely and pathetic.  
@@ -337,16 +338,16 @@ On facebook messenger, I used a video call to talk to a live person. That’s ho
 17. ![](https://secure.gravatar.com/avatar/954225bf54cc3e6ca8f247f2fdc2eb9b?s=50&d=mm&r=g)  
 Cheryl  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [August 17, 2022 at 10:56 am](https://tools.techidaily.com/malwarefox/products/)  
 Another clue is when you get friend requests from people who are already your friend. You need to report those to Facebook. Also bad spelling and grammar when you expect it to be better.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -373,17 +374,19 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-20plus-funny-metaverse-memes-and-how-to-make-your-own-memes-for-2024/"><u>[New] 20+ Funny Metaverse Memes and How to Make Your Own Memes for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-superior-sound-swap-technology-the-top-free-option-for-valorant-gamers/"><u>[New] 2024 Approved Superior Sound Swap Technology The Top Free Option for Valorant Gamers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ust-have-gif-creation-apps-for-2024/"><u>[New] Must-Have GIF Creation Apps for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-unlock-videos-free-effect-sites-ranked/"><u>[New] Unlock Videos Free Effect Sites Ranked</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1-understanding-odbc-a-comprehensive-guide/"><u>1. Understanding ODBC: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enable-and-disable-cookies-on-windows-10-chrome-firefox-opera-and-edge/"><u>Enable & Disable Cookies on Windows 10 Chrome, Firefox, Opera and Edge</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/expert-tips-for-optimizing-your-ibaseshortcut-usage/"><u>Expert Tips for Optimizing Your IBaseShortcut Usage</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/household-guide-addressing-and-mending-standard-tv-problems/"><u>Household Guide: Addressing and Mending Standard TV Problems</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-understanding-the-social-tv-landscape-rokus-role/"><u>In 2024, Understanding the Social TV Landscape Roku's Role</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leading-edge-unveiling-the-five-key-ai-hardware-breakthroughs/"><u>Leading Edge: Unveiling the Five Key AI Hardware Breakthroughs</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/understanding-the-default-web-page-how-it-works-in-browsers/"><u>Understanding the Default Web Page: How It Works in Browsers</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/voiceover-success-in-video-creation-simplified-techniques-for-high-quality-results/"><u>Voiceover Success in Video Creation: Simplified Techniques for High-Quality Results</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-success-strategy-standard-studio-or-beta-edge-for-2024/"><u>[New] Channel Success Strategy Standard Studio or Beta Edge for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-auditsound-scrutiny/"><u>[New] In 2024, AuditSound Scrutiny</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-leading-psp-ios-game-simulators-our-2023s-choices/"><u>[New] Leading PSP iOS Game Simulators - Our 2023'S Choices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-pioneering-techniques-for-smooth-recording-in-virtual-sessions/"><u>[New] Pioneering Techniques for Smooth Recording in Virtual Sessions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-create-how-to-edit-videos-on-vimeo-for-free-in-2024/"><u>[New] Vimeo Create How to Edit Videos on Vimeo for Free, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-double-delight-endless-looping-of-youtube-videos-for-tvs-for-2024/"><u>[Updated] Double Delight Endless Looping of YouTube Videos for TVs for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-xs-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone XS? How to Fix it?</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/budget-friendly-guide-how-to-strip-away-video-watermarks/"><u>Budget-Friendly Guide: How to Strip Away Video Watermarks</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/customizing-your-subscription-packages-flexible-options-inside/"><u>Customizing Your Subscription Packages: Flexible Options Inside</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-immersion-in-the-most-realistic-water-games/"><u>In 2024, Immersion in the Most Realistic Water Games</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/optimizing-your-data-organization-essential-guide-to-file-management-on-the-documents-and-folders-interface/"><u>Optimizing Your Data Organization: Essential Guide to File Management on the Documents & Folders Interface</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/simple-tips-on-transforming-high-quality-flac-audio-into-compatible-mp3-format-seamlessly/"><u>Simple Tips on Transforming High-Quality FLAC Audio Into Compatible MP3 Format Seamlessly</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-retrieving-deleted-texts-on-your-iphone/"><u>Step-by-Step Guide: Retrieving Deleted Texts on Your iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/troubleshoot-immediately-why-isnt-your-audacity-session-picking-up-sound/"><u>Troubleshoot Immediately: Why Isn't Your Audacity Session Picking Up Sound?</u></a></li>
 </ul></div>
 

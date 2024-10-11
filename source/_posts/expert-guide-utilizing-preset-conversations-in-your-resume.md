@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Utilizing Preset Conversations in Your Resume"
-date: 2024-09-29T16:00:36.286Z
-updated: 2024-10-05T19:36:06.836Z
+date: 2024-10-09T19:10:41.935Z
+updated: 2024-10-10T16:37:42.810Z
 tags:
   - user-guide
 categories:
@@ -82,34 +82,54 @@ Table of Contents
 The dialogs defined here will appear when the installation process is resumed after a computer reboot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Resume Preparing Dialog (PrepareDlg)
 
  This dialog is briefly displayed at the beginning of the resume process until searches and path resolution actions are performed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Resume Welcome Dialog (ResumeDlg)
 
 The first dialog displayed during an installation resume action. It is used to inform the user about the application on which the resume operations will be performed. It is displayed when the [RESUME](https://learn.microsoft.com/en-us/windows/win32/msi/resume?redirectedfrom=MSDN "RESUME property") or [Preselected](https://learn.microsoft.com/en-us/windows/win32/msi/preselected?redirectedfrom=MSDN "Preselected property") properties are set. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Installation Progress Dialog (ProgressDlg)
 
 The dialog containing the progress bar that shows the evolution.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Installation Complete Dialog (ExitDialog)
 
 The dialog displayed at the end of the installation operation.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### License Agreement Dialog (LicenseAgreementDlg)
 
@@ -119,13 +139,6 @@ You can select the Rich Text Format file that contains your license agreement in
 
 You can [localize](https://tools.techidaily.com/advancedinstaller/products/) the License Agreement text and optionally [enforce the EULA lecture](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### ReadMe Dialog (ReadmeDlg)
 
 Displays the ReadMe text for the user. You can select the Rich Text Format file that contains your readme text in the "RTF File" field of the [Properties](https://tools.techidaily.com/advancedinstaller/products/) pane. This field is available when the "Scrollable Edit" control is selected on the dialog.
@@ -133,13 +146,6 @@ Displays the ReadMe text for the user. You can select the Rich Text Format file 
 You can [localize](https://tools.techidaily.com/advancedinstaller/products/) the ReadMe text.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)It is recommended to exclude this dialog in order to reduce the installation steps.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -174,18 +180,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-content-platform-wars-direct-engagement-or-wider-distribution-twitch-vs-youtube/"><u>[Updated] Content Platform Wars Direct Engagement or Wider Distribution? – Twitch Vs YouTube</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/a-guide-to-adjusting-your-file-folders-characteristics-via-the-properties-panel/"><u>A Guide to Adjusting Your File Folders' Characteristics via the Properties Panel</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/a-guide-to-designing-professional-quote-graphics/"><u>A Guide to Designing Professional Quote Graphics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-academic-achievement-winning-study-methods-on-a-windows-pc/"><u>Boost Academic Achievement: Winning Study Methods on a Windows PC</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/event-management-software-the-ultimate-guide-to-an-effective-events-editor/"><u>Event Management Software: The Ultimate Guide to an Effective Events Editor</u></a></li>
-<li><a href="https://win-blog.techidaily.com/free-online-conversion-mp4-to-m4v-and-more-with-movavi/"><u>Free Online Conversion: MP4 to M4V & More with Movavi</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For OnePlus 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-apple-iphone-6-plus-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From Apple iPhone 6 Plus? Find the Best Solution Here</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/sync-your-files-with-ease-the-ultimate-guide-to-seamless-folder-sync/"><u>Sync Your Files with Ease: The Ultimate Guide to Seamless Folder Sync</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-breakdown-of-payment-percentages-in-short-video-royalties-for-2024/"><u>The Breakdown of Payment Percentages in Short Video Royalties for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/the-ultimate-list-of-top-5-essential-live-streaming-platforms/"><u>The Ultimate List of Top 5 Essential Live Streaming Platforms</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ultimate-strategy-tips-and-tricks-for-excelling-at-boom-beach-on-windows-and-mac/"><u>Ultimate Strategy: Tips and Tricks for Excelling at Boom Beach on Windows and Mac</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-x-fold-2-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Vivo X Fold 2 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-the-secrets-of-youtube-shorts-success/"><u>[New] Unveiling the Secrets of YouTube Shorts Success</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-complete-audio-solution-for-incomplete-youtube-and-fb-sounds-for-2024/"><u>[Updated] Complete Audio Solution for Incomplete YouTube and FB Sounds for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-vs-video-edition-is-gopro-writes-better-stories-than-cube/"><u>2024 Approved Vs. Video Edition Is GoPro' Writes Better Stories Than Cube?</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/easy-steps-to-clear-out-voicemail-messages-on-your-iphone-device/"><u>Easy Steps to Clear Out Voicemail Messages on Your iPhone Device</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-capturing-moments-like-never-before-with-sj-cam-s6/"><u>In 2024, Capturing Moments Like Never Before with SJ-CAM S6</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-ultimate-way-to-update-old-photos-and-videos-with-ig-filters/"><u>In 2024, The Ultimate Way to Update Old Photos and Videos with IG Filters</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/practical-methods-for-retrieving-sound-from-mp4-videos/"><u>Practical Methods for Retrieving Sound From MP4 Videos</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/revitalize-your-health-with-iverbboost-a-comprehensive-herbal-supplement-guide/"><u>Revitalize Your Health with IVerbBoost: A Comprehensive Herbal Supplement Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/techniques-for-capturing-wide-angle-360-photos-effortlessly-for-2024/"><u>Techniques for Capturing Wide Angle 360 Photos Effortlessly for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-collection-of-no-cost-online-music-libraries-you-can-trust/"><u>Ultimate Collection of No-Cost Online Music Libraries You Can Trust</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unleash-your-social-media-potential-with-insta-post-magic-for-2024/"><u>Unleash Your Social Media Potential with Insta Post Magic for 2024</u></a></li>
 </ul></div>
 

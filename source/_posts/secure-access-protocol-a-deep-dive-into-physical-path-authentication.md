@@ -1,7 +1,7 @@
 ---
 title: "Secure Access Protocol: A Deep Dive Into Physical Path Authentication"
-date: 2024-10-01T17:22:35.528Z
-updated: 2024-10-05T20:27:57.639Z
+date: 2024-10-09T18:37:13.041Z
+updated: 2024-10-10T16:44:59.225Z
 tags:
   - user-guide
 categories:
@@ -100,54 +100,54 @@ In this dialog you can set physical path credentials for your IIS Web Site or Vi
 ![Iis physical path dialog](https://cdn.advancedinstaller.com/img/dialog/iis-physical-path-dialog.png "Iis physical path dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Connect As
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Application user (pass-through authentication)
 
 Connect as the application user (pass-through authentication).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Specific User
 
 Specify a user to connect as.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## User
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Property based user
 
 Use a property based user. Click on the \[... \] button to select a property.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Installed user
 
 Use an installed user. Click on the \[... \] button to select an account.
 
 ## Password
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Use predefined password
 
@@ -190,15 +190,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-calculating-viewing-time-for-a-20mb-video-for-2024/"><u>[New] Calculating Viewing Time for a 20Mb Video for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-pros-choice-top-laptop-recording-tools-reviewed/"><u>[Updated] 2024 Approved Pro's Choice Top Laptop Recording Tools Reviewed</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-cutting-edge-simulators-for-sonys-playstation-3-games-pc-for-2024/"><u>[Updated] Cutting-Edge Simulators for Sony's PlayStation 3 Games (PC) for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-essential-tips-for-capturing-evening-portraits/"><u>2024 Approved Essential Tips for Capturing Evening Portraits</u></a></li>
-<li><a href="https://extra-information.techidaily.com/3-top-notch-smartphones-excelling-at-video-capture/"><u>3 Top-Notch Smartphones Excelling at Video Capture</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-itop-screen-recorder-review/"><u>In 2024, ITop Screen Recorder Review</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/leading-photo-blending-software-transform-your-photography-experience/"><u>Leading Photo Blending Software: Transform Your Photography Experience</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/optimizing-compression-a-guide-to-lzma-configuration-options/"><u>Optimizing Compression: A Guide to LZMA Configuration Options</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-tutorial-transforming-your-avchd-videos-into-avi-on-a-windows-pc/"><u>Step-by-Step Tutorial: Transforming Your AVCHD Videos Into AVI on a Windows PC</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/top-5-essential-steps-for-securing-your-profile-after-a-facebook-compromise/"><u>Top 5 Essential Steps for Securing Your Profile After a Facebook Compromise</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-free-image-editor-apps/"><u>[New] The Ultimate Guide to Free Image Editor Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-recording-skype-meetings-on-modern-operating-systems/"><u>[Updated] 2024 Approved Recording Skype Meetings on Modern Operating Systems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-novice-to-expert-speaker-in-minutes-with-these-apps/"><u>From Novice to Expert Speaker in Minutes with These Apps</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-meizu-21-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Meizu 21 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-look-at-the-average-performing-viewsonic-va1655-portable-monitor/"><u>In-Depth Look at the Average Performing ViewSonic VA1655 Portable Monitor</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/interactive-setup-folder-choice-interface/"><u>Interactive Setup Folder Choice Interface</u></a></li>
+<li><a href="https://win-trending.techidaily.com/quick-guide-creating-a-unified-flipbook-from-multiple-pdfs-using-flipbuilder/"><u>Quick Guide: Creating a Unified Flipbook From Multiple PDFs Using FlipBuilder</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-tecno-spark-10-4g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Tecno Spark 10 4G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-free-sites-to-stream-and-download-mix-tapes-online/"><u>Top Free Sites to Stream & Download Mix Tapes Online</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-recommended-substitutes-for-bearshare-worth-exploring/"><u>Top Recommended Substitutes for BearShare Worth Exploring</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-guide-to-powerful-apps-seamless-removal-of-items-in-photographs/"><u>Ultimate Guide to Powerful Apps: Seamless Removal of Items in Photographs</u></a></li>
 </ul></div>
 

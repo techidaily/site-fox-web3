@@ -1,7 +1,7 @@
 ---
 title: Ensuring Secure XML File Handling Through the Permissions Tab Interface
-date: 2024-10-01T20:19:07.297Z
-updated: 2024-10-05T18:13:46.965Z
+date: 2024-10-07T05:07:17.017Z
+updated: 2024-10-11T00:25:09.485Z
 tags:
   - user-guide
 categories:
@@ -104,10 +104,10 @@ Table of Contents
 ![Permissions Dialog](https://cdn.advancedinstaller.com/img/dialog/xml-permissions.png "Permissions Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New...
@@ -115,10 +115,10 @@ Table of Contents
  This button creates a new permission for the selected file, folder, registry key or value. You will be able to edit the newly created permission in the popped up [Permission Dialog](https://tools.techidaily.com/advancedinstaller/products/). You can use the Insert key while the "Groups or user names" list is focused to create a new share permission. 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Edit...
@@ -126,10 +126,10 @@ Table of Contents
  Shows you the selected permission's properties and allows you to change them. You can use the Space key while an element is selected, to edit its properties.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Remove
@@ -169,18 +169,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-smile-slam-the-best-comedy-moments-on-social-media/"><u>[Updated] In 2024, Smile Slam The Best Comedy Moments on Social Media</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-premier-videochat-services-for-team-meetings/"><u>2024 Approved Premier Videochat Services for Team Meetings</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-lava-storm-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Lava Storm 5G</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/automatic-ifolder-synchronization-effortless-cloud-to-pc-and-pc-to-cloud-sharing-solutions/"><u>Automatic iFolder Synchronization: Effortless Cloud-to-PC & PC-to-Cloud Sharing Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-the-add-folder-now-obstacle-in-windows-onedrive-for-a-smooth-experience/"><u>Bypassing the 'Add Folder Now' Obstacle in Windows OneDrive for a Smooth Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-the-mystery-of-dvrs-what-are-they-really/"><u>Decoding the Mystery of DVRs: What Are They Really?</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/efficient-strategies-for-combining-various-images-into-one-unified-pdf-document/"><u>Efficient Strategies for Combining Various Images Into One Unified PDF Document</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-samsung-galaxy-m54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Samsung Galaxy M54 5G?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-imovies-repaired-files-in-quicktime-player-a-step-by-step-guide/"><u>How to Play iMovie's Repaired Files in QuickTime Player: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/is-it-possible-for-malicious-software-to-conceal-within-bios-systems-securing-your-computer-against-viruses/"><u>Is It Possible for Malicious Software to Conceal Within BIOS Systems? Securing Your Computer Against Viruses</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/recovering-deleted-contact-info-from-your-iphone-7-expert-tips-and-tricks/"><u>Recovering Deleted Contact Info From Your iPhone 7: Expert Tips & Tricks</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/revolutionize-your-business-with-ipatchsolutions-the-ultimate-project-management-tool/"><u>Revolutionize Your Business with IPatchSolutions: The Ultimate Project Management Tool</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-echoing-quietness-a-guide-to-purifying-your-podcasts-from-high-frequency-humming/"><u>Updated In 2024, Echoing Quietness A Guide to Purifying Your Podcasts From High-Frequency Humming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gamings-finest-top-10-gpu-picks-for-clear-online-broadcasts/"><u>[New] 2024 Approved Gaming's Finest Top 10 GPU Picks for Clear Online Broadcasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-notch-chromebook-snapshot-tool/"><u>[New] Top-Notch Chromebook Snapshot Tool</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1-understanding-net-native-imaging-options/"><u>1. Understanding .NET Native Imaging Options</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/best-free-software-for-windows-users-to-change-video-formats-for-free/"><u>Best Free Software for Windows Users to Change Video Formats for Free</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/choreographing-vids-with-a-musical-twist-in-snapchat-for-2024/"><u>Choreographing Vids with a Musical Twist in Snapchat for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/discover-the-latest-innovations-must-have-iphone-12-updates/"><u>Discover the Latest Innovations: Must-Have iPhone 12 Updates</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-team-management-mastering-the-organizational-search-interface/"><u>Effective Team Management: Mastering the Organizational Search Interface</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-winx-dvd-ripper-convert-dvds-to-mp4avi-formats-for-ios-and-android-devices/"><u>Free WinX DVD Ripper: Convert DVDs to MP4/AVI Formats for iOS and Android Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/future-tech-news-apple-aims-to-integrate-cameras-in-next-gen-airpods-by-2026-insights-from-zdnet/"><u>Future Tech News: Apple Aims to Integrate Cameras in Next-Gen AirPods by 2026 – Insights From ZDNet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-top-video-chat-tools-on-windows-6-1-leaders/"><u>In 2024, Top Video Chat Tools on Windows #6-#1 Leaders</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-6-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 6 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/modify-executable-file-properties-interface/"><u>Modify Executable File Properties Interface</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-initial-boot-failure-in-elden-ring-a-players-handbook-for-the-dark-screen-error/"><u>Overcoming Initial Boot Failure in Elden Ring: A Player's Handbook for the Dark Screen Error</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/tailored-actions-series-crafting-personalized-interaction-flows-for-enhanced-engagement/"><u>Tailored Actions Series: Crafting Personalized Interaction Flows for Enhanced Engagement</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-filmmakers-key-to-cohesion-mastering-kinemaster-edits-for-2024/"><u>The Filmmaker's Key to Cohesion Mastering Kinemaster Edits for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-free-mp3-download-sites-the-ultimate-list-for-music-lovers/"><u>Top Free MP3 Download Sites: The Ultimate List for Music Lovers</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-techniques-to-transform-cda-tracks-into-high-quality-mp3-streams/"><u>Top Techniques to Transform CDA Tracks Into High-Quality MP3 Streams</u></a></li>
 </ul></div>
 

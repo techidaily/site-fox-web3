@@ -1,7 +1,7 @@
 ---
 title: ActiveX Component Class - Exploring ICOM and Beyond
-date: 2024-10-03T20:57:41.194Z
-updated: 2024-10-05T19:53:26.645Z
+date: 2024-10-04T20:32:18.459Z
+updated: 2024-10-11T05:57:15.325Z
 tags:
   - user-guide
 categories:
@@ -114,15 +114,28 @@ Table of Contents
 
 ## IComClassActiveX
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 IComClassActiveX: IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -130,10 +143,10 @@ IComClassActiveX: IDispatch
 This interface is meant to edit COM classes that will be registered.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -163,10 +176,10 @@ This interface is meant to edit COM classes that will be registered.
 **Array<String> ImplementedCategories** \- Gets the categories this COM implements.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -180,13 +193,6 @@ This interface is meant to edit COM classes that will be registered.
 **AddSafeForInitializingCategory()** \- specifies that this COM implements "Controls safely initializable from persistent data" category.
 
 **RemoveCategory(String aCategory)** \- removes the specified category.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## See also
 
@@ -227,18 +233,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-navigating-through-top-film-makers-landscape/"><u>[New] In 2024, Navigating Through Top Film Makers' Landscape</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-precision-perfecting-10-must-know-pixlr-hacks/"><u>[New] Precision Perfecting 10 Must-Know Pixlr Hacks</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-navigating-the-world-of-video-editing-for-youtube-creators/"><u>[Updated] Navigating the World of Video Editing for YouTube Creators</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/best-software-solutions-for-tablet-screenshots-and-recording/"><u>Best Software Solutions for Tablet Screenshots and Recording</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/complete-guide-retrieving-lost-files-on-your-motorola-droid-razr-maxx-hd-with-data-rescue-techniques/"><u>Complete Guide: Retrieving Lost Files on Your Motorola Droid Razr Maxx HD with Data Rescue Techniques</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/discover-the-latest-innovations-must-have-iphone-12-updates/"><u>Discover the Latest Innovations: Must-Have iPhone 12 Updates</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/endless-tunes-with-mp3-jam-substitutes-discover-explore-and-download-free-songs/"><u>Endless Tunes with MP3 Jam Substitutes: Discover, Explore & Download Free Songs</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-bypass-the-configuring-windows-stuck-phase-and-continue-setup/"><u>How to Bypass the 'Configuring Windows' Stuck Phase and Continue Setup</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Infinix Note 30? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-best-solutions-for-oneplus-network-unlock-by-drfone-android/"><u>In 2024, Best Solutions for OnePlus Network Unlock</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-dawn-of-ai-pcs-can-your-new-2024-laptop-match-the-power-of-microsoft-copilotplus/"><u>The Dawn of 'AI PCs': Can Your New 2024 Laptop Match the Power of Microsoft Copilot+?</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/top-techniques-to-transform-cda-tracks-into-high-quality-mp3-streams/"><u>Top Techniques to Transform CDA Tracks Into High-Quality MP3 Streams</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-fast-track-speeding-up-vimeo-videos/"><u>[New] In 2024, Fast Track Speeding Up Vimeo Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-beyond-the-screen-advanced-techniques-in-logging-virtual-reality-games-for-2024/"><u>[Updated] Beyond the Screen Advanced Techniques in Logging Virtual Reality Games for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-solutions-to-youtube-short-pitfalls/"><u>[Updated] Unveiling Solutions to YouTube Short Pitfalls</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/enhance-your-sound-capture-experience-with-apowersofts-updated-40-streaming-audio-recorder/"><u>Enhance Your Sound Capture Experience with Apowersoft's Updated 4.0 Streaming Audio Recorder!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-google-pixel-8-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Google Pixel 8 is off? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essentials-of-choosing-between-an-independent-or-major-company-status-on-youtube/"><u>In 2024, The Essentials of Choosing Between an Independent or Major Company Status on YouTube</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/introducing-apowersoft-mac-screen-recorder-v20-experience-advanced-recording-capabilities-and-smooth-operation-on-your-mac/"><u>Introducing Apowersoft Mac Screen Recorder v2.0 – Experience Advanced Recording Capabilities and Smooth Operation on Your Mac</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-sky-advanced-drone-footage-editing-for-2024/"><u>Navigating the Sky Advanced Drone Footage Editing for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/navigating-through-apowerrecs-transaction-policies-a-comprehensive-guide/"><u>Navigating Through ApowerREC's Transaction Policies: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-spellbreaks-pc-crash-issues-expert-guidance/"><u>Solving Spellbreak's PC Crash Issues - Expert Guidance</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-guide-mastering-audio-recording-techniques-in-windows-11/"><u>Ultimate Guide: Mastering Audio Recording Techniques in Windows 11</u></a></li>
 </ul></div>
 

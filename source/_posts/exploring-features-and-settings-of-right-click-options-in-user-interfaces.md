@@ -1,7 +1,7 @@
 ---
 title: Exploring Features and Settings of Right-Click Options in User Interfaces
-date: 2024-10-03T19:03:54.298Z
-updated: 2024-10-05T16:44:11.262Z
+date: 2024-10-03T20:52:30.697Z
+updated: 2024-10-10T22:07:28.259Z
 tags:
   - user-guide
 categories:
@@ -94,26 +94,13 @@ A Sparse Package is required to configure this option. It will be automatically 
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Digital signature is mandatory for this option. All Sparse Packages have to be digitally signed, thus the above Sparse Package will be signed with the digital signature configured in your project.
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)"Windows 11 Context Menu" option takes effect at install time only if the digital certificate used to signed the setup package is a trusted certificate on target machine (i.e. is installed in "Trusted Root Certification Authorities" certificates store). Otherwise its installation will be skipped.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Digital Signing with a Cloud Hosted Service
@@ -128,26 +115,26 @@ Copy
 
 ## Display
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Name
 
 Specify the name of the context menu item. Formatted type.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Icon
 
 Select or specify the icon (a \*.ico file) of the context menu item. Formatted type.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General
@@ -160,6 +147,13 @@ The type of the context menu is displayed in this field:
 * Folder
 * Background
 * Drive
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Command
 
@@ -198,19 +192,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/omedic-choreography-producing-funny-mock-films/"><u>[New] Comedic Choreography Producing Funny Mock Films</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-top-10-must-have-features-in-drone-gimbals-for-2024/"><u>[New] Top 10 Must-Have Features in Drone Gimbals for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-dive-deep-into-the-past-with-these-top-10-student-friendly-yt-channels/"><u>2024 Approved Dive Deep Into the Past with These Top 10 Student-Friendly YT Channels</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-5-gif-to-video-converter-online-no-need-to-download/"><u>Best 5 GIF to Video Converter Online [No Need to Download]</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/exploring-the-app-settings-tab-functions-and-use-cases/"><u>Exploring the 'App Settings' Tab: Functions and Use Cases</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-monitor-and-update-your-softwares-file-size-metrics-effectively/"><u>How to Monitor and Update Your Software's File Size Metrics Effectively</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-protect-pdf-files-with-passwords-three-easy-methods/"><u>How To Protect PDF Files with Passwords – Three Easy Methods</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Honor 90? | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/modify-system-path-settings-a-comprehensive-guide/"><u>Modify System Path Settings: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/personalized-sql-link-setup-page/"><u>Personalized SQL Link Setup Page</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-fixes-for-rdo-pc-game-crashes-step-by-step-guide/"><u>Resolved: Fixes for RDO PC Game Crashes - Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-creating-your-own-usb-defender-key-for-windows-11-safety/"><u>Step-by-Step Guide: Creating Your Own USB Defender Key for Windows 11 Safety</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-guide-to-superior-liquid-games/"><u>The Ultimate Guide to Superior Liquid Games</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-does-a-blue-screen-of-death-mean-an-in-depth-guide-to-bsod-explained/"><u>What Does a Blue Screen of Death Mean? An In-Depth Guide to BSOD Explained</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-high-quality-passport-pictures-download-and-print-in-seconds/"><u>[New] Free High-Quality Passport Pictures - Download & Print in Seconds</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-enhancing-presentations-with-vo-techniques-in-ppt/"><u>[Updated] 2024 Approved Enhancing Presentations with VO Techniques in PPT</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/best-free-and-premium-pdf-reader-apps-for-iphone-x11se-top-11-picks/"><u>Best Free & Premium PDF Reader Apps for iPhone X/11/SE: Top 11 Picks</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/chinas-strategic-plan-elevating-state-run-supercomputing-power-to-300-exaflops-by-2025/"><u>China's Strategic Plan: Elevating State-Run Supercomputing Power to 300 ExaFLOPS by 2025</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-itel-p55-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Itel P55 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/customize-your-server-settings-the-ultimate-guide-to-editing-instance-properties/"><u>Customize Your Server Settings: The Ultimate Guide to Editing Instance Properties</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/endless-tunes-with-mp3-jam-substitutes-discover-explore-and-download-free-songs/"><u>Endless Tunes with MP3 Jam Substitutes: Discover, Explore & Download Free Songs</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/execute-command-in-custom-directory-efficient-file-management/"><u>Execute Command in Custom Directory - Efficient File Management</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-infinix-hot-30-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Infinix Hot 30 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-honor-play-40c-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Honor Play 40C</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-pc-gaming-a-complete-guide-to-playing-brawl-stars/"><u>Mastering PC Gaming: A Complete Guide to Playing Brawl Stars</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/professional-apowersoft-advisory-solutions/"><u>Professional Apowersoft Advisory Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-turning-off-website-notifications-across-chrome-firefox-and-edge-browsers/"><u>Step-by-Step Guide: Turning Off Website Notifications Across Chrome, Firefox and Edge Browsers</u></a></li>
+<li><a href="https://win11.techidaily.com/surges-subdued-mastering-the-art-of-cpu-management-in-rm/"><u>Surges Subdued: Mastering the Art of CPU Management in RM</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/the-ultimate-ranking-best-image-editing-applications-in-2vear-2021-for-android-and-ios-devices/"><u>The Ultimate Ranking: Best Image Editing Applications in 2Vear 2021 for Android and iOS Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-elon-musks-grok-ai-features-and-pricing-details-unveiled/"><u>Understanding Elon Musk's Grok AI: Features & Pricing Details Unveiled</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Automatic iFolder Synchronization: Effortless Cloud-to-PC & PC-to-Cloud Sharing Solutions"
-date: 2024-10-01T18:36:23.395Z
-updated: 2024-10-05T16:26:02.677Z
+date: 2024-10-05T02:07:03.443Z
+updated: 2024-10-10T17:39:20.675Z
 tags:
   - user-guide
 categories:
@@ -116,16 +116,10 @@ Table of Contents
 This interface is meant to specify details about folder synchronization to a source folder on disk.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -133,10 +127,10 @@ This interface is meant to specify details about folder synchronization to a sou
 IFolderSync : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -158,10 +152,16 @@ IFolderSync : IDispatch
 **String FileComponentAssigning** \- Gets or sets the way that the component is assigned to file added in the project. The option set here is applied only to new files added by synchronization, from the moment it is selected. Components for existing files are untouched when this option gets changed. Supported values: BestSuitedComponent NewComponent FolderComponent.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -205,22 +205,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-new-era-for-sony-blu-ray-player-s6700/"><u>[New] In 2024, New Era for Sony Blu-Ray Player S6700</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unleash-your-photo-and-video-potential-with-your-cellphones-webcam-features/"><u>[Updated] In 2024, Unleash Your Photo & Video Potential with Your Cellphone's Webcam Features</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/2-personalized-spacecraft-deployment-criteria/"><u>2. Personalized Spacecraft Deployment Criteria</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-capturing-quality-logitech-webcam-recording-guide/"><u>2024 Approved Capturing Quality Logitech Webcam Recording Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/a-guide-to-adjusting-your-file-folders-characteristics-via-the-properties-panel/"><u>A Guide to Adjusting Your File Folders' Characteristics via the Properties Panel</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/a-guide-to-designing-professional-quote-graphics/"><u>A Guide to Designing Professional Quote Graphics</u></a></li>
-<li><a href="https://extra-information.techidaily.com/avoiding-manual-transcription-by-leveraging-voice-recognition-in-ppt/"><u>Avoiding Manual Transcription by Leveraging Voice Recognition in PPT</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-wirelessly-charge-your-iphone-try-these-7-remedies-now/"><u>Can't Wirelessly Charge Your iPhone? Try These 7 Remedies Now</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effective-techniques-for-reducing-the-size-of-wav-audio-files/"><u>Effective Techniques for Reducing the Size of WAV Audio Files</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-chatgpt-can-help-you-land-your-dream-job/"><u>How ChatGPT Can Help You Land Your Dream Job</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/rapid-immersion-learn-a-new-language-fast/"><u>Rapid Immersion: Learn a New Language Fast</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/seamless-data-management-understanding-the-duplicate-and-relocate-interface/"><u>Seamless Data Management: Understanding the Duplicate & Relocate Interface</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-sound-headphones-and-playstation-5/"><u>Seamless Sound: Headphones & PlayStation 5</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-successfully-exiting-safe-mode-in-windows-11/"><u>Step-by-Step Guide: Successfully Exiting Safe Mode in Windows 11</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/sync-your-files-with-ease-the-ultimate-guide-to-seamless-folder-sync/"><u>Sync Your Files with Ease: The Ultimate Guide to Seamless Folder Sync</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/the-ultimate-list-of-top-5-essential-live-streaming-platforms/"><u>The Ultimate List of Top 5 Essential Live Streaming Platforms</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ultimate-strategy-tips-and-tricks-for-excelling-at-boom-beach-on-windows-and-mac/"><u>Ultimate Strategy: Tips and Tricks for Excelling at Boom Beach on Windows and Mac</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-google-meeting-documentation-a-time-saving-guide/"><u>[Updated] 2024 Approved Mastering Google Meeting Documentation A Time-Saving Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-a-comprehensible-breakdown-for-youtube-annotation-and-card-implementation-for-2024/"><u>[Updated] A Comprehensible Breakdown for YouTube Annotation and Card Implementation for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-enlarge-your-videos-thumbnail-on-youtube-easily/"><u>2024 Approved Enlarge Your Video's Thumbnail on YouTube Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ibeatpro-tips-for-mobile-music-video-filmmaking/"><u>2024 Approved IBeatPro Tips for Mobile Music Video Filmmaking</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-x-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone X | Stellar</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-humor-how-chatgpts-joke-crafting-skills-compare-with-human-comedians/"><u>AI Humor: How ChatGPT's Joke-Crafting Skills Compare with Human Comedians</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoiding-common-mistakes-in-macos-mixer-streaming-for-2024/"><u>Avoiding Common Mistakes in MacOS Mixer Streaming for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/best-methods-for-streaming-pubg-mobile-gameplay-from-pc-or-mac/"><u>Best Methods for Streaming PUBG Mobile Gameplay From PC or Mac</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/comprehensive-guide-to-font-file-registration-process-for-webmasters/"><u>Comprehensive Guide to Font File Registration Process for Webmasters</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/deep-dive-into-expert-level-installer-programming-strategies/"><u>Deep Dive Into Expert-Level Installer Programming Strategies</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/expert-guide-utilizing-preset-conversations-in-your-resume/"><u>Expert Guide: Utilizing Preset Conversations in Your Resume</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-modify-options-in-the-thinapp-setup-window-for-optimal-performance/"><u>How to Modify Options in the ThinApp Setup Window for Optimal Performance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/jokesonscreen-pro/"><u>JokesOnScreen Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macos-15-sequoia-release-date-features-and-news/"><u>MacOS 15 (Sequoia): Release Date, Features and News</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/seamless-transfer-of-iphone-contacts-to-your-ipad-a-hassle-free-approach/"><u>Seamless Transfer of iPhone Contacts to Your iPad - A Hassle-Free Approach</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/selecting-secure-queries-essential-tips-for-optimal-account-protection/"><u>Selecting Secure Queries: Essential Tips for Optimal Account Protection</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/wireless-display-show-your-iphone-screen-on-an-lg-smart-tv/"><u>Wireless Display: Show Your iPhone Screen on an LG Smart TV</u></a></li>
 </ul></div>
 

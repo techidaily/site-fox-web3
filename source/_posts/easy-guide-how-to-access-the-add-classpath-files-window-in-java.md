@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: How to Access the Add Classpath Files Window in Java"
-date: 2024-09-28T17:41:04.106Z
-updated: 2024-10-05T21:01:23.841Z
+date: 2024-10-10T00:57:13.287Z
+updated: 2024-10-10T19:06:56.377Z
 tags:
   - user-guide
 categories:
@@ -84,10 +84,10 @@ Table of Contents
 ![Add Classpath Files Dialog](https://cdn.advancedinstaller.com/img/dialog/add-classpath-files.png "Add Classpath Files Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Wildcard Path
@@ -97,19 +97,19 @@ In this field, you can declare custom locations with wildcard support. The files
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) field can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The location of the files can be **absolute** or**relative**. If the location will not point to an**absolute** path, it is considered as **relative** to the Java Product folder.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Examples:
@@ -164,22 +164,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-online-platforms-embedding-video-playlists-from-youtube/"><u>[New] 2024 Approved Online Platforms Embedding Video Playlists From YouTube</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-androvid-video-editor-complete-review/"><u>[Updated] AndroVid Video Editor – Complete Review</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-srt-insertion-a-complete-guide-to-mp4-improvement/"><u>2024 Approved Mastering SRT Insertion A Complete Guide to MP4 Improvement</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/choose-your-tongue-mastering-the-select-language-prompt/"><u>Choose Your Tongue: Mastering the Select Language Prompt</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/enhance-visibility-with-easy-billboard-copy-modification-tips/"><u>Enhance Visibility with Easy Billboard Copy Modification Tips</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/exploring-features-and-settings-of-right-click-options-in-user-interfaces/"><u>Exploring Features and Settings of Right-Click Options in User Interfaces</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-8-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 8, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-apple-iphone-11-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>In 2024, Change Location on Yik Yak For your Apple iPhone 11 Pro to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/introducing-apowersoft-mac-screen-recorder-v20-experience-advanced-recording-capabilities-and-smooth-operation-on-your-mac/"><u>Introducing Apowersoft Mac Screen Recorder v2.0 – Experience Advanced Recording Capabilities and Smooth Operation on Your Mac</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/maximize-your-drones-visual-potential-essential-gimbal-selection-tips/"><u>Maximize Your Drones' Visual Potential Essential Gimbal Selection Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-virtualbox-install-handle-dependencies/"><u>Optimize VirtualBox Install: Handle Dependencies</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/pc-gaming-tips-learn-the-ins-and-outs-of-excelling-at-snowballio-online/"><u>PC Gaming Tips: Learn the Ins and Outs of Excelling at Snowball.io Online</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/seamless-link-management-your-essential-file-association-hub/"><u>Seamless Link Management: Your Essential File Association Hub</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-incorporating-a-youtube-playlist-into-your-site-with-seamless-autoplay-features/"><u>Step-by-Step Guide: Incorporating a YouTube Playlist Into Your Site with Seamless Autoplay Features</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/top-3-apps-for-effortlessly-moving-your-iphone-content-and-info/"><u>Top 3 Apps for Effortlessly Moving Your iPhone Content and Info</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-streamline-filmmaking-install-xps-media-tools/"><u>[New] In 2024, Streamline Filmmaking Install XP's Media Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-integrating-your-podcast-into-apple-music-for-2024/"><u>[New] Integrating Your Podcast Into Apple Music for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ideal-online-platforms-for-youtube-promotion-for-2024/"><u>[Updated] Ideal Online Platforms for YouTube Promotion for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/2-personalized-spacecraft-deployment-criteria/"><u>2. Personalized Spacecraft Deployment Criteria</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-top-strategies-for-integrating-facebook-live-into-your-site/"><u>2024 Approved Top Strategies for Integrating Facebook Live Into Your Site</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/advanced-techniques-in-digital-analytics-pages-enhancing-online-performance/"><u>Advanced Techniques in Digital Analytics Pages: Enhancing Online Performance</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/custom-file-handling-actions-innovative-approaches/"><u>Custom File Handling Actions: Innovative Approaches</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-strategies-to-protect-your-chrome-browser-from-invasive-pop-up-threats-with-malwarefox/"><u>Effective Strategies to Protect Your Chrome Browser From Invasive Pop-Up Threats with MalwareFox</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-techniques-for-reducing-the-size-of-wav-audio-files/"><u>Effective Techniques for Reducing the Size of WAV Audio Files</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-crafting-content-that-captivates-for-virality-on-ig/"><u>In 2024, Crafting Content that Captivates for Virality on IG</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premium-android-vr3d-player-selection/"><u>In 2024, Premium Android VR/3D Player Selection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lihan-lhfm1c039-reviewed-seamless-bluetooth-fm-transmitter-for-in-car-entertainment-upgrade/"><u>LIHAN LHFM1C039 Reviewed: Seamless Bluetooth FM Transmitter for In-Car Entertainment Upgrade</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/managing-files-and-organizing-directories-in-installation-setup/"><u>Managing Files & Organizing Directories in Installation Setup</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-transform-your-videos-top-mp4-to-mp3-conversion-tools/"><u>New Transform Your Videos Top MP4 to MP3 Conversion Tools</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/seamless-data-management-understanding-the-duplicate-and-relocate-interface/"><u>Seamless Data Management: Understanding the Duplicate & Relocate Interface</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/seamlessly-importing-personalized-ringtones-onto-your-ios-device/"><u>Seamlessly Importing Personalized Ringtones Onto Your iOS Device</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/understanding-the-ixmlfilemanager-component/"><u>Understanding the iXMLFileManager Component</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-amozekioe11-not-working-heres-how-you-can-repair-it/"><u>Windows Amozekioe11 Not Working? Here's How You Can Repair It</u></a></li>
 </ul></div>
 

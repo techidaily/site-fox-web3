@@ -1,7 +1,7 @@
 ---
 title: "Exploring Various Templates and Styles: The Ultimate Guide to Theme Pages"
-date: 2024-09-29T21:06:22.112Z
-updated: 2024-10-05T17:38:05.273Z
+date: 2024-10-08T00:32:20.682Z
+updated: 2024-10-11T01:00:48.218Z
 tags:
   - user-guide
 categories:
@@ -111,25 +111,31 @@ To change the current theme, select the desired one and use the command “Set a
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Some themes, by default, make use of controls available only on specific versions of Windows (e.g. _Azure_ uses [Command Link Controls](https://tools.techidaily.com/advancedinstaller/products/) which are available starting with Windows Vista). Please test accordingly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The _Spring_ theme is not compatible with systems having custom DPI scalling. The UI controls may not be resized correctly.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Frame
 
 From this combobox you can select how the dialogs frame will be presented. It contains the "System" option along with predefined frames specific for the currently selected theme. The **System** frame is specific to the Windows Operating System the package will run on. Some themes might not support frame change.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Custom Frame
 
@@ -154,13 +160,6 @@ The default color (that is automatically generated from the Base Color) is displ
 
 To revert to the default color use _Revert to default color_ context menu option or the button from the color picker.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Theme Specific Options
 
 More Options are available in the right part of the window.
@@ -179,19 +178,6 @@ The following operations are possible:
 * If you want to discard any changes and return to the default resources, click on the \[...\] button and select the "Reset" context menu option.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The images that can be changed differ from one theme to another.
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Image Sizes
 
@@ -237,6 +223,13 @@ The default image sizes used by Advanced Installer specific for each theme are:
 | Banner image  | 500 x 59       |
 | Dialog image  | 500 x 316      |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Options
 
 This combobox is available **only** for themes that can be extra customized:
@@ -249,24 +242,31 @@ This combobox is available **only** for themes that can be extra customized:
 ![Test Installation UI](https://cdn.advancedinstaller.com/img/toolbar/test-ui.png "Test Installation UI")Use the \[Test Installation UI \] toolbar button in the "Themes" page. This will create a temporary package in the Temp folder and run it without performing an actual installation. Since the package is not installed on your machine, only the installation UI sequence can be tested.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Testing the maintenance User Interface
 
 ![Test Maintenance UI](https://cdn.advancedinstaller.com/img/toolbar/test-maintenance-ui.png "Test Maintenance UI")Use the \[Test Maintenance UI \] toolbar button in the "Themes" page. This will create a temporary package in the Temp folder and run it without performing an actual installation. Your product is temporarily registered with Windows Installer so the maintenance UI sequence can be tested..
 
-![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)These options require at least an [Enterprise](https://tools.techidaily.com/advancedinstaller/products/) or Architect project.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)These options require at least an [Enterprise](https://tools.techidaily.com/advancedinstaller/products/) or Architect project.
 
 ## Topics
 
@@ -310,22 +310,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-transform-your-memories-into-engaging-facebook-slides-for-2024/"><u>[New] Transform Your Memories Into Engaging Facebook Slides for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-speedy-screen-grab-creation-techniques-for-2024/"><u>[Updated] Speedy Screen Grab Creation Techniques for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-instant-time-stamping-techniques-for-youtube-videos/"><u>2024 Approved Instant Time-Stamping Techniques for YouTube Videos</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/celebrating-unprecedented-support-success-with-245-satisfaction/"><u>Celebrating Unprecedented Support Success with 245% Satisfaction</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nokia-g22-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/elevate-your-tunes-on-a-mac-explore-elite-music-software-options-today/"><u>Elevate Your Tunes on a Mac: Explore Elite Music Software Options Today!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/fbx-game-filming-for-beginners-for-2024/"><u>FBX Game Filming for Beginners for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-monitor-and-update-your-softwares-file-size-metrics-effectively/"><u>How to Monitor and Update Your Software's File Size Metrics Effectively</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-protect-pdf-files-with-passwords-three-easy-methods/"><u>How To Protect PDF Files with Passwords – Three Easy Methods</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/in-depth-guide-on-handling-multiple-copies-discussion-in-filesystems/"><u>In-Depth Guide on Handling Multiple Copies Discussion in Filesystems</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/modify-system-path-settings-a-comprehensive-guide/"><u>Modify System Path Settings: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resetting-time-zone-and-battery-life-on-amazon-kindle-paperwhite-devices/"><u>Resetting Time Zone and Battery Life on Amazon Kindle Paperwhite Devices</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-creating-your-own-usb-defender-key-for-windows-11-safety/"><u>Step-by-Step Guide: Creating Your Own USB Defender Key for Windows 11 Safety</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/successful-repair-hp-networking-issue-ended/"><u>Successful Repair: HP Networking Issue Ended</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/the-essential-guide-to-product-language-features-and-properties-in-global-markets/"><u>The Essential Guide to Product Language Features and Properties in Global Markets</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-roblox-error-262-fixed/"><u>Troubleshooting Roblox: Error 262 Fixed</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ultimate-guide-to-htc-video-file-format-changers-how-to-optimize-movies-and-clips-for-your-htc-smartphonetablet/"><u>Ultimate Guide to HTC Video File Format Changers: How to Optimize Movies and Clips for Your HTC Smartphone/Tablet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2024s-high-performance-cell-signal-improvers-find-the-best-one-to-upgrade-your-connection/"><u>2024'S High-Performance Cell Signal Improvers: Find the Best One to Upgrade Your Connection</u></a></li>
+<li><a href="https://article-files.techidaily.com/3-pinnacle-phones-for-professional-video-capture/"><u>3 Pinnacle Phones for Professional Video Capture</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/audio-restoration-on-visual-posts-from-twitter-for-2024/"><u>Audio Restoration on Visual Posts From Twitter for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/best-free-and-premium-pdf-reader-apps-for-iphone-x11se-top-11-picks/"><u>Best Free & Premium PDF Reader Apps for iPhone X/11/SE: Top 11 Picks</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/best-software-solutions-for-tablet-screenshots-and-recording/"><u>Best Software Solutions for Tablet Screenshots and Recording</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/complete-guide-retrieving-lost-files-on-your-motorola-droid-razr-maxx-hd-with-data-rescue-techniques/"><u>Complete Guide: Retrieving Lost Files on Your Motorola Droid Razr Maxx HD with Data Rescue Techniques</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/customize-your-server-settings-the-ultimate-guide-to-editing-instance-properties/"><u>Customize Your Server Settings: The Ultimate Guide to Editing Instance Properties</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discovering-the-world-with-canons-elegant-powershot-g9-x-ii-review/"><u>Discovering the World with Canon's Elegant PowerShot G9 X II Review</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-install-of-epson-wf-2750-printer-driver-download-now/"><u>Easy Install of Epson WF-2750 Printer Driver - Download Now!</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/endless-tunes-with-mp3-jam-substitutes-discover-explore-and-download-free-songs/"><u>Endless Tunes with MP3 Jam Substitutes: Discover, Explore & Download Free Songs</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/execute-command-in-custom-directory-efficient-file-management/"><u>Execute Command in Custom Directory - Efficient File Management</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagrams-best-practices-for-sensational-video-loops/"><u>Instagram's Best Practices for Sensational Video Loops</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-through-the-best-of-ai-conversational-agents-in-depth-review-of-chatgpt/"><u>Navigating Through The Best of AI Conversational Agents: In-Depth Review Of ChatGPT</u></a></li>
+<li><a href="https://facebook.techidaily.com/peek-into-your-virtual-fan-club/"><u>Peek Into Your Virtual Fan Club</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/professional-apowersoft-advisory-solutions/"><u>Professional Apowersoft Advisory Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-turning-off-website-notifications-across-chrome-firefox-and-edge-browsers/"><u>Step-by-Step Guide: Turning Off Website Notifications Across Chrome, Firefox and Edge Browsers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-gt-3-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Realme GT 3 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

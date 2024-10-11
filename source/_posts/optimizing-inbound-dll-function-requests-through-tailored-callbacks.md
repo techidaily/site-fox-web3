@@ -1,7 +1,7 @@
 ---
 title: Optimizing Inbound Dll Function Requests Through Tailored Callbacks
-date: 2024-09-29T17:08:10.480Z
-updated: 2024-10-05T20:47:03.087Z
+date: 2024-10-05T04:18:15.061Z
+updated: 2024-10-11T03:49:29.013Z
 tags:
   - user-guide
 categories:
@@ -126,10 +126,10 @@ Table of Contents
 ## IAttachedDllFunctionCallCustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,15 +137,22 @@ Table of Contents
 IAttachedDllFunctionCallCustomAction: ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
 
 This interface facilitates editing custom action for calling function from attached native dll.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Properties
 
@@ -156,10 +163,10 @@ This interface facilitates editing custom action for calling function from attac
 **String ActionData** \- .Gets or sets the value of the CustomActionData property. This property can be retrieved as a regular property inside Deferred custom actions and it is available only for DLL, JScript and VBScript custom actions. A common usage scenario is to use the CustomActionData property in Rollback Custom Actions since they are also deferred
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Example
@@ -170,13 +177,6 @@ $custAct = $project.CustomActionsComponent.NewAttachedNativeDllFunctionCall("D:\
 $custAct.FunctionName = "MyFunction1"
 
     Copy
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## See also
 
@@ -217,17 +217,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-ultimate-ios-tutorial-downloading-episodes-effortlessly-for-2024/"><u>[New] Ultimate iOS Tutorial Downloading Episodes Effortlessly for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-mastering-snapchats-call-and-chat-features/"><u>[Updated] 2024 Approved The Ultimate Guide Mastering Snapchat's Call & Chat Features</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/best-free-and-premium-pdf-reader-apps-for-iphone-x11se-top-11-picks/"><u>Best Free & Premium PDF Reader Apps for iPhone X/11/SE: Top 11 Picks</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/customize-your-server-settings-the-ultimate-guide-to-editing-instance-properties/"><u>Customize Your Server Settings: The Ultimate Guide to Editing Instance Properties</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo T2x 5G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-max-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Max Online? Here are 6 Easy Ways</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-poco-x5-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Poco X5 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-infinix-smart-8-plus-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Infinix Smart 8 Plus Phone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-sony-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Sony Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-drivers-available-for-canon-pixma-mg3022-free-downloads-and-installation-tips/"><u>Latest Drivers Available for Canon PIXMA MG3022 - Free Downloads & Installation Tips</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/professional-apowersoft-advisory-solutions/"><u>Professional Apowersoft Advisory Solutions</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-turning-off-website-notifications-across-chrome-firefox-and-edge-browsers/"><u>Step-by-Step Guide: Turning Off Website Notifications Across Chrome, Firefox and Edge Browsers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-evaluate-apps-in-depth-az-screen-logger/"><u>[New] 2024 Approved Evaluate Apps in Depth AZ Screen Logger</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/choose-your-tongue-mastering-the-select-language-prompt/"><u>Choose Your Tongue: Mastering the Select Language Prompt</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/enhance-visibility-with-easy-billboard-copy-modification-tips/"><u>Enhance Visibility with Easy Billboard Copy Modification Tips</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-film-a-slow-motion-video/"><u>How To Film a Slow Motion Video</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/pc-gaming-tips-learn-the-ins-and-outs-of-excelling-at-snowballio-online/"><u>PC Gaming Tips: Learn the Ins and Outs of Excelling at Snowball.io Online</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ng-through-mr-beasts-bank-statements-for-2024/"><u>Sifting Through Mr. Beast's Bank Statements for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-incorporating-a-youtube-playlist-into-your-site-with-seamless-autoplay-features/"><u>Step-by-Step Guide: Incorporating a YouTube Playlist Into Your Site with Seamless Autoplay Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-selecting-the-perfect-phone-case-for-you/"><u>Ultimate Guide: Selecting the Perfect Phone Case for You</u></a></li>
 </ul></div>
 

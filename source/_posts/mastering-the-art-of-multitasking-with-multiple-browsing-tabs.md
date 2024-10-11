@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Multitasking with Multiple Browsing Tabs
-date: 2024-10-04T17:01:13.532Z
-updated: 2024-10-05T16:51:39.451Z
+date: 2024-10-04T03:16:42.123Z
+updated: 2024-10-10T16:33:12.503Z
 tags:
   - user-guide
 categories:
@@ -76,14 +76,14 @@ Table of Contents
 
 ![Program Run settings](https://cdn.advancedinstaller.com/img/dialog/sccm-program-run.png "Program Run settings")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## General
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Run when
 
@@ -95,13 +95,6 @@ This option specifies the user status required by the program to run on the clie
 
 By default, the _"When a user is logged on"_ option is selected.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### User assignment
 
 This option specifies how the program is assigned to users. The following options are available:
@@ -109,31 +102,38 @@ This option specifies how the program is assigned to users. The following option
 * Only the first user who logs on runs the program
 * Every user who logs on runs the program
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Run using administrator rights
 
 This option specifies if the program requires administrative privileges to run on the client machine.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Allow the user to interact with the program
 
 This option specifies whether the program requires interaction with the user to complete running. This option will be automatically**disabled** if the "When a user is logged on" option is**not selected** under "Run when" field.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use the Client Software Installation Account when running
 
 This option specifies whether the program uses the Client Software Installation Account when running on the client computer. This option is automatically **disabled** if the "When a user is logged on" option is   **selected** under "Run when" field.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### The program will not be advertised to clients
 
@@ -189,24 +189,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-virtual-escapades-you-cant-afford-to-miss/"><u>[New] Virtual Escapades You Can't Afford to Miss</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/battle-against-halo-infinite-crashing-on-your-computer-try-our-easy-steps/"><u>Battle Against Halo Infinite Crashing on Your Computer? Try Our Easy Steps</u></a></li>
-<li><a href="https://win-able.techidaily.com/battling-pc-bugs-mastering-stable-warcraft-3-reforged-play-in-the-new-year/"><u>Battling PC Bugs? Mastering Stable Warcraft 3 Reforged Play in the New Year</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/discover-the-optimal-techniques-for-cable-free-mi-tv-and-pc-screen-mirroring/"><u>Discover the Optimal Techniques for Cable-Free Mi TV and PC Screen Mirroring</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/download-your-favorite-songs-at-no-cost-using-top-rated-safari-mp3-downloader/"><u>Download Your Favorite Songs at No Cost Using Top-Rated Safari MP3 Downloader</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/enhanced-gui-designs-for-advanced-installation-software/"><u>Enhanced GUI Designs for Advanced Installation Software</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experience-enhanced-gaming-on-the-go-the-acer-predator-triton-300-se-review-for-gamers-seeking-quality-and-affordability/"><u>Experience Enhanced Gaming on the Go: The Acer Predator Triton 300 SE Review for Gamers Seeking Quality and Affordability</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/expert-techniques-for-inserting-pdf-content-into-existing-files-a-complete-replacement-guide/"><u>Expert Techniques for Inserting PDF Content Into Existing Files - A Complete Replacement Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/guide-to-uncovering-active-software-installations-on-pc-or-mac/"><u>Guide to Uncovering Active Software Installations on PC or Mac</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/hashtag-heroes-twitters-trending-talk-for-2024/"><u>Hashtag Heroes Twitter's Trending Talk for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-11-pro-max-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone 11 Pro Max After iOS Update? | Stellar</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-redmi-note-13-pro-5g-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Redmi Note 13 Pro 5G Phone Forgot Password</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-y78plus-t1-edition-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo Y78+ (T1) Edition FRP Without Computer</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/mastering-audio-capture-on-your-mac-with-apowersoft-the-complete-how-to-guide/"><u>Mastering Audio Capture on Your Mac with Apowersoft - The Complete How-To Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/optimizing-inbound-dll-function-requests-through-tailored-callbacks/"><u>Optimizing Inbound Dll Function Requests Through Tailored Callbacks</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/optimizing-your-web-content-mastering-sql-database-pages/"><u>Optimizing Your Web Content: Mastering SQL Database Pages</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/the-ultimate-guide-to-efficient-video-compressing-apps-on-windows-11/"><u>The Ultimate Guide to Efficient Video Compressing Apps on Windows 11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-a-step-by-step-guide-to-embedding-timestamp-metadata/"><u>[New] 2024 Approved A Step-by-Step Guide to Embedding Timestamp Metadata</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-covert-capture-techniques-reducing-identifiable-parts-in-recordings-for-2024/"><u>[New] Covert Capture Techniques Reducing Identifiable Parts in Recordings for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-splitcam-probe-in-video-techs-top-spot/"><u>[Updated] In 2024, SplitCam Probe - In Video Tech's Top Spot?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-mastering-cost-effective-techniques-in-text-animations/"><u>2024 Approved Mastering Cost-Effective Techniques in Text Animations</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/android-mastery-instantly-add-apps-directly-from-your-computer-with-a-simple-tap/"><u>Android Mastery: Instantly Add Apps Directly From Your Computer with a Simple Tap!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/can-you-challenge-facebooks-video-copyright-holdouts-in-2024/"><u>Can You Challenge Facebook’s Video Copyright Holdouts, In 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/download-macxs-free-imovie-file-transformer-easily-change-mp4-mov-files-on-macos-without-spending-a-penny/"><u>Download MacX's Free iMovie File Transformer: Easily Change MP4, MOV Files On macOS Without Spending a Penny</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/leading-photo-blending-software-transform-your-photography-experience/"><u>Leading Photo Blending Software: Transform Your Photography Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-through-dark-times-effective-strategies-to-correct-the-blackout-on-facetime-calls/"><u>Navigate Through Dark Times: Effective Strategies to Correct the Blackout on FaceTime Calls</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-edit-video-tags-with-ease-best-tools-for-windows-and-mac/"><u>New 2024 Approved Edit Video Tags with Ease Best Tools for Windows and Mac</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/optimizing-compression-a-guide-to-lzma-configuration-options/"><u>Optimizing Compression: A Guide to LZMA Configuration Options</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-tutorial-transforming-your-avchd-videos-into-avi-on-a-windows-pc/"><u>Step-by-Step Tutorial: Transforming Your AVCHD Videos Into AVI on a Windows PC</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-5-essential-steps-for-securing-your-profile-after-a-facebook-compromise/"><u>Top 5 Essential Steps for Securing Your Profile After a Facebook Compromise</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-solutions-when-your-iphone-wont-deliver-messages/"><u>Top 7 Solutions When Your iPhone Won't Deliver Messages</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-recommended-software-for-projecting-your-iphone-screen-onto-a-computer/"><u>Top Recommended Software for Projecting Your iPhone Screen Onto a Computer</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-guide-top-4-video-shrinking-techniques-for-facebook-success/"><u>Ultimate Guide: Top 4 Video Shrinking Techniques for Facebook Success</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 1. Understanding .NET Native Imaging Options
-date: 2024-10-01T20:21:20.584Z
-updated: 2024-10-05T17:22:01.601Z
+date: 2024-10-06T23:15:41.621Z
+updated: 2024-10-11T05:29:42.917Z
 tags:
   - user-guide
 categories:
@@ -81,18 +81,18 @@ Table of Contents
 
 ![.NET Native Image Dialog](https://cdn.advancedinstaller.com/img/dialog/net-native-image.png ".NET Native Image Dialog")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Scenarios
 
 ### Debug
 
 Use this option to generate native images that can be used under a debugger.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Profile
 
@@ -101,13 +101,6 @@ Use this option to generate native images that can be used under a profiler.
 ### No Dependencies
 
 Use this option to generate the minimum number of native images required.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Installation
 
@@ -118,19 +111,6 @@ Use this option to generate the minimum number of native images required.
 * 64-bit native image - Generate native image only for the .NET Framework's 64-bit version.
 * 32-bit and 64-bit native images - Generate native image for both the 32-bit and the 64-bit .NET Framework versions.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Priority
 
 * Wait for this native image generation to continue - image generation occurs synchronously during the installation process. This is the highest priority level.
@@ -140,24 +120,38 @@ Use this option to generate the minimum number of native images required.
 
 ## Dependencies Location
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Unspecified
 
 Select this option if you don't have any dependencies or you want to let the generator use its default dependencies search mechanism.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Use the specified executable assembly's configuration
 
 Since the generator needs to make the same decisions as the loader when binding to dependencies for DLL assemblies which are loaded via reflection, this field should indicate the application which will load this assembly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use specified folder as the application base
 
 Folder used as the application base when locating dependencies.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Generator Version
 
@@ -171,10 +165,10 @@ The assembly required version will be used in case no version is specified. When
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Configuration file, Dependencies Base and No Dependencies options as well as Asynchronous or Idle generation priorities are supported by Native Image Generator (NGEN) starting with v2.0\. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -210,17 +204,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-vr-for-the-on-the-move-top-10-headsets-reviewed/"><u>[New] In 2024, VR for the On-the-Move Top 10 Headsets Reviewed</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/onthly-earnings-potential-on-youtube/"><u>[New] Monthly Earnings Potential on YouTube</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-snap-up-engagement-streamlined-methods-for-crop-and-export-to-instagram-for-2024/"><u>[Updated] Snap Up Engagement Streamlined Methods for Crop & Export to Instagram for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1-top-solutions-for-creating-a-transparent-logo-across-various-digital-mediums/"><u>1. Top Solutions for Creating a Transparent Logo Across Various Digital Mediums</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-rhythmic-repository-perfect-dj-templates-instantly-downloadable/"><u>2024 Approved Rhythmic Repository Perfect DJ Templates, Instantly Downloadable</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-chatgpt-the-next-evolutionary-leap-for-generative-ai-and-chatbots/"><u>Beyond ChatGPT: The Next Evolutionary Leap for Generative AI and Chatbots?</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/essential-remote-work-mastery-the-top-5-must-have-productivity-tools/"><u>Essential Remote Work Mastery: The Top 5 Must-Have Productivity Tools</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/mastering-quick-shots-effective-techniques-for-taking-a-screenshot-on-your-lenovo-device/"><u>Mastering Quick Shots: Effective Techniques for Taking a Screenshot on Your Lenovo Device</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-dividing-your-pdf-into-individual-documents/"><u>Step-by-Step Guide: Dividing Your PDF Into Individual Documents</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-how-to-cleanly-extract-stickers-from-your-reels-video-content/"><u>Step-by-Step Guide: How to Cleanly Extract Stickers From Your Reels Video Content</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-perfect-blend-of-performance-and-style-inside-look-at-the-corsair-one-pro-rig/"><u>The Perfect Blend of Performance & Style: Inside Look at the Corsair One Pro Rig</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-a05s-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy A05s FRP</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-unseen-factors-in-determining-a-videos-view-count-on-youtube-for-2024/"><u>[New] The Unseen Factors in Determining a Video’s View Count on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-ultimate-list-of-12-superior-flipscreen-vlog-cameras/"><u>[Updated] 2024 Approved The Ultimate List of 12 Superior Flipscreen Vlog Cameras</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-proven-strategies-for-smooth-recording-in-google-meethangouts-platforms/"><u>[Updated] In 2024, Proven Strategies for Smooth Recording in Google Meet/Hangouts Platforms</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1-optimize-your-site-advanced-configuration-techniques/"><u>1. Optimize Your Site: Advanced Configuration Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-narrative-noble-order-honors-hexagon/"><u>2024 Approved Narrative Noble Order - Honor's Hexagon</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/easy-guide-how-to-access-the-add-classpath-files-window-in-java/"><u>Easy Guide: How to Access the Add Classpath Files Window in Java</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-techniques-for-separating-your-logo-from-its-background/"><u>Effective Techniques for Separating Your Logo From Its Background</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-xiaomi-13t-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Xiaomi 13T using Video Repair Utility?</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/launch-configuration-options-in-the-system-setup-tab-a-comprehensive-guide/"><u>Launch Configuration Options in the System Setup Tab: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-icomponents-the-building-blocks-of-modern-applications/"><u>Mastering IComponents: The Building Blocks of Modern Applications</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-soft-focus-the-secret-of-great-bokeh-in-stories-for-2024/"><u>Mastering Soft Focus The Secret of Great Bokeh in Stories for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/neat-scanner-drivers-issues-in-windows-solved/"><u>Neat Scanner Drivers Issues in Windows [Solved]</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-hidden-paths-techniques-to-skip-without-watching-edgenuity-videos/"><u>The Hidden Paths Techniques to Skip Without Watching Edgenuity Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-insiders-look-at-editing-in-youtube-studio-for-2024/"><u>The Insider's Look at Editing in YouTube Studio for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-tutorial-mastering-the-art-of-capturing-screenshots-on-your-dell-device/"><u>Ultimate Tutorial: Mastering the Art of Capturing Screenshots on Your Dell Device</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/understanding-the-distinctions-a-comparative-analysis-of-antivirus-software-and-firewalls/"><u>Understanding the Distinctions: A Comparative Analysis of Antivirus Software and Firewalls</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Event Management Software: The Ultimate Guide to an Effective Events Editor"
-date: 2024-10-04T19:30:21.620Z
-updated: 2024-10-05T20:53:51.267Z
+date: 2024-10-07T17:36:30.228Z
+updated: 2024-10-10T17:49:25.239Z
 tags:
   - user-guide
 categories:
@@ -96,10 +96,10 @@ This pane allows you to add to a control from the dialog an associated event. Th
 Dialog initialization events allow you to execute actions (such as setting a property or populating a control from an UI custom action) before the current dialog is displayed.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a new initialization event
@@ -107,22 +107,15 @@ Dialog initialization events allow you to execute actions (such as setting a pro
 Use the \[New... \] button, the “New...” context menu item or press theInsert key while the list is focused. The [Edit Control Events Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to add a new control event to the list.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing an initialization event
 
 Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while an element is selected. The[Edit Control Events Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to edit a control event from the list.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Deleting an initialization event
 
@@ -137,10 +130,10 @@ Use the \[Up \] / \[Down \] buttons, the “Up” / “Down” context menu item
 A published control event specifies an action to be taken by the installer or a change in the attributes of one or more controls from a dialog box. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a new published event
@@ -148,10 +141,10 @@ A published control event specifies an action to be taken by the installer or a 
 Use the \[New... \] button, the “New...” context menu item or press theInsert key while the list is focused. The [Edit Control Events Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to add a new control event to the list.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing a published event
@@ -166,31 +159,31 @@ Use the \[Remove \] button, the “Remove” context menu item or press theDelet
 
 Use the \[Up \] / \[Down \] buttons, the “Up” / “Down” context menu items or press the Page Up / Page Down keys while an element is selected.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Subscribed Events
 
 The Subscribed Events tab allows you to subscribe the selected control to a list of control events, and lists the attribute to be changed when the event is published by another control or by Windows Installer.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Subscribing to a new event
 
 Use the \[New... \] button, the “New...” context menu item or press theInsert key while the list is selected. The[Edit Event Mapping Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to subscribe the control to an event.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Editing a subscribed event
 
 Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while an element is selected. The[Edit Event Mapping Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to edit an event mapping from the list.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Deleting a subscribed event
 
@@ -209,6 +202,13 @@ The Control Condition tab allows you to specify special actions to be applied to
 ### Editing control condition
 
 Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while an element is selected. The[Edit Control Condition Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to edit a control condition from the list.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Deleting control condition
 
@@ -264,19 +264,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-connect-to-the-world-with-our-12-video-livestreams/"><u>[New] In 2024, Connect to the World with Our 12 Video Livestreams</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-quick-and-easy-iphone-screen-recording-tutorial-for-2024/"><u>[New] Quick & Easy IPhone Screen Recording Tutorial for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-stealthy-strategies-for-anonymous-instagram-broadcasts/"><u>[Updated] In 2024, Stealthy Strategies for Anonymous Instagram Broadcasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-multicam-pro-advanced-real-time-streaming-and-online-webcam-solutions/"><u>1. MultiCam Pro: Advanced Real-Time Streaming and Online Webcam Solutions</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1-understanding-net-native-imaging-options/"><u>1. Understanding .NET Native Imaging Options</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/best-free-software-for-windows-users-to-change-video-formats-for-free/"><u>Best Free Software for Windows Users to Change Video Formats for Free</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comparative-study-alert-inshot-vs-standard-editors-for-2024/"><u>Comparative Study Alert InShot vs Standard Editors for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effective-team-management-mastering-the-organizational-search-interface/"><u>Effective Team Management: Mastering the Organizational Search Interface</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-find-n3-flip-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo Find N3 Flip FRP Bypass</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oppo-a79-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Oppo A79 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/tailored-actions-series-crafting-personalized-interaction-flows-for-enhanced-engagement/"><u>Tailored Actions Series: Crafting Personalized Interaction Flows for Enhanced Engagement</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/thunder-gods-fury-new-age-begins/"><u>Thunder God's Fury New Age Begins</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/top-free-mp3-download-sites-the-ultimate-list-for-music-lovers/"><u>Top Free MP3 Download Sites: The Ultimate List for Music Lovers</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ultimate-guide-top-4-video-shrinking-techniques-for-facebook-success/"><u>Ultimate Guide: Top 4 Video Shrinking Techniques for Facebook Success</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-social-media-spotlight-todays-top-8-video-phenomena/"><u>[New] 2024 Approved Social Media Spotlight Today’s Top 8 Video Phenomena</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-optimizing-youtube-performance-crafting-perfect-titles-and-tags/"><u>2024 Approved Optimizing YouTube Performance Crafting Perfect Titles and Tags</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/alternative-video-editing-tools-taking-over-from-windows-movie-maker/"><u>Alternative Video Editing Tools Taking Over From Windows Movie Maker</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/best-free-screen-recording-software-replacements-for-pc-and-macos/"><u>Best Free Screen Recording Software Replacements for PC & macOS</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-methods-of-dispatching-text-messages-via-computer-a-guide-for-android-mobile-users/"><u>Effective Methods of Dispatching Text Messages via Computer: A Guide for Android Mobile Users</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/efficient-methods-for-moving-videos-onto-your-samsung-galaxy-note-3/"><u>Efficient Methods for Moving Videos Onto Your Samsung Galaxy Note 3</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-gameplay-with-improved-3d-models/"><u>Enhancing Gameplay with Improved 3D Models</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enlightening-your-iphone-experience-with-new-camera-features/"><u>Enlightening Your iPhone Experience with New Camera Features</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-battle-of-broadcasting-is-obs-or-twitch-studio-superior/"><u>In 2024, Battle of Broadcasting Is OBS or Twitch Studio Superior?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-oneplus-ace-3-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your OnePlus Ace 3 is off? | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-elevate-your-brand-with-free-animated-logos-top-creators-and-tips-for-2024/"><u>New Elevate Your Brand with Free Animated Logos Top Creators and Tips for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/roblox-revealed-masterful-methods-for-closer-insight/"><u>Roblox Revealed Masterful Methods for Closer Insight</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-hp-zbook-15-g3-driver-installation-on-your-pc-with-windows-os/"><u>Step-by-Step Guide to HP ZBook 15 G3 Driver Installation on Your PC with Windows OS</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-eliminating-white-canvas-in-images/"><u>Step-by-Step Guide: Eliminating White Canvas in Images</u></a></li>
 </ul></div>
 

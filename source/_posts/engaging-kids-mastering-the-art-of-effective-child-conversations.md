@@ -1,7 +1,7 @@
 ---
 title: "Engaging Kids: Mastering the Art of Effective Child Conversations"
-date: 2024-10-02T20:52:56.931Z
-updated: 2024-10-05T16:13:28.067Z
+date: 2024-10-05T21:32:13.450Z
+updated: 2024-10-11T03:10:35.467Z
 tags:
   - user-guide
 categories:
@@ -87,37 +87,37 @@ Table of Contents
 
 !["Child Dialogs" Dialog](https://cdn.advancedinstaller.com/img/dialog/child-dialogs.png ""Child Dialogs" Dialog")  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adding a new child dialog
 
 Use the \[New... \] button, the “New...” context menu item or press theInsert key while the list is focused. The ["Edit Child Dialogs" Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to add a new child dialog to the list.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing a child dialog
 
 Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while a child dialog is selected. The["Edit Child Dialogs" Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to edit the selected child dialog.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Deleting a child dialog
 
 Use the \[Delete \] button, the “Delete” context menu item or press theDelete key while a child dialog is focused.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Rearrange the child dialogs
@@ -125,10 +125,10 @@ Use the \[Delete \] button, the “Delete” context menu item or press theDelet
 Use the \[Up \] / \[Down \] buttons, “Up” / “Down” context menu items or press the PageUp / PageDown keys on a selected child dialog.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -169,17 +169,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-digital-dissection-the-vll-review-process/"><u>[New] 2024 Approved Digital Dissection The VLL Review Process</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-mac-os-unveiled-comprehensive-review-of-screenflow-v4/"><u>[New] 2024 Approved Mac OS Unveiled Comprehensive Review of ScreenFlow V4</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/android-mastery-instantly-add-apps-directly-from-your-computer-with-a-simple-tap/"><u>Android Mastery: Instantly Add Apps Directly From Your Computer with a Simple Tap!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-samsung-galaxy-watch-active-assessment-your-go-to-companion-for-health-and-fitness/"><u>Comprehensive Samsung Galaxy Watch Active Assessment: Your Go-To Companion for Health and Fitness</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/how-to-resolve-hevc-video-playback-problems-on-your-windows-computer/"><u>How to Resolve HEVC Video Playback Problems on Your Windows Computer</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-sony-xperia-1-v-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Sony Xperia 1 V? Try These Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-google-pixel-8-pro-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Google Pixel 8 Pro Phone without Any Data Loss</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/leading-photo-blending-software-transform-your-photography-experience/"><u>Leading Photo Blending Software: Transform Your Photography Experience</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/optimizing-compression-a-guide-to-lzma-configuration-options/"><u>Optimizing Compression: A Guide to LZMA Configuration Options</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/protect-your-privacy-online-with-a-new-password-for-your-facebook-account/"><u>Protect Your Privacy Online with a New Password for Your Facebook Account</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-diy-approach-understanding-and-exiting-your-iphones-bootloader-state/"><u>The DIY Approach: Understanding and Exiting Your iPhone's Bootloader State</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/top-recommended-software-for-projecting-your-iphone-screen-onto-a-computer/"><u>Top Recommended Software for Projecting Your iPhone Screen Onto a Computer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-steps-to-record-films-on-computersmacs-and-phones-for-2024/"><u>[New] Essential Steps to Record Films on Computers/Macs & Phones for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-invisible-trail-hidden-steps-for-tracking-whatsapp-calls-for-2024/"><u>[Updated] The Invisible Trail Hidden Steps for Tracking WhatsApp Calls for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-gear-for-tempo-tinkering-in-stories/"><u>2024 Approved The Ultimate Gear for Tempo Tinkering in Stories</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/alternative-video-editing-tools-taking-over-from-windows-movie-maker/"><u>Alternative Video Editing Tools Taking Over From Windows Movie Maker</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-best-of-online-shopping-a-guide-to-6-premier-websites-for-television-purchases/"><u>Explore the Best of Online Shopping: A Guide to 6 Premier Websites for Television Purchases</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-csr-bluetooth-device-drivers-here/"><u>Get the Latest CSR Bluetooth Device Drivers Here!</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/interactive-setup-folder-choice-interface/"><u>Interactive Setup Folder Choice Interface</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/selecting-the-supreme-top-5-4k-tvs-for-vivid-hues/"><u>Selecting the Supreme Top 5 4K TVs for Vivid Hues</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-free-sites-to-stream-and-download-mix-tapes-online/"><u>Top Free Sites to Stream & Download Mix Tapes Online</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-guide-to-powerful-apps-seamless-removal-of-items-in-photographs/"><u>Ultimate Guide to Powerful Apps: Seamless Removal of Items in Photographs</u></a></li>
 </ul></div>
 

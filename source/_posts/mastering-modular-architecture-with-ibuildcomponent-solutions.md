@@ -1,7 +1,7 @@
 ---
 title: Mastering Modular Architecture with iBuildComponent Solutions
-date: 2024-10-01T19:53:19.238Z
-updated: 2024-10-05T18:31:44.356Z
+date: 2024-10-05T04:13:28.644Z
+updated: 2024-10-10T19:56:32.630Z
 tags:
   - user-guide
 categories:
@@ -111,37 +111,36 @@ Table of Contents
 ## IBuildComponent
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
 
 IBuildComponent : IDispatch
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Overview
 
 This component gives access to builds present in the package and lets you add or remove builds. 
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Properties
 
 **Array<Builds>** \- Gets all the builds present in the package.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Methods
 
@@ -157,6 +156,13 @@ Removes the specified build from the project.
 CreateKeyByPath(String **path**) returns [IRegistryKey](https://tools.techidaily.com/advancedinstaller/products/)  
 This method creates a new key at the specified path.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## See also
 
 [IAdvinstProject](https://tools.techidaily.com/advancedinstaller/products/)
@@ -164,10 +170,10 @@ This method creates a new key at the specified path.
 [IBuild](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -210,18 +216,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-navigating-iphone-camera-not-auto-focusing-woes-for-2024/"><u>[New] Navigating iPhone Camera Not Auto-Focusing Woes for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-tecno-pop-8-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Tecno Pop 8 FRP</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-client-results-with-chatgpt-powered-custom-workout-programs/"><u>Boosting Client Results with ChatGPT-Powered Custom Workout Programs</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effective-team-management-mastering-the-organizational-search-interface/"><u>Effective Team Management: Mastering the Organizational Search Interface</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gratuit-gratis-online-omwandelen-van-ai-afbeeldingen-naar-wmv-movavi/"><u>Gratuit Gratis Online Omwandelen Van AI-Afbeeldingen Naar WMV - Movavi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/highlighting-key-features-windows-11-feb-update/"><u>Highlighting Key Features: Windows 11, FEB Update</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-common-hurdles-effortless-fixes-for-your-netflix-app-on-lg-screens/"><u>Overcoming Common Hurdles: Effortless Fixes for Your Netflix App on LG Screens</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-tutorial-transforming-your-avchd-videos-into-avi-on-a-windows-pc/"><u>Step-by-Step Tutorial: Transforming Your AVCHD Videos Into AVI on a Windows PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/top-5-essential-steps-for-securing-your-profile-after-a-facebook-compromise/"><u>Top 5 Essential Steps for Securing Your Profile After a Facebook Compromise</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/top-free-mp3-download-sites-the-ultimate-list-for-music-lovers/"><u>Top Free MP3 Download Sites: The Ultimate List for Music Lovers</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ultimate-guide-top-4-video-shrinking-techniques-for-facebook-success/"><u>Ultimate Guide: Top 4 Video Shrinking Techniques for Facebook Success</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-streamlined-technique-converting-vimeo-videos-to-animated-gifs/"><u>[Updated] Streamlined Technique Converting Vimeo Videos to Animated GIFs</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/best-free-screen-recording-software-replacements-for-pc-and-macos/"><u>Best Free Screen Recording Software Replacements for PC & macOS</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-methods-of-dispatching-text-messages-via-computer-a-guide-for-android-mobile-users/"><u>Effective Methods of Dispatching Text Messages via Computer: A Guide for Android Mobile Users</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/efficient-methods-for-moving-videos-onto-your-samsung-galaxy-note-3/"><u>Efficient Methods for Moving Videos Onto Your Samsung Galaxy Note 3</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/expert-approved-4k-video-editing-software-the-top-choices-for-2024/"><u>Expert-Approved 4K Video Editing Software The Top Choices for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/guide-to-discovering-mp3-files-with-kitty-calls-and-meows/"><u>Guide to Discovering MP3 Files with Kitty Calls and Meows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-xs-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone XS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-pathway-to-popularity-on-instagram-from-zero-to-a-thousand-in-30-days/"><u>In 2024, The Pathway to Popularity on Instagram From Zero to a Thousand in 30 Days</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-windows-10s-best-new-applications-and-games/"><u>In 2024, The Ultimate Guide to Windows 10'S Best New Applications & Games</u></a></li>
+<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-eliminating-white-canvas-in-images/"><u>Step-by-Step Guide: Eliminating White Canvas in Images</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-bing-how-it-works-and-why-you-should-use-it/"><u>Unveiling Bing – How It Works and Why You Should Use It</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Managing Files & Organizing Directories in Installation Setup
-date: 2024-10-04T20:47:18.346Z
-updated: 2024-10-05T18:10:41.670Z
+date: 2024-10-04T00:50:50.909Z
+updated: 2024-10-11T03:14:22.559Z
 tags:
   - user-guide
 categories:
@@ -114,33 +114,26 @@ The files, folders or shortcuts will be placed in one of the[Folders](https://to
 
 The right pane lists all the files from the selected folder of the left panel, and their details. If a file doesn't exist anymore at the specified location, it will be shown with a question mark icon ![Missing File](https://cdn.advancedinstaller.com/img/gfx/missing-file.png "Missing File") and “???” as its size. You can restore this file by double-clicking it and setting its correct path.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Setting the Current Feature
 
 Advanced Installer will create components for the added resources as necessary, placing them under the Current Feature. In order to change the current feature you can use the drop-down list box in the toolbar.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can further manage your package's organization in the [Organization](https://tools.techidaily.com/advancedinstaller/products/) page. Note that the components created in this page respect the Windows Installer rules and best practices.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This feature is not available for Merge Module projects. For more details see the [Merge Module Organization](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Visible Members
@@ -148,19 +141,26 @@ Advanced Installer will create components for the added resources as necessary, 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The feature is available starting with the Advanced Installer Professional Edition.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This option enables you to filter the members that are displayed on the _Files And Folders_ page by their type. For example, you can only display _Files, Shortcuts, INI Files, Xml Files, Json Files, File Removal operations, File Duplication operations, File Move operations, Temporary Files, Libraries, Text File Updates, File Downloads, Extract Archives_ or any combination of the above elements. To achieve this, click on the_Visible Members_ toolbar button and select from the menu what types of members you want to display.
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -222,18 +222,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-nikon-1j5-takes-video-to-the-next-level-with-its-4k-features/"><u>[New] Nikon 1J5 Takes Video to the Next Level with Its 4K Features</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/capture-your-brilliance-in-insta-cinematic-footage/"><u>Capture Your Brilliance in Insta Cinematic Footage</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/customizing-your-subscription-packages-flexible-options-inside/"><u>Customizing Your Subscription Packages: Flexible Options Inside</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-instructions-for-connecting-a-samsung-soundbar-to-your-tv-unit/"><u>Easy Instructions for Connecting a Samsung Soundbar to Your TV Unit</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/easy-steps-how-can-you-insert-timestamps-on-photos-detailed-explanation-inside/"><u>Easy Steps: How Can You Insert Timestamps on Photos? Detailed Explanation Inside!</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-for-defrosting-sluggish-computers-fast/"><u>Expert Advice for Defrosting Sluggish Computers Fast</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-nokia-c12-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-proven-ways-to-record-and-save-ps4-games/"><u>In 2024, Proven Ways to Record and Save PS4 Games</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/optimizing-your-data-organization-essential-guide-to-file-management-on-the-documents-and-folders-interface/"><u>Optimizing Your Data Organization: Essential Guide to File Management on the Documents & Folders Interface</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/simple-tips-on-transforming-high-quality-flac-audio-into-compatible-mp3-format-seamlessly/"><u>Simple Tips on Transforming High-Quality FLAC Audio Into Compatible MP3 Format Seamlessly</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/simple-tips-the-guide-to-effortlessly-printing-text-messages-from-your-iphone/"><u>Simple Tips: The Guide to Effortlessly Printing Text Messages From Your iPhone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/sonys-pursuit-of-perfection-the-4k-smartphone-experience/"><u>Sony's Pursuit of Perfection The 4K Smartphone Experience</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/spotting-fraudulent-facebook-accounts-with-these-top-6-tips/"><u>Spotting Fraudulent Facebook Accounts with These Top 6 Tips</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1-powerpoint-presentation-rescue-effortless-retrieval-of-lost-ppts/"><u>1. PowerPoint Presentation Rescue: Effortless Retrieval of Lost PPTs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-detailed-guide-youtubes-most-engaging-storytellers-in-23/"><u>2024 Approved A Detailed Guide YouTube's Most Engaging Storytellers in '23</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-expert-techniques-for-transforming-mp4-files-with-vlc/"><u>2024 Approved Expert Techniques for Transforming MP4 Files with VLC</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/5-most-effective-methods-for-capturing-presentations-with-powerpoint/"><u>5 Most Effective Methods for Capturing Presentations with PowerPoint</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/exploring-the-app-settings-tab-functions-and-use-cases/"><u>Exploring the 'App Settings' Tab: Functions and Use Cases</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-monitor-and-update-your-softwares-file-size-metrics-effectively/"><u>How to Monitor and Update Your Software's File Size Metrics Effectively</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-protect-pdf-files-with-passwords-three-easy-methods/"><u>How To Protect PDF Files with Passwords – Three Easy Methods</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/machine-learning-meets-numbers-game/"><u>Machine Learning Meets Numbers Game</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/modify-system-path-settings-a-comprehensive-guide/"><u>Modify System Path Settings: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-shutdown-of-windows-privacy-tools/"><u>Navigating the Shutdown of Windows Privacy Tools</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/personalized-sql-link-setup-page/"><u>Personalized SQL Link Setup Page</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/simple-tricks-seamlessly-connecting-your-iphone-with-itunes/"><u>Simple Tricks: Seamlessly Connecting Your iPhone with iTunes</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-creating-your-own-usb-defender-key-for-windows-11-safety/"><u>Step-by-Step Guide: Creating Your Own USB Defender Key for Windows 11 Safety</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-5-mac-superior-bandicam-alternates-for-2024/"><u>Top 5 Mac Superior Bandicam Alternates for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/webmvob/"><u>オンラインでの無料WEBM/VOB変換 - 動画専用ツール</u></a></li>
 </ul></div>
 

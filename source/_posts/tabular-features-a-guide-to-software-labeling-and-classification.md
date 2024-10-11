@@ -1,7 +1,7 @@
 ---
 title: "Tabular Features: A Guide to Software Labeling and Classification"
-date: 2024-10-01T19:18:40.268Z
-updated: 2024-10-05T19:27:53.722Z
+date: 2024-10-08T18:30:06.895Z
+updated: 2024-10-11T05:16:40.290Z
 tags:
   - user-guide
 categories:
@@ -91,13 +91,6 @@ Table of Contents
 
  Three entities involved in software application creation and distribution must be specified: the entity that created the software, the entity that licensed the software and the entity that created the file with information required by ISO 19770-2 standard.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Software Creator Name
 
  This field contains the name of the entity that created the software. The value of this field should be maintained for different versions of the same software. 
@@ -106,34 +99,54 @@ Table of Contents
 
  The [unique registration identifier](https://tools.techidaily.com/advancedinstaller/products/) of the entity that created the software. If this value is not known or the entity is out of bussines, unknown keyword can be placed in this field. 
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Software Licensor Name
 
 The name of the entity that owns the copyright of the software package.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Software Licensor ID
 
 The [unique registration identifier](https://tools.techidaily.com/advancedinstaller/products/) of the software licensor entity. If this entity is no longer in business or the identifier is not available then unknown value can be used.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tag Creator Name
 
 The name of the entity that created these ISO 19770-2 tags. In our case, should be the name of the entity that created the Advanced Installer project.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tag Creator ID
 
 The [unique registration identifier](https://tools.techidaily.com/advancedinstaller/products/) of the entity that created the tags.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Entitlement Required
@@ -155,13 +168,6 @@ Provides information about how a software was obtained and installed and clues a
 * **Channel Type** \- the distribution channel for that the software package was designated. The default possible values are Volume, Retail, OEM and Academic but other values can be added as well. If you want use other value, type it in the combobox edit area. This field allows to a Software Asset Management practitioner to quickly identify some non compliant software. For example, products distributed on Academic channel are usually not appropiate for corporate use.
 * **Channel Name** \- the name of a distribution or channel partner.
 * **Customer Type** \- the target customer type for the software package. The default possible values are Government, Corporate, Educational, Retail but other values can be used as well. If you want to use another value, just type it in the combobox edit area.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -201,22 +207,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagrams-ultimate-guide-to-the-best-grid-software-of-the-year/"><u>[New] 2024 Approved Instagram's Ultimate Guide to the Best Grid Software of the Year</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-seamless-gopro-broadcasts-tips-for-facebook-and-periscope-channeling/"><u>[Updated] 2024 Approved Seamless GoPro Broadcasts Tips for Facebook & Periscope Channeling</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-playcapture-pro-your-own-screen-recorder-free/"><u>[Updated] PlayCapture Pro Your Own Screen Recorder, Free</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-powering-up-your-action-footage-one-gadget-at-a-time/"><u>2024 Approved Powering Up Your Action Footage, One Gadget at a Time</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/alternative-video-editing-tools-taking-over-from-windows-movie-maker/"><u>Alternative Video Editing Tools Taking Over From Windows Movie Maker</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/best-free-screen-recording-software-replacements-for-pc-and-macos/"><u>Best Free Screen Recording Software Replacements for PC & macOS</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/complete-guide-to-virus-elimination-using-malwarefox-techniques/"><u>Complete Guide to Virus Elimination: Using MalwareFox Techniques</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/economical-studiolightkit-unveiled/"><u>Economical StudioLightkit Unveiled</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effective-methods-of-dispatching-text-messages-via-computer-a-guide-for-android-mobile-users/"><u>Effective Methods of Dispatching Text Messages via Computer: A Guide for Android Mobile Users</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/efficient-methods-for-moving-videos-onto-your-samsung-galaxy-note-3/"><u>Efficient Methods for Moving Videos Onto Your Samsung Galaxy Note 3</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-the-fun-side-top-6-games-to-enjoy-on-chatgpt/"><u>Explore The Fun Side: Top 6 Games To Enjoy on ChatGPT</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Realme C67 4G? | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/master-your-audio-projects-using-audacitys-powerful-tools-for-macos/"><u>Master Your Audio Projects Using Audacity's Powerful Tools for macOS</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Samsung Galaxy F04? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/smoothly-blending-bio-and-linktree-on-your-tiktok-platform/"><u>Smoothly Blending Bio & Linktree on Your TikTok Platform</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-eliminating-white-canvas-in-images/"><u>Step-by-Step Guide: Eliminating White Canvas in Images</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/top-free-sites-to-stream-and-download-mix-tapes-online/"><u>Top Free Sites to Stream & Download Mix Tapes Online</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-simplifying-screen-record-functions-on-iphone-7/"><u>[New] Simplifying Screen Record Functions on iPhone 7</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/drm-dvd/"><u>如何快速取得無DRM DVD內容並進行複製</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/activex-component-class-exploring-icom-and-beyond/"><u>ActiveX Component Class - Exploring ICOM and Beyond</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/engaging-kids-mastering-the-art-of-effective-child-conversations/"><u>Engaging Kids: Mastering the Art of Effective Child Conversations</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-secret-to-understanding-your-youtube-fans/"><u>In 2024, The Secret to Understanding Your YouTube Fans</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-modular-architecture-with-ibuildcomponent-solutions/"><u>Mastering Modular Architecture with iBuildComponent Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-rdr2-out-of-memory-error-with-this-simple-step-expand-your-page-file/"><u>Overcome 'RDR2 Out Of Memory' Error with This Simple Step – Expand Your Page File</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-resolving-issues-with-non-responsive-airplay/"><u>Troubleshooting Steps: Resolving Issues with Non-Responsive AirPlay</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/understanding-the-app-v-configuration-navigating-the-options-and-file-settings-panel/"><u>Understanding the App-V Configuration: Navigating the Options and File Settings Panel</u></a></li>
 </ul></div>
 

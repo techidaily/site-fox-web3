@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Default Web Page: How It Works in Browsers"
-date: 2024-10-02T18:19:06.165Z
-updated: 2024-10-05T16:46:36.442Z
+date: 2024-10-09T17:33:11.494Z
+updated: 2024-10-11T04:55:05.499Z
 tags:
   - user-guide
 categories:
@@ -102,16 +102,10 @@ Table of Contents
 Enable this option to instruct the Web Site or Virtual Directory to automatically serve a default document when no document name is specified in the request. (eg. Default.htm, Default.asp, Default.aspx, index.htm, index.html, Default.html, start.htm, start.html, Default.mspx, index.php, etc.)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a new web document
@@ -119,10 +113,10 @@ Enable this option to instruct the Web Site or Virtual Directory to automaticall
 Use the \[Add \] button, the “Add” context menu item or press the Insert key while the list control is focused.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing a web document
@@ -130,10 +124,10 @@ Use the \[Add \] button, the “Add” context menu item or press the Insert key
 Use the \[Edit \] button, the “Edit” context menu item or press theSpace key while an element from the list control is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing a web document
@@ -145,10 +139,10 @@ Use the \[Remove \] button, the “Remove” context menu item or press theDelet
 Use the \[Move Up \] button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Decreasing the search priority for a web document
@@ -190,22 +184,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-10-secret-tips-for-using-canva-photo-editor/"><u>[New] In 2024, 10 Secret Tips for Using Canva Photo Editor</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-speedy-tempo-change-software-showcase-mobile-pc/"><u>[New] In 2024, Speedy Tempo Change Software Showcase (Mobile, PC)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-windows-movie-maker-for-animated-clips/"><u>[New] Mastering Windows Movie Maker for Animated Clips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/aximize-offline-viewing-8-best-youtube-downloaders/"><u>[New] Maximize Offline Viewing 8 Best YouTube Downloaders</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-syncing-sounds-to-visuals-online-for-2024/"><u>[New] Syncing Sounds to Visuals Online for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-guardian-of-gifs-saving-memorable-moments-from-twitter/"><u>[New] The Guardian of GIFs Saving Memorable Moments From Twitter</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-unlock-more-views-with-these-tiktok-text-tools-of-2023/"><u>[Updated] Unlock More Views with These TikTok Text Tools of 2023</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/budget-friendly-guide-how-to-strip-away-video-watermarks/"><u>Budget-Friendly Guide: How to Strip Away Video Watermarks</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/customizing-your-subscription-packages-flexible-options-inside/"><u>Customizing Your Subscription Packages: Flexible Options Inside</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/easy-steps-how-can-you-insert-timestamps-on-photos-detailed-explanation-inside/"><u>Easy Steps: How Can You Insert Timestamps on Photos? Detailed Explanation Inside!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-masterclass-constructing-mc-village-houses/"><u>In 2024, Masterclass Constructing MC Village Houses</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-secrets-of-successful-podcast-covers-revealed/"><u>In 2024, Secrets of Successful Podcast Covers Revealed</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/managing-files-and-organizing-directories-in-installation-setup/"><u>Managing Files & Organizing Directories in Installation Setup</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/optimizing-your-data-organization-essential-guide-to-file-management-on-the-documents-and-folders-interface/"><u>Optimizing Your Data Organization: Essential Guide to File Management on the Documents & Folders Interface</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/simple-tips-on-transforming-high-quality-flac-audio-into-compatible-mp3-format-seamlessly/"><u>Simple Tips on Transforming High-Quality FLAC Audio Into Compatible MP3 Format Seamlessly</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/simple-tips-the-guide-to-effortlessly-printing-text-messages-from-your-iphone/"><u>Simple Tips: The Guide to Effortlessly Printing Text Messages From Your iPhone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/spotting-fraudulent-facebook-accounts-with-these-top-6-tips/"><u>Spotting Fraudulent Facebook Accounts with These Top 6 Tips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-avoid-distortion-best-practices-for-shooting-up-close-with-videoleap-for-2024/"><u>[New] Avoid Distortion Best Practices for Shooting Up Close with VideoLeap for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-capture-the-moment-an-examination-of-camstudio/"><u>[New] In 2024, Capture the Moment An Examination of CamStudio</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-delving-into-the-meaning-of-a-mysterious-blue-marker-in-fb-chats/"><u>2024 Approved Delving Into the Meaning of a Mysterious Blue Marker in FB Chats</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/5-most-effective-methods-for-capturing-presentations-with-powerpoint/"><u>5 Most Effective Methods for Capturing Presentations with PowerPoint</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/downloadable-youtube-sound-capture-tool-easily-record-any-audio-from-youtube-videos/"><u>Downloadable YouTube Sound Capture Tool: Easily Record Any Audio From YouTube Videos</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-tecno-spark-20-proplus-by-drfone-android/"><u>How to Bypass FRP on Tecno Spark 20 Pro+?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/professional-media-management-dashboard/"><u>Professional Media Management Dashboard</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990841883-quick-fixes-stop-borderlands-3-from-crashing-instantly/"><u>Quick Fixes: Stop Borderlands 3 From Crashing Instantly</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/simple-tricks-seamlessly-connecting-your-iphone-with-itunes/"><u>Simple Tricks: Seamlessly Connecting Your iPhone with iTunes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Seamless Data Management: Understanding the Duplicate & Relocate Interface"
-date: 2024-09-29T19:23:31.397Z
-updated: 2024-10-05T18:18:47.385Z
+date: 2024-10-05T03:22:38.176Z
+updated: 2024-10-10T23:40:13.895Z
 tags:
   - user-guide
 categories:
@@ -96,13 +96,6 @@ Table of Contents
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)This operation is intended for files outside the package only. If you need to duplicate files included in the package, you can use a [file duplication operation](https://tools.techidaily.com/advancedinstaller/products/) instead.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Source File
 
 ### Name
@@ -111,42 +104,42 @@ The name of the file to be copied/moved. Use wildcard patterns to copy/move mult
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)When using wildcards, leave the "Destination's File" "Name" field blank in order to preserve the original file names.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Folder
 
 The location of the file to be copied/moved. Use the\[... \] button to select the source folder.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If the source folder is not among the ones displayed in the [Folder Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) you must first specify it through a [property based folder](https://tools.techidaily.com/advancedinstaller/products/). Then you will be able to select it in the picker.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Destination File
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Name
 
 The name target file's name. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Folder
 
 The target location of the file to be copied/moved. This folder is set automatically to the folder which contains the file operation.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Properties
 
@@ -163,15 +156,22 @@ The time when the copy/move operation will be executed. There are three availabl
 * Both
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
 
 Specify a condition for the copy/move operation.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Operation
 
@@ -213,24 +213,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-exciting-auto-play-hits-for-children/"><u>[New] Exciting Auto-Play Hits for Children</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-why-filmmakers-cherish-filmora-features/"><u>[New] Exploring Why Filmmakers Cherish Filmora Features</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-maximum-video-stowage-on-a-single-64gb-unit/"><u>[New] Maximum Video Stowage on a Single 64Gb Unit</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/wiftly-uninstalling-youtube-videos-from-devices/"><u>[New] Swiftly Uninstalling YouTube Videos From Devices</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/2024-android/"><u>2024 必見! Android専用ビデオプレイヤー・おすすめアプリランキング</u></a></li>
-<li><a href="https://techtrends.techidaily.com/clear-out-android-cache-a-comprehensive-how-to-tutorial/"><u>Clear Out Android Cache: A Comprehensive How-To Tutorial</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/efficient-strategies-for-combining-various-images-into-one-unified-pdf-document/"><u>Efficient Strategies for Combining Various Images Into One Unified PDF Document</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/elevate-your-tunes-on-a-mac-explore-elite-music-software-options-today/"><u>Elevate Your Tunes on a Mac: Explore Elite Music Software Options Today!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-6-plus-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 6 Plus in the Best Ways</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-monitor-and-update-your-softwares-file-size-metrics-effectively/"><u>How to Monitor and Update Your Software's File Size Metrics Effectively</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-protect-pdf-files-with-passwords-three-easy-methods/"><u>How To Protect PDF Files with Passwords – Three Easy Methods</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-essentials-of-high-quality-audio-interfaces-in-podcasting/"><u>In 2024, The Essentials of High-Quality Audio Interfaces in Podcasting</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/in-depth-guide-on-handling-multiple-copies-discussion-in-filesystems/"><u>In-Depth Guide on Handling Multiple Copies Discussion in Filesystems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-galaxy-s23-tactical-edition-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Galaxy S23 Tactical Edition, is it possible?</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/revolutionize-your-business-with-ipatchsolutions-the-ultimate-project-management-tool/"><u>Revolutionize Your Business with IPatchSolutions: The Ultimate Project Management Tool</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-creating-your-own-usb-defender-key-for-windows-11-safety/"><u>Step-by-Step Guide: Creating Your Own USB Defender Key for Windows 11 Safety</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/the-essential-guide-to-product-language-features-and-properties-in-global-markets/"><u>The Essential Guide to Product Language Features and Properties in Global Markets</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ultimate-guide-to-htc-video-file-format-changers-how-to-optimize-movies-and-clips-for-your-htc-smartphonetablet/"><u>Ultimate Guide to HTC Video File Format Changers: How to Optimize Movies and Clips for Your HTC Smartphone/Tablet</u></a></li>
-<li><a href="https://fox-access.techidaily.com/useful-tips-and-apps-for-taking-amazing-android-photography/"><u>Useful Tips and Apps for Taking Amazing Android Photography</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-affordable-pc-frame-capture-apps/"><u>[New] Affordable PC Frame Capture Apps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-capture-the-scope-of-space-sharing-panoramic-pictures-with-facebook/"><u>[New] Capture the Scope of Space Sharing Panoramic Pictures with Facebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-25-steps-forward-in-youtube-mastery-and-recognition/"><u>[Updated] In 2024, 25 Steps Forward in YouTube Mastery and Recognition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-hashtags-to-challenges-insta-meets-tiktok/"><u>2024 Approved From Hashtags to Challenges Insta Meets TikTok</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/best-software-solutions-for-tablet-screenshots-and-recording/"><u>Best Software Solutions for Tablet Screenshots and Recording</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/complete-guide-retrieving-lost-files-on-your-motorola-droid-razr-maxx-hd-with-data-rescue-techniques/"><u>Complete Guide: Retrieving Lost Files on Your Motorola Droid Razr Maxx HD with Data Rescue Techniques</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/discover-the-latest-innovations-must-have-iphone-12-updates/"><u>Discover the Latest Innovations: Must-Have iPhone 12 Updates</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-sony-xperia-1-v-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Sony Xperia 1 V Phone FRP Lock</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/modify-executable-file-properties-interface/"><u>Modify Executable File Properties Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-amd-195-error-in-windows-installations/"><u>Tackling AMD 195 Error in Windows Installations</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-techniques-to-transform-cda-tracks-into-high-quality-mp3-streams/"><u>Top Techniques to Transform CDA Tracks Into High-Quality MP3 Streams</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-the-world-of-technology-with-tom-comprehensive-reviews/"><u>Unlocking the World of Technology with Tom - Comprehensive Reviews</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-line-communication-tool-thorough-application-review/"><u>Unveiling The Line Communication Tool: Thorough Application Review</u></a></li>
 </ul></div>
 

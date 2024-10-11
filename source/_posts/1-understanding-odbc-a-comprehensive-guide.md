@@ -1,7 +1,7 @@
 ---
 title: "1. Understanding ODBC: A Comprehensive Guide"
-date: 2024-10-04T16:02:54.141Z
-updated: 2024-10-05T19:43:07.825Z
+date: 2024-10-05T05:24:15.986Z
+updated: 2024-10-11T05:00:20.697Z
 tags:
   - user-guide
 categories:
@@ -80,16 +80,16 @@ There are three ODBC components you can add in this page: drivers, data sources 
 
 ![Odbc page](https://cdn.advancedinstaller.com/img/ui/odbc-page.png "Odbc page")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding a driver
 
 ![Add ODBC Driver](https://cdn.advancedinstaller.com/img/toolbar/driver-add.png "Add ODBC Driver") Use the \[Add Driver... \] toolbar button, the “Add Driver...” tree/list context menu item or press the + key while the tree control is focused. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)When adding a driver, please make sure it corresponds with the server architecture it's designed for (x86 or x64). The driver's encoding must also be compatible with the server (UNICODE or ANSI).
 
@@ -101,13 +101,20 @@ There are three ODBC components you can add in this page: drivers, data sources 
 
 ![Import ODBC Data Source](https://cdn.advancedinstaller.com/img/toolbar/data-source-import.png "Import ODBC Data Source") Use the \[Data Source \] toolbar button or the “Import Data Source” tree context menu item. You can import DSN files directly or DSNs registered on your development machine, listed in the [Import Data Source Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Only the data source's name and attributes will be imported. You will need to set the ODBC driver yourself.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a translator
@@ -119,10 +126,10 @@ There are three ODBC components you can add in this page: drivers, data sources 
  Use the “Go To Component” tree context menu item or press theF8 key while an element from the tree control is selected. This command will activate the [Organization](https://tools.techidaily.com/advancedinstaller/products/) page with the appropriate component selected in the left tree control.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Setting the Current Feature
@@ -131,20 +138,19 @@ There are three ODBC components you can add in this page: drivers, data sources 
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can further manage the your package's organization in the [Organization](https://tools.techidaily.com/advancedinstaller/products/) page.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This feature is not available for Merge Module projects. For more details see the [Merge Module Organization](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -191,20 +197,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-all-you-need-to-know-about-adobe-storages-including-top-non-adobe-alternates/"><u>[New] 2024 Approved All You Need to Know About Adobe Storages, Including Top Non-Adobe Alternates</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-10-free-youtube-thumbnail-downloaderssavers-online-for-2024/"><u>[Updated] 10 Free YouTube Thumbnail Downloaders/Savers Online for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-outstanding-20-anime-opening-melodies/"><u>[Updated] 2024 Approved Outstanding 20 Anime Opening Melodies</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-how-to-make-a-photo-video-with-pixiz-for-2024/"><u>[Updated] How to Make a Photo Video with Pixiz for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-essential-tips-for-simple-hdr-mastery/"><u>2024 Approved Essential Tips for Simple HDR Mastery</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/advanced-techniques-in-digital-analytics-pages-enhancing-online-performance/"><u>Advanced Techniques in Digital Analytics Pages: Enhancing Online Performance</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/custom-file-handling-actions-innovative-approaches/"><u>Custom File Handling Actions: Innovative Approaches</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effective-strategies-to-protect-your-chrome-browser-from-invasive-pop-up-threats-with-malwarefox/"><u>Effective Strategies to Protect Your Chrome Browser From Invasive Pop-Up Threats with MalwareFox</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effective-techniques-for-reducing-the-size-of-wav-audio-files/"><u>Effective Techniques for Reducing the Size of WAV Audio Files</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/high-quality-dvd-duplication-secure-and-flawless-transfer-of-data-from-original-to-duplicate-disc/"><u>High-Quality DVD Duplication: Secure & Flawless Transfer of Data From Original to Duplicate Disc</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/hochwertige-kostenfreie-hd-konvertierung-fur-hevch2email-protected-medien-auf-mp4/"><u>Hochwertige Kostenfreie HD-Konvertierung Für HEVC/H.2([email Protected] Medien Auf MP4</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/seamlessly-importing-personalized-ringtones-onto-your-ios-device/"><u>Seamlessly Importing Personalized Ringtones Onto Your iOS Device</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-tutorial-download-youtube-videos-in-pieces-for-2024/"><u>Step-by-Step Tutorial Download YouTube Videos in Pieces for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/understanding-the-ixmlfilemanager-component/"><u>Understanding the iXMLFileManager Component</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-itel-p55plus-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Itel P55+ Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-camera-control-tips-for-unshakable-images-for-2024/"><u>[New] Camera Control Tips for Unshakable Images for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-escalate-video-display-in-public-profile-for-2024/"><u>[New] Escalate Video Display in Public Profile for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/best-methods-for-streaming-pubg-mobile-gameplay-from-pc-or-mac/"><u>Best Methods for Streaming PUBG Mobile Gameplay From PC or Mac</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/complete-user-manual-mastering-the-art-of-using-apowershow/"><u>Complete User Manual: Mastering the Art of Using ApowerShow</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/deep-dive-into-expert-level-installer-programming-strategies/"><u>Deep Dive Into Expert-Level Installer Programming Strategies</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/doxxing-explained-essential-tips-for-protection-from-cybersecurity-expert-malwarefox/"><u>Doxxing Explained: Essential Tips for Protection From Cybersecurity Expert, MalwareFox</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-picks-the-10-best-photo-retouching-software-for-windows-and-macos-users/"><u>Expert Picks: The 10 Best Photo Retouching Software for Windows & macOS Users</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-modify-options-in-the-thinapp-setup-window-for-optimal-performance/"><u>How to Modify Options in the ThinApp Setup Window for Optimal Performance</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harness-the-potential-of-gratuitous-timer-tools/"><u>In 2024, Harness the Potential of Gratuitous Timer Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-samsung-galaxy-a05-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Samsung Galaxy A05 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-riding-the-wave-of-solitary-podcast-popularity/"><u>In 2024, Riding the Wave of Solitary Podcast Popularity</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/leading-pimple-reduction-mobile-apps-reviewed-2021-edition/"><u>Leading Pimple Reduction Mobile Apps Reviewed: 2021 Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/razer-mamba-driver-download-swift-and-simple-steps/"><u>Razer Mamba Driver Download: Swift and Simple Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-persistent-crashes-in-world-of-tanks-blitz-a-comprehensive-guide/"><u>Resolving Persistent Crashes in World of Tanks Blitz: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-purchasing-enigmatic-box-sets-online/"><u>The Ultimate Guide to Purchasing Enigmatic Box Sets Online</u></a></li>
 </ul></div>
 

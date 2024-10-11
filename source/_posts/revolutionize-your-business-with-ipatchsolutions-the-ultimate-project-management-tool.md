@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Your Business with IPatchSolutions: The Ultimate Project Management Tool"
-date: 2024-09-30T17:25:52.622Z
-updated: 2024-10-05T17:36:14.385Z
+date: 2024-10-04T00:54:56.575Z
+updated: 2024-10-11T03:39:49.871Z
 tags:
   - user-guide
 categories:
@@ -117,22 +117,21 @@ Table of Contents
 
 ## IPatchProject
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 IPatchProject : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -140,10 +139,10 @@ IPatchProject : IDispatch
 This interface is meant configure a patch project
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -159,6 +158,13 @@ This interface is meant configure a patch project
 **IPatchSequence PatchSequence** \- Gets the object for managing patch sequence families.
 
 **IPatchBuildDetails BuildDetails** \- Gets the object for configuring the build process of the patch.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Methods
 
@@ -179,18 +185,18 @@ $patchPrj.Save()
     
 Copy
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## See also
 
 [Advanced Installer PowerShell Automation Interfaces](https://tools.techidaily.com/advancedinstaller/products/)
 
 [IAdvinstProject](https://tools.techidaily.com/advancedinstaller/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -246,19 +252,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-complete-visual-storytellers-guide-to-vsco-app/"><u>[Updated] Complete Visual Storyteller's Guide to VSCO App</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-pathway-for-storytellers-mastery-over-facebook-live-feature-for-2024/"><u>[Updated] The Ultimate Pathway for Storytellers Mastery Over Facebook Live Feature for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/brother-hl-3170cdw-driver-software-fast-and-simple-download-guide/"><u>Brother HL-^3170cdw Driver Software: Fast and Simple Download Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/customizing-your-subscription-packages-flexible-options-inside/"><u>Customizing Your Subscription Packages: Flexible Options Inside</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/easy-steps-how-can-you-insert-timestamps-on-photos-detailed-explanation-inside/"><u>Easy Steps: How Can You Insert Timestamps on Photos? Detailed Explanation Inside!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-12-mini-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 12 mini Screen Mirroring You Must Know | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/managing-files-and-organizing-directories-in-installation-setup/"><u>Managing Files & Organizing Directories in Installation Setup</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/methods-to-troubleshoot-chatgpt-full-message-queue-error-in-windows/"><u>Methods to Troubleshoot ChatGPT Full Message Queue Error in Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/reparieren-sie-kostenlos-eine-beschadigte-mp4-datei-auf-mac-oder-pc-schritt-fur-schritt-anleitung/"><u>Reparieren Sie Kostenlos Eine Beschädigte MP4-Datei Auf Mac Oder PC - Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/simple-tips-on-transforming-high-quality-flac-audio-into-compatible-mp3-format-seamlessly/"><u>Simple Tips on Transforming High-Quality FLAC Audio Into Compatible MP3 Format Seamlessly</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/simple-tips-the-guide-to-effortlessly-printing-text-messages-from-your-iphone/"><u>Simple Tips: The Guide to Effortlessly Printing Text Messages From Your iPhone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/spotting-fraudulent-facebook-accounts-with-these-top-6-tips/"><u>Spotting Fraudulent Facebook Accounts with These Top 6 Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-ultimate-guide-to-7-top-mac-vids/"><u>[New] 2024 Approved Ultimate Guide to 7 Top Mac Vids</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-w11-easy-capture-tool-windows-11-screen-recording/"><u>[New] 2024 Approved W11 Easy Capture Tool Windows 11 Screen Recording</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-fine-tuning-the-art-of-recording-in-audacity-for-2024/"><u>[New] Fine-Tuning the Art of Recording in Audacity for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-seamless-instagram-video-mp4-conversion-pro-strategies-unlocked-for-2024/"><u>[Updated] Seamless Instagram Video-MP4 Conversion - Pro Strategies Unlocked for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-rise-of-immersive-consumer-spaces/"><u>[Updated] The Rise of Immersive Consumer Spaces</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-photoshops-stabilization-capabilities-real-advantage/"><u>2024 Approved Photoshop's Stabilization Capabilities Real Advantage?</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/exploring-the-app-settings-tab-functions-and-use-cases/"><u>Exploring the 'App Settings' Tab: Functions and Use Cases</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-rebooting-your-mobile-device-resolves-the-majority-of-issues/"><u>How Rebooting Your Mobile Device Resolves the Majority of Issues</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-monitor-and-update-your-softwares-file-size-metrics-effectively/"><u>How to Monitor and Update Your Software's File Size Metrics Effectively</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-protect-pdf-files-with-passwords-three-easy-methods/"><u>How To Protect PDF Files with Passwords – Three Easy Methods</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-t-mobile-apple-iphone-11-online-without-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock T-Mobile Apple iPhone 11 online without SIM Card?</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/modify-system-path-settings-a-comprehensive-guide/"><u>Modify System Path Settings: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/personalized-sql-link-setup-page/"><u>Personalized SQL Link Setup Page</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/simple-tricks-seamlessly-connecting-your-iphone-with-itunes/"><u>Simple Tricks: Seamlessly Connecting Your iPhone with iTunes</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-creating-your-own-usb-defender-key-for-windows-11-safety/"><u>Step-by-Step Guide: Creating Your Own USB Defender Key for Windows 11 Safety</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gaming-guide-google-plays-pc-betas/"><u>The Ultimate Gaming Guide - Google Play's PC Betas</u></a></li>
 </ul></div>
 

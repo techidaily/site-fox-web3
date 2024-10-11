@@ -1,7 +1,7 @@
 ---
 title: Find Folders Quickly with Smart Search Locator
-date: 2024-10-01T16:15:47.698Z
-updated: 2024-10-05T18:24:18.455Z
+date: 2024-10-03T21:12:22.157Z
+updated: 2024-10-11T00:30:45.683Z
 tags:
   - user-guide
 categories:
@@ -125,10 +125,10 @@ Table of Contents
 ## ISearchFolderLocator
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -136,10 +136,10 @@ Table of Contents
 ISearchFolderLocator : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -147,10 +147,10 @@ ISearchFolderLocator : IDispatch
 This interface is meant to edit the folder locator.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -163,10 +163,10 @@ This interface is meant to edit the folder locator.
 **Example**: "Path" field value: \[ProgramFilesFolder\]MY\_FOLDER will return: 1: C:\\Program Files\\MY\_FOLDER\\
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,16 +208,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-web3.techidaily.com/budget-friendly-guide-how-to-strip-away-video-watermarks/"><u>Budget-Friendly Guide: How to Strip Away Video Watermarks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-prompt-injection-assaults-in-artificial-intelligence-how-does-it-actually-work/"><u>Demystifying Prompt Injection Assaults in Artificial Intelligence - How Does It Actually Work?</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/engaging-kids-mastering-the-art-of-effective-child-conversations/"><u>Engaging Kids: Mastering the Art of Effective Child Conversations</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-zte-blade-a73-5g-lock-screen-password-by-drfone-android/"><u>How To Change ZTE Blade A73 5G Lock Screen Password?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-csgo-high-ping-issues/"><u>How to Fix CS:GO High Ping Issues</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-facebooks-2023-video-innovations-embracing-the-short-form-approach/"><u>In 2024, Facebook’s 2023 Video Innovations Embracing the Short-Form Approach</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/loop-mechanics-collection/"><u>Loop Mechanics Collection</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/optimizing-your-data-organization-essential-guide-to-file-management-on-the-documents-and-folders-interface/"><u>Optimizing Your Data Organization: Essential Guide to File Management on the Documents & Folders Interface</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reviving-zombies-a-comprehensive-review-of-7-days-to-die-and-its-single-sandbox-format/"><u>Reviving Zombies: A Comprehensive Review of '7 Days to Die' And Its Single-Sandbox Format</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/spotting-fraudulent-facebook-accounts-with-these-top-6-tips/"><u>Spotting Fraudulent Facebook Accounts with These Top 6 Tips</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-retrieving-deleted-texts-on-your-iphone/"><u>Step-by-Step Guide: Retrieving Deleted Texts on Your iPhone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-elite-hdr-cameras-a-buyers-selection-guide-for-2024/"><u>[New] Elite HDR Cameras A Buyer's Selection Guide for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-optimizing-space-setting-up-a-vr-capable-area/"><u>[Updated] Optimizing Space Setting Up a VR-Capable Area</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/5-most-effective-methods-for-capturing-presentations-with-powerpoint/"><u>5 Most Effective Methods for Capturing Presentations with PowerPoint</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/avoid-these-8-steps-that-newcomers-often-miss-on-youtube-for-2024/"><u>Avoid These 8 Steps that Newcomers Often Miss on YouTube for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/effortless-conversion-top-three-methods-to-transform-mkv-files-into-quicktime-format/"><u>Effortless Conversion: Top Three Methods to Transform MKV Files Into QuickTime Format</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/exploring-the-app-settings-tab-functions-and-use-cases/"><u>Exploring the 'App Settings' Tab: Functions and Use Cases</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-textbooks-to-tech-your-roadmap-to-affordable-microsoft-gear-as-a-learner/"><u>From Textbooks to Tech: Your Roadmap to Affordable Microsoft Gear as a Learner</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/modify-system-path-settings-a-comprehensive-guide/"><u>Modify System Path Settings: A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-ultimate-mac-video-editor-mkvtoolnix-features/"><u>New 2024 Approved The Ultimate Mac Video Editor MKVtoolnix Features</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/personalized-sql-link-setup-page/"><u>Personalized SQL Link Setup Page</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/simple-tricks-seamlessly-connecting-your-iphone-with-itunes/"><u>Simple Tricks: Seamlessly Connecting Your iPhone with iTunes</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-avs-video-editor-a-comprehensive-analysis/"><u>Updated In 2024, AVS Video Editor A Comprehensive Analysis</u></a></li>
 </ul></div>
 

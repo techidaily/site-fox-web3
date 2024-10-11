@@ -1,7 +1,7 @@
 ---
 title: The Essential Guide to Product Language Features and Properties in Global Markets
-date: 2024-09-28T19:40:30.169Z
-updated: 2024-10-05T17:17:22.097Z
+date: 2024-10-09T05:59:59.508Z
+updated: 2024-10-10T18:10:45.462Z
 tags:
   - user-guide
 categories:
@@ -84,10 +84,10 @@ There are two ways Advanced Installer handles the ProductLanguage property depen
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Languages that don't appear in the list are not yet localized in Advanced Installer. They can be accessed by selecting 'All' from the 'Show' drop-down, but you will have to add the localized strings yourself.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ProductLanguage codes for localized languages
@@ -166,21 +166,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-x-audio-capture-pc-version-for-2024/"><u>[New] X-Audio Capture PC Version for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-innovative-dialogues-the-key-to-listener-retention/"><u>[Updated] 2024 Approved Innovative Dialogues The Key to Listener Retention</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-user-friendly-steps-for-storing-google-voice-conversations-for-2024/"><u>[Updated] User-Friendly Steps for Storing Google Voice Conversations for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/a-deeper-dive-into-video-enhancement-techniques-for-pcmobile/"><u>A Deeper Dive Into Video Enhancement Techniques for PC/Mobile</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/activex-component-class-exploring-icom-and-beyond/"><u>ActiveX Component Class - Exploring ICOM and Beyond</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-radeon-r9-graphics-driver-update-for-windows-11-secure-download-and-installation-tutorial/"><u>AMD Radeon R9 Graphics Driver Update for Windows 11 - Secure Download and Installation Tutorial</u></a></li>
-<li><a href="https://windows11.techidaily.com/arrow-keys-in-distress-heres-what-you-can-do/"><u>Arrow Keys in Distress? Here's What You Can Do</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/comparing-powerhouses-iphone-xs-max-versus-samsung-galaxy-note-9-a-comprehensive-showdown/"><u>Comparing Powerhouses: IPhone XS Max Versus Samsung Galaxy Note 9 – A Comprehensive Showdown</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-guide-sending-audio-notes-with-your-iphone-easily/"><u>Complete Guide: Sending Audio Notes with Your iPhone Easily</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effective-strategies-to-fix-apowerrec-device-recording-failures/"><u>Effective Strategies to Fix aPowerREC Device Recording Failures</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ensuring-secure-xml-file-handling-through-the-permissions-tab-interface/"><u>Ensuring Secure XML File Handling Through the Permissions Tab Interface</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/exploring-various-templates-and-styles-the-ultimate-guide-to-theme-pages/"><u>Exploring Various Templates and Styles: The Ultimate Guide to Theme Pages</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-itel-s23-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Itel S23</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/mastering-the-art-of-multitasking-with-multiple-browsing-tabs/"><u>Mastering the Art of Multitasking with Multiple Browsing Tabs</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/unraveling-the-differences-antivirus-software-versus-anti-malware-making-the-right-decision/"><u>Unraveling the Differences: Antivirus Software Versus Anti-Malware – Making the Right Decision</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transform-your-content-game-with-creator-studio-insight/"><u>[New] Transform Your Content Game with Creator Studio Insight</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-virtual-realms-confrontation-the-google-vs-samsung-rivalry/"><u>[New] Virtual Realms Confrontation The Google Vs. Samsung Rivalry</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-images-basic-tips-with-lunapic/"><u>[Updated] Transform Your Images Basic Tips with LunaPic</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-addictive-features-of-mobile-games-you-should-watch-out-for/"><u>6 Addictive Features of Mobile Games You Should Watch Out For</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/automatic-ifolder-synchronization-effortless-cloud-to-pc-and-pc-to-cloud-sharing-solutions/"><u>Automatic iFolder Synchronization: Effortless Cloud-to-PC & PC-to-Cloud Sharing Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/expert-techniques-for-inserting-pdf-content-into-existing-files-a-complete-replacement-guide/"><u>Expert Techniques for Inserting PDF Content Into Existing Files - A Complete Replacement Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-y100a-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo Y100A</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-simplified-methods-to-close-unused-social-media-linkedin-account/"><u>In 2024, Simplified Methods to Close Unused Social Media (LinkedIn) Account</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/in-depth-guide-on-handling-multiple-copies-discussion-in-filesystems/"><u>In-Depth Guide on Handling Multiple Copies Discussion in Filesystems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inside-the-d-link-powerline-2000-plk-p8e-setting-up-and-achieving-high-data-speeds-effortlessly/"><u>Inside the D-Link Powerline 2000 (PLK-P8E): Setting Up and Achieving High Data Speeds Effortlessly</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/is-it-possible-for-malicious-software-to-conceal-within-bios-systems-securing-your-computer-against-viruses/"><u>Is It Possible for Malicious Software to Conceal Within BIOS Systems? Securing Your Computer Against Viruses</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-audio-capture-on-your-mac-with-apowersoft-the-complete-how-to-guide/"><u>Mastering Audio Capture on Your Mac with Apowersoft - The Complete How-To Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/recovering-deleted-contact-info-from-your-iphone-7-expert-tips-and-tricks/"><u>Recovering Deleted Contact Info From Your iPhone 7: Expert Tips & Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-mastering-the-art-of-airpod-resets-and-recognizing-essential-scenarios/"><u>Step-by-Step Guide: Mastering the Art of AirPod Resets & Recognizing Essential Scenarios</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-safari-crashes-or-freezes-on-iphones/"><u>Troubleshooting Steps: Safari Crashes or Freezes on iPhones</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Interactive Setup Folder Choice Interface
-date: 2024-10-04T19:18:24.334Z
-updated: 2024-10-05T19:42:44.165Z
+date: 2024-10-07T03:06:52.783Z
+updated: 2024-10-10T20:39:51.219Z
 tags:
   - user-guide
 categories:
@@ -85,37 +85,37 @@ Table of Contents
  This dialog allows you to select a validation method for the selected installation path. The actual validation is performed when pressing \[Next \] button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use native Windows Installer validation
 
 The default option. The installation path is verified automatically by Windows Installer using its standard mechanism. This validation is usually restricted to checking if the path can be accessed of if the specified drive exists.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Display an error if the installation folder already exists
 
 Displays a standard message box with an error if the selected folder already exists on disk. The installation folder dialog will remain visibile.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ask about overwriting the installation folder if it already exists
 
 If the selected folder already exists on disk, a message box will ask the user about overwriting it. If the answer is Yes, the installation continues. Otherwise, the installation folder dialog will remain visible.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Display an error if a specific file or subfolder exists in the installation path
 
@@ -144,10 +144,10 @@ Subfolder Name\Another subfolder
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Display an error if a specific file or subfolder does not exist in the installation path
@@ -189,22 +189,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-audience-anticipation-crafting-captivating-video-content-on-social-media-for-2024/"><u>[New] Audience Anticipation Crafting Captivating Video Content on Social Media for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-assessing-instagrams-limits-on-posted-videos/"><u>[Updated] 2024 Approved Assessing Instagram's Limits on Posted Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-rev-voice-recorder-download-and-review-for-2024/"><u>[Updated] Rev Voice Recorder Download and Review for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-top-15-booktok-books-recommendation-tiktok-books/"><u>[Updated] Top 15 Booktok Books Recommendation [TikTok Books]</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/choose-your-tongue-mastering-the-select-language-prompt/"><u>Choose Your Tongue: Mastering the Select Language Prompt</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/configuring-and-utilizing-json-input-features-in-software-deployment-tabs/"><u>Configuring and Utilizing JSON Input Features in Software Deployment Tabs</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/enhance-visibility-with-easy-billboard-copy-modification-tips/"><u>Enhance Visibility with Easy Billboard Copy Modification Tips</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/exploring-features-and-settings-of-right-click-options-in-user-interfaces/"><u>Exploring Features and Settings of Right-Click Options in User Interfaces</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-logitech-g35-usb-headphones-drivers-latest-version-for-win-7-810-supported/"><u>Free Logitech G35 USB Headphones Drivers - Latest Version for Win 7, 8/10 Supported</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-6s-plus-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and Apple iPhone 6s Plus without Apple Account</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-honor-90-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Honor 90 Pro Phone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-7-plus-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 7 Plus Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/pc-gaming-tips-learn-the-ins-and-outs-of-excelling-at-snowballio-online/"><u>PC Gaming Tips: Learn the Ins and Outs of Excelling at Snowball.io Online</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/seamless-link-management-your-essential-file-association-hub/"><u>Seamless Link Management: Your Essential File Association Hub</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-incorporating-a-youtube-playlist-into-your-site-with-seamless-autoplay-features/"><u>Step-by-Step Guide: Incorporating a YouTube Playlist Into Your Site with Seamless Autoplay Features</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-branding-edge-design-strategies-for-game-changing-banners-for-2024/"><u>The Branding Edge Design Strategies for Game-Changing Banners for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/top-3-apps-for-effortlessly-moving-your-iphone-content-and-info/"><u>Top 3 Apps for Effortlessly Moving Your iPhone Content and Info</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-samsung-galaxy-s21-fe-5g-2023-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Samsung Galaxy S21 FE 5G (2023) Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/advanced-techniques-in-digital-analytics-pages-enhancing-online-performance/"><u>Advanced Techniques in Digital Analytics Pages: Enhancing Online Performance</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/custom-file-handling-actions-innovative-approaches/"><u>Custom File Handling Actions: Innovative Approaches</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-strategies-to-protect-your-chrome-browser-from-invasive-pop-up-threats-with-malwarefox/"><u>Effective Strategies to Protect Your Chrome Browser From Invasive Pop-Up Threats with MalwareFox</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/how-does-the-ipad-pro-stack-up-against-the-macbook-pro-exploring-key-contrasts/"><u>How Does the iPad Pro Stack Up Against the MacBook Pro? Exploring Key Contrasts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-plus-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone 15 Plus with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-the-ultimate-toolkit-for-youtube-marketers-banner-mastery-guide/"><u>In 2024, The Ultimate Toolkit for YouTube Marketers Banner Mastery Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-appraisal-of-the-compact-yet-resilient-j5-tactical-flashlight-v1-pro/"><u>In Depth Appraisal of the Compact yet Resilient J5 Tactical Flashlight V1-Pro</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/managing-files-and-organizing-directories-in-installation-setup/"><u>Managing Files & Organizing Directories in Installation Setup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/methodology-for-extracting-and-installing-new-tempered-glass-on-phones/"><u>Methodology for Extracting and Installing New Tempered Glass on Phones</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713961457110-updated-are-you-interested-in-the-best-luts-do-you-want-to-enhance-your-photos-and-images-with-high-end-quality-then-quickly-step-into-this-article-for-mind/"><u>Updated Are You Interested in the Best LUTs ? Do You Want to Enhance Your Photos and Images with High-End Quality? Then, Quickly Step Into This Article for Mind-Blowing Facts on It for 2024</u></a></li>
 </ul></div>
 

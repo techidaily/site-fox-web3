@@ -1,7 +1,7 @@
 ---
 title: Modify Executable File Properties Interface
-date: 2024-10-02T19:42:17.240Z
-updated: 2024-10-05T18:21:50.831Z
+date: 2024-10-09T19:27:53.966Z
+updated: 2024-10-11T05:37:18.334Z
 tags:
   - user-guide
 categories:
@@ -96,10 +96,10 @@ This dialog allows you to edit EXE metadata fields.
 After selecting an item in the list either double-click it, access its “Edit...” context menu(right-click) or press theEdit field link button on the bottom right corner. This will show the [Edit EXE Metadata Field Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -140,20 +140,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-comprehensively-reviewing-youtubes-restrictions-vs-cc-flexibility/"><u>[Updated] 2024 Approved Comprehensively Reviewing YouTube's Restrictions Vs. CC Flexibility</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-confirmed-age-adjustment-editing-your-profile-on-tiktok-easily/"><u>[Updated] Confirmed Age Adjustment Editing Your Profile on TikTok Easily</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-realme-gt-5-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-pro-learning-snapseed-essentials/"><u>2024 Approved From Novice to Pro Learning Snapseed Essentials</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-metaverse-marketing-revolutionizing-customer-outreach/"><u>2024 Approved Metaverse Marketing Revolutionizing Customer Outreach</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-unveiling-the-power-of-azure-voice-recognition-api/"><u>2024 Approved Unveiling the Power of Azure Voice Recognition API</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/best-free-and-premium-pdf-reader-apps-for-iphone-x11se-top-11-picks/"><u>Best Free & Premium PDF Reader Apps for iPhone X/11/SE: Top 11 Picks</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/complete-guide-retrieving-lost-files-on-your-motorola-droid-razr-maxx-hd-with-data-rescue-techniques/"><u>Complete Guide: Retrieving Lost Files on Your Motorola Droid Razr Maxx HD with Data Rescue Techniques</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/customize-your-server-settings-the-ultimate-guide-to-editing-instance-properties/"><u>Customize Your Server Settings: The Ultimate Guide to Editing Instance Properties</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-false-vulnerability-signal-in-chrome/"><u>Eliminating False Vulnerability Signal in Chrome</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/endless-tunes-with-mp3-jam-substitutes-discover-explore-and-download-free-songs/"><u>Endless Tunes with MP3 Jam Substitutes: Discover, Explore & Download Free Songs</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/execute-command-in-custom-directory-efficient-file-management/"><u>Execute Command in Custom Directory - Efficient File Management</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-14-pro-max-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 14 Pro Max? Learn All 4 Methods</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/professional-apowersoft-advisory-solutions/"><u>Professional Apowersoft Advisory Solutions</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-turning-off-website-notifications-across-chrome-firefox-and-edge-browsers/"><u>Step-by-Step Guide: Turning Off Website Notifications Across Chrome, Firefox and Edge Browsers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-a-non-ad-revenue-stream-on-youtube-the-self-sustaining-creators-tale/"><u>[New] 2024 Approved Crafting a Non-Ad Revenue Stream on YouTube The Self-Sustaining Creator’s Tale</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-exploring-object-oriented-programming-for-complex-applications-for-2024/"><u>[New] Exploring Object-Oriented Programming for Complex Applications for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-adjusting-your-macs-snapshot-formats-with-ease-for-2024/"><u>[Updated] Adjusting Your Mac's Snapshot Formats with Ease for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-filters-to-fun-factors-maximizing-iphones-gif-capabilities/"><u>[Updated] From Filters to Fun Factors Maximizing iPhone's GIF Capabilities</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-breaking-barriers-worlds-best-and-largest-shorts-downloaders/"><u>[Updated] In 2024, Breaking Barriers World’s Best & Largest Shorts Downloaders</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-loop-artisan-suite-for-2024/"><u>[Updated] Loop Artisan Suite for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/choose-your-tongue-mastering-the-select-language-prompt/"><u>Choose Your Tongue: Mastering the Select Language Prompt</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-optimized-fixes-for-eliminating-game-lags-and-hitches/"><u>Cyberpunk 2077 Optimized: Fixes for Eliminating Game Lags & Hitches</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/enhance-visibility-with-easy-billboard-copy-modification-tips/"><u>Enhance Visibility with Easy Billboard Copy Modification Tips</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/exploring-features-and-settings-of-right-click-options-in-user-interfaces/"><u>Exploring Features and Settings of Right-Click Options in User Interfaces</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-incorporating-a-youtube-playlist-into-your-site-with-seamless-autoplay-features/"><u>Step-by-Step Guide: Incorporating a YouTube Playlist Into Your Site with Seamless Autoplay Features</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-3-apps-for-effortlessly-moving-your-iphone-content-and-info/"><u>Top 3 Apps for Effortlessly Moving Your iPhone Content and Info</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 5 Essential Steps for Securing Your Profile After a Facebook Compromise
-date: 2024-10-02T18:21:37.544Z
-updated: 2024-10-05T16:01:11.200Z
+date: 2024-10-07T16:13:43.613Z
+updated: 2024-10-10T17:33:43.902Z
 tags:
   - product
   - antivirus
@@ -50,23 +50,9 @@ Remember, it’ll take only one wrong message or post to shatter it. So, what sh
 
 If nothing visible has changed yet, how can you be sure that your facebook account has been hacked? There’s a reasonably simple method to check that:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Monitor your Login Sessions
 
 ![](https://www.malwarefox.com/wp-content/uploads/2022/07/login-password.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Log in to your FB account and click the upside-down triangle (inverted triangle) in the top-right corner of the screen. Now, select Settings. Click Security and Login. Now at the very top, you’ll view a list of most recent devices you’ve logged in from and when they were active.
 
@@ -88,10 +74,10 @@ Now, also you should check for these things.
 Now, once you’re sure your account has been hacked, follow the below steps to secure your FB account.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Things to do When your Facebook Account is Hacked
@@ -99,10 +85,10 @@ Now, once you’re sure your account has been hacked, follow the below steps to 
 Below are some of the things to do when your Facebook Account is Hacked
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Change your Facebook Account Password
@@ -110,13 +96,6 @@ Below are some of the things to do when your Facebook Account is Hacked
 If the hacker has not changed your password yet, you’re in luck. Just log in to your FB account and change your password. Go to **S** **ettings>** **Security and Logi** **n**. Scroll below to login and click Change Password. Now enter your current password and then a new one (use a sturdy never-used before password) and click Save Changes.
 
 ![](https://www.malwarefox.com/wp-content/uploads/2017/11/Change-Password.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 I highly recommend using a secure password manager to avoid recurrences of the incident.
 
@@ -127,10 +106,10 @@ Just in case the hacker has changed your password, don’t panic. We have a solu
 ![](https://www.malwarefox.com/wp-content/uploads/2017/11/Reset-Password.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now, Facebook will help you retrieve your password. If you have access to an email account or phone number associated with your Facebook account, enter it to find your account. Once facebook finds your account, it will provide options to reset your password.
@@ -153,7 +132,21 @@ Once you have access to your facebook account, go to **Settings> Apps**. Now cli
 
 ![](https://www.malwarefox.com/wp-content/uploads/2017/11/Remove-Access-to-Apps.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Here, you can change the information it can access and the control over your Facebook posts for each app.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Caution your Friends and Family
 
@@ -169,6 +162,19 @@ In **Settings> General**, Add more than one email addresses and verify your phon
 
 ![](https://www.malwarefox.com/wp-content/uploads/2017/11/Add-Contact-Info2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 From **Security and Login** under settings, make sure you set up additional security measures including SMS and email alerts for unknown logins, two-factor authentication and pick 3-5 friends who can help you restore your account if it gets hacked.
 
 Additionally, you should also make sure to install a secure antivirus solution and antimalware to keep your browser and computer safe from viruses, malware and cyber threats over the Internet. We hope our list of things to do when your Facebook Account is hacked was helpful to you.
@@ -176,10 +182,10 @@ Additionally, you should also make sure to install a secure antivirus solution a
 Stay Safe & Secure on Your Social Media.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2 thoughts on “5 Things to do when your Facebook Account is Hacked”
@@ -223,24 +229,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-capture-the-essence-extracting-youtube-audio-directly/"><u>[New] 2024 Approved Capture the Essence Extracting YouTube Audio Directly</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-top-7-precision-shooter-classics-for-2024/"><u>[New] Top 7 Precision Shooter Classics for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-transcript-download-analyze-content/"><u>[New] Transcript Download, Analyze Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-engaging-youtube-summaries-with-tailored-templates/"><u>[Updated] 2024 Approved Engaging YouTube Summaries with Tailored Templates</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/best-methods-for-streaming-pubg-mobile-gameplay-from-pc-or-mac/"><u>Best Methods for Streaming PUBG Mobile Gameplay From PC or Mac</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/comprehensive-guide-to-font-file-registration-process-for-webmasters/"><u>Comprehensive Guide to Font File Registration Process for Webmasters</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/deep-dive-into-expert-level-installer-programming-strategies/"><u>Deep Dive Into Expert-Level Installer Programming Strategies</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/expert-guide-utilizing-preset-conversations-in-your-resume/"><u>Expert Guide: Utilizing Preset Conversations in Your Resume</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/find-folders-quickly-with-smart-search-locator/"><u>Find Folders Quickly with Smart Search Locator</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-modify-options-in-the-thinapp-setup-window-for-optimal-performance/"><u>How to Modify Options in the ThinApp Setup Window for Optimal Performance</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-are-video-reviews-of-goods-paid-for-by-creators/"><u>In 2024, Are Video Reviews of Goods Paid For by Creators?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-how-to-screen-hulu-on-any-system-seamlessly/"><u>In 2024, How to Screen Hulu On Any System Seamlessly</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/rejecting-mobile-apps-for-gpt-avoidance/"><u>Rejecting Mobile Apps for GPT Avoidance</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/seamless-transfer-of-iphone-contacts-to-your-ipad-a-hassle-free-approach/"><u>Seamless Transfer of iPhone Contacts to Your iPad - A Hassle-Free Approach</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/selecting-secure-queries-essential-tips-for-optimal-account-protection/"><u>Selecting Secure Queries: Essential Tips for Optimal Account Protection</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/top-10-best-webcam-covers-and-stickers-for-2024/"><u>Top 10 Best Webcam Covers & Stickers for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/wireless-display-show-your-iphone-screen-on-an-lg-smart-tv/"><u>Wireless Display: Show Your iPhone Screen on an LG Smart TV</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/xsplit-vs-obs-which-one-simplifies-live-broadcast/"><u>XSplit Vs. OBS – Which One Simplifies Live Broadcast?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-turn-your-youtube-videos-into-lively-gifs-without-saving-files/"><u>[New] Turn Your YouTube Videos Into Lively GIFs Without Saving Files</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nlocking-the-secrets-behind-youtube-shorts-success-for-2024/"><u>[New] Unlocking the Secrets Behind YouTube Shorts Success for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-craft-the-perfect-snaps-top-ideas-unveiled-for-2024/"><u>[Updated] Craft the Perfect Snaps Top Ideas Unveiled for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-exploring-what-sets-youtube-tv-apart-from-other-streaming-platforms/"><u>[Updated] Exploring What Sets YouTube TV Apart From Other Streaming Platforms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-invest-in-cinematic-success-top-ten-cameras-for-filmmakers/"><u>[Updated] Invest in Cinematic Success Top Ten Cameras for Filmmakers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-swift-solutions-for-recording-video-talks-for-2024/"><u>[Updated] Swift Solutions for Recording Video Talks for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1-top-solutions-for-creating-a-transparent-logo-across-various-digital-mediums/"><u>1. Top Solutions for Creating a Transparent Logo Across Various Digital Mediums</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/downloading-youtubes-srt-subs-three-easy-steps/"><u>Downloading YouTube's SRT Subs Three Easy Steps</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/easy-to-follow-tutorial-on-deploying-activex-controls-in-projects/"><u>Easy-to-Follow Tutorial on Deploying ActiveX Controls in Projects</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-installation-process-a-guide-to-streamlined-setup/"><u>Effective Installation Process: A Guide to Streamlined Setup</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/essential-remote-work-mastery-the-top-5-must-have-productivity-tools/"><u>Essential Remote Work Mastery: The Top 5 Must-Have Productivity Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-y100i-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo Y100i Phone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-dividing-your-pdf-into-individual-documents/"><u>Step-by-Step Guide: Dividing Your PDF Into Individual Documents</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-how-to-cleanly-extract-stickers-from-your-reels-video-content/"><u>Step-by-Step Guide: How to Cleanly Extract Stickers From Your Reels Video Content</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-10-tips-for-mastering-the-art-of-pretending-to-be-a-skilled-hacker-a-friendly-guide/"><u>Top 10 Tips for Mastering the Art of Pretending to Be a Skilled Hacker – A Friendly Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-ranked-windows-10-image-viewer-applications-the-ultimate-guide/"><u>Top-Ranked Windows 10 Image Viewer Applications - The Ultimate Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Realme 12+ 5G | Dr.fone</u></a></li>
 </ul></div>
 

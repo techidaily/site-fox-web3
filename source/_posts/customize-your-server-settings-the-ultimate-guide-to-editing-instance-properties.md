@@ -1,7 +1,7 @@
 ---
 title: "Customize Your Server Settings: The Ultimate Guide to Editing Instance Properties"
-date: 2024-09-29T17:17:07.663Z
-updated: 2024-10-05T18:28:45.216Z
+date: 2024-10-06T19:02:19.083Z
+updated: 2024-10-11T03:43:41.486Z
 tags:
   - user-guide
 categories:
@@ -80,10 +80,10 @@ Table of Contents
 ![Instance Property Dialog](https://cdn.advancedinstaller.com/img/dialog/new-instance-property.png "Instance Property Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
@@ -91,10 +91,10 @@ Table of Contents
  The property's name. Use \[... \] button to overwrite an existing property.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Value
@@ -102,10 +102,16 @@ Table of Contents
  The property's value. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### OK
@@ -113,10 +119,10 @@ Table of Contents
  Saves the property's name and value.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cancel
@@ -156,18 +162,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-a-compreeved-look-at-sharex-opinions-and-alternatives/"><u>[New] In 2024, A Compreeved Look at ShareX Opinions & Alternatives</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-jokes-jamboree-mastering-memelore-made-simple/"><u>[New] Jokes Jamboree Mastering Memelore Made Simple</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-prime-emulation-tools-sonys-ps1-classics-at-the-fingertips-for-2024/"><u>[Updated] Prime Emulation Tools Sony's PS1 Classics at the Fingertips for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-strategies-for-adequate-lighting-in-youtube-videos/"><u>[Updated] Strategies for Adequate Lighting in YouTube Videos</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1-understanding-odbc-a-comprehensive-guide/"><u>1. Understanding ODBC: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/enhance-your-sound-capture-experience-with-apowersofts-updated-40-streaming-audio-recorder/"><u>Enhance Your Sound Capture Experience with Apowersoft's Updated 4.0 Streaming Audio Recorder!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/expert-tips-for-optimizing-your-ibaseshortcut-usage/"><u>Expert Tips for Optimizing Your IBaseShortcut Usage</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-se-2022-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone SE (2022) and iPad Securely</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-v29-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo V29 to Protect Your Individual Information</u></a></li>
-<li><a href="https://review-topics.techidaily.com/nokia-c32-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Nokia C32 support - Forgotten screen lock.</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/tabular-features-a-guide-to-software-labeling-and-classification/"><u>Tabular Features: A Guide to Software Labeling and Classification</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/understanding-the-default-web-page-how-it-works-in-browsers/"><u>Understanding the Default Web Page: How It Works in Browsers</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/voiceover-success-in-video-creation-simplified-techniques-for-high-quality-results/"><u>Voiceover Success in Video Creation: Simplified Techniques for High-Quality Results</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-live-from-the-couch-the-essential-dos-and-donts-of-home-streaming/"><u>[New] 2024 Approved Live From the Couch The Essential Do's & Don'ts of Home Streaming</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-from-basics-to-brilliance-mastering-the-art-of-macbook-air-screen-capture/"><u>[New] From Basics to Brilliance Mastering the Art of MacBook Air Screen Capture</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-maximizing-impact-with-smartly-produced-fb-videos/"><u>[New] Maximizing Impact with Smartly Produced FB Videos</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/activex-component-class-exploring-icom-and-beyond/"><u>ActiveX Component Class - Exploring ICOM and Beyond</u></a></li>
+<li><a href="https://win-answers.techidaily.com/chrome-browser-issues-how-to-load-stuck-pages-effectively/"><u>Chrome Browser Issues: How to Load Stuck Pages Effectively</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/engaging-kids-mastering-the-art-of-effective-child-conversations/"><u>Engaging Kids: Mastering the Art of Effective Child Conversations</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-nokia-c210-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Nokia C210 Phone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-modular-architecture-with-ibuildcomponent-solutions/"><u>Mastering Modular Architecture with iBuildComponent Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-retrieving-deleted-texts-on-your-iphone/"><u>Step-by-Step Guide: Retrieving Deleted Texts on Your iPhone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/transform-your-discord-experience-learn-message-pinning/"><u>Transform Your Discord Experience Learn Message Pinning</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-oneplus-nord-ce-3-lite-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change OnePlus Nord CE 3 Lite 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/understanding-the-app-v-configuration-navigating-the-options-and-file-settings-panel/"><u>Understanding the App-V Configuration: Navigating the Options and File Settings Panel</u></a></li>
 </ul></div>
 

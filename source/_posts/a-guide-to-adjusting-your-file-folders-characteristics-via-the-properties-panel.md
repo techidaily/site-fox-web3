@@ -1,7 +1,7 @@
 ---
 title: A Guide to Adjusting Your File Folders' Characteristics via the Properties Panel
-date: 2024-10-01T17:50:38.947Z
-updated: 2024-10-05T21:16:03.654Z
+date: 2024-10-05T02:22:06.059Z
+updated: 2024-10-11T01:44:07.773Z
 tags:
   - user-guide
 categories:
@@ -95,10 +95,10 @@ Table of Contents
 This dialog allows you to specify folder settings.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -145,19 +145,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-apowersoft-reviewed-a-guide-to-pc-screen-capture/"><u>[New] 2024 Approved Apowersoft Reviewed A Guide to PC Screen Capture</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-current-lighting-infrastructure/"><u>[New] 2024 Approved Current Lighting Infrastructure</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-transform-your-farm-with-stardews-most-innovative-mods-7-best/"><u>[New] In 2024, Transform Your Farm with Stardew's Most Innovative Mods (7 Best)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-from-fandom-to-fame-gamers-livestream-success-strategies/"><u>[Updated] 2024 Approved From Fandom to Fame Gamers' Livestream Success Strategies</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-display-guide-the-best-monitors-for-pixel-enthusiasts-for-2024/"><u>[Updated] Ultimate Display Guide - The Best Monitors for Pixel Enthusiasts for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1-top-solutions-for-creating-a-transparent-logo-across-various-digital-mediums/"><u>1. Top Solutions for Creating a Transparent Logo Across Various Digital Mediums</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/essential-remote-work-mastery-the-top-5-must-have-productivity-tools/"><u>Essential Remote Work Mastery: The Top 5 Must-Have Productivity Tools</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-hp-officejet-n4650-windows-drivers-free-downloads/"><u>Get the Latest HP OfficeJet N4650 Windows Drivers – Free Downloads</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Max?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps/"><u>In 2024, Explore iPhone's Best Value Top 10 Budget-Friendly Photo Collage Apps</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/mastering-quick-shots-effective-techniques-for-taking-a-screenshot-on-your-lenovo-device/"><u>Mastering Quick Shots: Effective Techniques for Taking a Screenshot on Your Lenovo Device</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/optimizing-inbound-dll-function-requests-through-tailored-callbacks/"><u>Optimizing Inbound Dll Function Requests Through Tailored Callbacks</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-dividing-your-pdf-into-individual-documents/"><u>Step-by-Step Guide: Dividing Your PDF Into Individual Documents</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-how-to-cleanly-extract-stickers-from-your-reels-video-content/"><u>Step-by-Step Guide: How to Cleanly Extract Stickers From Your Reels Video Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-rebooting-your-windows-photo-viewer-two-procedures-for-w10-for-2024/"><u>[New] Rebooting Your Windows Photo Viewer Two Procedures for W10 for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-seamless-guest-entry-into-your-peers-tiktok-lives/"><u>[Updated] 2024 Approved Seamless Guest Entry Into Your Peers' TikTok Lives</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-digital-dynamo-dames-the-next-generation-of-youtubes-powerhouses/"><u>[Updated] In 2024, Digital Dynamo Dames The Next Generation of YouTube's Powerhouses</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-prime-converter-kit-go-from-fb-to-high-fidelity-mp4/"><u>[Updated] Prime Converter Kit Go From FB to High-Fidelity MP4</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-step-by-step-guide-to-3d-text-effects-in-psx/"><u>[Updated] Step-by-Step Guide to 3D Text Effects in PSX</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1-optimize-your-site-advanced-configuration-techniques/"><u>1. Optimize Your Site: Advanced Configuration Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-watch-mov-movies-on-galaxy-s23-fe-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can you watch MOV movies on Galaxy S23 FE ?</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/configuring-and-utilizing-json-input-features-in-software-deployment-tabs/"><u>Configuring and Utilizing JSON Input Features in Software Deployment Tabs</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/easy-guide-how-to-access-the-add-classpath-files-window-in-java/"><u>Easy Guide: How to Access the Add Classpath Files Window in Java</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-techniques-for-separating-your-logo-from-its-background/"><u>Effective Techniques for Separating Your Logo From Its Background</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-samsung-galaxy-m14-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Samsung Galaxy M14 5G Without PUK Codes</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/launch-configuration-options-in-the-system-setup-tab-a-comprehensive-guide/"><u>Launch Configuration Options in the System Setup Tab: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-icomponents-the-building-blocks-of-modern-applications/"><u>Mastering IComponents: The Building Blocks of Modern Applications</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/midnight-marauder-vs-daylight-defender-black-vs-silver-for-2024/"><u>Midnight Marauder Vs Daylight Defender Black vs Silver for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-notebook-display-adjusting-windows-11s-themes-and-fonts/"><u>Optimizing Notebook Display: Adjusting Windows 11'S Themes & Fonts</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-moving-images-from-your-iphone-to-macos-catalina/"><u>Step-by-Step Guide: Moving Images From Your iPhone to macOS Catalina</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-pick-spotify-recorder-app-perfectly-compatible-with-macos-el-capitan-a-must-have-tool/"><u>Top Pick: Spotify Recorder App Perfectly Compatible with macOS El Capitan - A Must-Have Tool!</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/understanding-the-distinctions-a-comparative-analysis-of-antivirus-software-and-firewalls/"><u>Understanding the Distinctions: A Comparative Analysis of Antivirus Software and Firewalls</u></a></li>
 </ul></div>
 
