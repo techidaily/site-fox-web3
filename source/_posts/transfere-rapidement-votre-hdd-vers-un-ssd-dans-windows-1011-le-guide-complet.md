@@ -1,7 +1,7 @@
 ---
 title: "Transféré Rapidement Votre HDD Vers Un SSD Dans Windows 10/11: Le Guide Complet"
-date: 2024-10-21T17:01:08.387Z
-updated: 2024-10-28T19:16:48.286Z
+date: 2024-10-30T17:53:07.006Z
+updated: 2024-11-03T17:03:38.926Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c4901d4c5a9f2a86586092be7a6.jpg
@@ -38,13 +38,6 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
    4. [Method 4\. Recover from ransomware through system restore](https://tools.techidaily.com/ubackup/products/)
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is it possible to recover data from ransomware?
 
 I'm looking at a computer after it's been hit by some ransomware. The files have been encrypted. I am trying some guides in removal and recovery, but they don't seem to be of much help. If you have suggestions on how to recover files from ransomware, I would appreciate it.
@@ -79,6 +72,13 @@ Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If yo
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2\. Locate and preview your lost/deleted files**
 
 The recovery tool will automatically start looking for all the deleted and lost files.
@@ -102,10 +102,10 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
@@ -113,10 +113,10 @@ Step 2\. Tap on the **Restore my files** position in the Restore tab.
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
@@ -132,10 +132,10 @@ Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File
 [![File History](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/file-history.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
@@ -145,6 +145,13 @@ Step 2\. Press the **Restore personal files** button on the left panel. Please m
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
 
@@ -156,13 +163,6 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
@@ -171,18 +171,18 @@ Step 3\. Choose a restore point from the list and tap on **Scan for affected pro
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -209,6 +209,13 @@ Was the provided information useful? Your vote is important to us!
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
@@ -233,13 +240,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Free Get MyRecover Now
 
 Recover deleted & lost data from any disasters in Windows.
@@ -248,14 +248,14 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -272,18 +272,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-unleash-creativity-adding-professional-radial-effect-to-photos/"><u>[Updated] Unleash Creativity Adding Professional Radial Effect to Photos</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/easy-steps-to-recover-deleted-files-in-windows-1011/"><u>Easy Steps to Recover Deleted Files in Windows 10/11</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effizientes-hochladen-von-videos-auf-ihren-apple-ipad-pro-air-oder-mini/"><u>Effizientes Hochladen Von Videos Auf Ihren Apple iPad Pro, Air Oder Mini</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/guida-rapida-alla-clonazione-di-un-disco-rigido-su-un-supporto-usb-per-pc-e-mac/"><u>Guida Rapida Alla Clonazione Di Un Disco Rigido Su Un Supporto USB per PC E Mac</u></a></li>
-<li><a href="https://network-issues.techidaily.com/improve-graphical-output-install-a-simple-quick-update-for-intel-graphics-on-windows-10/"><u>Improve Graphical Output: Install a Simple, Quick Update for Intel Graphics on Windows 10</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-honor-magic-vs-2-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Honor Magic Vs 2 without App | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-artedit-master/"><u>In 2024, ArtEdit Master</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-quick-windows-gallery-app/"><u>In 2024, Best Quick Windows Gallery App</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-s24-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-transform-your-devices-tone-swiftly-with-these-leading-chrome-apps/"><u>In 2024, Transform Your Device's Tone Swiftly With These Leading Chrome Apps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/non-root-android-audio-logging-step-by-step/"><u>Non-Root Android Audio Logging, Step by Step</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/resusitasi-iphone-terakhir-prosedur-lanjutan-data-yang-tertunda/"><u>Resusitasi iPhone Terakhir: Prosedur Lanjutan Data Yang Tertunda</u></a></li>
-<li><a href="https://common-error.techidaily.com/trouble-printing-your-pdf-discover-fast-solutions/"><u>Trouble Printing Your PDF? Discover Fast Solutions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-expert-techniques-for-high-quality-android-recordings/"><u>[New] Expert Techniques for High-Quality Android Recordings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-holistic-evaluation-full-screenflow-for-mac-functionality/"><u>[New] Holistic Evaluation Full ScreenFlow for Mac Functionality</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-precise-process-installing-snapchat-on-a-mac-os/"><u>[New] In 2024, Precise Process Installing Snapchat on a Mac OS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-charting-the-course-with-youtubes-top-makeup-influencers/"><u>[Updated] In 2024, Charting the Course with YouTube's Top Makeup Influencers</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-realme-12-proplus-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Realme 12 Pro+ 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/comment-appliquer-la-commande-xcopy-pour-transferer-des-fichiers-et-repertoires-complets/"><u>Comment Appliquer La Commande Xcopy Pour Transférer Des Fichiers Et Répertoires Complets</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/comment-proteger-efficacamoement-votre-information-avec-les-logiciels-de-sauvegarde-open-source-pour-le-systeme-de-stockage-nas-drobo/"><u>Comment Protéger Efficacamoement Votre Information Avec Les Logiciels De Sauvegarde Open-Source Pour Le Système De Stockage NAS Drobo</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/comment-recupere-t-on-les-informations-dun-disque-dur-non-attribue/"><u>Comment Récupère-T-On Les Informations D'un Disque Dur Non Attribué ?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixed-drivers-conflict-on-hp-printer-model-67wdn/"><u>Fixed Drivers' Conflict on HP Printer Model 67Wdn</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1728464567342-hdd/"><u>HDD容量異なる間でのクローン作成：効果的な大から小へ</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-oppo-reno-8t-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Oppo Reno 8T Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-quintessential-queries-a-highlight-of-reddits-best-threads/"><u>In 2024, The Quintessential Queries A Highlight of Reddit's Best Threads</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-access-to-your-favorite-ms-store-games-and-tools/"><u>Regaining Access to Your Favorite MS Store Games & Tools</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/repair-guide-resolving-issues-with-invisible-m2-ssds-on-windows-10-or-11-11-steps/"><u>Repair Guide: Resolving Issues with Invisible M.2 SSDs on Windows 10 or 11 - 11 Steps</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/sicherung-ihrer-gmail-kontakte-der-optimale-prozess/"><u>Sicherung Ihrer Gmail Kontakte: Der Optimale Prozess</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/tecnicas-expertas-para-controlar-tu-cuenta-aomei-con-exito/"><u>Técnicas Expertas Para Controlar Tu Cuenta AOMEI Con Éxito</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/the-role-of-cdn-in-reducing-web-page-load-times-for-2024/"><u>The Role of CDN in Reducing Web Page Load Times for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/topstrategien-zur-reaktivierung-von-entfernten-nutzern-in-windows-11-erfolgreichste-methoden-erfahren/"><u>Topstrategien Zur Reaktivierung Von Entfernten Nutzern in Windows 11 - Erfolgreichste Methoden Erfahren!</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/wie-man-daten-einer-apple-id-erfolgreich-auf-einen-neuen-nutzer-ubersetzt/"><u>Wie Man Daten Einer Apple ID Erfolgreich Auf Einen Neuen Nutzer Übersetzt</u></a></li>
 </ul></div>
 
