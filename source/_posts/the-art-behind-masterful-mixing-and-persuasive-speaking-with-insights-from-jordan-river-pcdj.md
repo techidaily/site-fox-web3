@@ -1,7 +1,7 @@
 ---
 title: The Art Behind Masterful Mixing and Persuasive Speaking with Insights From Jordan River | PCDJ
-date: 2024-11-28T17:59:28.410Z
-updated: 2024-11-30T16:59:36.450Z
+date: 2024-12-03T03:29:05.916Z
+updated: 2024-12-08T18:51:05.328Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ It’s no surprise that we are currently living in an attention-deficit culture.
 _DJ Jordan River has entertained thousands of special events over the last two decades. He will be public speaking to other national and international professional DJs at the American DJ convention September 2014, as well as the Mobile Beat Convention in February 2015\. He has studied public speaking from Professor James Wagstaff, Civil Attorney at Stanford University._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,22 +60,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/06/djspeakers-1.jpg?fit=530%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-blitz-30-second-guide-to-fast-thumbnails/"><u>[Updated] 2024 Approved Blitz 30-Second Guide to Fast Thumbnails</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-easiest-way-to-shorten-youtube-links-here-are-the-top-5-choices/"><u>[Updated] The Easiest Way to Shorten YouTube Links? Here Are the Top 5 Choices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/adding-a-custom-logo-to-your-e-book-with-flipbuilder-technology/"><u>Adding a Custom Logo to Your E-Book with FlipBuilder Technology</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/adding-comprehensive-guides-to-readers-hands-utilizing-flipbuilder-for-ebook-assistance-pages/"><u>Adding Comprehensive Guides to Readers' Hands: Utilizing FlipBuilder for eBook Assistance Pages</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/adjusting-toolbar-placement-using-floating-templates-in-flipbook-a-step-by-step-guide/"><u>Adjusting Toolbar Placement Using Floating Templates in FlipBook - A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/androids-best-mobile-brawlers-ranked-1-10-for-2024/"><u>Android's Best Mobile Brawlers Ranked #1-10 for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/boost-your-flipbooks-reach-how-to-set-up-social-sharing-for-facebook-twitter-and-linkedin-on-flipbuildercom/"><u>Boost Your FlipBook's Reach: How to Set Up Social Sharing for Facebook, Twitter & LinkedIn on flipbuilder.com</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/can-i-integrate-videos-in-your-platforms-ebook-using-flipbuilders-flash-technology/"><u>Can I Integrate Videos in Your Platform's eBook Using FlipBuilder's Flash Technology?</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/convert-multiple-pdf-documents-into-word-format-for-free-with-flipbuilder/"><u>Convert Multiple PDF Documents Into Word Format for Free with FlipBuilder!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/create-unique-buttons-on-flipbuilder-quick-and-simple-digital-printer-access-for-custom-designs/"><u>Create Unique Buttons on FlipBuilder: Quick & Simple Digital Printer Access for Custom Designs</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/creating-dynamic-email-links-within-flipbook-presentations-using-flipbuilder/"><u>Creating Dynamic Email Links Within FlipBook Presentations Using FlipBuilder</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-oppo-find-n3-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Oppo Find N3.</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-sony-xperia-1-v-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Sony Xperia 1 V Phone that is Locked?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/top-ten-youtube-regulations-to-abide-by/"><u>Top Ten YouTube Regulations to Abide By</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/k-brand-potential-access-50-banners-at-no-cost/"><u>Unlock Brand Potential - Access 50 Banners at No Cost</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-10-free-video-sharing-platforms-for-personal-and-commercial-use/"><u>Updated In 2024, Top 10 Free Video Sharing Platforms for Personal and Commercial Use</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-sjcam-sj7-star-4k-action-camera-complete-review-2023/"><u>[New] In 2024, SJCam SJ7 Star 4K Action Camera Complete Review 2023</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-beginners-blueprint-to-blend-brighten-and-balance/"><u>2024 Approved Beginner's Blueprint to Blend, Brighten & Balance</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-update-short-twitter-video-coverage/"><u>2024 Approved Update Short Twitter Video Coverage</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/adjusting-system-dates-times-and-time-zones-via-control-panel-a-guide-by-yl-computing/"><u>Adjusting System Dates, Times & Time Zones via Control Panel: A Guide by YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/efficiently-execute-tasks-with-a-simple-tap-at-the-rear-of-your-android-smartphone/"><u>Efficiently Execute Tasks with a Simple Tap at the Rear of Your Android Smartphone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c50-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Poco C50 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-joint-recording-of-webcam-and-desktop-display/"><u>In 2024, Joint Recording of Webcam and Desktop Display</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/the-pathway-to-dominance-exploring-how-the-manchus-seized-control-in-ancient-china-analyzed-with-yl-software/"><u>The Pathway to Dominance: Exploring How the Manchus Seized Control in Ancient China – Analyzed with YL Software</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/transform-your-photos-easily-convert-jpg-files-into-pngs-using-windows-tools-advice-by-yl-software/"><u>Transform Your Photos Easily: Convert JPG Files Into PNGs Using Windows Tools – Advice by YL Software</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/troubleshooting-how-to-resolve-undetected-video-cards-in-your-pc-tips-from-yl-computing/"><u>Troubleshooting: How to Resolve Undetected Video Cards in Your PC - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/understanding-the-geographical-context-of-the-opium-war-battles-insights-from-yl-tech-innovators/"><u>Understanding the Geographical Context of the Opium War Battles - Insights From YL Tech Innovators</u></a></li>
 </ul></div>
 

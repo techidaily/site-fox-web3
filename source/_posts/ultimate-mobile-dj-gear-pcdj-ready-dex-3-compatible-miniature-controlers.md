@@ -1,7 +1,7 @@
 ---
 title: Ultimate Mobile DJ Gear - PCDJ Ready, DEX 3 Compatible Miniature Controlers
-date: 2024-11-26T19:23:51.108Z
-updated: 2024-11-30T20:42:56.113Z
+date: 2024-12-03T02:37:14.525Z
+updated: 2024-12-09T00:37:18.400Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Here’s a list of four current [DJ controllers](https://tools.techidaily.com/pc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Ultra-Mobile, Compact DJ Controllers for DEX 3 DJ Software
@@ -41,10 +41,6 @@ Ultra-compact, ultra-light, and ultra-practical, the DJControl Starlight packs a
   
 [![Hercules DJ Control Starlight](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/DJControlStarlight_Main1.png?fit=300%2C129&ssl=1 "Hercules DJ Control Starlight")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/DJControlStarlight%5FMain1.png?fit=1003%2C431&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) **Numark DJ2Go2 Touch**
 
 Just like it’s predecessor the DJ2Go2, the DJ2Go2 Touch is a portable, pocket-sized DJ controller, but with the improved capability for scratching with capacitive touch jog wheels. With a built-in sound card, it fits perfectly in front of your laptop. With 8 pads and four pad modes for total-control of cue-points, auto / manual looping and sample playback, it’s one of the best portable DJ controller values on the market. **Retail: $79.99**
@@ -53,7 +49,7 @@ Just like it’s predecessor the DJ2Go2, the DJ2Go2 Touch is a portable, pocket-
 [![Numark DJ2Go2 Touch](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/numark-dj2go2-touch-pocket-dj-controller-with-professional-headphones-nano-controller-eva-bag-package-112.png?fit=300%2C127&ssl=1 "Numark DJ2Go2 Touch")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/numark-dj2go2-touch-pocket-dj-controller-with-professional-headphones-nano-controller-eva-bag-package-112.png?fit=1030%2C436&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) **Hercules DJControl Inpulse 200**
@@ -64,7 +60,7 @@ The DJControl Inpulse 200 has the look and feel of many other popular compact co
 [![Hercules DJControl Inpulse 200](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=300%2C229&ssl=1 "Hercules DJControl Inpulse 200")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=1029%2C787&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) **Numark Party Mix**
@@ -74,12 +70,16 @@ The professional DJ features that come with the Numark Party Mix include four cu
   
 [![Numark Party Mix](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL._AC_SL1500_.jpg?fit=300%2C193&ssl=1 "Numark Party Mix")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL.%5FAC%5FSL1500%5F.jpg?fit=1030%2C663&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [View All DEX 3 Supported DJ Controllers](https://tools.techidaily.com/pcdj/products/)
 
 _Have questions about DEX 3 supported **DJ Controllers**? Leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -101,19 +101,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/08/starlight22713-e1537952784
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-effortless-imovie-music-enhancement-using-youtube-songs/"><u>[New] 2024 Approved Effortless iMovie Music Enhancement Using YouTube Songs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-disjointed-to-harmonious-the-logic-pro-x-transition-tale/"><u>[Updated] From Disjointed to Harmonious The Logic Pro X Transition Tale</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-navigating-lenses-for-professional-videography/"><u>[Updated] In 2024, Navigating Lenses for Professional Videography</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-optimal-energy-solutions-official-and-third-party-hero5-batteries/"><u>[Updated] Optimal Energy Solutions - Official & Third-Party Hero5 Batteries</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1728471992941-windows-file-recovery/"><u>「Windows File Recovery」の完全解説！失われたファイルの安全回復戦略</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/affordable-client-retention-tactics-mastering-the-art-of-email-revival-to-attract-customers-with-massmail-tools/"><u>Affordable Client Retention Tactics: Mastering the Art of Email Revival to Attract Customers with Massmail Tools</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/comment-recuperer-vos-donnees-sur-samsung-avec-des-alternatives-gratuites-sous-windows-groovy-11-le-top-5-en-explication-detaillee/"><u>Comment Récupérer Vos Données Sur Samsung Avec Des Alternatives Gratuites Sous Windows Groovy 11 - Le Top 5 en Explication Détaillée</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/drei-methoden-zum-transferieren-ihrer-iphone-kontaktdaten-auf-einen-pc-wobei-keine-icloud-integration-erforderlich-ist/"><u>Drei Methoden Zum Transferieren Ihrer iPhone-Kontaktdaten Auf Einen PC, Wobei Keine iCloud-Integration Erforderlich Ist</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-recover-a-missing-file-in-your-folder-a-step-by-step-guide-with-7-proven-methods/"><u>How to Recover a Missing File in Your Folder: A Step-by-Step Guide (with 7 Proven Methods)</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-thriving-on-both-sides-work-and-youtubing-tips/"><u>In 2024, Thriving on Both Sides Work and YouTubing Tips</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-x90s-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo X90S FRP Without Computer</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-upgrading-your-pcs-hard-drive-from-hdd-to-ssd-on-windows-os/"><u>Step-by-Step Guide: Upgrading Your PC's Hard Drive From HDD to SSD on Windows OS</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/stopping-auto-capture-in-apples-recorder/"><u>Stopping Auto-Capture in Apple's Recorder</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/understanding-facebooks-real-time-content-restrictions-for-2024/"><u>Understanding Facebook's Real-Time Content Restrictions for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-revenue-revolution-unlocking-the-potential-of-your-youtube-channel-on-mobile-for-2024/"><u>[Updated] Revenue Revolution Unlocking the Potential of Your YouTube Channel on Mobile for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/windows-amoft/"><u>解决方案集：重启Windows Amoft一台后无法自动打开的故障</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-13-ultra-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experts-secrets-a-comprehensive-list-of-fixes-for-glitchy-audio-on-your-airpods/"><u>Experts' Secrets: A Comprehensive List of Fixes for Glitchy Audio on Your AirPods</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-resolve-undetected-network-adapter-issues-in-your-windows-operating-system-insights-from-yl-computing/"><u>How to Resolve Undetected Network Adapter Issues in Your Windows Operating System - Insights From YL Computing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-comprehensive-guide-to-free-cloud-communication-software/"><u>In 2024, Comprehensive Guide to Free Cloud Communication Software</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-htc-u23-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent HTC U23 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/latest-dj-toolkit-upgrade-access-the-new-dex-version-31306-by-pcdj-with-improved-features-and-stability/"><u>Latest DJ Toolkit Upgrade: Access the New Dex Version 3.13.0.6 by PCDJ with Improved Features and Stability</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/overcoming-no-scanner-detected-troubleshooting-guide-for-pcs-digitalfix-solutions/"><u>Overcoming 'No Scanner Detected' Troubleshooting Guide for PCs - DigitalFix Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/overcoming-inaccuracy-in-scanning-devices-insights-and-solutions-by-yl-software/"><u>Overcoming Inaccuracy in Scanning Devices: Insights and Solutions by YL Software</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/preventing-pc-heat-issues-expert-advice-on-keeping-your-system-cool-yl-tech-solutions/"><u>Preventing PC Heat Issues: Expert Advice on Keeping Your System Cool - YL Tech Solutions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/save-on-soccer-spectacles-live-tape-trim-for-free-for-2024/"><u>Save on Soccer Spectacles - Live, Tape, Trim for Free for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/troubleshooting-guide-uncover-the-reasons-behind-undetected-network-connections-yl-solutions/"><u>Troubleshooting Guide: Uncover the Reasons Behind Undetected Network Connections - YL Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/yls-strategies-for-enhanced-crypto-security-protective-measures-from-yl-software-experts/"><u>YL's Strategies for Enhanced Crypto Security - Protective Measures From YL Software Experts</u></a></li>
 </ul></div>
 
