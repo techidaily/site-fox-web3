@@ -1,7 +1,7 @@
 ---
 title: SongBookDB - Advanced Digital DJ Notebook & Guide | Expert Insights
-date: 2024-12-07T20:35:22.395Z
-updated: 2024-12-08T19:25:22.394Z
+date: 2024-12-13T20:21:00.398Z
+updated: 2024-12-15T03:42:12.278Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Shaun Thomson of [SongbookDB.com](https://www.songbookdb.com/) shared with PCDJ 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SongBookDB Pro Tip From The Creator
@@ -51,7 +51,7 @@ Here’s how to set it up, and then quickly switch over to “DJ” mode during 
 _**That’s your [SongbookDB Karaoke Software](https://tools.techidaily.com/pcdj/products/) Pro Tip of the Month!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,21 +73,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/04/songbookdbprotip-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-blueprint-to-establishing-a-distinctive-marketing-persona/"><u>[New] 2024 Approved The Blueprint to Establishing a Distinctive Marketing Persona</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-blueprint-adopting-mobizen-screen-recording-skills-for-2024/"><u>[New] The Ultimate Blueprint Adopting Mobizen Screen Recording Skills for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-leapfrog-your-sub-count-top-techniques-unveiled/"><u>[Updated] 2024 Approved Leapfrog Your Sub Count Top Techniques Unveiled</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-accumulating-prime-visuals-for-content-creation/"><u>[Updated] Accumulating Prime Visuals for Content Creation</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-maximizing-impact-video-marketing-on-youtube/"><u>[Updated] Maximizing Impact Video Marketing on YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-shaping-perceptions-expert-strategies-for-photoshop-distortions/"><u>[Updated] Shaping Perceptions Expert Strategies for Photoshop Distortions</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-scale-up-channel-followers-faster-and-cheaper/"><u>2024 Approved Scale Up Channel Followers Faster and Cheaper</u></a></li>
-<li><a href="https://win-great.techidaily.com/1728491158342-windows-10/"><u>完全なWindows 10オペレーティングシステムを保護するためのガイド</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/boost-your-computers-power-with-these-proven-tips-from-yl-software-experts/"><u>Boost Your Computer's Power with These Proven Tips From YL Software Experts</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/building-a-successful-cryptocurrency-trading-platform-with-yl-software-expertise/"><u>Building a Successful Cryptocurrency Trading Platform with YL Software Expertise</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/efficiently-collaborate-on-windows-tips-to-share-your-data-with-others-from-yl-software-experts/"><u>Efficiently Collaborate on Windows: Tips to Share Your Data with Others From YL Software Experts</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/premium-ford-ranger-raptor-screen-savers-innovative-designs-from-yl-softwares-tech-solutions/"><u>Premium Ford Ranger Raptor Screen Savers: Innovative Designs From YL Software's Tech Solutions</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/revive-your-unbootable-system-with-our-expert-strategies-by-yl-computing/"><u>Revive Your Unbootable System with Our Expert Strategies by YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/solutions-for-a-low-ink-printer-expert-advice-from-yl-computing/"><u>Solutions for a Low-Ink Printer: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/understanding-potential-dangers-safeguarding-your-system-while-tweaking-the-windows-registry-insights-by-yl-computing/"><u>Understanding Potential Dangers: Safeguarding Your System While Tweaking the Windows Registry - Insights by YL Computing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unparalleled-harmony-collector-android-based-for-2024/"><u>Unparalleled Harmony Collector, Android-Based for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/2019-in-retrospect-a-comprehensive-look-back-at-the-pcdj-saga/"><u>2019 in Retrospect: A Comprehensive Look Back at the PCDJ Saga</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/bitcoin-purchase-interest-skyrockets-by-826-in-the-uk-a-deep-dive-into-buy-bitcoin-searches-with-yl-computing/"><u>Bitcoin Purchase Interest Skyrockets by 826% in the UK: A Deep Dive Into 'Buy Bitcoin' Searches with YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/compact-yet-powerful-discover-a-portable-bluetooth-speaker-with-deep-bass-quality-by-zdnet/"><u>Compact Yet Powerful: Discover a Portable Bluetooth Speaker with Deep Bass Quality by ZDNet</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/cost-free-hd-duplication-tools-compatible-with-windows-os-versions-10-8-option-3-budget-friendly-drive-copying-utilities-for-windows-systems-xpvista710/"><u>Cost-Free HD Duplication Tools Compatible with Windows OS Versions (10, 8, # Option 3: Budget-Friendly Drive Copying Utilities for Windows Systems (XP/Vista/7/10)</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-file-properties-on-windows-platforms/"><u>Customizing File Properties on Windows Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cyber-threats-evolving-chatgpts-emergence-as-a-potential-risk/"><u>Cyber Threats Evolving: ChatGPT's Emergence as a Potential Risk</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/finding-the-needle-in-the-haystack-expert-tips-for-identifying-files-on-your-windows-pc-with-yl-software-solutions/"><u>Finding the Needle in the Haystack: Expert Tips for Identifying Files on Your Windows PC with YL Software Solutions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-itel-a60s-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Itel A60s to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-final-cut-pro-2-simple-ways-to-add-professional-audio-fades-for-2024/"><u>New Final Cut Pro 2 Simple Ways to Add Professional Audio Fades for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/revamp-your-song-collection-party-tymes-exclusive-karaoke-library-membership-launched-on-10-22-18/"><u>Revamp Your Song Collection! Party Tyme's Exclusive Karaoke Library Membership Launched on 10-22-18</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/solving-persistent-audio-hardware-glitches-uncover-the-reasons-behind-your-pcs-sound-card-malfunctions/"><u>Solving Persistent Audio Hardware Glitches: Uncover the Reasons Behind Your PC's Sound Card Malfunctions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/the-top-reasons-for-systemic-inconsistency-explained-by-yl-software-professionals/"><u>The Top Reasons for Systemic Inconsistency Explained by YL Software Professionals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-canon-mx922-inkjet-printer-drivers-on-windows-pcs/"><u>Update Canon MX922 Inkjet Printer Drivers on Windows PCs</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-merge-like-a-pro-the-top-5-free-online-video-editors/"><u>Updated Merge Like a Pro The Top 5 Free Online Video Editors</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v30-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V30 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/yl-computings-guide-to-ultimate-computer-performance-and-maintenance/"><u>YL Computing's Guide to Ultimate Computer Performance & Maintenance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke App Version 1.6: Now Fully Compatible With macOS Catalina - Free Download!"
-date: 2024-12-01T22:07:34.397Z
-updated: 2024-12-08T18:25:31.506Z
+date: 2024-12-07T21:02:24.912Z
+updated: 2024-12-14T23:48:22.289Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6
@@ -55,7 +55,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 _Have questions about the latest 1.6 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,18 +77,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/04/lyrx-16-cover-2.jpg?fit=13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-short-segment-screenplay-snippet/"><u>[New] In 2024, Short Segment Screenplay Snippet</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-list-top-10-websites-for-free-photo-access/"><u>[New] The Ultimate List Top 10 Websites for Free Photo Access</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-editortech-examination-visualflow-pro-the-complete-guide/"><u>[Updated] 2024 Approved EditorTech Examination VisualFlow Pro, The Complete Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-smoothie-your-phone-converting-iphones-jpegpng-to-pdf-for-2024/"><u>[Updated] Smoothie Your Phone Converting iPhone's JPEG/PNG to PDF for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-how-to-restore-windows-photo-viewer-in-windows-10/"><u>2024 Approved How to Restore Windows Photo Viewer in Windows 10</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/detecting-and-diagnosing-physical-component-issues-on-windows-systems-with-tips-from-yl-software/"><u>Detecting and Diagnosing Physical Component Issues on Windows Systems with Tips From YL Software</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/exquisite-honda-logo-images-for-your-screen-premiumbackgroundspronet/"><u>Exquisite Honda Logo Images for Your Screen - PremiumBackgroundsPro.net</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/high-definition-marvels-hawkeye-wallpapers-compilation-by-yl-computing-ultimate-digital-artwork/"><u>High-Definition Marvel's Hawkeye Wallpapers Compilation by YL Computing - Ultimate Digital Artwork</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-effectively-cleanse-your-system-of-infections-best-practices-in-antivirus-removal-tips-and-techniques-from-yl-software/"><u>How to Effectively Cleanse Your System of Infections: Best Practices in Antivirus Removal - Tips & Techniques From YL Software</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-the-best-game-selection-for-steam-deck-users-2023-edition/"><u>Navigating the Best Game Selection for Steam Deck Users – 2023 Edition</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/pcdj-announces-dex-nv31020-get-the-latest-dj-software-in-its-public-beta-phase-now/"><u>PCDJ Announces DEX Nv3.10.2.0 - Get the Latest DJ Software in Its Public Beta Phase Now!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-checklist-of-5-things-you-need-to-know-when-buying-a-tracker/"><u>The Ultimate Checklist of 5 Things You Need to Know When Buying a Tracker</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/unraveling-the-mystery-solutions-when-your-pc-wont-boot-insights-from-yl-computing/"><u>Unraveling the Mystery: Solutions When Your PC Won't Boot - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-perfecting-video-calls-merging-zoom-and-skype-expertise/"><u>[New] 2024 Approved Perfecting Video Calls Merging ZOOM and SKYPE Expertise</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-rich-tapestry-of-ajeys-channel-wealth/"><u>[Updated] In 2024, The Rich Tapestry of Ajey's Channel Wealth</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-reno-10-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/confirming-your-successful-windows-10-activation-a-step-by-step-guide-yl-computing/"><u>Confirming Your Successful Windows 10 Activation: A Step-by-Step Guide - YL Computing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/delightful-stream-extractor-report/"><u>Delightful Stream Extractor Report</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/download-the-latest-dj-software-skins-creator-from-pcdj-new-release/"><u>Download the Latest DJ Software Skins Creator From PCDJ - New Release!</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/enhancing-pc-performance-through-hardware-upgrades-tips-and-strategies-by-yl-software/"><u>Enhancing PC Performance Through Hardware Upgrades: Tips & Strategies by YL Software</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-fix-your-unresponsive-mouse-with-tips-by-yl-software-experts/"><u>How to Fix Your Unresponsive Mouse with Tips by YL Software Experts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-efficiently-airing-recorded-videos-in-real-time-through-facebook/"><u>In 2024, Efficiently Airing Recorded Videos in Real-Time Through Facebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-new-horizons-in-console-gaming-embarking-on-the-4k-odyssey/"><u>Navigating New Horizons in Console Gaming: Embarking on the 4K Odyssey</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-top-10-free-browser-based-daws-for-creatives-for-2024/"><u>New Top 10 Free Browser-Based DAWs for Creatives for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/understanding-crypto-vs-traditional-money-how-cryptocurrencies-differ-from-fiat-currencies-yl-computing/"><u>Understanding Crypto Vs. Traditional Money: How Cryptocurrencies Differ From Fiat Currencies - YL Computing</u></a></li>
 </ul></div>
 

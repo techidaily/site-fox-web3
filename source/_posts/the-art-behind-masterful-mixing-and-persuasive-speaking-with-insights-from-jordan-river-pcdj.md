@@ -1,7 +1,7 @@
 ---
 title: The Art Behind Masterful Mixing and Persuasive Speaking with Insights From Jordan River | PCDJ
-date: 2024-12-03T03:29:05.916Z
-updated: 2024-12-08T18:51:05.328Z
+date: 2024-12-10T01:54:35.834Z
+updated: 2024-12-14T17:24:28.081Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ It’s no surprise that we are currently living in an attention-deficit culture.
 _DJ Jordan River has entertained thousands of special events over the last two decades. He will be public speaking to other national and international professional DJs at the American DJ convention September 2014, as well as the Mobile Beat Convention in February 2015\. He has studied public speaking from Professor James Wagstaff, Civil Attorney at Stanford University._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,17 +60,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/06/djspeakers-1.jpg?fit=530%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-sjcam-sj7-star-4k-action-camera-complete-review-2023/"><u>[New] In 2024, SJCam SJ7 Star 4K Action Camera Complete Review 2023</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-beginners-blueprint-to-blend-brighten-and-balance/"><u>2024 Approved Beginner's Blueprint to Blend, Brighten & Balance</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-update-short-twitter-video-coverage/"><u>2024 Approved Update Short Twitter Video Coverage</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/adjusting-system-dates-times-and-time-zones-via-control-panel-a-guide-by-yl-computing/"><u>Adjusting System Dates, Times & Time Zones via Control Panel: A Guide by YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/efficiently-execute-tasks-with-a-simple-tap-at-the-rear-of-your-android-smartphone/"><u>Efficiently Execute Tasks with a Simple Tap at the Rear of Your Android Smartphone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c50-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Poco C50 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-joint-recording-of-webcam-and-desktop-display/"><u>In 2024, Joint Recording of Webcam and Desktop Display</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/the-pathway-to-dominance-exploring-how-the-manchus-seized-control-in-ancient-china-analyzed-with-yl-software/"><u>The Pathway to Dominance: Exploring How the Manchus Seized Control in Ancient China – Analyzed with YL Software</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/transform-your-photos-easily-convert-jpg-files-into-pngs-using-windows-tools-advice-by-yl-software/"><u>Transform Your Photos Easily: Convert JPG Files Into PNGs Using Windows Tools – Advice by YL Software</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/troubleshooting-how-to-resolve-undetected-video-cards-in-your-pc-tips-from-yl-computing/"><u>Troubleshooting: How to Resolve Undetected Video Cards in Your PC - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/understanding-the-geographical-context-of-the-opium-war-battles-insights-from-yl-tech-innovators/"><u>Understanding the Geographical Context of the Opium War Battles - Insights From YL Tech Innovators</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-uniting-social-networks-sharing-tiktok-on-facebook/"><u>[New] Uniting Social Networks Sharing TikTok on Facebook</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-simple-steps-for-merging-youtube-media-files/"><u>[Updated] In 2024, The Simple Steps for Merging YouTube Media Files</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-samsung-galaxy-a15-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Samsung Galaxy A15 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/dealing-with-a-crashed-hard-drive-essential-steps-by-yl-software-experts/"><u>Dealing with a Crashed Hard Drive: Essential Steps by YL Software Experts</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/discover-the-art-of-star-trek-inspired-skins-unleashing-creativity-with-pcdj-skin-designer/"><u>Discover the Art of Star Trek-Inspired Skins: Unleashing Creativity with PCDJ Skin Designer</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/download-the-ultimate-free-flv-video-converter-effortless-transformation-into-avi-wmv-mp4-and-more/"><u>Download the Ultimate Free FLV Video Converter: Effortless Transformation Into AVI, WMV, MP4 & More</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/future-forecast-exciting-developments-for-pcdj-in-2015/"><u>Future Forecast: Exciting Developments for PCDJ in 2015</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/high-resolution-3840x1080-digital-artwork-and-desktop-scenes-by-yl-computing-top-quality-wallpaper-selection/"><u>High-Resolution 3840X1080 Digital Artwork & Desktop Scenes by YL Computing: Top Quality Wallpaper Selection</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-oppo-find-n3-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Oppo Find N3 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-fairphone-5-the-ultimate-in-sustainable-tech-with-a-lifetime-of-software-support/"><u>Introducing Fairphone 5: The Ultimate in Sustainable Tech with a Lifetime of Software Support</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-chatgpt-potential-in-different-tongues/"><u>Maximizing ChatGPT Potential in Different Tongues</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signatures-for-xltm-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Online signatures for .xltm files</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/resolving-hardware-induced-freezes-and-crashes-on-your-windows-pc-expert-advice-from-yl-computing/"><u>Resolving Hardware-Induced Freezes and Crashes on Your Windows PC: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/resolving-incompatibility-issues-how-to-update-your-scanners-drivers-on-windows-tips-from-yl-software/"><u>Resolving Incompatibility Issues: How to Update Your Scanner's Drivers on Windows - Tips From YL Software</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/revolutionizing-sing-along-fun-a-detailed-guide-for-pcdj-software-users-in-the-modern-era/"><u>Revolutionizing Sing-Along Fun: A Detailed Guide for PCDJ Software Users in the Modern Era</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-making-unsupported-accessories-work-with-your-iphone/"><u>Step-by-Step Guide: Making Unsupported Accessories Work with Your iPhone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-solving-motherboard-issues-with-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Solving Motherboard Issues with Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/system-health-checks-made-simple-setting-the-standard-for-regular-maintenanc-with-yls-expertise-and-tools/"><u>System Health Checks Made Simple: Setting the Standard for Regular Maintenanc with YL's Expertise & Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Meizu 21 Pro | Dr.fone</u></a></li>
 </ul></div>
 

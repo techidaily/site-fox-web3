@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Cobian Backup's Failure to Delete Obsolete Files: Expert Fixes & Replacement Options"
-date: 2024-11-27T18:30:51.534Z
-updated: 2024-11-30T18:24:21.418Z
+date: 2024-12-12T18:07:33.894Z
+updated: 2024-12-15T00:42:55.672Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825a5dcab73d08eb483f21e3ea.jpeg
@@ -24,13 +24,13 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -47,15 +47,15 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Introduzione
 
 Incontrare il problema di non poter digitare nella barra di ricerca di Windows 10 può essere frustrante, interrompendo il flusso di lavoro e ostacolando la navigazione efficiente. In questa guida completa, esamineremo i dettagli di questo problema, esploreremo le possibili cause e forniremo una varietà di soluzioni per garantire che tu possa digitare senza problemi nella barra di ricerca di Windows 10.
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
@@ -72,6 +72,10 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 **Interferenze di Terze Parti**
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
@@ -95,6 +99,10 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -112,10 +120,6 @@ Fai clic su Risoluzioni aggiuntive, fai clic su "Ricerca e Indicizzazione", e pr
 Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
@@ -135,10 +139,6 @@ Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
 Passo 1\. Apri Impostazioni:
@@ -154,7 +154,7 @@ Passo 3\. Installa gli Aggiornamenti:
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
@@ -217,6 +217,10 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -236,10 +240,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
@@ -262,7 +262,7 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -280,20 +280,19 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-effortless-tips-for-storing-vimeo-videos/"><u>[New] In 2024, Effortless Tips for Storing Vimeo Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-mastering-fbs-buzz-essential-strategies-revealed/"><u>[Updated] In 2024, Mastering FB's Buzz Essential Strategies Revealed</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1728505564028-pdf-pdf/"><u>恢复无法保存的 PDF 文件 | 处理已剪切PDF的技巧</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/fix-in-a-flash-troubleshooting-file-transfer-issues-with-iphones/"><u>Fix in a Flash: Troubleshooting File Transfer Issues with iPhones</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/guia-paso-a-paso-para-realizar-una-copia-de-seguridad-en-windows-11-con-un-disco-duro-externo/"><u>Guía Paso a Paso Para Realizar Una Copia De Seguridad en Windows 11 Con Un Disco Duro Externo</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-stop-other-application-uses-from-disrupting-sound/"><u>How to Stop 'Other Application Uses' From Disrupting Sound</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c110-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Nokia C110 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-s17-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo S17 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-photography-potential-with-lightroom-hdrs/"><u>In 2024, Unleashing Photography Potential with Lightroom HDRs</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/recupere-eficientemente-imagenes-eliminadas-de-su-camara-sony-con-estos-dos-metodos-simples/"><u>Recupere Eficientemente Imágenes Eliminadas De Su Cámara Sony Con Estos Dos Métodos Simples</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/solution-pourquoi-windows-7-ne-souvre-t-il-quen-mode-sans-echec-et-non-en-mode-standard/"><u>Solution: Pourquoi Windows 7 Ne S'ouvre-T-Il Qu'en Mode Sans Échec Et Non en Mode Standard ?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-realme-12-pro-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Realme 12 Pro 5G Phone Pattern Lock</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/top-gratis-backup-solutions-compatible-with-winserver-2008r2/"><u>Top Gratis Backup Solutions Compatible with WinServer 2008(R2)</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/windows-10-11-jasa-pana-parapata-hana-val-zip-fiil-ka-apanaya-caranae-thara-caranae-maragathaarshan/"><u>Windows 10, 11 जैसे पुनः प्राप्त होने वाली ZIP फ़ाइलों को अपनाया: चरण-दर-चरण मार्गदarshan</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-engaging-book-video-summaries/"><u>[New] 2024 Approved Engaging Book Video Summaries</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unlocking-the-potential-of-capturing-digital-entertainment-for-2024/"><u>[New] Unlocking the Potential of Capturing Digital Entertainment for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/2019-in-retrospect-a-comprehensive-look-back-at-the-pcdj-saga/"><u>2019 in Retrospect: A Comprehensive Look Back at the PCDJ Saga</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unveiling-the-secrets-to-slow-motion-screenshots-in-snapchat/"><u>2024 Approved Unveiling the Secrets to Slow-Motion Screenshots in Snapchat</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/finding-the-needle-in-the-haystack-expert-tips-for-identifying-files-on-your-windows-pc-with-yl-software-solutions/"><u>Finding the Needle in the Haystack: Expert Tips for Identifying Files on Your Windows PC with YL Software Solutions</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/keeping-up-with-your-circle-guide-on-sending-alerts-via-apple-watch/"><u>Keeping Up with Your Circle: Guide on Sending Alerts Via Apple Watch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-usb-memory-sticks-of-2024-speedy-spacious-and-compact-choices/"><u>Leading USB Memory Sticks of 2024: Speedy, Spacious, and Compact Choices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-coding-with-diverse-tools-not-just-chatgpt/"><u>Revolutionizing Coding with Diverse Tools, Not Just ChatGPT</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/solving-driver-installation-issues-expert-tips-from-yl-computing/"><u>Solving Driver Installation Issues: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/solving-persistent-audio-hardware-glitches-uncover-the-reasons-behind-your-pcs-sound-card-malfunctions/"><u>Solving Persistent Audio Hardware Glitches: Uncover the Reasons Behind Your PC's Sound Card Malfunctions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-tutorial-configuring-user-access-with-windows-control-panel-expert-advice-from-yl-software/"><u>Step-by-Step Tutorial: Configuring User Access with Windows Control Panel - Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/windows-serveronedrive/"><u>Windows Server与OneDrive的无缝云同步方法</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/yl-computings-guide-to-ultimate-computer-performance-and-maintenance/"><u>YL Computing's Guide to Ultimate Computer Performance & Maintenance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Affordable Client Retention Tactics: Mastering the Art of Email Revival to Attract Customers with Massmail Tools"
-date: 2024-12-06T02:49:07.301Z
-updated: 2024-12-08T19:17:42.584Z
+date: 2024-12-11T03:47:22.963Z
+updated: 2024-12-15T02:09:09.615Z
 tags:
   - product
 categories:
@@ -17,6 +17,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
@@ -45,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -70,33 +74,29 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-### 2\. Use media types for promotion
-
-If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+### 2\. Use media types for promotion
+
+If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -106,16 +106,12 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,20 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-home-cinematographers-review-best-video-recorders/"><u>[Updated] Home Cinematographer's Review Best Video Recorders</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-tips-for-gaining-attention-via-snapchat-star/"><u>[Updated] In 2024, Tips for Gaining Attention via Snapchat Star</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-captivating-photo-based-video-content-using-pixizs-features/"><u>2024 Approved Crafting Captivating Photo-Based Video Content Using Pixiz's Features</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-premier-racing-games-roundup/"><u>2024 Approved Premier Racing Games Roundup</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-realme-c33-2023-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Realme C33 2023? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/adjusting-system-dates-times-and-time-zones-via-control-panel-a-guide-by-yl-computing/"><u>Adjusting System Dates, Times & Time Zones via Control Panel: A Guide by YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/boost-your-kj-store-now-exclusive-karaoke-downloads-at-30-off-shop-today/"><u>Boost Your KJ Store Now: Exclusive Karaoke Downloads at 30% Off - Shop Today!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/digital-tapestry-crafting-visual-narratives/"><u>Digital Tapestry Crafting Visual Narratives</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-fix-a-disconnected-scanner-on-windowsmac-expert-advice-by-yl-software-team/"><u>How to Fix a Disconnected Scanner on Windows/Mac - Expert Advice by YL Software Team</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-y200e-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo Y200e 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/the-art-behind-masterful-mixing-and-persuasive-speaking-with-insights-from-jordan-river-pcdj/"><u>The Art Behind Masterful Mixing and Persuasive Speaking with Insights From Jordan River | PCDJ</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/troubleshooting-how-to-resolve-undetected-video-cards-in-your-pc-tips-from-yl-computing/"><u>Troubleshooting: How to Resolve Undetected Video Cards in Your PC - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/understanding-the-geographical-context-of-the-opium-war-battles-insights-from-yl-tech-innovators/"><u>Understanding the Geographical Context of the Opium War Battles - Insights From YL Tech Innovators</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/windows-7-and-8-no-longer-supported-by-steam-what-gamers-need-to-know/"><u>Windows 7 & 8 No Longer Supported by Steam: What Gamers Need to Know</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-methods-to-convert-instagram-video-to-mp3/"><u>[Updated] 2024 Approved Methods to Convert Instagram Video to Mp3</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-tech-evolution-vr-now-and-beyond/"><u>2024 Approved Immersive Tech Evolution VR Now & Beyond</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creating-an-engaging-text-based-rpg-with-chatgpt-a-comprehensive-guide/"><u>Creating an Engaging Text-Based RPG with ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/dealing-with-a-crashed-hard-drive-essential-steps-by-yl-software-experts/"><u>Dealing with a Crashed Hard Drive: Essential Steps by YL Software Experts</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/fixing-the-missing-ntfs-volume-1seven-a-comprehensive-troubleshooting-walkthrough/"><u>Fixing the Missing NTFS Volume '1ˈsevēn': A Comprehensive Troubleshooting Walkthrough</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-l3t3150-software-update-on-windows-11-8-and-7-systems/"><u>Get the Latest Epson L3t3150 Software Update on Windows 11, 8, and 7 Systems</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/high-resolution-3840x1080-digital-artwork-and-desktop-scenes-by-yl-computing-top-quality-wallpaper-selection/"><u>High-Resolution 3840X1080 Digital Artwork & Desktop Scenes by YL Computing: Top Quality Wallpaper Selection</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-samsung-qn55q60rafxza-the-ultimate-hdr10plus-smart-tv-experience/"><u>In-Depth Analysis of Samsung QN55Q60RAFXZA - The Ultimate HDR10+ Smart TV Experience</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/resolving-incompatibility-issues-how-to-update-your-scanners-drivers-on-windows-tips-from-yl-software/"><u>Resolving Incompatibility Issues: How to Update Your Scanner's Drivers on Windows - Tips From YL Software</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/revolutionizing-sing-along-fun-a-detailed-guide-for-pcdj-software-users-in-the-modern-era/"><u>Revolutionizing Sing-Along Fun: A Detailed Guide for PCDJ Software Users in the Modern Era</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/scanner-not-detected-by-scanning-software-discover-why-and-fixes-with-guidance-from-experts-at-yl-software/"><u>Scanner Not Detected by Scanning Software? Discover Why and Fixes with Guidance From Experts at YL Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-missing-sound-issue-from-devices-microsoft-windows/"><u>Solving Missing Sound Issue From Devices, Microsoft Windows</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-solving-motherboard-issues-with-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Solving Motherboard Issues with Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/troubleshooting-your-non-functional-scan-device-on-windows-tips-by-yl-computing/"><u>Troubleshooting Your Non-Functional Scan Device on Windows - Tips by YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/understanding-the-connection-between-excessive-fan-noise-and-cpu-health-a-guide-by-yl-software/"><u>Understanding the Connection Between Excessive Fan Noise and CPU Health: A Guide by YL Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unparalleled-top-5-lightweight-cinematography-devices-for-2024/"><u>Unparalleled Top 5 Lightweight Cinematography Devices for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wireless-tv-streaming-made-easy-using-mobile-data-on-your-amazon-firestick/"><u>Wireless TV Streaming Made Easy: Using Mobile Data on Your Amazon Firestick</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/yl-software-demonstrates-how-to-refresh-and-enhance-your-sound-cards-operating-system/"><u>YL Software Demonstrates How to Refresh and Enhance Your Sound Card's Operating System</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 1. ION Dj2go Controller Mapping with Dextrose Pro Mixer & Red Alert Mobile Mastering Suite
-date: 2024-12-07T03:12:53.073Z
-updated: 2024-12-09T02:20:53.126Z
+date: 2024-12-12T00:42:18.028Z
+updated: 2024-12-14T16:09:05.710Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Based on a users recent request we’ve just created a new [DEX 3](https://tools
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More On The DJ2GO From ION’s Website:
@@ -35,7 +35,7 @@ Based on a users recent request we’ve just created a new [DEX 3](https://tools
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO_left_weblg.png?fit=300%2C188&ssl=1 "DJ2GO_left_weblg")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO%5Fleft%5Fweblg.png?fit=1030%2C644&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DJ2GO gives you a tactile feel that can’t be matched by DJing with just your computer mouse and keyboard. In fact, with DJ2GO there’s virtually no need to touch your mouse or keyboard while performing. Everything you need to do, from selecting songs and cueing, to beat-matching and volume adjustment can be controlled by DJ2GO’s generous array of faders, knobs and bright, backlit buttons. DJ2GO weighs just 13 oz. but provides a layout that DJs prefer, including two platters, a crossfader, pitch and level controls as well as Deck A, Deck B, Master and Headphone gain controls. Sync and headphone buttons allow you to instantly sync two tracks and monitor either deck section.
@@ -55,7 +55,7 @@ The ION DJ2Go is selling for around $99 on Amazon and some other online retailer
 **INSTALLATION INSTRUCTIONS:** **Unzip the Map (js file) To:** **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING Numark DJ2GO SCRIPT WITH THE NEW ONE!_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,16 +77,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/iondj2go-blogcoverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-breakdown-of-streamlabs-obs-features-and-functions/"><u>[New] Breakdown of Streamlabs OBS Features and Functions</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-perfect-propeller-synergy-for-awe-inspiring-fpv-flights/"><u>2024 Approved Perfect Propeller Synergy for Awe-Inspiring FPV Flights</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-seamless-change-of-screen-capture-types-on-macos/"><u>2024 Approved Seamless Change of Screen Capture Types on MacOS</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/adjusting-system-dates-times-and-time-zones-via-control-panel-a-guide-by-yl-computing/"><u>Adjusting System Dates, Times & Time Zones via Control Panel: A Guide by YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/avoiding-a-sluggish-pc-effective-tips-for-maintaining-speed-over-time-by-yl-software-experts/"><u>Avoiding a Sluggish PC: Effective Tips for Maintaining Speed Over Time by YL Software Experts</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/boost-your-computers-performance-top-software-recommendations-by-yl-computing/"><u>Boost Your Computer's Performance: Top Software Recommendations by YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/boost-your-kj-store-now-exclusive-karaoke-downloads-at-30-off-shop-today/"><u>Boost Your KJ Store Now: Exclusive Karaoke Downloads at 30% Off - Shop Today!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-fix-a-disconnected-scanner-on-windowsmac-expert-advice-by-yl-software-team/"><u>How to Fix a Disconnected Scanner on Windows/Mac - Expert Advice by YL Software Team</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-stability-ending-flickering-woes-of-google-chrome-on-windows-devices-your-definitive-2024-handbook/"><u>Mastering Stability: Ending Flickering Woes of Google Chrome on Windows Devices - Your Definitive 2024 Handbook</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719579057583-open-new-doors-in-life-and-career-by-learning-hindi-reveal-top-8-reasons-to-choose-mondlys-platform/"><u>Open New Doors in Life and Career by Learning Hindi: Reveal Top 8 Reasons to Choose Mondly's Platform!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-error-code-0x0000005c-a-step-by-step-hal-initialization-failure-guide/"><u>Resolving Error Code 0X0000005C: A Step-by-Step HAL Initialization Failure Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-elevate-your-traffic-ethically-youtubes-best-practices/"><u>[New] 2024 Approved Elevate Your Traffic Ethically YouTube's Best Practices</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1-expert-guide-fixing-broken-usb-connections-with-yl-computing-solutions/"><u>1. Expert Guide: Fixing Broken USB Connections with YL Computing Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1-fixing-memory-issues-on-your-pc-a-comprehensive-guide-by-yl-computing/"><u>1. Fixing Memory Issues on Your PC: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/captivating-hd-wallpapers-of-priyanka-chopra-professional-imagery-collection-by-yl-technologies-in-collaboration-with-yl-software/"><u>Captivating HD Wallpapers of Priyanka Chopra - Professional Imagery Collection by YL Technologies in Collaboration with YL Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-integration-for-effortless-microsoft-word-automation/"><u>ChatGPT Integration for Effortless Microsoft Word Automation</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/diagnosing-and-fixing-graphics-card-malfunctions-with-insights-from-yl-software-experts/"><u>Diagnosing and Fixing Graphics Card Malfunctions with Insights From YL Software Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-guide-to-multistation-open-source-video-tools/"><u>Essential Guide to Multistation Open Source Video Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-effective-is-virtual-reality-gaming-with-just-one-functional-eye/"><u>How Effective Is Virtual Reality Gaming with Just One Functional Eye?</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-effective-is-windows-defender-against-identifying-phishing-scams-discover-here-at-yl-software/"><u>How Effective Is Windows Defender Against Identifying Phishing Scams? Discover Here at YL Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-frustratingly-slow-wi-fi-on-phones-explore-these/"><u>How to Fix Frustratingly Slow Wi-Fi on Phones? Explore These</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/lut-techniques-for-professional-color-grading-and-correction/"><u>LUT Techniques for Professional Color Grading and Correction</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-how-to-sync-audio-and-video-in-final-cut-pro-x-2024/"><u>New How to Sync Audio and Video in Final Cut Pro X 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-add-wow-to-your-videos-best-animated-text-apps-for-phone/"><u>New In 2024, Add Wow to Your Videos Best Animated Text Apps for Phone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/reviving-your-rasterization-unit-a-comprehensive-guide-from-yl-software/"><u>Reviving Your Rasterization Unit: A Comprehensive Guide From YL Software</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-updating-your-scanner-drivers-in-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Your Scanner Drivers in Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/understanding-the-causes-of-your-monitors-unsteady-display-solutions-by-yl-software/"><u>Understanding the Causes of Your Monitor’s Unsteady Display - Solutions by YL Software</u></a></li>
 </ul></div>
 
