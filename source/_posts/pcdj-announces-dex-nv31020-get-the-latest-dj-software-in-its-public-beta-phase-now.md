@@ -1,7 +1,7 @@
 ---
 title: PCDJ Announces DEX Nv3.10.2.0 - Get the Latest DJ Software in Its Public Beta Phase Now!
-date: 2024-12-11T19:53:33.391Z
-updated: 2024-12-14T20:54:00.961Z
+date: 2024-12-18T22:42:08.412Z
+updated: 2024-12-24T03:18:34.068Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Since version 3.10.2.0 is considered a ‘[Public Beta](https://en.wikipedia.org
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.10.2.0
@@ -53,7 +53,7 @@ _**Installation Instructions:** With your existing version of DEX 3 Pro closed, 
 _Have questions about our **top DJ mixing software** or the new features included in version 3.10.2.0? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -75,15 +75,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/06/dex31020image.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-10-ps5-external-hard-drives-you-can-find/"><u>[Updated] 2024 Approved Top 10 Ps5 External Hard Drives You Can Find</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-from-script-to-screen-magix-video-pro-xs-production-journey/"><u>[Updated] From Script to Screen Magix Video Pro X's Production Journey</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/download-the-latest-dj-software-skins-creator-from-pcdj-new-release/"><u>Download the Latest DJ Software Skins Creator From PCDJ - New Release!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/get-your-hands-on-new-dj-software-update-dex-3-version-3907-released-for-free-download/"><u>Get Your Hands on New DJ Software Update: DEX 3 Version 3.9.0.7 Released for Free Download!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-fix-your-unresponsive-mouse-with-tips-by-yl-software-experts/"><u>How to Fix Your Unresponsive Mouse with Tips by YL Software Experts</u></a></li>
-<li><a href="https://driver-install.techidaily.com/intelligent-device-management-refresh-intel-82579lm-drivers/"><u>Intelligent Device Management: Refresh Intel 82579LM Drivers</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/restoring-accidentally-deleted-documents-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Restoring Accidentally Deleted Documents on Windows: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/step-by-step-guide-enhancing-snaps-with-zoom-feature/"><u>Step-by-Step Guide Enhancing Snaps with Zoom Feature</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-10-commandments-of-room-utilization-for-starters/"><u>The 10 Commandments of Room Utilization, For Starters</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/your-go-to-source-for-in-depth-gadget-evaluations-trust-toms-hardware/"><u>Your Go-To Source for In-Depth Gadget Evaluations - Trust Tom's Hardware</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-discover-the-best-8-innovative-5k-panels/"><u>[New] 2024 Approved Discover the Best 8 Innovative 5K Panels</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-crystal-carousel-at-the-olympics/"><u>[Updated] 2024 Approved Crystal Carousel at the Olympics</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/2019-in-retrospect-a-comprehensive-look-back-at-the-pcdj-saga/"><u>2019 in Retrospect: A Comprehensive Look Back at the PCDJ Saga</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/bitcoin-purchase-interest-skyrockets-by-826-in-the-uk-a-deep-dive-into-buy-bitcoin-searches-with-yl-computing/"><u>Bitcoin Purchase Interest Skyrockets by 826% in the UK: A Deep Dive Into 'Buy Bitcoin' Searches with YL Computing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/drone-applications-in-the-now-and-in-the-near-future-for-2024/"><u>Drone Applications in the Now & In the Near Future for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/finding-the-needle-in-the-haystack-expert-tips-for-identifying-files-on-your-windows-pc-with-yl-software-solutions/"><u>Finding the Needle in the Haystack: Expert Tips for Identifying Files on Your Windows PC with YL Software Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Tecno Spark Go (2024)? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-money-mastery-made-simple-reddits-13-best-income-streams/"><u>In 2024, Money Mastery Made Simple Reddit's 13 Best Income Streams</u></a></li>
+<li><a href="https://fox-making.techidaily.com/install-custom-fonts-on-pc-using-windows-settings-expert-advice-from-yl-software/"><u>Install Custom Fonts on PC Using Windows Settings - Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-issues-with-intel-driver-support-tool-not-functioning-properly/"><u>Overcoming Issues with Intel Driver Support Tool Not Functioning Properly</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/solving-persistent-audio-hardware-glitches-uncover-the-reasons-behind-your-pcs-sound-card-malfunctions/"><u>Solving Persistent Audio Hardware Glitches: Uncover the Reasons Behind Your PC's Sound Card Malfunctions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-tutorial-configuring-user-access-with-windows-control-panel-expert-advice-from-yl-software/"><u>Step-by-Step Tutorial: Configuring User Access with Windows Control Panel - Expert Advice From YL Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/top-10-iphone-and-android-apps-to-add-stickers-on-your-photos-for-2024/"><u>Top 10 iPhone and Android Apps to Add Stickers on Your Photos for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-explore-the-best-8-daw-platforms-for-seamless-recording-mixing-and-mastering-experience/"><u>Updated Explore the Best 8 DAW Platforms for Seamless Recording, Mixing, and Mastering Experience</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/yl-computings-guide-to-ultimate-computer-performance-and-maintenance/"><u>YL Computing's Guide to Ultimate Computer Performance & Maintenance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke App Version 1.6: Now Fully Compatible With macOS Catalina - Free Download!"
-date: 2024-12-07T21:02:24.912Z
-updated: 2024-12-14T23:48:22.289Z
+date: 2024-12-19T04:57:33.130Z
+updated: 2024-12-23T19:25:57.303Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6
@@ -55,7 +55,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 _Have questions about the latest 1.6 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,18 +77,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/04/lyrx-16-cover-2.jpg?fit=13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-perfecting-video-calls-merging-zoom-and-skype-expertise/"><u>[New] 2024 Approved Perfecting Video Calls Merging ZOOM and SKYPE Expertise</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-rich-tapestry-of-ajeys-channel-wealth/"><u>[Updated] In 2024, The Rich Tapestry of Ajey's Channel Wealth</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-reno-10-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/confirming-your-successful-windows-10-activation-a-step-by-step-guide-yl-computing/"><u>Confirming Your Successful Windows 10 Activation: A Step-by-Step Guide - YL Computing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/delightful-stream-extractor-report/"><u>Delightful Stream Extractor Report</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/download-the-latest-dj-software-skins-creator-from-pcdj-new-release/"><u>Download the Latest DJ Software Skins Creator From PCDJ - New Release!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/enhancing-pc-performance-through-hardware-upgrades-tips-and-strategies-by-yl-software/"><u>Enhancing PC Performance Through Hardware Upgrades: Tips & Strategies by YL Software</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-fix-your-unresponsive-mouse-with-tips-by-yl-software-experts/"><u>How to Fix Your Unresponsive Mouse with Tips by YL Software Experts</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-efficiently-airing-recorded-videos-in-real-time-through-facebook/"><u>In 2024, Efficiently Airing Recorded Videos in Real-Time Through Facebook</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-new-horizons-in-console-gaming-embarking-on-the-4k-odyssey/"><u>Navigating New Horizons in Console Gaming: Embarking on the 4K Odyssey</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-top-10-free-browser-based-daws-for-creatives-for-2024/"><u>New Top 10 Free Browser-Based DAWs for Creatives for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/understanding-crypto-vs-traditional-money-how-cryptocurrencies-differ-from-fiat-currencies-yl-computing/"><u>Understanding Crypto Vs. Traditional Money: How Cryptocurrencies Differ From Fiat Currencies - YL Computing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-ultimate-guide-to-audacitys-professional-tracking/"><u>[New] In 2024, The Ultimate Guide to Audacity's Professional Tracking</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-action-camera-boosters-and-their-buyers-guide/"><u>[Updated] 2024 Approved Action Camera Boosters and Their Buyer's Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-how-to-create-metaverse-avatar-with-ease-an-ultimate-guide/"><u>[Updated] In 2024, How to Create Metaverse Avatar with Ease An Ultimate Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-c33-2023-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme C33 2023 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-recognized-as-top-contender-in-smart-doc-analysis-and-insight-extraction-2022-honors/"><u>ABBYY Recognized as Top Contender in Smart Doc Analysis & Insight Extraction - 2022 Honors</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/avoid-bitcoin-and-altcoin-cons-deceptions-with-yl-softwares-strategies/"><u>Avoid Bitcoin and Altcoin Cons Deceptions with YL Software's Strategies</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/changing-your-file-extension-on-windows-a-comprehensive-guide-by-yl-software/"><u>Changing Your File Extension on Windows: A Comprehensive Guide by YL Software</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/decoding-ancient-wisdom-how-chinas-dynasties-forged-a-lasting-cultural-legacy/"><u>Decoding Ancient Wisdom: How China’s Dynasties Forged a Lasting Cultural Legacy</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/exploring-pros-and-cons-a-comprehensive-guide-to-cryptocurrencys-impact-insights-by-yl-computing/"><u>Exploring Pros & Cons: A Comprehensive Guide to Cryptocurrency's Impact – Insights by YL Computing</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-nvidia-geforce-rtx-ebytes-for-winodws-1187-driver-downloads-available/"><u>Get the Latest NVIDIA GeForce RTX Ebytes for Winodws 11/8/7 - Driver Downloads Available!</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/handling-windows-update-driver-issues-successfully-with-tips-from-yl-software-experts/"><u>Handling Windows Update Driver Issues Successfully with Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/high-definition-griezmann-barcelona-walls-premium-hd-backgrounds-and-imagery-collection-yl-computing/"><u>High-Definition Griezmann Barcelona Walls: Premium HD Backgrounds & Imagery Collection - YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-can-i-verify-if-my-sound-card-works-with-windows-tips-and-tricks-by-yl-tech/"><u>How Can I Verify if My Sound Card Works with Windows - Tips & Tricks by YL Tech</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-uncover-top-8-spots-to-find-free-3d-text-psdfiles/"><u>In 2024, Uncover Top 8 Spots to Find Free 3D Text PSDFiles</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/unraveling-the-reasons-behind-hard-drive-failures-insights-from-yl-computings-expertise/"><u>Unraveling the Reasons Behind Hard Drive Failures: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-edit-your-way-to-success-top-14-vlog-video-editing-tools-free-and-paid/"><u>Updated In 2024, Edit Your Way to Success Top 14 Vlog Video Editing Tools Free & Paid</u></a></li>
 </ul></div>
 

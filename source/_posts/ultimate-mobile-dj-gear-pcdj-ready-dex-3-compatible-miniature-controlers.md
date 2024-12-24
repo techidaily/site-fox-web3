@@ -1,7 +1,7 @@
 ---
 title: Ultimate Mobile DJ Gear - PCDJ Ready, DEX 3 Compatible Miniature Controlers
-date: 2024-12-09T04:33:47.962Z
-updated: 2024-12-14T21:59:13.377Z
+date: 2024-12-20T02:44:05.480Z
+updated: 2024-12-23T17:13:06.260Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Here’s a list of four current [DJ controllers](https://tools.techidaily.com/pc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Ultra-Mobile, Compact DJ Controllers for DEX 3 DJ Software
@@ -40,6 +40,10 @@ Ultra-compact, ultra-light, and ultra-practical, the DJControl Starlight packs a
 
   
 [![Hercules DJ Control Starlight](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/DJControlStarlight_Main1.png?fit=300%2C129&ssl=1 "Hercules DJ Control Starlight")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/DJControlStarlight%5FMain1.png?fit=1003%2C431&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) **Numark DJ2Go2 Touch**
 
@@ -60,7 +64,7 @@ The DJControl Inpulse 200 has the look and feel of many other popular compact co
 [![Hercules DJControl Inpulse 200](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=300%2C229&ssl=1 "Hercules DJControl Inpulse 200")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=1029%2C787&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) **Numark Party Mix**
@@ -70,16 +74,12 @@ The professional DJ features that come with the Numark Party Mix include four cu
   
 [![Numark Party Mix](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL._AC_SL1500_.jpg?fit=300%2C193&ssl=1 "Numark Party Mix")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL.%5FAC%5FSL1500%5F.jpg?fit=1030%2C663&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [View All DEX 3 Supported DJ Controllers](https://tools.techidaily.com/pcdj/products/)
 
 _Have questions about DEX 3 supported **DJ Controllers**? Leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -101,20 +101,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/08/starlight22713-e1537952784
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-ultimate-playbook-for-crafting-engaging-podcast-titles/"><u>[Updated] The Ultimate Playbook for Crafting Engaging Podcast Titles</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/browsing-woes-solve-the-black-screen-mystery-on-chromesafari-facebook-live-for-2024/"><u>Browsing Woes? Solve the Black Screen Mystery on Chrome/Safari Facebook Live for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/dx3-dj-masterclass-innovative-features-revealed-in-the-latest-pcdj-skin-and-4-deck-preview-including-step-by-step-tutorial-videos/"><u>DX3 DJ Masterclass: Innovative Features Revealed in the Latest PCDJ Skin & 4-Deck Preview, Including Step-by-Step Tutorial Videos</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-batch-zip-files-effortlessly-with-yls-top-methods-for-computer-users/"><u>How to Batch Zip Files Effortlessly with YL's Top Methods for Computer Users</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-8-plus-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 8 Plus to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/is-an-installed-version-needed-for-this-application-insights-from-yl-computings-tools/"><u>Is an Installed Version Needed for This Application? - Insights From YL Computing's Tools</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/premium-audi-rs3-hd-wallpapers-and-images-for-pcs-and-laptops-curated-by-yl-software-experts/"><u>Premium Audi RS3 HD Wallpapers & Images for PCs and Laptops, Curated by YL Software Experts</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/reasons-to-hold-off-on-upgrading-to-windows-11-for-your-dj-pc-pro-audio-software/"><u>Reasons to Hold Off on Upgrading to Windows 11 for Your DJ PC | Pro Audio Software</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-how-to-test-each-component-in-your-pc-tips-from-yl-computing/"><u>Step-by-Step Guide: How to Test Each Component in Your PC - Tips From YL Computing</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/the-ultimate-walkthrough-for-retrieving-files-after-an-iphone-factory-reset/"><u>The Ultimate Walkthrough for Retrieving Files After an iPhone Factory Reset</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-y100i-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo Y100i Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ultimate-download-get-your-hands-on-gemini-g2vs-dex-3-and-dex-3-re-dj-controller-maps-pcdj-edition/"><u>Ultimate Download: [Get Your Hands On] Gemini G2V's DEX 3 and DEX 3 RE DJ Controller Maps – PCDJ Edition</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/yl-computings-ultimate-troubleshooting-techniques-for-a-malfunctioning-hard-drive/"><u>YL Computing's Ultimate Troubleshooting Techniques for a Malfunctioning Hard Drive</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-proven-methods-for-twitter-brand-awareness-for-2024/"><u>[New] Proven Methods for Twitter Brand Awareness for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-future-of-youtube-naming-trendsetting-tips-for-video-blogging-and-filmmaking-max-156-characters/"><u>[Updated] In 2024, The Future of YouTube Naming Trendsetting Tips for Video Blogging & Filmmaking (Max 156 Characters)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-secrets-of-iphones-video-loops-for-2024/"><u>[Updated] Unveiling the Secrets of iPhone's Video Loops for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-yt-highlights-year-end-spotlight-on-top-music-reactions-for-2024/"><u>[Updated] YT Highlights Year-End Spotlight on Top Music Reactions for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-frame-your-vision-leading-lines-for-dynamic-iphone-photos/"><u>2024 Approved Frame Your Vision Leading Lines for Dynamic iPhone Photos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-from-avi-images-to-graphics-a-complete-filmora-walkthrough/"><u>2024 Approved From AVI Images to Graphics A Complete Filmora Walkthrough</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/detecting-and-removing-malware-a-comprehensive-guide-for-windows-users-yl-computing/"><u>Detecting & Removing Malware: A Comprehensive Guide for Windows Users - YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/expert-tips-on-ensuring-graphics-card-integrity-and-preventing-damage-guidance-from-yl-software-experts/"><u>Expert Tips on Ensuring Graphics Card Integrity and Preventing Damage - Guidance From YL Software Experts</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/fixing-windows-graphics-card-issues-expert-tips-and-tricks-from-yl-computings-latest-guide/"><u>Fixing Windows Graphics Card Issues: Expert Tips & Tricks From YL Computing's Latest Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/identifying-faulty-hardware-components-in-your-system-tips-and-tricks-from-yl-computing/"><u>Identifying Faulty Hardware Components in Your System - Tips & Tricks From YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-mozilla-firefox-quick-tips-for-adjusting-your-browsers-settings-yl-computing-expertise/"><u>Mastering Mozilla Firefox: Quick Tips for Adjusting Your Browser's Settings - YL Computing Expertise</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/no-1-ranked-youtube-to-text-online-service/"><u>No. 1 Ranked YouTube To Text Online Service</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/pcdjs-newest-release-enhanced-karaoke-experience-with-latest-karaoki-update/"><u>PCDJ's Newest Release: Enhanced Karaoke Experience with Latest Karaoki Update</u></a></li>
+<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-g2-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-removing-hardware-drivers-on-your-pc-tech-tips-from-yl/"><u>Step-by-Step Guide: Removing Hardware Drivers on Your PC - Tech Tips From YL</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-spark-10-pro-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Spark 10 Pro</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/troubleshooting-steps-when-your-printer-wont-connect-to-wi-fi-tips-from-yl-computing/"><u>Troubleshooting Steps When Your Printer Won't Connect to Wi-Fi - Tips From YL Computing</u></a></li>
 </ul></div>
 
