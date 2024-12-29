@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke App Version 1.6: Now Fully Compatible With macOS Catalina - Free Download!"
-date: 2024-12-19T04:57:33.130Z
-updated: 2024-12-23T19:25:57.303Z
+date: 2024-12-23T17:24:50.779Z
+updated: 2024-12-29T17:04:27.156Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6
@@ -55,7 +55,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 _Have questions about the latest 1.6 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,22 +77,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/04/lyrx-16-cover-2.jpg?fit=13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-ultimate-guide-to-audacitys-professional-tracking/"><u>[New] In 2024, The Ultimate Guide to Audacity's Professional Tracking</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-action-camera-boosters-and-their-buyers-guide/"><u>[Updated] 2024 Approved Action Camera Boosters and Their Buyer's Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-how-to-create-metaverse-avatar-with-ease-an-ultimate-guide/"><u>[Updated] In 2024, How to Create Metaverse Avatar with Ease An Ultimate Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-c33-2023-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme C33 2023 Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/abbyy-recognized-as-top-contender-in-smart-doc-analysis-and-insight-extraction-2022-honors/"><u>ABBYY Recognized as Top Contender in Smart Doc Analysis & Insight Extraction - 2022 Honors</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/avoid-bitcoin-and-altcoin-cons-deceptions-with-yl-softwares-strategies/"><u>Avoid Bitcoin and Altcoin Cons Deceptions with YL Software's Strategies</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/changing-your-file-extension-on-windows-a-comprehensive-guide-by-yl-software/"><u>Changing Your File Extension on Windows: A Comprehensive Guide by YL Software</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/decoding-ancient-wisdom-how-chinas-dynasties-forged-a-lasting-cultural-legacy/"><u>Decoding Ancient Wisdom: How China’s Dynasties Forged a Lasting Cultural Legacy</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/exploring-pros-and-cons-a-comprehensive-guide-to-cryptocurrencys-impact-insights-by-yl-computing/"><u>Exploring Pros & Cons: A Comprehensive Guide to Cryptocurrency's Impact – Insights by YL Computing</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-nvidia-geforce-rtx-ebytes-for-winodws-1187-driver-downloads-available/"><u>Get the Latest NVIDIA GeForce RTX Ebytes for Winodws 11/8/7 - Driver Downloads Available!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/handling-windows-update-driver-issues-successfully-with-tips-from-yl-software-experts/"><u>Handling Windows Update Driver Issues Successfully with Tips From YL Software Experts</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/high-definition-griezmann-barcelona-walls-premium-hd-backgrounds-and-imagery-collection-yl-computing/"><u>High-Definition Griezmann Barcelona Walls: Premium HD Backgrounds & Imagery Collection - YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-can-i-verify-if-my-sound-card-works-with-windows-tips-and-tricks-by-yl-tech/"><u>How Can I Verify if My Sound Card Works with Windows - Tips & Tricks by YL Tech</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-uncover-top-8-spots-to-find-free-3d-text-psdfiles/"><u>In 2024, Uncover Top 8 Spots to Find Free 3D Text PSDFiles</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/unraveling-the-reasons-behind-hard-drive-failures-insights-from-yl-computings-expertise/"><u>Unraveling the Reasons Behind Hard Drive Failures: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-edit-your-way-to-success-top-14-vlog-video-editing-tools-free-and-paid/"><u>Updated In 2024, Edit Your Way to Success Top 14 Vlog Video Editing Tools Free & Paid</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-anime-aesthetics-top-20-visual-elements-on-tiktok/"><u>[New] 2024 Approved Anime Aesthetics Top 20 Visual Elements on TikTok</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transform-your-youtube-channel-expert-tips-for-adding-chapter-sections/"><u>[New] Transform Your YouTube Channel Expert Tips for Adding Chapter Sections</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-smooth-narrative-flow-mastering-inshots-seamless-segments/"><u>[Updated] A Smooth Narrative Flow Mastering Inshot's Seamless Segments</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-a-step-by-step-on-youtube-annotations/"><u>[Updated] In 2024, A Step-by-Step on YouTube Annotations</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-reality-beyond-exploring-vrs-contemporary-state-and-implications-for-2024/"><u>[Updated] Reality Beyond Exploring VR's Contemporary State and Implications for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/2019-in-retrospect-a-comprehensive-look-back-at-the-pcdj-saga/"><u>2019 in Retrospect: A Comprehensive Look Back at the PCDJ Saga</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/finding-the-needle-in-the-haystack-expert-tips-for-identifying-files-on-your-windows-pc-with-yl-software-solutions/"><u>Finding the Needle in the Haystack: Expert Tips for Identifying Files on Your Windows PC with YL Software Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/solving-persistent-audio-hardware-glitches-uncover-the-reasons-behind-your-pcs-sound-card-malfunctions/"><u>Solving Persistent Audio Hardware Glitches: Uncover the Reasons Behind Your PC's Sound Card Malfunctions</u></a></li>
+<li><a href="https://solve-news.techidaily.com/ultimate-festive-playlist-hands-free-methods-for-securely-acquiring-holi-melodies-online/"><u>Ultimate Festive Playlist: Hands-Free Methods for Securely Acquiring Holi Melodies Online</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/yl-computings-guide-to-ultimate-computer-performance-and-maintenance/"><u>YL Computing's Guide to Ultimate Computer Performance & Maintenance</u></a></li>
 </ul></div>
 

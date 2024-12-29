@@ -1,7 +1,7 @@
 ---
 title: 1. ION Dj2go Controller Mapping with Dextrose Pro Mixer & Red Alert Mobile Mastering Suite
-date: 2024-12-18T20:25:44.600Z
-updated: 2024-12-23T23:02:46.728Z
+date: 2024-12-28T17:07:33.856Z
+updated: 2024-12-29T18:38:48.432Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Based on a users recent request we’ve just created a new [DEX 3](https://tools
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More On The DJ2GO From ION’s Website:
@@ -35,7 +35,7 @@ Based on a users recent request we’ve just created a new [DEX 3](https://tools
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO_left_weblg.png?fit=300%2C188&ssl=1 "DJ2GO_left_weblg")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO%5Fleft%5Fweblg.png?fit=1030%2C644&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DJ2GO gives you a tactile feel that can’t be matched by DJing with just your computer mouse and keyboard. In fact, with DJ2GO there’s virtually no need to touch your mouse or keyboard while performing. Everything you need to do, from selecting songs and cueing, to beat-matching and volume adjustment can be controlled by DJ2GO’s generous array of faders, knobs and bright, backlit buttons. DJ2GO weighs just 13 oz. but provides a layout that DJs prefer, including two platters, a crossfader, pitch and level controls as well as Deck A, Deck B, Master and Headphone gain controls. Sync and headphone buttons allow you to instantly sync two tracks and monitor either deck section.
@@ -55,7 +55,7 @@ The ION DJ2Go is selling for around $99 on Amazon and some other online retailer
 **INSTALLATION INSTRUCTIONS:** **Unzip the Map (js file) To:** **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING Numark DJ2GO SCRIPT WITH THE NEW ONE!_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,22 +77,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/iondj2go-blogcoverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-ace-your-edits-pro-level-tips-for-lunapic-users/"><u>[Updated] 2024 Approved Ace Your Edits Pro-Level Tips for LunaPic Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bypass-the-limits-access-imessages-even-if-youre-not-an-apple-user-on-android/"><u>Bypass the Limits: Access iMessages Even if You're Not an Apple User on Android</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-firsthand-benefits-with-the-cutting-edge-ampace-andes-1500-power-station/"><u>Discover Firsthand Benefits with the Cutting-Edge Ampace Andes 1500 Power Station</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effective-techniques-for-removing-empty-or-zero-length-files-in-windows-guided-by-yl-computing/"><u>Effective Techniques for Removing Empty or Zero-Length Files in Windows - Guided by YL Computing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-huawei-p60-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Huawei P60 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-lava-blaze-2-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Lava Blaze 2 Device</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/latest-dj-toolkit-upgrade-access-the-new-dex-version-31306-by-pcdj-with-improved-features-and-stability/"><u>Latest DJ Toolkit Upgrade: Access the New Dex Version 3.13.0.6 by PCDJ with Improved Features and Stability</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/overcoming-no-scanner-detected-troubleshooting-guide-for-pcs-digitalfix-solutions/"><u>Overcoming 'No Scanner Detected' Troubleshooting Guide for PCs - DigitalFix Solutions</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/overcoming-inaccuracy-in-scanning-devices-insights-and-solutions-by-yl-software/"><u>Overcoming Inaccuracy in Scanning Devices: Insights and Solutions by YL Software</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/preventing-pc-heat-issues-expert-advice-on-keeping-your-system-cool-yl-tech-solutions/"><u>Preventing PC Heat Issues: Expert Advice on Keeping Your System Cool - YL Tech Solutions</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-realme-gt-5-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Realme GT 5</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/revamped-ratchet-and-clank-experience-an-in-depth-game-review/"><u>Revamped Ratchet & Clank Experience: An In-Depth Game Review</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/streamlined-approach-to-iphone-screen-recording-for-2024/"><u>Streamlined Approach to iPhone Screen Recording for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208193321-troubleshooting-guide-fixing-a-nonfunctional-microphone-on-your-laptop-solved/"><u>Troubleshooting Guide: Fixing a Nonfunctional Microphone on Your Laptop - Solved</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/troubleshooting-guide-uncover-the-reasons-behind-undetected-network-connections-yl-solutions/"><u>Troubleshooting Guide: Uncover the Reasons Behind Undetected Network Connections - YL Solutions</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ultimate-mobile-dj-gear-pcdj-ready-dex-3-compatible-miniature-controlers/"><u>Ultimate Mobile DJ Gear - PCDJ Ready, DEX 3 Compatible Miniature Controlers</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/yls-strategies-for-enhanced-crypto-security-protective-measures-from-yl-software-experts/"><u>YL's Strategies for Enhanced Crypto Security - Protective Measures From YL Software Experts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-two-dimensions-to-three-making-text-pop-in-photoshop/"><u>[New] From Two-Dimensions to Three Making Text Pop in Photoshop</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-join-google-meet-on-laptop-and-mobile-in-2024/"><u>[New] How to Join Google Meet On Laptop and Mobile, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-fresh-to-famous-elevating-your-channels-views-and-youtube-subs/"><u>[Updated] From Fresh to Famous Elevating Your Channels Views & Youtube Subs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boosting-your-channel-strategies-for-skyrocketing-view-counts/"><u>[Updated] In 2024, Boosting Your Channel Strategies for Skyrocketing View Counts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-most-effective-macos-sierra-video-coders-for-2024/"><u>[Updated] Most Effective MacOS Sierra Video Coders for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-infinix-gt-10-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Infinix GT 10 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210859375-9780645249262-decoding-dis-ease/"><u>DECODING DIS-EASE | Free Book</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/detecting-possible-memory-issues-on-your-pc-tips-and-tricks-insights-from-yl-computing/"><u>Detecting Possible Memory Issues on Your PC: Tips & Tricks - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/explore-the-visual-creations-of-jamie-miller-with-premium-images-and-desktop-wallpapers-from-yl-software-yl-computing-gifts/"><u>Explore the Visual Creations of Jamie Miller with Premium Images and Desktop Wallpapers From YL Software | YL Computing Gifts</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/file-deletion-tutorial-with-yl-software-erase-unwanted-data-on-windows-and-macos/"><u>File Deletion Tutorial with YL Software - Erase Unwanted Data on Windows and MacOS</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-can-you-diagnose-and-fix-an-unreliable-pc-power-supply-tips-from-yl-computing/"><u>How Can You Diagnose and Fix an Unreliable PC Power Supply? - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/overcoming-application-launch-failures-understanding-game-and-app-errors-insights-by-yl-computing/"><u>Overcoming Application Launch Failures: Understanding Game and App Errors - Insights by YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-choosing-the-best-free-dvd-to-mp3-transcoder-in-202-celebrating-windows-and-mac-support/"><u>The Ultimate Guide to Choosing the Best Free DVD-to-MP3 Transcoder in 202 Celebrating Windows and Mac Support</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-htc-u23-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On HTC U23 Pro? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 
