@@ -1,7 +1,7 @@
 ---
 title: The Art Behind Masterful Mixing and Persuasive Speaking with Insights From Jordan River | PCDJ
-date: 2024-12-22T16:37:57.434Z
-updated: 2024-12-29T18:56:04.916Z
+date: 2025-01-04T00:54:15.710Z
+updated: 2025-01-08T21:39:40.088Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ It’s no surprise that we are currently living in an attention-deficit culture.
 _DJ Jordan River has entertained thousands of special events over the last two decades. He will be public speaking to other national and international professional DJs at the American DJ convention September 2014, as well as the Mobile Beat Convention in February 2015\. He has studied public speaking from Professor James Wagstaff, Civil Attorney at Stanford University._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,21 +60,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/06/djspeakers-1.jpg?fit=530%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-aerial-autonomy-groups/"><u>[New] Aerial Autonomy Groups</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-innovative-strategies-for-image-collections-procurement/"><u>[New] In 2024, Innovative Strategies for Image Collections Procurement</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-reimagining-receipt-a-new-approach-to-package-revelation/"><u>[New] In 2024, Reimagining Receipt A New Approach to Package Revelation</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/op-15-science-youtube-channels-to-expand-knowledge-2024/"><u>[New] Top 15 Science YouTube Channels to Expand Knowledge 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1-troubleshooting-undetected-hard-drives-solutions-from-yl-computings-expert-guidance/"><u>1. Troubleshooting Undetected Hard Drives: Solutions From YL Computing's Expert Guidance</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-crafting-a-successful-vimeo-earning-model-a-comprehensive-guide/"><u>2024 Approved Crafting a Successful Vimeo Earning Model – A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ethernet-cross-over-connections-demystified-purpose-and-implementation-guide-yl-software-insights/"><u>Ethernet Cross-Over Connections Demystified: Purpose and Implementation Guide | YL Software Insights</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/get-your-groove-on-download-the-ultimate-red-mobile-3-theme-for-pioneer-deckeeze-3-mixers/"><u>Get Your Groove On: Download the Ultimate Red Mobile 3 Theme for Pioneer Deckeeze 3 Mixers!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-apple-iphone-12-pro-max-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>In 2024, Change Location on Yik Yak For your Apple iPhone 12 Pro Max to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/snapshot-innovations-an-exploration-of-samsung-photo-editor-for-2024/"><u>Snapshot Innovations An Exploration of Samsung PHOTO EDITOR for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-deleting-files-with-ease-tips-from-yl-computing/"><u>Step-by-Step Guide: Deleting Files with Ease - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/troubleshooting-blurry-scan-outputs-insights-from-yl-computing-and-yl-software-solutions/"><u>Troubleshooting Blurry Scan Outputs: Insights From YL Computing & YL Software Solutions</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/troubleshooting-corrupt-video-extensions-on-oses/"><u>Troubleshooting Corrupt VIDEO Extensions on OSes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlock-visual-brilliance-top-11-videos-on-color-techniques-for-2024/"><u>Unlock Visual Brilliance Top 11 Videos on Color Techniques for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/unlocking-the-mystery-why-doesnt-my-scanner-match-its-advertised-resolution-yl-software-solutions/"><u>Unlocking the Mystery: Why Doesn’t My Scanner Match Its Advertised Resolution? - YL Software Solutions</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/yl-softwares-ultimate-trick-to-uninstall-programs-on-windows-11-a-simple-how-to-for-users/"><u>YL Software's Ultimate Trick to Uninstall Programs on Windows 11 – A Simple How-To for Users</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/uide-eradicating-pending-videos-on-your-youtube-queue/"><u>[New] Guide Eradicating Pending Videos on Your YouTube Queue</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-amp-up-your-media-get-free-soundtracks-for-2024/"><u>[Updated] Amp Up Your Media Get Free Soundtracks for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-18-ways-to-record-internet-radio-comprehensive-tutorial/"><u>2024 Approved 18 Ways To Record Internet Radio- Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/enabling-automatic-playback-in-your-customized-flipbooks-a-complete-guide-with-flipbuilder/"><u>Enabling Automatic Playback in Your Customized Flipbooks - A Complete Guide with FlipBuilder</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ensure-perfect-display-of-your-conversion-e-books-on-smartphones-with-easy-steps/"><u>Ensure Perfect Display of Your Conversion E-Books on Smartphones with Easy Steps!</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ensuring-your-digital-flipbooks-safety-on-flipbuilder-a-comprehensive-tutorial/"><u>Ensuring Your Digital Flipbook's Safety on FlipBuilder - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-apply-watermarks-to-your-flipbook-prints-easily-with-flipbuilder/"><u>How to Apply Watermarks to Your FlipBook Prints Easily with FlipBuilder</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-create-various-formats-of-flipbooks-using-flip-pdf-on-a-mac-a-comprehensive-guide/"><u>How to Create Various Formats of Flipbooks Using Flip PDF on a Mac: A Comprehensive Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From iPhone 6s Plus</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-warmth-in-winter-top-5-video-backdrop-choices-for-2024/"><u>The Art of Warmth in Winter Top 5 Video Backdrop Choices for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transform-your-images-with-freepaid-lut-bundles-for-canon/"><u>Transform Your Images with Free/Paid LUT Bundles for Canon</u></a></li>
 </ul></div>
 

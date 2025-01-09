@@ -1,7 +1,7 @@
 ---
 title: 1. ION Dj2go Controller Mapping with Dextrose Pro Mixer & Red Alert Mobile Mastering Suite
-date: 2024-12-28T17:07:33.856Z
-updated: 2024-12-29T18:38:48.432Z
+date: 2025-01-06T16:49:01.890Z
+updated: 2025-01-08T18:39:05.389Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Based on a users recent request we’ve just created a new [DEX 3](https://tools
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More On The DJ2GO From ION’s Website:
@@ -35,7 +35,7 @@ Based on a users recent request we’ve just created a new [DEX 3](https://tools
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO_left_weblg.png?fit=300%2C188&ssl=1 "DJ2GO_left_weblg")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO%5Fleft%5Fweblg.png?fit=1030%2C644&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DJ2GO gives you a tactile feel that can’t be matched by DJing with just your computer mouse and keyboard. In fact, with DJ2GO there’s virtually no need to touch your mouse or keyboard while performing. Everything you need to do, from selecting songs and cueing, to beat-matching and volume adjustment can be controlled by DJ2GO’s generous array of faders, knobs and bright, backlit buttons. DJ2GO weighs just 13 oz. but provides a layout that DJs prefer, including two platters, a crossfader, pitch and level controls as well as Deck A, Deck B, Master and Headphone gain controls. Sync and headphone buttons allow you to instantly sync two tracks and monitor either deck section.
@@ -55,7 +55,7 @@ The ION DJ2Go is selling for around $99 on Amazon and some other online retailer
 **INSTALLATION INSTRUCTIONS:** **Unzip the Map (js file) To:** **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING Numark DJ2GO SCRIPT WITH THE NEW ONE!_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,19 +77,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/iondj2go-blogcoverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-two-dimensions-to-three-making-text-pop-in-photoshop/"><u>[New] From Two-Dimensions to Three Making Text Pop in Photoshop</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-join-google-meet-on-laptop-and-mobile-in-2024/"><u>[New] How to Join Google Meet On Laptop and Mobile, In 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-fresh-to-famous-elevating-your-channels-views-and-youtube-subs/"><u>[Updated] From Fresh to Famous Elevating Your Channels Views & Youtube Subs</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boosting-your-channel-strategies-for-skyrocketing-view-counts/"><u>[Updated] In 2024, Boosting Your Channel Strategies for Skyrocketing View Counts</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-most-effective-macos-sierra-video-coders-for-2024/"><u>[Updated] Most Effective MacOS Sierra Video Coders for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-infinix-gt-10-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Infinix GT 10 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210859375-9780645249262-decoding-dis-ease/"><u>DECODING DIS-EASE | Free Book</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/detecting-possible-memory-issues-on-your-pc-tips-and-tricks-insights-from-yl-computing/"><u>Detecting Possible Memory Issues on Your PC: Tips & Tricks - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/explore-the-visual-creations-of-jamie-miller-with-premium-images-and-desktop-wallpapers-from-yl-software-yl-computing-gifts/"><u>Explore the Visual Creations of Jamie Miller with Premium Images and Desktop Wallpapers From YL Software | YL Computing Gifts</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/file-deletion-tutorial-with-yl-software-erase-unwanted-data-on-windows-and-macos/"><u>File Deletion Tutorial with YL Software - Erase Unwanted Data on Windows and MacOS</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-can-you-diagnose-and-fix-an-unreliable-pc-power-supply-tips-from-yl-computing/"><u>How Can You Diagnose and Fix an Unreliable PC Power Supply? - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/overcoming-application-launch-failures-understanding-game-and-app-errors-insights-by-yl-computing/"><u>Overcoming Application Launch Failures: Understanding Game and App Errors - Insights by YL Computing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-choosing-the-best-free-dvd-to-mp3-transcoder-in-202-celebrating-windows-and-mac-support/"><u>The Ultimate Guide to Choosing the Best Free DVD-to-MP3 Transcoder in 202 Celebrating Windows and Mac Support</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-htc-u23-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On HTC U23 Pro? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-how-to-record-tv-shows-on-windows-with-free-video-recording-software/"><u>[Updated] In 2024, How to Record TV Shows on Windows with Free Video Recording Software?</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/guia-paso-a-paso-para-la-sincronizacion-de-copias-de-seguridad-con-aomei-backupper-en-un-mac/"><u>Guía Paso a Paso Para La Sincronización De Copias De Seguridad Con AOMEI Backupper en Un Mac</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/guida-rapida-al-backup-con-doppi-metodi-in-outlook-200/"><u>Guida Rapida Al Backup Con Doppi Metodi in Outlook 200</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-triggering-a-forced-reboot-into-windows-safe-mode/"><u>Guide: Triggering a Forced Reboot Into Windows Safe Mode</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-divx-video-editing-made-easy-top-free-cutting-tools/"><u>In 2024, Divx Video Editing Made Easy Top Free Cutting Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-expert-tips-for-capturing-and-storing-facebook-messages/"><u>In 2024, Expert Tips for Capturing and Storing Facebook Messages</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-for-launching-problems-in-warframe-game/"><u>Quick Fixes for Launching Problems in Warframe Game</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/the-lifecycle-of-ssd-memory-units-techniques-for-effective-data-restoration/"><u>The Lifecycle of SSD Memory Units - Techniques for Effective Data Restoration</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/tips-and-tricks-for-resetting-windows-367-without-a-password/"><u>Tips and Tricks for Resetting Windows #367 - without a Password</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/troubleshooting-guide-resolving-windows-boot-manager-failed-to-start/"><u>Troubleshooting Guide: Resolving 'Windows Boot Manager Failed To Start'</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/video-vanguard-10-web-based-hd-recording-tools/"><u>Video Vanguard #10 Web-Based HD Recording Tools</u></a></li>
 </ul></div>
 

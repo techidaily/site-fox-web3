@@ -1,7 +1,7 @@
 ---
 title: Ultimate Mobile DJ Gear - PCDJ Ready, DEX 3 Compatible Miniature Controlers
-date: 2024-12-20T02:44:05.480Z
-updated: 2024-12-23T17:13:06.260Z
+date: 2025-01-02T00:43:09.926Z
+updated: 2025-01-08T18:42:59.493Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Here’s a list of four current [DJ controllers](https://tools.techidaily.com/pc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Ultra-Mobile, Compact DJ Controllers for DEX 3 DJ Software
@@ -42,7 +42,7 @@ Ultra-compact, ultra-light, and ultra-practical, the DJControl Starlight packs a
 [![Hercules DJ Control Starlight](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/DJControlStarlight_Main1.png?fit=300%2C129&ssl=1 "Hercules DJ Control Starlight")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/DJControlStarlight%5FMain1.png?fit=1003%2C431&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) **Numark DJ2Go2 Touch**
@@ -52,10 +52,6 @@ Just like it’s predecessor the DJ2Go2, the DJ2Go2 Touch is a portable, pocket-
   
 [![Numark DJ2Go2 Touch](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/numark-dj2go2-touch-pocket-dj-controller-with-professional-headphones-nano-controller-eva-bag-package-112.png?fit=300%2C127&ssl=1 "Numark DJ2Go2 Touch")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/numark-dj2go2-touch-pocket-dj-controller-with-professional-headphones-nano-controller-eva-bag-package-112.png?fit=1030%2C436&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) **Hercules DJControl Inpulse 200**
 
 The DJControl Inpulse 200 has the look and feel of many other popular compact controllers on the market. It’s a two deck controller with 8 performance pads per decks, touch-sensitive jog wheels, a 3 band EQ and filter on the mixer and a built-in audio interface with headphone pre-fade listening. It’s a step up from the Starlight and still small enough to take with you anywhere. **Retail: $119.99**
@@ -64,7 +60,7 @@ The DJControl Inpulse 200 has the look and feel of many other popular compact co
 [![Hercules DJControl Inpulse 200](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=300%2C229&ssl=1 "Hercules DJControl Inpulse 200")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=1029%2C787&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) **Numark Party Mix**
@@ -74,12 +70,16 @@ The professional DJ features that come with the Numark Party Mix include four cu
   
 [![Numark Party Mix](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL._AC_SL1500_.jpg?fit=300%2C193&ssl=1 "Numark Party Mix")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL.%5FAC%5FSL1500%5F.jpg?fit=1030%2C663&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [View All DEX 3 Supported DJ Controllers](https://tools.techidaily.com/pcdj/products/)
 
 _Have questions about DEX 3 supported **DJ Controllers**? Leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -101,22 +101,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/08/starlight22713-e1537952784
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-proven-methods-for-twitter-brand-awareness-for-2024/"><u>[New] Proven Methods for Twitter Brand Awareness for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-future-of-youtube-naming-trendsetting-tips-for-video-blogging-and-filmmaking-max-156-characters/"><u>[Updated] In 2024, The Future of YouTube Naming Trendsetting Tips for Video Blogging & Filmmaking (Max 156 Characters)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-secrets-of-iphones-video-loops-for-2024/"><u>[Updated] Unveiling the Secrets of iPhone's Video Loops for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-yt-highlights-year-end-spotlight-on-top-music-reactions-for-2024/"><u>[Updated] YT Highlights Year-End Spotlight on Top Music Reactions for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-frame-your-vision-leading-lines-for-dynamic-iphone-photos/"><u>2024 Approved Frame Your Vision Leading Lines for Dynamic iPhone Photos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-from-avi-images-to-graphics-a-complete-filmora-walkthrough/"><u>2024 Approved From AVI Images to Graphics A Complete Filmora Walkthrough</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/detecting-and-removing-malware-a-comprehensive-guide-for-windows-users-yl-computing/"><u>Detecting & Removing Malware: A Comprehensive Guide for Windows Users - YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/expert-tips-on-ensuring-graphics-card-integrity-and-preventing-damage-guidance-from-yl-software-experts/"><u>Expert Tips on Ensuring Graphics Card Integrity and Preventing Damage - Guidance From YL Software Experts</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/fixing-windows-graphics-card-issues-expert-tips-and-tricks-from-yl-computings-latest-guide/"><u>Fixing Windows Graphics Card Issues: Expert Tips & Tricks From YL Computing's Latest Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/identifying-faulty-hardware-components-in-your-system-tips-and-tricks-from-yl-computing/"><u>Identifying Faulty Hardware Components in Your System - Tips & Tricks From YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/mastering-mozilla-firefox-quick-tips-for-adjusting-your-browsers-settings-yl-computing-expertise/"><u>Mastering Mozilla Firefox: Quick Tips for Adjusting Your Browser's Settings - YL Computing Expertise</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/no-1-ranked-youtube-to-text-online-service/"><u>No. 1 Ranked YouTube To Text Online Service</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/pcdjs-newest-release-enhanced-karaoke-experience-with-latest-karaoki-update/"><u>PCDJ's Newest Release: Enhanced Karaoke Experience with Latest Karaoki Update</u></a></li>
-<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-g2-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-removing-hardware-drivers-on-your-pc-tech-tips-from-yl/"><u>Step-by-Step Guide: Removing Hardware Drivers on Your PC - Tech Tips From YL</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-spark-10-pro-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Spark 10 Pro</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/troubleshooting-steps-when-your-printer-wont-connect-to-wi-fi-tips-from-yl-computing/"><u>Troubleshooting Steps When Your Printer Won't Connect to Wi-Fi - Tips From YL Computing</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-streamline-your-creative-process-with-instagrams-audio-features/"><u>[New] 2024 Approved Streamline Your Creative Process with Instagram's Audio Features</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-customize-and-captivate-thumbnail-magic-for-shorts/"><u>[Updated] 2024 Approved Customize & Captivate Thumbnail Magic for Shorts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-lgs-ultrafine-masterpiece-an-exhaustive-monitoring-guide/"><u>[Updated] In 2024, LG's UltraFine Masterpiece An Exhaustive Monitoring Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/avoiding-a-sluggish-pc-effective-tips-for-maintaining-speed-over-time-by-yl-software-experts/"><u>Avoiding a Sluggish PC: Effective Tips for Maintaining Speed Over Time by YL Software Experts</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/boost-your-computers-performance-top-software-recommendations-by-yl-computing/"><u>Boost Your Computer's Performance: Top Software Recommendations by YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/boost-your-kj-store-now-exclusive-karaoke-downloads-at-30-off-shop-today/"><u>Boost Your KJ Store Now: Exclusive Karaoke Downloads at 30% Off - Shop Today!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/broad-spectrum-of-uavs/"><u>Broad Spectrum of UAVs</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/checking-cpu-and-motherboard-compatibility-made-simple-by-yl-computing-step-by-step-tips-and-tricks/"><u>Checking CPU and Motherboard Compatibility Made Simple by YL Computing - Step-by-Step Tips & Tricks</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-can-i-accelerate-my-computers-performance-without-any-cost-tips-from-yl-computing/"><u>How Can I Accelerate My Computer's Performance Without Any Cost - Tips From YL Computing</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-expand-your-storage-a-step-by-step-cloning-guide-from-small-ssd-to-bigger-drive-comparison/"><u>How To Expand Your Storage: A Step-by-Step Cloning Guide From Small SSD to Bigger Drive Comparison</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-innovative-screen-recorder-alternatives-for-gamers/"><u>In 2024, Innovative Screen Recorder Alternatives for Gamers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-top-3-best-nintendo-switch-emulators-you-can-find/"><u>In 2024, Top 3 Best Nintendo Switch Emulators You Can Find</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/revamp-twitter-video-summary-for-2024/"><u>Revamp Twitter Video Summary for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/solutions-for-dealing-with-a-noisy-graphics-card-expert-advice-from-yl-computing/"><u>Solutions for Dealing with a Noisy Graphics Card: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-file-backup-essentials-from-yl-software/"><u>Step-by-Step Guide: File Backup Essentials From YL Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-pcs-cooling-with-noctuas-back-in-business-exceptional-120mm-airflow-at-a-steal-for-99/"><u>Upgrade Your PC's Cooling with Noctua's Back in Business – Exceptional 120Mm Airflow at a Steal for $99!</u></a></li>
 </ul></div>
 

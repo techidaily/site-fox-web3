@@ -1,7 +1,7 @@
 ---
 title: PCDJ Announces DEX Nv3.10.2.0 - Get the Latest DJ Software in Its Public Beta Phase Now!
-date: 2024-12-24T18:33:13.812Z
-updated: 2024-12-29T16:53:51.102Z
+date: 2025-01-03T01:04:59.141Z
+updated: 2025-01-08T18:38:33.091Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Since version 3.10.2.0 is considered a ‘[Public Beta](https://en.wikipedia.org
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.10.2.0
@@ -53,7 +53,7 @@ _**Installation Instructions:** With your existing version of DEX 3 Pro closed, 
 _Have questions about our **top DJ mixing software** or the new features included in version 3.10.2.0? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -75,22 +75,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/06/dex31020image.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-best-companions-for-podcast-lovers-activities-and-tasks/"><u>[New] In 2024, Best Companions for Podcast Lovers Activities and Tasks</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-exploring-the-depth-of-photography-with-polarrs-advanced-editing/"><u>[New] In 2024, Exploring the Depth of Photography with Polarr’s Advanced Editing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-edit-youtube-videos-in-final-cut-pro-for-2024/"><u>[Updated] How to Edit YouTube Videos in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-v29-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo V29 Pro System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/enhancing-your-mixes-synergy-of-dex-3-and-ms-pinky-control-vinyl-explained-for-aspiring-djs/"><u>Enhancing Your Mixes: Synergy of DEX 3 and Ms Pinky Control Vinyl Explained for Aspiring DJs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-accessing-free-meal-prep-videos-on-youtube-and-similar-platforms/"><u>Guide to Accessing Free Meal Prep Videos on YouTube and Similar Platforms</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-infinix-smart-7-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Infinix Smart 7 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-leading-gb-emulators-for-android-gamers/"><u>In 2024, Leading GB Emulators for Android Gamers</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/real-time-balance-tracking-is-yls-crypto-wallet-update-feature-accurate/"><u>Real-Time Balance Tracking: Is YL's Crypto Wallet Update Feature Accurate?</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/the-art-behind-masterful-mixing-and-persuasive-speaking-with-insights-from-jordan-river-pcdj/"><u>The Art Behind Masterful Mixing and Persuasive Speaking with Insights From Jordan River | PCDJ</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/the-pathway-to-dominance-exploring-how-the-manchus-seized-control-in-ancient-china-analyzed-with-yl-software/"><u>The Pathway to Dominance: Exploring How the Manchus Seized Control in Ancient China – Analyzed with YL Software</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/transform-your-photos-easily-convert-jpg-files-into-pngs-using-windows-tools-advice-by-yl-software/"><u>Transform Your Photos Easily: Convert JPG Files Into PNGs Using Windows Tools – Advice by YL Software</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/troubleshooting-how-to-resolve-undetected-video-cards-in-your-pc-tips-from-yl-computing/"><u>Troubleshooting: How to Resolve Undetected Video Cards in Your PC - Tips From YL Computing</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-c51-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-modern-communication-channels-insights-into-facebook-twitter-instagram-and-youtube/"><u>Understanding Modern Communication Channels: Insights Into Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/understanding-the-geographical-context-of-the-opium-war-battles-insights-from-yl-tech-innovators/"><u>Understanding the Geographical Context of the Opium War Battles - Insights From YL Tech Innovators</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/unleash-the-star-within-elevate-your-karaoke-experience-subscription-with-top-tier-audio-mixers-at-karaoke-cloud-pro/"><u>Unleash the Star Within: Elevate Your Karaoke Experience Subscription with Top-Tier Audio Mixers at Karaoke Cloud Pro!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-amass-wealth-the-art-of-vimeo-video-monetization/"><u>[New] How to Amass Wealth The Art of Vimeo Video Monetization</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-snickel-and-snicker-5-best-meme-generating-apps/"><u>[New] Snickel & Snicker 5 Best Meme Generating Apps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-giggles-guide-to-sign-insign-out-for-2024/"><u>[Updated] Giggles Guide to Sign-In/Sign-Out for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/begin-a-new-era-of-editing-with-xps-video-suite/"><u>Begin a New Era of Editing with Xp's Video Suite</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-spot-your-pc-is-getting-too-hot-a-guide-to-detecting-computer-overheating/"><u>How to Spot Your PC Is Getting Too Hot: A Guide to Detecting Computer Overheating</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-troubleshoot-when-your-printer-wont-print-solutions-from-yl-computing/"><u>How to Troubleshoot When Your Printer Won't Print: Solutions From YL Computing</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/is-it-possible-to-move-all-info-with-a-sim-card-switch-between-phones/"><u>Is It Possible to Move All Info with a SIM Card Switch Between Phones?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-issues-repair-steps-for-physxloaderdll-file-missing-or-corrupted/"><u>Resolving Issues: Repair Steps for 'PhysXLoader.dll' File Missing or Corrupted</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/step-by-step-creation-of-gamers-channel-graphics-for-2024/"><u>Step-By-Step Creation of Gamers' Channel Graphics for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-setting-up-your-lan-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Setting Up Your LAN on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-setting-up-your-printer-on-windows-via-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Setting Up Your Printer on Windows via Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-tips-for-lenovo-system-driver-updates-made-easy/"><u>Troubleshooting Tips for Lenovo System Driver Updates Made Easy</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/unveiling-the-root-trigger-a-deep-dive-into-chinas-civil-war-catalyst-by-yl-computing/"><u>Unveiling the Root Trigger: A Deep Dive Into China's Civil War Catalyst - by YL Computing</u></a></li>
 </ul></div>
 

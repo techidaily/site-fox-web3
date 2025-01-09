@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke App Version 1.6: Now Fully Compatible With macOS Catalina - Free Download!"
-date: 2024-12-23T17:24:50.779Z
-updated: 2024-12-29T17:04:27.156Z
+date: 2025-01-03T00:32:03.323Z
+updated: 2025-01-08T16:10:04.046Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6
@@ -55,7 +55,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 _Have questions about the latest 1.6 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,15 +77,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/04/lyrx-16-cover-2.jpg?fit=13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-anime-aesthetics-top-20-visual-elements-on-tiktok/"><u>[New] 2024 Approved Anime Aesthetics Top 20 Visual Elements on TikTok</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-transform-your-youtube-channel-expert-tips-for-adding-chapter-sections/"><u>[New] Transform Your YouTube Channel Expert Tips for Adding Chapter Sections</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-smooth-narrative-flow-mastering-inshots-seamless-segments/"><u>[Updated] A Smooth Narrative Flow Mastering Inshot's Seamless Segments</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-a-step-by-step-on-youtube-annotations/"><u>[Updated] In 2024, A Step-by-Step on YouTube Annotations</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-reality-beyond-exploring-vrs-contemporary-state-and-implications-for-2024/"><u>[Updated] Reality Beyond Exploring VR's Contemporary State and Implications for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/2019-in-retrospect-a-comprehensive-look-back-at-the-pcdj-saga/"><u>2019 in Retrospect: A Comprehensive Look Back at the PCDJ Saga</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/finding-the-needle-in-the-haystack-expert-tips-for-identifying-files-on-your-windows-pc-with-yl-software-solutions/"><u>Finding the Needle in the Haystack: Expert Tips for Identifying Files on Your Windows PC with YL Software Solutions</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/solving-persistent-audio-hardware-glitches-uncover-the-reasons-behind-your-pcs-sound-card-malfunctions/"><u>Solving Persistent Audio Hardware Glitches: Uncover the Reasons Behind Your PC's Sound Card Malfunctions</u></a></li>
-<li><a href="https://solve-news.techidaily.com/ultimate-festive-playlist-hands-free-methods-for-securely-acquiring-holi-melodies-online/"><u>Ultimate Festive Playlist: Hands-Free Methods for Securely Acquiring Holi Melodies Online</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/yl-computings-guide-to-ultimate-computer-performance-and-maintenance/"><u>YL Computing's Guide to Ultimate Computer Performance & Maintenance</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-editcanvas-solutions/"><u>[New] EditCanvas Solutions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-top-picks-the-ultimate-android-mp3-downloader-collection/"><u>[Updated] In 2024, Top Picks The Ultimate Android MP3 Downloader Collection</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-refine-your-images-quickly-freepaid-lut-options-for-canon/"><u>2024 Approved Refine Your Images Quickly - Free/Paid LUT Options for Canon</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/adjusting-system-dates-times-and-time-zones-via-control-panel-a-guide-by-yl-computing/"><u>Adjusting System Dates, Times & Time Zones via Control Panel: A Guide by YL Computing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/beyond-the-hype-decoding-10-instagram-reels-truths/"><u>Beyond the Hype Decoding 10 Instagram Reels Truths</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ensuring-seamless-apple-podcast-addition/"><u>Ensuring Seamless Apple Podcast Addition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-ideas-to-epic-quests-how-to-build-an-intriguing-txt-rpg-with-chatgpts-dynamic-ai/"><u>From Ideas to Epic Quests: How to Build an Intriguing TXT-RPG with ChatGPT's Dynamic AI</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-infinix-note-30-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Infinix Note 30 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-fix-a-disconnected-scanner-on-windowsmac-expert-advice-by-yl-software-team/"><u>How to Fix a Disconnected Scanner on Windows/Mac - Expert Advice by YL Software Team</u></a></li>
+<li><a href="https://games-able.techidaily.com/ryujinx-for-the-console-gamer-a-guide-to-controller-proficiency/"><u>Ryujinx for the Console Gamer: A Guide to Controller Proficiency</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/the-art-behind-masterful-mixing-and-persuasive-speaking-with-insights-from-jordan-river-pcdj/"><u>The Art Behind Masterful Mixing and Persuasive Speaking with Insights From Jordan River | PCDJ</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/troubleshooting-how-to-resolve-undetected-video-cards-in-your-pc-tips-from-yl-computing/"><u>Troubleshooting: How to Resolve Undetected Video Cards in Your PC - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/understanding-the-geographical-context-of-the-opium-war-battles-insights-from-yl-tech-innovators/"><u>Understanding the Geographical Context of the Opium War Battles - Insights From YL Tech Innovators</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unparalleled-action-camera-review-sony-x1000v-explored-for-2024/"><u>Unparalleled Action Camera Review - Sony X1000V Explored for 2024</u></a></li>
 </ul></div>
 
