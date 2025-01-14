@@ -1,7 +1,7 @@
 ---
 title: 1. ION Dj2go Controller Mapping with Dextrose Pro Mixer & Red Alert Mobile Mastering Suite
-date: 2025-01-06T16:49:01.890Z
-updated: 2025-01-08T18:39:05.389Z
+date: 2025-01-08T17:05:07.708Z
+updated: 2025-01-14T17:22:59.260Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Based on a users recent request we’ve just created a new [DEX 3](https://tools
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More On The DJ2GO From ION’s Website:
@@ -35,7 +35,7 @@ Based on a users recent request we’ve just created a new [DEX 3](https://tools
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO_left_weblg.png?fit=300%2C188&ssl=1 "DJ2GO_left_weblg")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO%5Fleft%5Fweblg.png?fit=1030%2C644&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DJ2GO gives you a tactile feel that can’t be matched by DJing with just your computer mouse and keyboard. In fact, with DJ2GO there’s virtually no need to touch your mouse or keyboard while performing. Everything you need to do, from selecting songs and cueing, to beat-matching and volume adjustment can be controlled by DJ2GO’s generous array of faders, knobs and bright, backlit buttons. DJ2GO weighs just 13 oz. but provides a layout that DJs prefer, including two platters, a crossfader, pitch and level controls as well as Deck A, Deck B, Master and Headphone gain controls. Sync and headphone buttons allow you to instantly sync two tracks and monitor either deck section.
@@ -55,7 +55,7 @@ The ION DJ2Go is selling for around $99 on Amazon and some other online retailer
 **INSTALLATION INSTRUCTIONS:** **Unzip the Map (js file) To:** **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING Numark DJ2GO SCRIPT WITH THE NEW ONE!_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,16 +77,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/iondj2go-blogcoverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-how-to-record-tv-shows-on-windows-with-free-video-recording-software/"><u>[Updated] In 2024, How to Record TV Shows on Windows with Free Video Recording Software?</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/guia-paso-a-paso-para-la-sincronizacion-de-copias-de-seguridad-con-aomei-backupper-en-un-mac/"><u>Guía Paso a Paso Para La Sincronización De Copias De Seguridad Con AOMEI Backupper en Un Mac</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/guida-rapida-al-backup-con-doppi-metodi-in-outlook-200/"><u>Guida Rapida Al Backup Con Doppi Metodi in Outlook 200</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-triggering-a-forced-reboot-into-windows-safe-mode/"><u>Guide: Triggering a Forced Reboot Into Windows Safe Mode</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-divx-video-editing-made-easy-top-free-cutting-tools/"><u>In 2024, Divx Video Editing Made Easy Top Free Cutting Tools</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-expert-tips-for-capturing-and-storing-facebook-messages/"><u>In 2024, Expert Tips for Capturing and Storing Facebook Messages</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/quick-fixes-for-launching-problems-in-warframe-game/"><u>Quick Fixes for Launching Problems in Warframe Game</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/the-lifecycle-of-ssd-memory-units-techniques-for-effective-data-restoration/"><u>The Lifecycle of SSD Memory Units - Techniques for Effective Data Restoration</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/tips-and-tricks-for-resetting-windows-367-without-a-password/"><u>Tips and Tricks for Resetting Windows #367 - without a Password</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/troubleshooting-guide-resolving-windows-boot-manager-failed-to-start/"><u>Troubleshooting Guide: Resolving 'Windows Boot Manager Failed To Start'</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/video-vanguard-10-web-based-hd-recording-tools/"><u>Video Vanguard #10 Web-Based HD Recording Tools</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-how-to-take-long-exposure-shots-with-iphone-for-2024/"><u>[Updated] How to Take Long Exposure Shots with iPhone for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-how-to-make-a-video-from-photo-with-music/"><u>[Updated] In 2024, How to Make a Video From Photo with Music</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-mastering-online-play-in-depth-guide-to-using-kinemaster-and-its-rivals-for-2024/"><u>[Updated] Mastering Online Play In-Depth Guide to Using KineMaster and Its Rivals for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-ae-text-configurations-from-basics-to-brilliance/"><u>[Updated] Top AE Text Configurations From Basics to Brilliance</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-video-conversion-wizardry-from-youtube-to-igtv/"><u>[Updated] Video Conversion Wizardry From Youtube to IGTV</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/5-most-effective-methods-for-capturing-presentations-with-powerpoint/"><u>5 Most Effective Methods for Capturing Presentations with PowerPoint</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/complete-user-manual-mastering-the-art-of-using-apowershow/"><u>Complete User Manual: Mastering the Art of Using ApowerShow</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/downloadable-youtube-sound-capture-tool-easily-record-any-audio-from-youtube-videos/"><u>Downloadable YouTube Sound Capture Tool: Easily Record Any Audio From YouTube Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/identifying-fraudulent-ai-tools-in-ios-marketplace/"><u>Identifying Fraudulent AI Tools in iOS Marketplace</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-ipad-pro-analysis-embracing-the-differences-between-apples-top-tablet-and-laptops-tech-insights/"><u>In-Depth iPad Pro Analysis: Embracing the Differences Between Apple's Top Tablet & Laptops | Tech Insights</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/leading-pimple-reduction-mobile-apps-reviewed-2021-edition/"><u>Leading Pimple Reduction Mobile Apps Reviewed: 2021 Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computer-hardware-with-toms-tech-wisdom/"><u>Navigating the World of Computer Hardware with Tom’s Tech Wisdom</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/professional-media-management-dashboard/"><u>Professional Media Management Dashboard</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-mystery-a-guide-on-returning-calls-from-unknown-numbers/"><u>Unlocking the Mystery: A Guide on Returning Calls From Unknown Numbers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke App Version 1.6: Now Fully Compatible With macOS Catalina - Free Download!"
-date: 2025-01-03T00:32:03.323Z
-updated: 2025-01-08T16:10:04.046Z
+date: 2025-01-12T18:39:12.863Z
+updated: 2025-01-14T16:06:27.916Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6
@@ -55,7 +55,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 _Have questions about the latest 1.6 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,19 +77,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/04/lyrx-16-cover-2.jpg?fit=13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-editcanvas-solutions/"><u>[New] EditCanvas Solutions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-top-picks-the-ultimate-android-mp3-downloader-collection/"><u>[Updated] In 2024, Top Picks The Ultimate Android MP3 Downloader Collection</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-refine-your-images-quickly-freepaid-lut-options-for-canon/"><u>2024 Approved Refine Your Images Quickly - Free/Paid LUT Options for Canon</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/adjusting-system-dates-times-and-time-zones-via-control-panel-a-guide-by-yl-computing/"><u>Adjusting System Dates, Times & Time Zones via Control Panel: A Guide by YL Computing</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/beyond-the-hype-decoding-10-instagram-reels-truths/"><u>Beyond the Hype Decoding 10 Instagram Reels Truths</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ensuring-seamless-apple-podcast-addition/"><u>Ensuring Seamless Apple Podcast Addition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-ideas-to-epic-quests-how-to-build-an-intriguing-txt-rpg-with-chatgpts-dynamic-ai/"><u>From Ideas to Epic Quests: How to Build an Intriguing TXT-RPG with ChatGPT's Dynamic AI</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-infinix-note-30-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Infinix Note 30 5G? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-fix-a-disconnected-scanner-on-windowsmac-expert-advice-by-yl-software-team/"><u>How to Fix a Disconnected Scanner on Windows/Mac - Expert Advice by YL Software Team</u></a></li>
-<li><a href="https://games-able.techidaily.com/ryujinx-for-the-console-gamer-a-guide-to-controller-proficiency/"><u>Ryujinx for the Console Gamer: A Guide to Controller Proficiency</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/the-art-behind-masterful-mixing-and-persuasive-speaking-with-insights-from-jordan-river-pcdj/"><u>The Art Behind Masterful Mixing and Persuasive Speaking with Insights From Jordan River | PCDJ</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/troubleshooting-how-to-resolve-undetected-video-cards-in-your-pc-tips-from-yl-computing/"><u>Troubleshooting: How to Resolve Undetected Video Cards in Your PC - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/understanding-the-geographical-context-of-the-opium-war-battles-insights-from-yl-tech-innovators/"><u>Understanding the Geographical Context of the Opium War Battles - Insights From YL Tech Innovators</u></a></li>
-<li><a href="https://fox-info.techidaily.com/unparalleled-action-camera-review-sony-x1000v-explored-for-2024/"><u>Unparalleled Action Camera Review - Sony X1000V Explored for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dont-overlook-tags-in-video-description/"><u>[Updated] 2024 Approved Don't Overlook Tags in Video Description</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-stand-out-with-visual-flair-bordered-video-tutorials/"><u>[Updated] In 2024, Stand Out with Visual Flair Bordered Video Tutorials</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-diy-youtube-thumbnails-on-smartphones/"><u>2024 Approved DIY YouTube Thumbnails on Smartphones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-poll-power-players-quintessential-politic-games/"><u>2024 Approved Poll Power Players Quintessential Politic Games</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effortless-access-to-mls-soccer-content-video-music-and-sounds-quick-download/"><u>Effortless Access to MLS Soccer Content: Video, Music & Sounds - Quick Download</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effortless-al-jazeera-media-extraction-tool-for-mac-and-windows/"><u>Effortless Al Jazeera Media Extraction Tool for Mac and Windows</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effortless-offline-watching-how-to-convert-and-download-vgtv-videos-in-mp4-format-for-windows-and-macos-users/"><u>Effortless Offline Watching: How to Convert & Download VGTV Videos in MP4 Format for Windows and macOS Users</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effortlessly-access-and-save-lessons-from-yoyo-chinese-for-language-study/"><u>Effortlessly Access and Save Lessons From Yoyo Chinese for Language Study</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-navigating-instagrams-financial-opportunities-a-comprehensive-guide/"><u>In 2024, Navigating Instagram's Financial Opportunities A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-smartphone-evolution-at-4k-peaks-sony-xperia-xz-reviewed/"><u>In 2024, Smartphone Evolution at 4K Peaks – Sony Xperia XZ Reviewed</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209838891-9780986213205-miracles-extraordinary-blessings/"><u>Miracles & Extraordinary Blessings | Free Book</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/quick-tips-for-saving-the-world-with-a-smile-for-2024/"><u>Quick Tips for Saving the World with a Smile for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-full-potential-of-vram-on-modern-pcs/"><u>Unlock Full Potential of VRAM on Modern PCs</u></a></li>
 </ul></div>
 

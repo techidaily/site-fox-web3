@@ -1,7 +1,7 @@
 ---
 title: PCDJ Announces DEX Nv3.10.2.0 - Get the Latest DJ Software in Its Public Beta Phase Now!
-date: 2025-01-03T01:04:59.141Z
-updated: 2025-01-08T18:38:33.091Z
+date: 2025-01-11T21:33:19.756Z
+updated: 2025-01-14T20:17:26.006Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Since version 3.10.2.0 is considered a ‘[Public Beta](https://en.wikipedia.org
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.10.2.0
@@ -53,7 +53,7 @@ _**Installation Instructions:** With your existing version of DEX 3 Pro closed, 
 _Have questions about our **top DJ mixing software** or the new features included in version 3.10.2.0? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -75,18 +75,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/06/dex31020image.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-how-to-amass-wealth-the-art-of-vimeo-video-monetization/"><u>[New] How to Amass Wealth The Art of Vimeo Video Monetization</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-snickel-and-snicker-5-best-meme-generating-apps/"><u>[New] Snickel & Snicker 5 Best Meme Generating Apps</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-giggles-guide-to-sign-insign-out-for-2024/"><u>[Updated] Giggles Guide to Sign-In/Sign-Out for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/begin-a-new-era-of-editing-with-xps-video-suite/"><u>Begin a New Era of Editing with Xp's Video Suite</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-spot-your-pc-is-getting-too-hot-a-guide-to-detecting-computer-overheating/"><u>How to Spot Your PC Is Getting Too Hot: A Guide to Detecting Computer Overheating</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-troubleshoot-when-your-printer-wont-print-solutions-from-yl-computing/"><u>How to Troubleshoot When Your Printer Won't Print: Solutions From YL Computing</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/is-it-possible-to-move-all-info-with-a-sim-card-switch-between-phones/"><u>Is It Possible to Move All Info with a SIM Card Switch Between Phones?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-issues-repair-steps-for-physxloaderdll-file-missing-or-corrupted/"><u>Resolving Issues: Repair Steps for 'PhysXLoader.dll' File Missing or Corrupted</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/step-by-step-creation-of-gamers-channel-graphics-for-2024/"><u>Step-By-Step Creation of Gamers' Channel Graphics for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-setting-up-your-lan-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Setting Up Your LAN on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-setting-up-your-printer-on-windows-via-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Setting Up Your Printer on Windows via Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://win-dash.techidaily.com/troubleshooting-tips-for-lenovo-system-driver-updates-made-easy/"><u>Troubleshooting Tips for Lenovo System Driver Updates Made Easy</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/unveiling-the-root-trigger-a-deep-dive-into-chinas-civil-war-catalyst-by-yl-computing/"><u>Unveiling the Root Trigger: A Deep Dive Into China's Civil War Catalyst - by YL Computing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-precision-timing-crafting-your-ideal-video-conference/"><u>[New] Precision Timing Crafting Your Ideal Video Conference</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-we-say-goodbye-to-control-the-shifting-dynamics-between-openai-and-chatgpt/"><u>Can We Say Goodbye to Control: The Shifting Dynamics Between OpenAI and ChatGPT?</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/dealing-with-unresponsive-keys-a-comprehensive-guide-by-yl-software-solutions/"><u>Dealing with Unresponsive Keys: A Comprehensive Guide by YL Software Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/discover-how-to-efficiently-locate-any-file-on-windows-or-mac-with-yls-expert-strategies/"><u>Discover How to Efficiently Locate Any File on Windows or Mac with YL's Expert Strategies</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/featured-artist-wanted-become-the-face-of-professional-pcdj-and-karaoke-software-solutions-today/"><u>Featured Artist Wanted! Become the Face of Professional PCDJ & Karaoke Software Solutions Today!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/methode-facile-et-gratuite-pour-convertir-des-fichiers-aifc-en-aiff-en-ligne-avec-movavi/"><u>Méthode Facile Et Gratuite Pour Convertir Des Fichiers AIFC en AIFF en Ligne Avec Movavi</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/over-12k-fresh-songs-launched-at-party-tyme-karaoke-upgrade-your-playlist-with-the-latest-dj-cds/"><u>Over 12K Fresh Songs Launched at Party Tyme Karaoke: Upgrade Your Playlist with the Latest DJ CDs!</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/premium-wallpaper-collection-for-audi-rs6-enthusiasts-elevate-your-screen-with-yl-software/"><u>Premium Wallpaper Collection for Audi RS6 Enthusiasts – Elevate Your Screen with YL Software</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-device-driver-43-hurdle/"><u>Resolving Device Driver #43 Hurdle</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/techniques-for-rescuing-chatgpt-conversations/"><u>Techniques for Rescuing ChatGPT Conversations</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transferring-with-confidence-mastering-the-art-of-moving-files-with-windows-backup-onto-a-fresh-machine/"><u>Transferring with Confidence: Mastering the Art of Moving Files with Windows Backup Onto a Fresh Machine</u></a></li>
 </ul></div>
 
