@@ -1,7 +1,7 @@
 ---
 title: PCDJ Announces DEX Nv3.10.2.0 - Get the Latest DJ Software in Its Public Beta Phase Now!
-date: 2025-01-11T21:33:19.756Z
-updated: 2025-01-14T20:17:26.006Z
+date: 2025-01-19T00:03:19.501Z
+updated: 2025-01-20T18:27:50.549Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Since version 3.10.2.0 is considered a ‘[Public Beta](https://en.wikipedia.org
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.10.2.0
@@ -53,7 +53,7 @@ _**Installation Instructions:** With your existing version of DEX 3 Pro closed, 
 _Have questions about our **top DJ mixing software** or the new features included in version 3.10.2.0? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -75,16 +75,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/06/dex31020image.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-precision-timing-crafting-your-ideal-video-conference/"><u>[New] Precision Timing Crafting Your Ideal Video Conference</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-we-say-goodbye-to-control-the-shifting-dynamics-between-openai-and-chatgpt/"><u>Can We Say Goodbye to Control: The Shifting Dynamics Between OpenAI and ChatGPT?</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/dealing-with-unresponsive-keys-a-comprehensive-guide-by-yl-software-solutions/"><u>Dealing with Unresponsive Keys: A Comprehensive Guide by YL Software Solutions</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/discover-how-to-efficiently-locate-any-file-on-windows-or-mac-with-yls-expert-strategies/"><u>Discover How to Efficiently Locate Any File on Windows or Mac with YL's Expert Strategies</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/featured-artist-wanted-become-the-face-of-professional-pcdj-and-karaoke-software-solutions-today/"><u>Featured Artist Wanted! Become the Face of Professional PCDJ & Karaoke Software Solutions Today!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/methode-facile-et-gratuite-pour-convertir-des-fichiers-aifc-en-aiff-en-ligne-avec-movavi/"><u>Méthode Facile Et Gratuite Pour Convertir Des Fichiers AIFC en AIFF en Ligne Avec Movavi</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/over-12k-fresh-songs-launched-at-party-tyme-karaoke-upgrade-your-playlist-with-the-latest-dj-cds/"><u>Over 12K Fresh Songs Launched at Party Tyme Karaoke: Upgrade Your Playlist with the Latest DJ CDs!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/premium-wallpaper-collection-for-audi-rs6-enthusiasts-elevate-your-screen-with-yl-software/"><u>Premium Wallpaper Collection for Audi RS6 Enthusiasts – Elevate Your Screen with YL Software</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolving-device-driver-43-hurdle/"><u>Resolving Device Driver #43 Hurdle</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/techniques-for-rescuing-chatgpt-conversations/"><u>Techniques for Rescuing ChatGPT Conversations</u></a></li>
-<li><a href="https://win-forum.techidaily.com/transferring-with-confidence-mastering-the-art-of-moving-files-with-windows-backup-onto-a-fresh-machine/"><u>Transferring with Confidence: Mastering the Art of Moving Files with Windows Backup Onto a Fresh Machine</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-androids-premier-music-video-experience-6-picks/"><u>[New] Android's Premier Music Video Experience 6 Picks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-elevating-your-youtube-presence-with-strategic-post-publish-video-updates-for-2024/"><u>[Updated] Elevating Your YouTube Presence with Strategic Post-Publish Video Updates for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-obsudio-screen-recorder-analysis-your-best-choices-explored/"><u>[Updated] Obsudio Screen Recorder Analysis Your Best Choices Explored</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-prime-action-mic-choices-for-clear-videos/"><u>[Updated] Prime Action Mic Choices for Clear Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-filmmakers-handbook-for-uav-operations/"><u>[Updated] The Filmmaker's Handbook for UAV Operations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-combining-images-for-an-engaging-picture-panorama/"><u>2024 Approved Combining Images for an Engaging Picture Panorama</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/discover-the-optimal-techniques-for-cable-free-mi-tv-and-pc-screen-mirroring/"><u>Discover the Optimal Techniques for Cable-Free Mi TV and PC Screen Mirroring</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/enhanced-gui-designs-for-advanced-installation-software/"><u>Enhanced GUI Designs for Advanced Installation Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-conquer-time-lapse-with-your-canon-camera/"><u>In 2024, Conquer Time-Lapse with Your Canon Camera</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-quick-shots-effective-techniques-for-taking-a-screenshot-on-your-lenovo-device/"><u>Mastering Quick Shots: Effective Techniques for Taking a Screenshot on Your Lenovo Device</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/optimizing-inbound-dll-function-requests-through-tailored-callbacks/"><u>Optimizing Inbound Dll Function Requests Through Tailored Callbacks</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/optimizing-your-web-content-mastering-sql-database-pages/"><u>Optimizing Your Web Content: Mastering SQL Database Pages</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premiere-gear-optimal-panoramic-recorders/"><u>Premiere Gear Optimal Panoramic Recorders</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/the-ultimate-guide-to-efficient-video-compressing-apps-on-windows-11/"><u>The Ultimate Guide to Efficient Video Compressing Apps on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-the-windows-canary-channel-how-to-start-using-it/"><u>What Is the Windows Canary Channel? How to Start Using It</u></a></li>
 </ul></div>
 

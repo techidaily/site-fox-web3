@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke App Version 1.6: Now Fully Compatible With macOS Catalina - Free Download!"
-date: 2025-01-12T18:39:12.863Z
-updated: 2025-01-14T16:06:27.916Z
+date: 2025-01-19T19:16:13.839Z
+updated: 2025-01-20T16:24:59.965Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6
@@ -55,7 +55,7 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 _Have questions about the latest 1.6 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,18 +77,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/04/lyrx-16-cover-2.jpg?fit=13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dont-overlook-tags-in-video-description/"><u>[Updated] 2024 Approved Don't Overlook Tags in Video Description</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-stand-out-with-visual-flair-bordered-video-tutorials/"><u>[Updated] In 2024, Stand Out with Visual Flair Bordered Video Tutorials</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-diy-youtube-thumbnails-on-smartphones/"><u>2024 Approved DIY YouTube Thumbnails on Smartphones</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-poll-power-players-quintessential-politic-games/"><u>2024 Approved Poll Power Players Quintessential Politic Games</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effortless-access-to-mls-soccer-content-video-music-and-sounds-quick-download/"><u>Effortless Access to MLS Soccer Content: Video, Music & Sounds - Quick Download</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effortless-al-jazeera-media-extraction-tool-for-mac-and-windows/"><u>Effortless Al Jazeera Media Extraction Tool for Mac and Windows</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effortless-offline-watching-how-to-convert-and-download-vgtv-videos-in-mp4-format-for-windows-and-macos-users/"><u>Effortless Offline Watching: How to Convert & Download VGTV Videos in MP4 Format for Windows and macOS Users</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effortlessly-access-and-save-lessons-from-yoyo-chinese-for-language-study/"><u>Effortlessly Access and Save Lessons From Yoyo Chinese for Language Study</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-navigating-instagrams-financial-opportunities-a-comprehensive-guide/"><u>In 2024, Navigating Instagram's Financial Opportunities A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-smartphone-evolution-at-4k-peaks-sony-xperia-xz-reviewed/"><u>In 2024, Smartphone Evolution at 4K Peaks – Sony Xperia XZ Reviewed</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209838891-9780986213205-miracles-extraordinary-blessings/"><u>Miracles & Extraordinary Blessings | Free Book</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/quick-tips-for-saving-the-world-with-a-smile-for-2024/"><u>Quick Tips for Saving the World with a Smile for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-full-potential-of-vram-on-modern-pcs/"><u>Unlock Full Potential of VRAM on Modern PCs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-microsoft-unveils-hololens-the-augmented-reality-evolution/"><u>[New] Microsoft Unveils HoloLens The Augmented Reality Evolution</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-supreme-comedic-picture-maker/"><u>[New] Supreme Comedic Picture Maker</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-editing-software-for-mobile-app-creation/"><u>[Updated] Premier Editing Software for Mobile App Creation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quickly-master-time-lapse-techniques-for-samsung-phones/"><u>[Updated] Quickly Master Time Lapse Techniques for Samsung Phones</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/boosting-virtual-engagement-how-to-incorporate-filters-in-zoom/"><u>Boosting Virtual Engagement How to Incorporate Filters in Zoom</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/comment-repairez-vous-les-photographies-endommagees-guide-2024/"><u>Comment Repairez-Vous Les Photographies Endommagées? - Guide 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/comment-transferer-rapidement-des-fichiers-de-stockage-hdd-vers-un-ssd-sous-windows-10-une-solution-simple/"><u>Comment Transfèrer Rapidement Des Fichiers De Stockage HDD Vers Un SSD Sous Windows 10 : Une Solution Simple</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/comment-utiliser-lemetteur-de-commandes-cmd-pour-effectuer-une-sauvegardecopie-de-fichiers-sous-windows-11-une-approche-facile-a-suivre/"><u>Comment Utiliser L'Émetteur De Commandes (CMD) Pour Effectuer Une Sauvegarde/Copie De Fichiers Sous Windows 11: Une Approche Facile À Suivre</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/como-recuperar-informacion-seleccionada-al-iphone-con-facilidad/"><u>Cómo Recuperar Información Seleccionada Al iPhone Con Facilidad</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/create-edges-of-images-with-rotational-softness-blend-psx/"><u>Create Edges of Images with Rotational Softness Blend PSX</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-duckduckgos-privacy-advantages-an-in-depth-analysis/"><u>Discovering DuckDuckGo's Privacy Advantages: An In-Depth Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/find-the-ultimate-learning-experience-s-premier-coding-bootcamps-as-ranked-by-zdnet/"><u>Find the Ultimate Learning Experience 'S Premier Coding Bootcamps as Ranked by ZDNet</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/guide-simple-mise-a-jour-de-windows-nominee-vers-le-ssd-avec-transfert-de-donnees-sans-reinstallation/"><u>Guide Simple: Mise À Jour De Windows Nominée Vers Le SSD Avec Transfert De Données Sans Réinstallation</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/navegue-ate-o-site-do-google-e-clique-no-icone-plus-para-criar-um-novo-conteudo/"><u>Navegue Até O Site Do Google E Clique No Ícone + Para Criar Um Novo Conteúdo.</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ricostruzione-di-ununita-disco-esterna-perduta-con-metodi-rapidi/"><u>Ricostruzione Di Un'unità Disco Esterna Perduta Con Metodi Rapidi</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1728490480083-ssd/"><u>SSDの分区を効率良く復元するためのコツ</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-comprehensible-guide-to-fb-page-rank-boosting-for-2024/"><u>The Comprehensible Guide to FB Page Rank Boosting for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-capture-streaming-audio-for-2024/"><u>Updated How to Capture Streaming Audio for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/wiederherstellung-von-dateien-auf-einem-bitlocker-gesicherten-speichergerat-anleitung-und-schritte/"><u>Wiederherstellung Von Dateien Auf Einem BitLocker-Gesicherten Speichergerät - Anleitung Und Schritte</u></a></li>
 </ul></div>
 
