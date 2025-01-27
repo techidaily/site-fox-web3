@@ -1,7 +1,7 @@
 ---
 title: The Art Behind Masterful Mixing and Persuasive Speaking with Insights From Jordan River | PCDJ
-date: 2025-01-19T22:17:32.448Z
-updated: 2025-01-20T16:42:23.390Z
+date: 2025-01-26T02:00:15.743Z
+updated: 2025-01-26T23:53:01.500Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ It’s no surprise that we are currently living in an attention-deficit culture.
 _DJ Jordan River has entertained thousands of special events over the last two decades. He will be public speaking to other national and international professional DJs at the American DJ convention September 2014, as well as the Mobile Beat Convention in February 2015\. He has studied public speaking from Professor James Wagstaff, Civil Attorney at Stanford University._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,17 +60,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/06/djspeakers-1.jpg?fit=530%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-mastering-live-tv-is-vmix-or-wirecast-your-go-to-tool/"><u>[New] In 2024, Mastering LIVE TV Is VMix or Wirecast Your Go-To Tool?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-essential-details-on-creating-effective-yt-shorts/"><u>[Updated] Essential Details on Creating Effective YT Shorts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-intro-creation-made-simple-free-templates/"><u>[Updated] In 2024, Intro Creation Made Simple - Free Templates</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/googlegmail/"><u>「GoogleのGmailで送信後にメールが見当たらない場合、解決方法を紹介」</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1728467750136-onedrive/"><u>「マイドキュメントのバックアップを簡単にOneDrive上へ」</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/decouvrez-les-deux-facons-de-gerer-le-programme-dinstallation-et-laccueil-sous-windows-11/"><u>Découvrez Les Deux Façons De Gérer Le Programme D'Installation Et L'Accueil Sous Windows 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/premium-keyboard-cushion-covers-ranked-enhance-typing-comfort/"><u>Premium Keyboard Cushion Covers Ranked: Enhance Typing Comfort</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/reparacion-y-rejuvenecimiento-tecnicas-efectivas-de-restauracion-para-el-hogar/"><u>Reparación Y Rejuvenecimiento: Técnicas Efectivas De Restauración Para El Hogar</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/simple-troubleshooting-tips-if-windows-search-isnt-functioning-in-explorer/"><u>Simple Troubleshooting Tips if Windows Search Isn't Functioning in Explorer</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/0-ultimate-apps-for-seamless-youtube-to-webm-conversion/"><u>Top 10 Ultimate Apps for Seamless YouTube to WebM Conversion</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-resolve-blue-yeti-microphone-unrecognized-issues/"><u>Troubleshooting Guide: How To Resolve 'Blue Yeti Microphone Unrecognized' Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-dns-server-not-responding-in-five-steps/"><u>Troubleshooting Guide: Resolving 'DNS Server Not Responding' In Five Steps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nhancing-viewers-interest-with-innovative-valorant-thumbnail-ideas/"><u>[New] Enhancing Viewers' Interest with Innovative Valorant Thumbnail Ideas</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapping-sharing-how-to-send-images-with-a-single-touch/"><u>[New] In 2024, Snapping, Sharing How To Send Images With a Single Touch</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-from-raw-footage-to-polished-perfection-an-essential-youtube-video-editing-guide/"><u>2024 Approved From Raw Footage to Polished Perfection An Essential Youtube Video Editing Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-quick-vid-overview-top-tips-and-facts-now/"><u>2024 Approved Quick Vid Overview Top Tips & Facts Now</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-xiaomi-redmi-k70e-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Xiaomi Redmi K70E? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971620158-compatible-realtek-fe-controller-software-for-windows-11-get-your-free-copy-now/"><u>Compatible Realtek FE Controller Software for Windows 11 – Get Your Free Copy Now!</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/convert-multiple-pdf-documents-into-word-format-for-free-with-flipbuilder/"><u>Convert Multiple PDF Documents Into Word Format for Free with FlipBuilder!</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/create-unique-buttons-on-flipbuilder-quick-and-simple-digital-printer-access-for-custom-designs/"><u>Create Unique Buttons on FlipBuilder: Quick & Simple Digital Printer Access for Custom Designs</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/creating-dynamic-email-links-within-flipbook-presentations-using-flipbuilder/"><u>Creating Dynamic Email Links Within FlipBook Presentations Using FlipBuilder</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/creating-interactive-digital-flipbooks-by-combining-several-photos-a-step-by-step-guide-with-flipbuilder/"><u>Creating Interactive Digital Flipbooks by Combining Several Photos: A Step-by-Step Guide with FlipBuilder</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/design-and-develop-an-engaging-online-sales-catalogue-with-flipbuilder-tools/"><u>Design and Develop an Engaging Online Sales Catalogue with FlipBuilder Tools</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/distinctive-characteristics-of-each-flipbuildercom-template-selection/"><u>Distinctive Characteristics of Each FlipBuilder.com Template Selection</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-vivo-y78plus-t1-edition-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Vivo Y78+ (T1) Edition</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-ways-to-present-your-business-details-using-flash-flipbook-with-flipbuilder/"><u>Effective Ways to Present Your Business Details Using Flash FlipBook with FlipBuilder</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hue-harmony-three-straightforward-tips-to-upgrade-your-photos/"><u>In 2024, Hue Harmony Three Straightforward Tips to Upgrade Your Photos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/toutes-directions-convertissez-votre-fichier-dts-en-format-aac-sans-cout-gratuit-via-movavi/"><u>Toutes Directions: Convertissez Votre Fichier DTS en Format AAC Sans Coût - Gratuit via Movavi</u></a></li>
 </ul></div>
 
