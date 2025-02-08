@@ -1,7 +1,7 @@
 ---
 title: PCDJ Announces DEX Nv3.10.2.0 - Get the Latest DJ Software in Its Public Beta Phase Now!
-date: 2025-01-22T01:51:41.228Z
-updated: 2025-01-26T22:14:21.398Z
+date: 2025-02-01T19:18:10.461Z
+updated: 2025-02-08T21:38:25.136Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Since version 3.10.2.0 is considered a ‘[Public Beta](https://en.wikipedia.org
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.10.2.0
@@ -53,7 +53,7 @@ _**Installation Instructions:** With your existing version of DEX 3 Pro closed, 
 _Have questions about our **top DJ mixing software** or the new features included in version 3.10.2.0? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -75,21 +75,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/06/dex31020image.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-peeling-the-onion-understanding-instagram-story-audiences/"><u>[Updated] 2024 Approved Peeling the Onion Understanding Instagram Story Audiences</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-video-layouts-vertical-or-horizontal-for-2024/"><u>[Updated] Facebook Video Layouts Vertical or Horizontal for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-videosnap-messenger-edition/"><u>[Updated] In 2024, VideoSnap – Messenger Edition</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/diagnosing-and-fixing-ram-errors-in-windows-with-tips-from-yl-computing/"><u>Diagnosing and Fixing RAM Errors in Windows with Tips From YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/easy-tech-solutions-how-to-efficiently-copy-and-paste-files-on-your-pc-with-guidance-from-yl-software-experts/"><u>Easy Tech Solutions: How to Efficiently Copy and Paste Files on Your PC with Guidance From YL Software Experts</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ethernet-cross-over-connections-demystified-purpose-and-implementation-guide-yl-software-insights/"><u>Ethernet Cross-Over Connections Demystified: Purpose and Implementation Guide | YL Software Insights</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/expert-tips-for-debugging-windows-applications-by-yl-software/"><u>Expert Tips for Debugging Windows Applications by YL Software</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-huawei-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Huawei?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-free-time-tracker-a-step-by-step-guide/"><u>In 2024, Mastering FREE Time Tracker A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-realme-narzo-60x-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Realme Narzo 60x 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-roadside-assistance-with-m-mock-1000as-powerhouse-a-detailed-review-of-an-exceptional-18k-mah-car-starter-kit/"><u>Mastering Roadside Assistance with M MOCK 1000A's Powerhouse: A Detailed Review of an Exceptional 18K mAh Car Starter Kit</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-troubleshooting-eliminating-pc-crashes-in-praey-for-the-overlord/"><u>Mastering Troubleshooting: Eliminating PC Crashes in Praey for the Overlord</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-through-the-troubled-waters-of-phase0exception-your-complete-guide-to-fixing-error-code-0x00000078/"><u>Navigating Through the Troubled Waters of PHASE0_EXCEPTION: Your Complete Guide to Fixing Error Code 0X00000078</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/resolving-scanning-issues-why-isnt-my-scanner-talking-to-the-computer-solutions-by-yl-software/"><u>Resolving Scanning Issues: Why Isn’t My Scanner Talking to the Computer? Solutions by YL Software</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/troubleshooting-your-pcs-graphics-hardware-under-windows-with-tips-from-yl-computing/"><u>Troubleshooting Your PC's Graphics Hardware Under Windows with Tips From YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/understanding-hard-drive-malfunctions-insights-and-solutions-by-yl-software-experts/"><u>Understanding Hard Drive Malfunctions: Insights and Solutions by YL Software Experts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ow-to-edit-youtube-channel-description-for-2024/"><u>[New] How to Edit YouTube Channel Description for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-movie-maker-unleashed-creative-possibilities-explored/"><u>[New] In 2024, YouTube Movie Maker Unleashed Creative Possibilities Explored</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-navigating-through-the-maze-creating-seamless-video-experienences-in-pixiz-for-2024/"><u>[Updated] Navigating Through the Maze Creating Seamless Video Experienences in Pixiz for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-secrets-of-professionals-mastering-video-recordingediting-with-adobe-connect/"><u>2024 Approved Secrets of Professionals Mastering Video Recording/Editing with Adobe Connect</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/android-mastery-instantly-add-apps-directly-from-your-computer-with-a-simple-tap/"><u>Android Mastery: Instantly Add Apps Directly From Your Computer with a Simple Tap!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-analyzing-the-goofy-journey-vhs-review-insights/"><u>In 2024, Analyzing 'The Goofy Journey' VHS Review Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-jokesonscreen-pro/"><u>In 2024, JokesOnScreen Pro</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-depth-comparison-inshot-against-other-apps/"><u>In-Depth Comparison InShot Against Other Apps</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/leading-photo-blending-software-transform-your-photography-experience/"><u>Leading Photo Blending Software: Transform Your Photography Experience</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/make-waves-in-the-social-ocean-integrate-tiktok-into-your-insta-reels-for-2024/"><u>Make Waves in the Social Ocean Integrate TikTok Into Your Insta Reels for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-generation-visuals-samsungs-refreshed-odyssey-and-newly-released-ai-enhanced-viewflex-monitors/"><u>Next-Generation Visuals: Samsung's Refreshed Odyssey and Newly Released AI-Enhanced ViewFlex Monitors</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/optimizing-compression-a-guide-to-lzma-configuration-options/"><u>Optimizing Compression: A Guide to LZMA Configuration Options</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-tutorial-transforming-your-avchd-videos-into-avi-on-a-windows-pc/"><u>Step-by-Step Tutorial: Transforming Your AVCHD Videos Into AVI on a Windows PC</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-5-essential-steps-for-securing-your-profile-after-a-facebook-compromise/"><u>Top 5 Essential Steps for Securing Your Profile After a Facebook Compromise</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-free-mp3-download-sites-the-ultimate-list-for-music-lovers/"><u>Top Free MP3 Download Sites: The Ultimate List for Music Lovers</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-guide-top-4-video-shrinking-techniques-for-facebook-success/"><u>Ultimate Guide: Top 4 Video Shrinking Techniques for Facebook Success</u></a></li>
 </ul></div>
 
