@@ -1,7 +1,7 @@
 ---
 title: PCDJ Announces DEX Nv3.10.2.0 - Get the Latest DJ Software in Its Public Beta Phase Now!
-date: 2025-02-01T19:18:10.461Z
-updated: 2025-02-08T21:38:25.136Z
+date: 2025-02-16T23:19:34.514Z
+updated: 2025-02-18T20:28:04.603Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Since version 3.10.2.0 is considered a ‘[Public Beta](https://en.wikipedia.org
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.10.2.0
@@ -53,7 +53,7 @@ _**Installation Instructions:** With your existing version of DEX 3 Pro closed, 
 _Have questions about our **top DJ mixing software** or the new features included in version 3.10.2.0? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -75,21 +75,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/06/dex31020image.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ow-to-edit-youtube-channel-description-for-2024/"><u>[New] How to Edit YouTube Channel Description for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-movie-maker-unleashed-creative-possibilities-explored/"><u>[New] In 2024, YouTube Movie Maker Unleashed Creative Possibilities Explored</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-navigating-through-the-maze-creating-seamless-video-experienences-in-pixiz-for-2024/"><u>[Updated] Navigating Through the Maze Creating Seamless Video Experienences in Pixiz for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-secrets-of-professionals-mastering-video-recordingediting-with-adobe-connect/"><u>2024 Approved Secrets of Professionals Mastering Video Recording/Editing with Adobe Connect</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/android-mastery-instantly-add-apps-directly-from-your-computer-with-a-simple-tap/"><u>Android Mastery: Instantly Add Apps Directly From Your Computer with a Simple Tap!</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-analyzing-the-goofy-journey-vhs-review-insights/"><u>In 2024, Analyzing 'The Goofy Journey' VHS Review Insights</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-jokesonscreen-pro/"><u>In 2024, JokesOnScreen Pro</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-depth-comparison-inshot-against-other-apps/"><u>In-Depth Comparison InShot Against Other Apps</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/leading-photo-blending-software-transform-your-photography-experience/"><u>Leading Photo Blending Software: Transform Your Photography Experience</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/make-waves-in-the-social-ocean-integrate-tiktok-into-your-insta-reels-for-2024/"><u>Make Waves in the Social Ocean Integrate TikTok Into Your Insta Reels for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/next-generation-visuals-samsungs-refreshed-odyssey-and-newly-released-ai-enhanced-viewflex-monitors/"><u>Next-Generation Visuals: Samsung's Refreshed Odyssey and Newly Released AI-Enhanced ViewFlex Monitors</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/optimizing-compression-a-guide-to-lzma-configuration-options/"><u>Optimizing Compression: A Guide to LZMA Configuration Options</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-tutorial-transforming-your-avchd-videos-into-avi-on-a-windows-pc/"><u>Step-by-Step Tutorial: Transforming Your AVCHD Videos Into AVI on a Windows PC</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/top-5-essential-steps-for-securing-your-profile-after-a-facebook-compromise/"><u>Top 5 Essential Steps for Securing Your Profile After a Facebook Compromise</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/top-free-mp3-download-sites-the-ultimate-list-for-music-lovers/"><u>Top Free MP3 Download Sites: The Ultimate List for Music Lovers</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ultimate-guide-top-4-video-shrinking-techniques-for-facebook-success/"><u>Ultimate Guide: Top 4 Video Shrinking Techniques for Facebook Success</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-influencers-list-25-top-influencers-you-should-know/"><u>[New] 2024 Approved Instagram Influencers List 25 Top Influencers You Should Know</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-beat-infused-videos-a-step-by-step-guide-to-adding-tunes-to-fb/"><u>[Updated] 2024 Approved Beat-Infused Videos A Step-by-Step Guide to Adding Tunes to FB</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-complete-guide-to-iphones-album-orchestration-and-cloud-storage-sync/"><u>[Updated] 2024 Approved The Complete Guide to iPhone's Album Orchestration and Cloud Storage Sync</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-how-to-make-duet-on-tiktok-for-2024/"><u>[Updated] How to Make Duet On TikToK for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/avoid-bitcoin-and-altcoin-cons-deceptions-with-yl-softwares-strategies/"><u>Avoid Bitcoin and Altcoin Cons Deceptions with YL Software's Strategies</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/changing-your-file-extension-on-windows-a-comprehensive-guide-by-yl-software/"><u>Changing Your File Extension on Windows: A Comprehensive Guide by YL Software</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/decoding-ancient-wisdom-how-chinas-dynasties-forged-a-lasting-cultural-legacy/"><u>Decoding Ancient Wisdom: How China’s Dynasties Forged a Lasting Cultural Legacy</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/exploring-pros-and-cons-a-comprehensive-guide-to-cryptocurrencys-impact-insights-by-yl-computing/"><u>Exploring Pros & Cons: A Comprehensive Guide to Cryptocurrency's Impact – Insights by YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/handling-windows-update-driver-issues-successfully-with-tips-from-yl-software-experts/"><u>Handling Windows Update Driver Issues Successfully with Tips From YL Software Experts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reconnecting-all-wacoms-happy-moment/"><u>Reconnecting All: Wacom's Happy Moment</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/walnut-grove-park/"><u>Walnut Grove Park</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/write-faster-write-better-leveraging-chatgpts-power-to-enhance-your-novel-crafting/"><u>Write Faster, Write Better: Leveraging ChatGPT's Power to Enhance Your Novel Crafting</u></a></li>
 </ul></div>
 

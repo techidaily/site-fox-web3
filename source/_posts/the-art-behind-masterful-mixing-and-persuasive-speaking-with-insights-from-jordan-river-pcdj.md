@@ -1,7 +1,7 @@
 ---
 title: The Art Behind Masterful Mixing and Persuasive Speaking with Insights From Jordan River | PCDJ
-date: 2025-02-01T22:47:44.132Z
-updated: 2025-02-08T18:30:32.308Z
+date: 2025-02-17T17:17:55.441Z
+updated: 2025-02-18T22:34:34.189Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ It’s no surprise that we are currently living in an attention-deficit culture.
 _DJ Jordan River has entertained thousands of special events over the last two decades. He will be public speaking to other national and international professional DJs at the American DJ convention September 2014, as well as the Mobile Beat Convention in February 2015\. He has studied public speaking from Professor James Wagstaff, Civil Attorney at Stanford University._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,22 +60,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/06/djspeakers-1.jpg?fit=530%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-essential-knowledge-for-using-final-cut-pro-effectively-for-2024/"><u>[New] Essential Knowledge for Using Final Cut Pro Effectively for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nfusing-creative-edge-in-your-youtube-trailer-production/"><u>[New] Infusing Creative Edge in Your YouTube Trailer Production</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/googlegmail/"><u>「GoogleのGmailで送信後にメールが見当たらない場合、解決方法を紹介」</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1728467750136-onedrive/"><u>「マイドキュメントのバックアップを簡単にOneDrive上へ」</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/3-moglichkeiten-whatsapp-backups-auf-dem-iphone-ohne-icloud-einzurichten/"><u>3 Möglichkeiten, WhatsApp-Backups Auf Dem iPhone Ohne iCloud Einzurichten</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/action-camera-faceoff-gopro-hero-vs-yi-4k-new-edition-review-for-2024/"><u>Action Camera Faceoff GoPro Hero Vs. Yi 4K - New Edition Review for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/comment-sauvegarder-et-restaurer-en-toute-securite-dans-windows-10-guide-complet/"><u>Comment Sauvegarder Et Restaurer En Toute Sécurité Dans Windows 10: Guide Complet</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/conversion-gratuite-de-m1v-en-format-ligne-tapez-a-lordinateur-avec-movavi/"><u>Conversion Gratuite De M1V en Format Ligne - Tapez À L'Ordinateur Avec Movavi</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/decouvrez-les-deux-facons-de-gerer-le-programme-dinstallation-et-laccueil-sous-windows-11/"><u>Découvrez Les Deux Façons De Gérer Le Programme D'Installation Et L'Accueil Sous Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ensuring-linux-safety-strategies-beyond-patching-kernel-vulnerabilities-zdnet/"><u>Ensuring Linux Safety: Strategies Beyond Patching Kernel Vulnerabilities | ZDNet</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/erfahrene-datensicherung-fur-apple-gerate-externer-speicher-und-mac-kompatibilitat/"><u>Erfahrene Datensicherung Für Apple Geräte - Externer Speicher Und Mac Kompatibilität</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-astro-a50-microphone-issues-troubleshooting-guide/"><u>Fix Astro A50 Microphone Issues: Troubleshooting Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-images-with-picart-clear-canvas-technique/"><u>In 2024, Transform Your Images with PicArt Clear Canvas Technique</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/reparacion-y-rejuvenecimiento-tecnicas-efectivas-de-restauracion-para-el-hogar/"><u>Reparación Y Rejuvenecimiento: Técnicas Efectivas De Restauración Para El Hogar</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/simple-troubleshooting-tips-if-windows-search-isnt-functioning-in-explorer/"><u>Simple Troubleshooting Tips if Windows Search Isn't Functioning in Explorer</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-overcoming-final-examination-issue-error-code-tfla0002/"><u>Step-by-Step Solutions: Overcoming Final Examination Issue - Error Code 'TFLA0002'</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-app-disposal-on-windows-11-93-chars/"><u>Streamlining App Disposal on Windows 11 (93 Chars)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-engaging-audiences-with-instagram-stories-surveys/"><u>[New] 2024 Approved Engaging Audiences with Instagram Stories Surveys</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/levate-your-cinematography-skills-editing-and-sharing-360-videos-on-youtube/"><u>[New] Elevate Your Cinematography Skills Editing and Sharing 360° Videos on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-illustrate-instantly-image-to-illustration-on-any-device/"><u>[New] Illustrate Instantly Image to Illustration on Any Device</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-influencing-now-top-10-hashtags-for-your-next-post/"><u>[Updated] 2024 Approved Influencing Now Top 10 Hashtags for Your Next Post</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-mastering-the-exchange-of-fb-vids-on-whatsapp-for-2024/"><u>[Updated] Mastering the Exchange of FB Vids on WhatsApp for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/1-solutions-to-restart-your-pc-a-comprehensive-guide-yl-computing/"><u>1. Solutions to Restart Your PC: A Comprehensive Guide - YL Computing</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/easily-modifying-speaker-volume-via-windows-control-panel-tutorial-by-yl-computing/"><u>Easily Modifying Speaker Volume via Windows Control Panel - Tutorial by YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/exploring-the-impact-of-mao-zedong-on-the-chinese-cultural-revolution-a-detailed-overview-by-yl-computing/"><u>Exploring the Impact of Mao Zedong on the Chinese Cultural Revolution: A Detailed Overview by YL Computing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-stars-in-the-outer-worlds-a-riveting-space-rpg/"><u>Exploring the Stars in 'The Outer Worlds' - A Riveting Space RPG</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-locate-your-printer-configuration-a-guide-by-yl-computing/"><u>How to Locate Your Printer Configuration: A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/safe-and-effective-techniques-using-an-external-hard-drive-as-your-dj-controller-tutorial-video/"><u>Safe and Effective Techniques: Using an External Hard Drive as Your DJ Controller - Tutorial Video</u></a></li>
 </ul></div>
 

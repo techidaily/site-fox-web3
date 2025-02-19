@@ -1,7 +1,7 @@
 ---
 title: Ultimate Mobile DJ Gear - PCDJ Ready, DEX 3 Compatible Miniature Controlers
-date: 2025-01-24T16:44:09.592Z
-updated: 2025-01-26T23:44:14.935Z
+date: 2025-02-17T20:04:29.428Z
+updated: 2025-02-18T22:53:26.540Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Here’s a list of four current [DJ controllers](https://tools.techidaily.com/pc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Ultra-Mobile, Compact DJ Controllers for DEX 3 DJ Software
@@ -41,10 +41,6 @@ Ultra-compact, ultra-light, and ultra-practical, the DJControl Starlight packs a
   
 [![Hercules DJ Control Starlight](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/DJControlStarlight_Main1.png?fit=300%2C129&ssl=1 "Hercules DJ Control Starlight")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/DJControlStarlight%5FMain1.png?fit=1003%2C431&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) **Numark DJ2Go2 Touch**
 
 Just like it’s predecessor the DJ2Go2, the DJ2Go2 Touch is a portable, pocket-sized DJ controller, but with the improved capability for scratching with capacitive touch jog wheels. With a built-in sound card, it fits perfectly in front of your laptop. With 8 pads and four pad modes for total-control of cue-points, auto / manual looping and sample playback, it’s one of the best portable DJ controller values on the market. **Retail: $79.99**
@@ -53,7 +49,7 @@ Just like it’s predecessor the DJ2Go2, the DJ2Go2 Touch is a portable, pocket-
 [![Numark DJ2Go2 Touch](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/numark-dj2go2-touch-pocket-dj-controller-with-professional-headphones-nano-controller-eva-bag-package-112.png?fit=300%2C127&ssl=1 "Numark DJ2Go2 Touch")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/numark-dj2go2-touch-pocket-dj-controller-with-professional-headphones-nano-controller-eva-bag-package-112.png?fit=1030%2C436&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) **Hercules DJControl Inpulse 200**
@@ -64,7 +60,7 @@ The DJControl Inpulse 200 has the look and feel of many other popular compact co
 [![Hercules DJControl Inpulse 200](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=300%2C229&ssl=1 "Hercules DJControl Inpulse 200")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=1029%2C787&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) **Numark Party Mix**
@@ -74,12 +70,16 @@ The professional DJ features that come with the Numark Party Mix include four cu
   
 [![Numark Party Mix](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL._AC_SL1500_.jpg?fit=300%2C193&ssl=1 "Numark Party Mix")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL.%5FAC%5FSL1500%5F.jpg?fit=1030%2C663&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [View All DEX 3 Supported DJ Controllers](https://tools.techidaily.com/pcdj/products/)
 
 _Have questions about DEX 3 supported **DJ Controllers**? Leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -101,24 +101,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/08/starlight22713-e1537952784
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-build-successful-youtube-advertisements-for-free/"><u>[Updated] 2024 Approved How to Build Successful YouTube Advertisements for Free?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-android-screenshots-made-simple-top-8-free-applications-revealed-for-2024/"><u>[Updated] Android Screenshots Made Simple – Top 8 Free Applications Revealed for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-transmitters-and-decoders-for-livestreams/"><u>2024 Approved Superior Transmitters and Decoders for Livestreams</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/essential-factors-for-selecting-a-second-hand-pc/"><u>Essential Factors for Selecting a Second-Hand PC</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-spot-your-pc-is-getting-too-hot-a-guide-to-detecting-computer-overheating/"><u>How to Spot Your PC Is Getting Too Hot: A Guide to Detecting Computer Overheating</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-troubleshoot-when-your-printer-wont-print-solutions-from-yl-computing/"><u>How to Troubleshoot When Your Printer Won't Print: Solutions From YL Computing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-comprehensively-reviewing-top-10-no-cost-video-communication-apps-for-professional-and-academic-needs/"><u>In 2024, Comprehensively Reviewing Top 10 No-Cost Video Communication Apps for Professional and Academic Needs</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-11-pro-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On iPhone 11 Pro?</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-initial-errors-how-to-start-football-manager-2023/"><u>Overcoming Initial Errors – How to Start Football Manager 2023</u></a></li>
-<li><a href="https://facebook.techidaily.com/permanently-dissolve-your-facebook-account-using-android/"><u>Permanently Dissolve Your Facebook Account Using Android</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smoothly-upgrading-win10s-touch/"><u>Smoothly Upgrading Win10's Touch</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-adding-pdf-files-to-your-emails-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Adding PDF Files to Your Emails on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-setting-up-your-lan-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Setting Up Your LAN on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-setting-up-your-printer-on-windows-via-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Setting Up Your Printer on Windows via Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-tweaking-your-monitor-settings-via-control-panel-by-yl-software/"><u>Step-by-Step Guide: Tweaking Your Monitor Settings via Control Panel by YL Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/superlative-sky-lifters-top-10-drone-picks/"><u>Superlative Sky Lifters Top 10 Drone Picks</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/the-legacy-unfolded-how-the-construction-of-the-three-gorges-dam-shaped-modern-history-an-analysis-by-yl-software/"><u>The Legacy Unfolded: How the Construction of the Three Gorges Dam Shaped Modern History – An Analysis by YL Software</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/unveiling-the-root-trigger-a-deep-dive-into-chinas-civil-war-catalyst-by-yl-computing/"><u>Unveiling the Root Trigger: A Deep Dive Into China's Civil War Catalyst - by YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/windows-defenders-protection-arsenal-uncover-the-presence-of-a-firewall/"><u>Windows Defender's Protection Arsenal - Uncover the Presence of a Firewall</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-enhance-documentation-with-auto-transcribe-in-microsoft-word/"><u>[New] In 2024, Enhance Documentation with Auto-Transcribe in Microsoft Word</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-high-definition-chroma-blade-photography/"><u>[Updated] Exploring High-Definition Chroma Blade Photography</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-scalable-success-lawful-techniques-for-video-visibility-for-2024/"><u>[Updated] Scalable Success Lawful Techniques for Video Visibility for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-w10-quick-recording-software-for-2024/"><u>[Updated] W10 Quick Recording Software for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-radiant-cinematography-the-ultimate-guide-for-videographers/"><u>2024 Approved Radiant Cinematography The Ultimate Guide for Videographers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-intelligent-web-applications-using-chatgpt/"><u>Building Intelligent Web Applications Using ChatGPT</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/chronicles-of-triumph-ranking-the-ultimate-game-odysseys/"><u>Chronicles of Triumph Ranking the Ultimate Game Odysseys</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/dos-eficaces-tacticas-para-rescatar-una-seccion-extinta-en-tu-memoria-usb/"><u>Dos Eficaces Tácticas Para Rescatar Una Sección Extinta en Tu Memoria USB</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/hdclone-aomei-backupper/"><u>HDCloneの力を持つ最適な無料代替品: AOMEI Backupper 使い方ガイド</u></a></li>
+<li><a href="https://article-files.techidaily.com/joining-forces-in-video-marketing-on-youtube/"><u>Joining Forces in Video Marketing on YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/popular-british-television-hits-to-binge-on-netflix-now/"><u>Popular British Television Hits to Binge on Netflix Now</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/procedure-basique-transfert-et-protection-des-fichiers-dapplications-vers-un-stockage-externe/"><u>Procédure Basique : Transfert Et Protection Des Fichiers D'Applications Vers Un Stockage Externe</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/restore-missing-backup-snapshots-a-guide-for-windows-1011-users/"><u>Restore Missing Backup Snapshots: A Guide for Windows 10/11 Users</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-how-to-on-adata-secure-wipe-methods-for-full-data-protection-and-easy-process/"><u>Ultimate How-To on ADATA Secure Wipe Methods for Full Data Protection & Easy Process</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-reduce-file-size-not-quality-9-best-free-video-compressors-for-windows-10/"><u>Updated 2024 Approved Reduce File Size, Not Quality 9 Best Free Video Compressors for Windows 10</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/verstandnis-von-der-pfad-ist-nicht-verfugbar-fehlermeldung-unter-windows-10-und-iphone/"><u>Verständnis Von 'Der Pfad Ist Nicht Verfügbar': Fehlermeldung Unter Windows 10 Und iPhone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/verstehe-die-grunde-fur-computereinfrierungen-wiederherstellungsoptionen-von-myrecover/"><u>Verstehe Die Gründe Für Computereinfrierungen - Wiederherstellungsoptionen Von MyRecover</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/waarom-wijs-je-een-herstelpak-inzamelen-voor-geautomatiseerde-deleties-van-grove-bestanddeelnissen/"><u>Waarom Wijs Je Een Herstelpak Inzamelen Voor Geautomatiseerde Deleties Van Grove Bestanddeelnissen?</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/windows-881pc/"><u>Windows 8/8.1でシステムリカバリを利用してPC修復手順</u></a></li>
 </ul></div>
 
