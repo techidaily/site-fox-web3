@@ -1,7 +1,7 @@
 ---
 title: PCDJ Announces DEX Nv3.10.2.0 - Get the Latest DJ Software in Its Public Beta Phase Now!
-date: 2025-02-16T23:19:34.514Z
-updated: 2025-02-18T20:28:04.603Z
+date: 2025-03-02T16:14:28.270Z
+updated: 2025-03-07T08:23:03.372Z
 tags:
   - product
 categories:
@@ -30,10 +30,6 @@ Since version 3.10.2.0 is considered a ‘[Public Beta](https://en.wikipedia.org
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### New, Changed, or Fixed in DEX 3 Version 3.10.2.0
 
 * Reorder user lists (playlists) in the browser by dragging them with the mouse
@@ -51,10 +47,6 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _**Installation Instructions:** With your existing version of DEX 3 Pro closed, download and install version 3.10.2.0\. If you experience any issues running the new public beta please report your findings in the [Official PCDJ User Group](https://tools.techidaily.com/pcdj/products/)._
 
 _Have questions about our **top DJ mixing software** or the new features included in version 3.10.2.0? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -75,17 +67,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/06/dex31020image.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-influencers-list-25-top-influencers-you-should-know/"><u>[New] 2024 Approved Instagram Influencers List 25 Top Influencers You Should Know</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-beat-infused-videos-a-step-by-step-guide-to-adding-tunes-to-fb/"><u>[Updated] 2024 Approved Beat-Infused Videos A Step-by-Step Guide to Adding Tunes to FB</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-complete-guide-to-iphones-album-orchestration-and-cloud-storage-sync/"><u>[Updated] 2024 Approved The Complete Guide to iPhone's Album Orchestration and Cloud Storage Sync</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-how-to-make-duet-on-tiktok-for-2024/"><u>[Updated] How to Make Duet On TikToK for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/avoid-bitcoin-and-altcoin-cons-deceptions-with-yl-softwares-strategies/"><u>Avoid Bitcoin and Altcoin Cons Deceptions with YL Software's Strategies</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/changing-your-file-extension-on-windows-a-comprehensive-guide-by-yl-software/"><u>Changing Your File Extension on Windows: A Comprehensive Guide by YL Software</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/decoding-ancient-wisdom-how-chinas-dynasties-forged-a-lasting-cultural-legacy/"><u>Decoding Ancient Wisdom: How China’s Dynasties Forged a Lasting Cultural Legacy</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/exploring-pros-and-cons-a-comprehensive-guide-to-cryptocurrencys-impact-insights-by-yl-computing/"><u>Exploring Pros & Cons: A Comprehensive Guide to Cryptocurrency's Impact – Insights by YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/handling-windows-update-driver-issues-successfully-with-tips-from-yl-software-experts/"><u>Handling Windows Update Driver Issues Successfully with Tips From YL Software Experts</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reconnecting-all-wacoms-happy-moment/"><u>Reconnecting All: Wacom's Happy Moment</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/walnut-grove-park/"><u>Walnut Grove Park</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/write-faster-write-better-leveraging-chatgpts-power-to-enhance-your-novel-crafting/"><u>Write Faster, Write Better: Leveraging ChatGPT's Power to Enhance Your Novel Crafting</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-get-every-detail-of-your-favorite-movies-macscreencasting-netflix-for-2024/"><u>[Updated] Get Every Detail of Your Favorite Movies MacScreencasting Netflix for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-perfect-online-shopping-picks-for-one-of-a-kind-box-packaging-for-2024/"><u>[Updated] Perfect Online Shopping Picks for One-of-a-Kind Box Packaging for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apples-iphone-15-features-regular-usb-c-port-as-predicted-by-rumors-no-restrictions-on-mfi-certification/"><u>Apple's iPhone 15 Features Regular USB-C Port as Predicted by Rumors; No Restrictions on MFi Certification</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/diagnosing-and-fixing-issues-with-your-hard-disk-expert-advice-from-yl-computings-team-of-specialists/"><u>Diagnosing and Fixing Issues with Your Hard Disk: Expert Advice From YL Computing's Team of Specialists</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-solutions-for-restoring-sound-on-your-acer-device-expert-advice/"><u>DIY Solutions for Restoring Sound on Your Acer Device: Expert Advice</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/efficient-techniques-for-locating-files-on-your-pc-with-windows-guidance-from-yl-computing/"><u>Efficient Techniques for Locating Files on Your PC with Windows - Guidance From YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-spark-20-proplus-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Spark 20 Pro+ using Video Repair Utility?</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-spot-your-pc-is-getting-too-hot-a-guide-to-detecting-computer-overheating/"><u>How to Spot Your PC Is Getting Too Hot: A Guide to Detecting Computer Overheating</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-troubleshoot-when-your-printer-wont-print-solutions-from-yl-computing/"><u>How to Troubleshoot When Your Printer Won't Print: Solutions From YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-7-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 7 without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208930168-mastering-the-fix-put-an-end-to-non-stop-rebooting-on-your-windows-11-pc-today/"><u>Mastering the Fix: Put an End to Non-Stop Rebooting on Your Windows 11 PC Today</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-unzipping-compressed-files-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Unzipping Compressed Files on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/stop-algorithmic-youtube-video-selections/"><u>Stop Algorithmic YouTube Video Selections</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-strategies-for-enhancing-application-load-speeds-insights-from-yl-computing/"><u>Top Strategies for Enhancing Application Load Speeds - Insights From YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-error-code-0xc0000185-a-comprehensive-guide/"><u>Understanding Error Code 0xC0000185 - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/yl-softwares-premium-collection-of-high-res-abstraction-art-for-computer-screens/"><u>YL Software's Premium Collection of High-Res Abstraction Art for Computer Screens</u></a></li>
 </ul></div>
 

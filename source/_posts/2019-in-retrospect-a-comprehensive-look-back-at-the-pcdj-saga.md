@@ -1,7 +1,7 @@
 ---
 title: "2019 in Retrospect: A Comprehensive Look Back at the PCDJ Saga"
-date: 2025-02-14T01:16:15.337Z
-updated: 2025-02-18T22:04:45.936Z
+date: 2025-03-04T08:52:53.409Z
+updated: 2025-03-07T02:31:06.458Z
 tags:
   - product
 categories:
@@ -30,10 +30,6 @@ At the conclusion of each year we take a look back at he milestones and accompli
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2019 PCDJ Milestones
 
 * DEX 3 was [added to the Microsoft store](https://tools.techidaily.com/pcdj/products/).
@@ -48,10 +44,6 @@ At the conclusion of each year we take a look back at he milestones and accompli
 * Began development with new partners of new features and services that will kick off in early 2020.
 
 With 2019 in the books we’re anxiously looking forward to building on our momentum in 2020\. New features, new services, and a whole lotta NEW is on the way for our software lineup and company profile. Stay tuned in, and enjoy the ride!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -72,14 +64,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2019/12/dex3-houseparty-1.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-guffaw-generator-cyborg-comic-coders/"><u>[New] 2024 Approved Guffaw Generator Cyborg Comic Coders</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-time-travel-through-snapshots-using-camera-roll-on-snapchat/"><u>[New] In 2024, Time-Travel Through Snapshots Using Camera Roll on Snapchat</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/7-strategies-for-leveraging-chatgpts-visual-ai/"><u>7 Strategies for Leveraging ChatGPT's Visual AI</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/exquisite-honda-logo-images-for-your-screen-premiumbackgroundspronet/"><u>Exquisite Honda Logo Images for Your Screen - PremiumBackgroundsPro.net</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/high-definition-marvels-hawkeye-wallpapers-compilation-by-yl-computing-ultimate-digital-artwork/"><u>High-Definition Marvel's Hawkeye Wallpapers Compilation by YL Computing - Ultimate Digital Artwork</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-effectively-cleanse-your-system-of-infections-best-practices-in-antivirus-removal-tips-and-techniques-from-yl-software/"><u>How to Effectively Cleanse Your System of Infections: Best Practices in Antivirus Removal - Tips & Techniques From YL Software</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-fix-a-frozen-pc-during-the-scanning-process-a-guide-by-yl-computing/"><u>How to Fix a Frozen PC During the Scanning Process: A Guide by YL Computing</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-asus-rog-phone-8-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Asus ROG Phone 8 Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-smooth-sailing-on-instagram-bypass-video-issues/"><u>[New] 2024 Approved Smooth Sailing on Instagram - Bypass Video Issues</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-walkers-wonderland-curating-the-top-8-zombie-video-experiences/"><u>[New] 2024 Approved Walkers' Wonderland Curating the Top 8 Zombie Video Experiences</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-highlighted-are-there-limitations-to-aurora-hdrs-performance-in-2024/"><u>[Updated] Highlighted Are There Limitations to Aurora HDR's Performance, In 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/alexa-not-responding-heres-how-to-resolve-the-offline-indicator-on-your-echo-devices/"><u>Alexa Not Responding? Here's How to Resolve the Offline Indicator on Your Echo Devices</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/create-unique-buttons-on-flipbuilder-quick-and-simple-digital-printer-access-for-custom-designs/"><u>Create Unique Buttons on FlipBuilder: Quick & Simple Digital Printer Access for Custom Designs</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/creating-dynamic-email-links-within-flipbook-presentations-using-flipbuilder/"><u>Creating Dynamic Email Links Within FlipBook Presentations Using FlipBuilder</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/creating-interactive-digital-flipbooks-by-combining-several-photos-a-step-by-step-guide-with-flipbuilder/"><u>Creating Interactive Digital Flipbooks by Combining Several Photos: A Step-by-Step Guide with FlipBuilder</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/design-and-develop-an-engaging-online-sales-catalogue-with-flipbuilder-tools/"><u>Design and Develop an Engaging Online Sales Catalogue with FlipBuilder Tools</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211211608-9798889823827-esoterica-unveiled/"><u>Esoterica Unveiled | Free Book</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/filmopedia-answer-to-inquiries-for-2024/"><u>FilmoPedia Answer to Inquiries for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fix-broken-mpeg-videos-with-our-advanced-video-restoration-solution/"><u>Fix Broken MPEG Videos with Our Advanced Video Restoration Solution</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-auto-focus-on-your-iphone-camera/"><u>How To Restore Auto-Focus On Your iPhone Camera</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-use-the-meta-quest-microphone/"><u>How to Use the Meta Quest Microphone</u></a></li>
 </ul></div>
 

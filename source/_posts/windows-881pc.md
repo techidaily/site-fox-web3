@@ -1,7 +1,7 @@
 ---
 title: Windows 8/8.1でシステムリカバリを利用してPC修復手順
-date: 2025-01-25T02:50:08.253Z
-updated: 2025-01-27T01:29:35.589Z
+date: 2025-03-05T21:59:08.218Z
+updated: 2025-03-07T09:03:14.916Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e492050e0d16896d960da5c49a16.png
@@ -75,10 +75,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4\. Finally, click **OK** to confirm.
 
 ### Restore Image with Norton Ghost
@@ -100,10 +96,6 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 On **Recover My Computer** screen, find and choose the right system restore point and click **Recover Now** to make it.
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
 
@@ -136,10 +128,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -163,10 +151,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 * In case your computer cannot start normally, you can **[create a bootable media](https://tools.techidaily.com/ubackup/products/)** using CD/DVD or USB flash drive in advance to help boot your computer. When your computer goes wrong, you can boot the computer using the bootable media and perform a system restore to get everything back to normal.
 * If you want to [upgrade Windows 10 to Windows 11](https://tools.techidaily.com/ubackup/products/) without losing files, this software is very useful. It backs up everything you want, either in the system partition or entire disk, and you can use it to restore files or system as needed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Restore Disk & Files
 
 If you have created a backup with AOMEI Backupper, you can easily perform a restore anytime you want. You can choose to [restore hard disk drive](https://tools.techidaily.com/ubackup/products/), the system, partition or files/folders to the point you ever made a backup.
@@ -186,18 +170,10 @@ You can directly clone hard drive to another one with the **[Disk Clone](https:/
 
 [![Clone](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/main-interface/clone.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Notes:** 
 
 * The free version of AOMEI Backupper only supports cloning a data disk. To clone a disk with OS installed, you can [upgrade](https://tools.techidaily.com/ubackup/products/) to higher versions to enjoy it.
 * The [System Clone](https://tools.techidaily.com/ubackup/products/) feature can help you only clone system to new hard drive, which uses less disk space than disk clone. Also, it requires a higher version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -233,17 +209,9 @@ Was the provided information useful? Your vote is important to us!
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -265,10 +233,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -278,10 +242,6 @@ Safeguard any data of your computer with backup, sync and clone.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -298,24 +258,19 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-optimize-your-online-presence-with-linked-fb-stories-for-2024/"><u>[New] Optimize Your Online Presence with Linked FB Stories for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-boosting-virtual-engagement-how-to-incorporate-filters-in-zoom-for-2024/"><u>[Updated] Boosting Virtual Engagement How to Incorporate Filters in Zoom for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-youtube-live-thumbnails-a-comprehensive-look/"><u>[Updated] YouTube Live Thumbnails A Comprehensive Look</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-beyond-viral-tactics-uncovering-the-facts-about-reels-on-instagram/"><u>2024 Approved Beyond Viral Tactics Uncovering the Facts About Reels on Instagram</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-flawlessly-merge-streamlabs-and-obs-on-mac/"><u>2024 Approved How to Flawlessly Merge Streamlabs & OBS on Mac</u></a></li>
-<li><a href="https://win-dash.techidaily.com/7-premier-free-high-definition-movie-downloader-sites-enjoy-top-cinema-classics-without-spending-a-penny/"><u>7 Premier Free High-Definition Movie Downloader Sites: Enjoy Top Cinema Classics Without Spending a Penny!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/access-iversity-online-lessons-secure-your-copy-of-mooca-and-professional-tutorial-videos/"><u>Access Iversity Online Lessons: Secure Your Copy of MOOCA and Professional Tutorial Videos</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/access-premium-video-lessons-easy-steps-to-get-your-discovery-learning-materials/"><u>Access Premium Video Lessons: Easy Steps to Get Your Discovery Learning Materials</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/alternative-audio-extractor-convert-your-videos-to-mp3-on-mac-and-pc/"><u>Alternative Audio Extractor: Convert Your Videos to MP3 on Mac & PC</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/alternative-download-manager-for-macos-sierra-and-windows-quick-and-easy-orbit-app/"><u>Alternative Download Manager for MacOS Sierra & Windows: Quick and Easy Orbit App</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/anybunny-video-library-easily-convert-and-save-adult-films-as-mp4avi-files-for-offline-viewing/"><u>Anybunny Video Library - Easily Convert and Save Adult Films as MP4/AVI Files for Offline Viewing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/complete-guide-converting-and-downloading-all-asce-on-demand-webinar-content-as-mp4mp3/"><u>Complete Guide: Converting and Downloading All ASCE On-Demand Webinar Content as MP4/MP3</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/complete-tutorial-securely-obtaining-lossless-flac-tracks-for-your-desktop-systems/"><u>Complete Tutorial: Securely Obtaining Lossless FLAC Tracks for Your Desktop Systems</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/convert-and-download-your-favorite-nbr-episodes-in-multiple-formats-mp4-mov-avi-etc/"><u>Convert and Download Your Favorite NBR Episodes in Multiple Formats (MP4, MOV, AVI, Etc.)</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/convert-your-finance-tutorials-into-mp4-or-avi-easy-downloads-for-pc-and-mac/"><u>Convert Your Finance Tutorials Into MP4 or AVI - Easy Downloads for PC & Mac</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convertir-video-ogg-en-imagen-gif-interactiva-y-descargar-gratis-guia-paso-a-paso/"><u>Convertir Vídeo OGG en Imagen GIF Interactiva Y Descargar Gratis: Guía Paso a Paso</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/perfect-your-yt-thumbnails-with-these-mac-tips/"><u>Perfect Your YT Thumbnails with These Mac Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-best-voice-altering-software-for-your-virtual-persona-for-2024/"><u>The Best Voice-Altering Software for Your Virtual Persona for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/windows-11-mp4dvd/"><u>Windows 11専用フリーダウンコンパイラーテスト: MP4ファイルをDVDへ簡単移行方法</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-audience-retention-the-key-to-a-great-youtube-conclusion-for-2024/"><u>[New] Audience Retention The Key to a Great YouTube Conclusion for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-linguistic-strategies-in-film-scriptwriting/"><u>[New] Linguistic Strategies in Film Scriptwriting</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-10-moments-that-made-a-mark-on-twitter-and-tiktok/"><u>2024 Approved 10 Moments That Made a Mark on Twitter and TikTok</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-learn-to-convert-youtube-videos-into-text-no-cost/"><u>2024 Approved Learn to Convert YouTube Videos Into Text – No Cost</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/detecting-and-removing-malware-a-comprehensive-guide-for-windows-users-yl-computing/"><u>Detecting & Removing Malware: A Comprehensive Guide for Windows Users - YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/expert-tips-on-ensuring-graphics-card-integrity-and-preventing-damage-guidance-from-yl-software-experts/"><u>Expert Tips on Ensuring Graphics Card Integrity and Preventing Damage - Guidance From YL Software Experts</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/identifying-faulty-hardware-components-in-your-system-tips-and-tricks-from-yl-computing/"><u>Identifying Faulty Hardware Components in Your System - Tips & Tricks From YL Computing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-overcoming-shyness-in-the-spotlight-top-video-blogger-fears/"><u>In 2024, Overcoming Shyness in the Spotlight Top Video Blogger Fears</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-tecno-spark-go-2023-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Tecno Spark Go (2023)? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-mozilla-firefox-quick-tips-for-adjusting-your-browsers-settings-yl-computing-expertise/"><u>Mastering Mozilla Firefox: Quick Tips for Adjusting Your Browser's Settings - YL Computing Expertise</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-removing-hardware-drivers-on-your-pc-tech-tips-from-yl/"><u>Step-by-Step Guide: Removing Hardware Drivers on Your PC - Tech Tips From YL</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-of-smartwatches-apples-latest-gossip-on-the-much-awaited-watch-ultra-2-specs-and-arrival-date/"><u>The Future of Smartwatches: Apple's Latest Gossip on the Much-Awaited Watch Ultra 2 Specs and Arrival Date</u></a></li>
 </ul></div>
 

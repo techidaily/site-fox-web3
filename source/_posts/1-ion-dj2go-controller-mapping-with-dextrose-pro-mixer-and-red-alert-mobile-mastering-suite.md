@@ -1,7 +1,7 @@
 ---
 title: 1. ION Dj2go Controller Mapping with Dextrose Pro Mixer & Red Alert Mobile Mastering Suite
-date: 2025-02-14T19:08:12.821Z
-updated: 2025-02-18T21:16:12.273Z
+date: 2025-02-28T08:44:01.394Z
+updated: 2025-03-06T19:00:31.805Z
 tags:
   - product
 categories:
@@ -24,19 +24,11 @@ Based on a users recent request we’ve just created a new [DEX 3](https://tools
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### More On The DJ2GO From ION’s Website:
 
 “The ION DJ2GO is not only the most portable DJ controller you’ll find, it’s also incredibly easy to use. This highly capable DJ controller will enpower you with the ability to mix all of your favorite music virtually anywhere.
 
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO_left_weblg.png?fit=300%2C188&ssl=1 "DJ2GO_left_weblg")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO%5Fleft%5Fweblg.png?fit=1030%2C644&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 DJ2GO gives you a tactile feel that can’t be matched by DJing with just your computer mouse and keyboard. In fact, with DJ2GO there’s virtually no need to touch your mouse or keyboard while performing. Everything you need to do, from selecting songs and cueing, to beat-matching and volume adjustment can be controlled by DJ2GO’s generous array of faders, knobs and bright, backlit buttons. DJ2GO weighs just 13 oz. but provides a layout that DJs prefer, including two platters, a crossfader, pitch and level controls as well as Deck A, Deck B, Master and Headphone gain controls. Sync and headphone buttons allow you to instantly sync two tracks and monitor either deck section.
 
@@ -53,10 +45,6 @@ The ION DJ2Go is selling for around $99 on Amazon and some other online retailer
 [Download Numark And ION DJ2Go Map For PCDJ](https://tools.techidaily.com/pcdj/products/)
 
 **INSTALLATION INSTRUCTIONS:** **Unzip the Map (js file) To:** **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING Numark DJ2GO SCRIPT WITH THE NEW ONE!_**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -77,24 +65,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/iondj2go-blogcoverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-efficient-techniques-to-improve-windows-10-photos-app-functionality/"><u>[New] 2024 Approved Efficient Techniques to Improve Windows 10 Photos App Functionality</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-affordable-options-selecting-the-right-cam-for-your-needs/"><u>[New] In 2024, Affordable Options Selecting the Right Cam for Your Needs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unwind-and-capture-your-games-in-peace/"><u>[Updated] 2024 Approved Unwind and Capture Your Games in Peace</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-from-the-shadows-to-spotlight-rise-in-popularity-with-these-steps-on-youtube/"><u>[Updated] From the Shadows to Spotlight Rise in Popularity with These Steps on YouTube</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/discover-the-optimal-techniques-for-cable-free-mi-tv-and-pc-screen-mirroring/"><u>Discover the Optimal Techniques for Cable-Free Mi TV and PC Screen Mirroring</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/download-your-favorite-songs-at-no-cost-using-top-rated-safari-mp3-downloader/"><u>Download Your Favorite Songs at No Cost Using Top-Rated Safari MP3 Downloader</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/enhanced-gui-designs-for-advanced-installation-software/"><u>Enhanced GUI Designs for Advanced Installation Software</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/expert-techniques-for-inserting-pdf-content-into-existing-files-a-complete-replacement-guide/"><u>Expert Techniques for Inserting PDF Content Into Existing Files - A Complete Replacement Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/guide-to-uncovering-active-software-installations-on-pc-or-mac/"><u>Guide to Uncovering Active Software Installations on PC or Mac</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hp-3755e-wireless-all-in-one-printer-latest-drivers-for-windows-os-x8x10win7/"><u>HP 3755E Wireless All-in-One Printer - Latest Drivers for Windows OS X8/X10/Win7</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/1715701194645-internal-recording-feature-screen-capture-for-huaweis-mate-and-p-series-phones/"><u>Internal Recording Feature Screen Capture for Huawei's Mate & P Series Phones.</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/mastering-quick-shots-effective-techniques-for-taking-a-screenshot-on-your-lenovo-device/"><u>Mastering Quick Shots: Effective Techniques for Taking a Screenshot on Your Lenovo Device</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/optimizing-inbound-dll-function-requests-through-tailored-callbacks/"><u>Optimizing Inbound Dll Function Requests Through Tailored Callbacks</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/optimizing-your-web-content-mastering-sql-database-pages/"><u>Optimizing Your Web Content: Mastering SQL Database Pages</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-y27-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/the-ultimate-guide-to-efficient-video-compressing-apps-on-windows-11/"><u>The Ultimate Guide to Efficient Video Compressing Apps on Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-tips-for-organizing-your-gmailcom-email-account/"><u>Top Tips for Organizing Your @gmail.com Email Account</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-tecno-spark-10c-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Tecno Spark 10C? Here is How | Dr.fone</u></a></li>
-<li><a href="https://discover-great.techidaily.com/windows-1111hddpc/"><u>Windows 11/11時代の旧HDDを最新PCにスムーズに移行 - 添付ガイド</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nnovative-audio-enhancements-for-youtube-creators/"><u>[New] Innovative Audio Enhancements for YouTube Creators</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-synergy-of-enterprises-and-immersive-virtual-worlds/"><u>[New] Synergy of Enterprises and Immersive Virtual Worlds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-progopro-secrets-unveiled/"><u>[Updated] ProGoPro Secrets Unveiled</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/enhance-your-sound-capture-experience-with-apowersofts-updated-40-streaming-audio-recorder/"><u>Enhance Your Sound Capture Experience with Apowersoft's Updated 4.0 Streaming Audio Recorder!</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/exploring-features-and-settings-of-right-click-options-in-user-interfaces/"><u>Exploring Features and Settings of Right-Click Options in User Interfaces</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-download-and-install-updated-hp-network-driver-software-for-your-windows-pc-win11-7-8/"><u>How to Download & Install Updated HP Network Driver Software for Your Windows PC (Win11, 7, 8)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-seamlessly-integrate-zoom-into-your-life-via-windows-10/"><u>In 2024, Seamlessly Integrate Zoom Into Your Life via Windows 10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sky-cameras-battle-dji-pro-versus-gopro-fury/"><u>In 2024, Sky Cameras Battle DJI Pro Versus GoPro Fury</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/introducing-apowersoft-mac-screen-recorder-v20-experience-advanced-recording-capabilities-and-smooth-operation-on-your-mac/"><u>Introducing Apowersoft Mac Screen Recorder v2.0 – Experience Advanced Recording Capabilities and Smooth Operation on Your Mac</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/navigating-through-apowerrecs-transaction-policies-a-comprehensive-guide/"><u>Navigating Through ApowerREC's Transaction Policies: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/query-unlimited-access-to-media-sharing-in-text-based-apps/"><u>Query Unlimited Access to Media Sharing in Text-Based Apps</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/seamless-link-management-your-essential-file-association-hub/"><u>Seamless Link Management: Your Essential File Association Hub</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-guide-converting-shn-audio-files-to-wav-format-without-quality-loss/"><u>Step-by-Step Guide: Converting SHN Audio Files to WAV Format Without Quality Loss</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-incorporating-a-youtube-playlist-into-your-site-with-seamless-autoplay-features/"><u>Step-by-Step Guide: Incorporating a YouTube Playlist Into Your Site with Seamless Autoplay Features</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-3-apps-for-effortlessly-moving-your-iphone-content-and-info/"><u>Top 3 Apps for Effortlessly Moving Your iPhone Content and Info</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-guide-mastering-audio-recording-techniques-in-windows-11/"><u>Ultimate Guide: Mastering Audio Recording Techniques in Windows 11</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/understanding-the-default-web-page-how-it-works-in-browsers/"><u>Understanding the Default Web Page: How It Works in Browsers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-exploring-the-most-advanced-singing-synthesis-software-on-the-market/"><u>Updated In 2024, Exploring the Most Advanced Singing Synthesis Software on the Market</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
 </ul></div>
 

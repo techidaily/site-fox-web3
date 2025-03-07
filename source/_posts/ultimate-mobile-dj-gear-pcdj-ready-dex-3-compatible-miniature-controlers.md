@@ -1,7 +1,7 @@
 ---
 title: Ultimate Mobile DJ Gear - PCDJ Ready, DEX 3 Compatible Miniature Controlers
-date: 2025-02-17T20:04:29.428Z
-updated: 2025-02-18T22:53:26.540Z
+date: 2025-03-03T09:12:10.335Z
+updated: 2025-03-06T18:19:55.438Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ Here’s a list of four current [DJ controllers](https://tools.techidaily.com/pc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Ultra-Mobile, Compact DJ Controllers for DEX 3 DJ Software
 
 1) **Hercules DJControl Starlight**
@@ -48,20 +44,12 @@ Just like it’s predecessor the DJ2Go2, the DJ2Go2 Touch is a portable, pocket-
   
 [![Numark DJ2Go2 Touch](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/numark-dj2go2-touch-pocket-dj-controller-with-professional-headphones-nano-controller-eva-bag-package-112.png?fit=300%2C127&ssl=1 "Numark DJ2Go2 Touch")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/numark-dj2go2-touch-pocket-dj-controller-with-professional-headphones-nano-controller-eva-bag-package-112.png?fit=1030%2C436&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) **Hercules DJControl Inpulse 200**
 
 The DJControl Inpulse 200 has the look and feel of many other popular compact controllers on the market. It’s a two deck controller with 8 performance pads per decks, touch-sensitive jog wheels, a 3 band EQ and filter on the mixer and a built-in audio interface with headphone pre-fade listening. It’s a step up from the Starlight and still small enough to take with you anywhere. **Retail: $119.99**
 
   
 [![Hercules DJControl Inpulse 200](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=300%2C229&ssl=1 "Hercules DJControl Inpulse 200")](https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/image.jpg?fit=1029%2C787&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) **Numark Party Mix**
 
@@ -70,17 +58,9 @@ The professional DJ features that come with the Numark Party Mix include four cu
   
 [![Numark Party Mix](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL._AC_SL1500_.jpg?fit=300%2C193&ssl=1 "Numark Party Mix")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/08/81eR5VzjExL.%5FAC%5FSL1500%5F.jpg?fit=1030%2C663&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [View All DEX 3 Supported DJ Controllers](https://tools.techidaily.com/pcdj/products/)
 
 _Have questions about DEX 3 supported **DJ Controllers**? Leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -101,24 +81,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/08/starlight22713-e1537952784
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-enhance-documentation-with-auto-transcribe-in-microsoft-word/"><u>[New] In 2024, Enhance Documentation with Auto-Transcribe in Microsoft Word</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-high-definition-chroma-blade-photography/"><u>[Updated] Exploring High-Definition Chroma Blade Photography</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-scalable-success-lawful-techniques-for-video-visibility-for-2024/"><u>[Updated] Scalable Success Lawful Techniques for Video Visibility for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-w10-quick-recording-software-for-2024/"><u>[Updated] W10 Quick Recording Software for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-radiant-cinematography-the-ultimate-guide-for-videographers/"><u>2024 Approved Radiant Cinematography The Ultimate Guide for Videographers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/building-intelligent-web-applications-using-chatgpt/"><u>Building Intelligent Web Applications Using ChatGPT</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/chronicles-of-triumph-ranking-the-ultimate-game-odysseys/"><u>Chronicles of Triumph Ranking the Ultimate Game Odysseys</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/dos-eficaces-tacticas-para-rescatar-una-seccion-extinta-en-tu-memoria-usb/"><u>Dos Eficaces Tácticas Para Rescatar Una Sección Extinta en Tu Memoria USB</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/hdclone-aomei-backupper/"><u>HDCloneの力を持つ最適な無料代替品: AOMEI Backupper 使い方ガイド</u></a></li>
-<li><a href="https://article-files.techidaily.com/joining-forces-in-video-marketing-on-youtube/"><u>Joining Forces in Video Marketing on YouTube</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/popular-british-television-hits-to-binge-on-netflix-now/"><u>Popular British Television Hits to Binge on Netflix Now</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/procedure-basique-transfert-et-protection-des-fichiers-dapplications-vers-un-stockage-externe/"><u>Procédure Basique : Transfert Et Protection Des Fichiers D'Applications Vers Un Stockage Externe</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/restore-missing-backup-snapshots-a-guide-for-windows-1011-users/"><u>Restore Missing Backup Snapshots: A Guide for Windows 10/11 Users</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ultimate-how-to-on-adata-secure-wipe-methods-for-full-data-protection-and-easy-process/"><u>Ultimate How-To on ADATA Secure Wipe Methods for Full Data Protection & Easy Process</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-reduce-file-size-not-quality-9-best-free-video-compressors-for-windows-10/"><u>Updated 2024 Approved Reduce File Size, Not Quality 9 Best Free Video Compressors for Windows 10</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/verstandnis-von-der-pfad-ist-nicht-verfugbar-fehlermeldung-unter-windows-10-und-iphone/"><u>Verständnis Von 'Der Pfad Ist Nicht Verfügbar': Fehlermeldung Unter Windows 10 Und iPhone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/verstehe-die-grunde-fur-computereinfrierungen-wiederherstellungsoptionen-von-myrecover/"><u>Verstehe Die Gründe Für Computereinfrierungen - Wiederherstellungsoptionen Von MyRecover</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/waarom-wijs-je-een-herstelpak-inzamelen-voor-geautomatiseerde-deleties-van-grove-bestanddeelnissen/"><u>Waarom Wijs Je Een Herstelpak Inzamelen Voor Geautomatiseerde Deleties Van Grove Bestanddeelnissen?</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/windows-881pc/"><u>Windows 8/8.1でシステムリカバリを利用してPC修復手順</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-editing-edge-reduction-the-logic-behind-crop-sizes-in-imovie/"><u>[Updated] 2024 Approved Editing Edge Reduction The Logic Behind Crop Sizes in iMovie</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-mastering-the-social-media-lands-point-10-secrets-for-fb-optimization/"><u>2024 Approved Mastering the Social Media Lands Point 10 Secrets for FB Optimization</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-top-43-sets-expert-ratings-and-comparison-of-leading-tvs/"><u>Discover the Top 43 Sets: Expert Ratings & Comparison of Leading TVs</u></a></li>
+<li><a href="https://article-files.techidaily.com/jokes-and-puns-iphone-edition-for-2024/"><u>Jokes and Puns IPhone Edition for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/latest-dj-toolkit-upgrade-access-the-new-dex-version-31306-by-pcdj-with-improved-features-and-stability/"><u>Latest DJ Toolkit Upgrade: Access the New Dex Version 3.13.0.6 by PCDJ with Improved Features and Stability</u></a></li>
+<li><a href="https://games-able.techidaily.com/modern-twist-on-classical-gaming-controllers/"><u>Modern Twist on Classical Gaming Controllers</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/overcoming-no-scanner-detected-troubleshooting-guide-for-pcs-digitalfix-solutions/"><u>Overcoming 'No Scanner Detected' Troubleshooting Guide for PCs - DigitalFix Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/overcoming-inaccuracy-in-scanning-devices-insights-and-solutions-by-yl-software/"><u>Overcoming Inaccuracy in Scanning Devices: Insights and Solutions by YL Software</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/premium-accessible-stopwatch-services/"><u>Premium Accessible Stopwatch Services</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/preventing-pc-heat-issues-expert-advice-on-keeping-your-system-cool-yl-tech-solutions/"><u>Preventing PC Heat Issues: Expert Advice on Keeping Your System Cool - YL Tech Solutions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/quick-conversion-at-no-expense-fb-videos-to-mp4-and-hd-now-for-2024/"><u>Quick Conversion at No Expense - FB Videos to MP4 & HD Now for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/troubleshooting-guide-uncover-the-reasons-behind-undetected-network-connections-yl-solutions/"><u>Troubleshooting Guide: Uncover the Reasons Behind Undetected Network Connections - YL Solutions</u></a></li>
 </ul></div>
 

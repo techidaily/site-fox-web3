@@ -1,7 +1,7 @@
 ---
 title: Schritt-Für-Schritt-Anleitung Zum Ändern Des UEFI in Den Legacy Boot Modus - Beste Praktiken
-date: 2025-02-11T23:37:55.381Z
-updated: 2025-02-19T01:35:09.295Z
+date: 2025-03-05T22:51:25.131Z
+updated: 2025-03-07T09:24:17.035Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/2667f52774b221737f5b40cebcdbe6bd28a1a07909c05b7a4646323bdf667e48.jpg
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/2667f52774b221737f5b40cebcdbe6bd28a1a0790
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Recover Files from Ransomware Attack \[Full Guide 2022\]
 
 This page covers 4 ways on how to recover files from ransomware and offers some tips that can help you prevent ransomware attacks.
@@ -31,10 +27,6 @@ This page covers 4 ways on how to recover files from ransomware and offers some 
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
 Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -86,10 +78,6 @@ The recovery tool will automatically start looking for all the deleted and lost 
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3\. Recover selected files**
 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
@@ -114,10 +102,6 @@ Step 3\. Click **Browse for files** to locate your lost data and choose to save 
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3\. Get back files from ransomware using File History
 
 If you have used File History to save a copy of your precious data, you can follow the steps below to figure out how to recover encrypted files from ransomware. You can use this tool to [recover permanently deleted folders](https://tools.techidaily.com/ubackup/products/) and files on your computer as well.
@@ -133,10 +117,6 @@ Step 2\. Press the **Restore personal files** button on the left panel. Please m
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
 
@@ -161,10 +141,6 @@ Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -191,17 +167,9 @@ Was the provided information useful? Your vote is important to us!
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -223,10 +191,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get MyRecover Now
 
 Recover deleted & lost data from any disasters in Windows.
@@ -234,10 +198,6 @@ Recover deleted & lost data from any disasters in Windows.
 [**Download Freeware**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
@@ -256,18 +216,16 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-cutting-edge-tips-for-professional-lunapic-editing/"><u>[Updated] In 2024, Cutting-Edge Tips for Professional LunaPic Editing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/2019-in-retrospect-a-comprehensive-look-back-at-the-pcdj-saga/"><u>2019 in Retrospect: A Comprehensive Look Back at the PCDJ Saga</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-unstartable-lunar-client-in-windows-issues/"><u>Avoiding Unstartable: Lunar Client in Windows Issues</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/bitcoin-purchase-interest-skyrockets-by-826-in-the-uk-a-deep-dive-into-buy-bitcoin-searches-with-yl-computing/"><u>Bitcoin Purchase Interest Skyrockets by 826% in the UK: A Deep Dive Into 'Buy Bitcoin' Searches with YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/finding-the-needle-in-the-haystack-expert-tips-for-identifying-files-on-your-windows-pc-with-yl-software-solutions/"><u>Finding the Needle in the Haystack: Expert Tips for Identifying Files on Your Windows PC with YL Software Solutions</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-itel-a05s-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Itel A05s Location Settings | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-instagrams-hottest-25-minds-in-the-digital-age/"><u>In 2024, Instagram's Hottest 25 Minds in the Digital Age</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-tailoring-content-to-trends-organic-growth-strategies-for-youtubers/"><u>In 2024, Tailoring Content to Trends Organic Growth Strategies for YouTubers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-unlock-the-secrets-of-color-balance-in-gopro-videos/"><u>In 2024, Unlock the Secrets of Color Balance in GoPro Videos</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/premium-picture-selection-featuring-guitars-professional-hd-backdrops-and-visual-artwork-from-yl-software-solutions/"><u>Premium Picture Selection Featuring Guitars: Professional HD Backdrops & Visual Artwork From YL Software Solutions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-spooler-service-unresponsive-on-pc/"><u>Print Spooler Service Unresponsive on PC</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/revamp-your-song-collection-party-tymes-exclusive-karaoke-library-membership-launched-on-10-22-18/"><u>Revamp Your Song Collection! Party Tyme's Exclusive Karaoke Library Membership Launched on 10-22-18</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/the-top-reasons-for-systemic-inconsistency-explained-by-yl-software-professionals/"><u>The Top Reasons for Systemic Inconsistency Explained by YL Software Professionals</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-delicious-dynamos-youtubers-for-your-food-journey/"><u>[Updated] Delicious Dynamos YouTubers for Your Food Journey</u></a></li>
+<li><a href="https://win-web.techidaily.com/nas-buffalo-linkstation/"><u>「他のNASデバイスに容易に移行! Buffalo LinkStationバックアップガイド」</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/adjusting-system-dates-times-and-time-zones-via-control-panel-a-guide-by-yl-computing/"><u>Adjusting System Dates, Times & Time Zones via Control Panel: A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/avoiding-a-sluggish-pc-effective-tips-for-maintaining-speed-over-time-by-yl-software-experts/"><u>Avoiding a Sluggish PC: Effective Tips for Maintaining Speed Over Time by YL Software Experts</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/blastro-music-video-downloads-in-multiple-formats-mp4-wmv-avi-compatible-with-mac-and-windows/"><u>Blastro Music Video Downloads in Multiple Formats: MP4, WMV, AVI - Compatible with Mac & Windows</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/boost-your-computers-performance-top-software-recommendations-by-yl-computing/"><u>Boost Your Computer's Performance: Top Software Recommendations by YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/boost-your-kj-store-now-exclusive-karaoke-downloads-at-30-off-shop-today/"><u>Boost Your KJ Store Now: Exclusive Karaoke Downloads at 30% Off - Shop Today!</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-fix-a-disconnected-scanner-on-windowsmac-expert-advice-by-yl-software-team/"><u>How to Fix a Disconnected Scanner on Windows/Mac - Expert Advice by YL Software Team</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-initiate-ipads-recovery-mode-effortlessly/"><u>How to Initiate iPad's Recovery Mode Effortlessly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-punchline-perfection-creating-memes-that-make-people-tickle/"><u>In 2024, Punchline Perfection Creating Memes that Make People Tickle</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-11-pro-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 11 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate How-To on ADATA Secure Wipe Methods for Full Data Protection & Easy Process
-date: 2025-01-22T02:38:28.428Z
-updated: 2025-01-27T01:50:55.622Z
+date: 2025-03-01T04:21:37.619Z
+updated: 2025-03-07T03:52:49.140Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bbd0528bdfed36b2cacc46f01.jpg
@@ -28,10 +28,6 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
@@ -48,10 +44,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -81,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -101,17 +89,9 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -124,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,19 +170,15 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-conquer-youtube-photos-an-experts-step-by-step-guide/"><u>[New] Conquer YouTube Photos An Expert's Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-visual-depth-with-hdri-techniques-over-sdr/"><u>[New] Mastering Visual Depth with HDRI Techniques Over SDR</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-essential-6-steps-for-recording-your-favorite-movies-from-netflix-on-macos/"><u>[Updated] 2024 Approved The Essential 6 Steps for Recording Your Favorite Movies From Netflix on macOS</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/windowsssdwin11win7/"><u>「最好的Windows系统下传SSD工具：从Win11到Win7进行闪存驱动器克隆」</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1-effortless-video-transfer-save-your-favorite-content-from-buzznet-in-high-quality-formats-like-mp4-mov-and-avi/"><u>1. Effortless Video Transfer: Save Your Favorite Content From BuzzNet in High-Quality Formats Like MP4, MOV & AVI</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-quick-video-sharing-tweet-it-up-no-need-for-retweets/"><u>2024 Approved Quick Video Sharing Tweet It Up - No Need for Retweets</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/access-all-universal-class-learning-free-downloads-of-online-courses/"><u>Access All Universal Class Learning: Free Downloads of Online Courses</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-tecno-spark-10-pro-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-honor-x9b-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Honor X9b FRP Bypass</u></a></li>
-<li><a href="https://win-data.techidaily.com/prevent-dll-file-loss-strategies-to-halt-auto-deletion-and-retrieve-lost-data/"><u>Prevent DLL File Loss: Strategies to Halt Auto-Deletion & Retrieve Lost Data</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-to-update-your-flipbuilder-account-with-the-newest-software/"><u>Step-by-Step Guide to Update Your FlipBuilder Account with the Newest Software</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/techniques-for-duplicating-multimedia-elements-across-pages-a-guide-using-flipbuilder/"><u>Techniques for Duplicating Multimedia Elements Across Pages: A Guide Using FlipBuilder</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-vivo-y78-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo Y78 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/unlocking-hidden-gems-discover-special-content-with-flipbuilder/"><u>Unlocking Hidden Gems: Discover Special Content with FlipBuilder</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-collection-of-dynamic-text-for-ae-projects/"><u>[Updated] Ultimate Collection of Dynamic Text for AE Projects</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/flawless-cross-sound-mixing-in-audacity-pro/"><u>Flawless Cross-Sound Mixing in Audacity Pro</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/get-your-hands-on-new-dj-software-update-dex-3-version-3907-released-for-free-download/"><u>Get Your Hands on New DJ Software Update: DEX 3 Version 3.9.0.7 Released for Free Download!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-samsung-galaxy-m34-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Samsung Galaxy M34 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/iphone-sound-distortion-repair-a-step-by-step-troubleshooting-guide/"><u>IPhone Sound Distortion Repair - A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/solving-screen-display-errors-effortlessly-insights-by-yl-technology-experts/"><u>Solving Screen Display Errors Effortlessly - Insights by YL Technology Experts</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-customizing-your-windows-11-privacy-options-with-yl-software-solutions/"><u>Step-by-Step Guide: Customizing Your Windows 11 Privacy Options with YL Software Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/troubleshooting-steps-when-your-printer-wont-connect-to-wi-fi-tips-from-yl-computing/"><u>Troubleshooting Steps When Your Printer Won't Connect to Wi-Fi - Tips From YL Computing</u></a></li>
+<li><a href="https://win-premium.techidaily.com/verliertest-du-keine-hoffnung-fehlerbehebung-und-datenwiederherstellung-fur-ihr-synology-nas-system/"><u>Verliertest Du Keine Hoffnung! Fehlerbehebung Und Datenwiederherstellung Für Ihr Synology NAS-System</u></a></li>
 </ul></div>
 

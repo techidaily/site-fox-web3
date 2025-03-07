@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke App Version 1.6: Now Fully Compatible With macOS Catalina - Free Download!"
-date: 2025-02-12T20:28:21.801Z
-updated: 2025-02-18T17:15:39.885Z
+date: 2025-03-05T23:40:06.018Z
+updated: 2025-03-06T17:57:39.600Z
 tags:
   - product
 categories:
@@ -36,10 +36,6 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### New, Changed, and Fixed in LYRX v1.6
 
 * OpenGL to Metal (macOS version)
@@ -53,10 +49,6 @@ As always, version 1.6 is a FREE upgrade for existing LYRX customers. Simply dow
 **IMPORTANT NOTE:** If you receive this warning _“lyrx-v1.6-installer\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install LYRX.
 
 _Have questions about the latest 1.6 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -77,16 +69,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/04/lyrx-16-cover-2.jpg?fit=13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-web3.techidaily.com/alternative-video-editing-tools-taking-over-from-windows-movie-maker/"><u>Alternative Video Editing Tools Taking Over From Windows Movie Maker</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/best-free-screen-recording-software-replacements-for-pc-and-macos/"><u>Best Free Screen Recording Software Replacements for PC & macOS</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/contemporary-verbiage-slang-definitions-for-modern-english/"><u>Contemporary Verbiage: Slang Definitions for Modern English</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effective-methods-of-dispatching-text-messages-via-computer-a-guide-for-android-mobile-users/"><u>Effective Methods of Dispatching Text Messages via Computer: A Guide for Android Mobile Users</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/efficient-methods-for-moving-videos-onto-your-samsung-galaxy-note-3/"><u>Efficient Methods for Moving Videos Onto Your Samsung Galaxy Note 3</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-compatibility-checklist-phone-list-for-gear-vr-2023/"><u>In 2024, Compatibility Checklist Phone List for Gear VR 2023</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pinnacle-studios-evaluation-an-in-depth-study/"><u>In 2024, Pinnacle Studios Evaluation An In-Depth Study</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/programa-gratuito-para-windows-11-y-mac-la-mejor-herramienta-de-reproduccion-de-dvd-sin-costo/"><u>Programa Gratuito Para Windows 11 Y Mac: La Mejor Herramienta De Reproducción De DVD Sin Costo</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-driver-support-failure-for-intel-and-amd-in-premier-pro/"><u>Solved Driver Support Failure for Intel & AMD in Premier Pro</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-eliminating-white-canvas-in-images/"><u>Step-by-Step Guide: Eliminating White Canvas in Images</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-d3dx928dll-missing-error-effective-solutions-and-tips/"><u>Troubleshooting 'd3dx9_28.dll' Missing Error: Effective Solutions and Tips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-photopea-guide-to-clean-image-canvases/"><u>[New] Photopea Guide to Clean Image Canvases</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outubes-best-practices-for-maximum-impact-thumbnails-for-2024/"><u>[New] YouTube's Best Practices for Maximum Impact Thumbnails for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-systematic-search-for-concealed-youtube-repositories/"><u>2024 Approved The Systematic Search for Concealed YouTube Repositories</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/5-most-effective-methods-for-capturing-presentations-with-powerpoint/"><u>5 Most Effective Methods for Capturing Presentations with PowerPoint</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5lia44gk44gu44oq44od44oi44or44kz44o844oj44ks6ksh5pww5yplusw44gu44or44k944kz44oz44gn5l255so5yplusv6io944glpw/"><u>一つのリットルコードを複数台のパソコンで使用可能か?</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/complete-user-manual-mastering-the-art-of-using-apowershow/"><u>Complete User Manual: Mastering the Art of Using ApowerShow</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/discover-over-5-inspiring-js-powered-ways-to-revamp-your-site-with-tailwind-css-by-creative-tim/"><u>Discover Over 5 Inspiring JS-Powered Ways to Revamp Your Site with Tailwind CSS by Creative Tim</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/downloadable-youtube-sound-capture-tool-easily-record-any-audio-from-youtube-videos/"><u>Downloadable YouTube Sound Capture Tool: Easily Record Any Audio From YouTube Videos</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/doxxing-explained-essential-tips-for-protection-from-cybersecurity-expert-malwarefox/"><u>Doxxing Explained: Essential Tips for Protection From Cybersecurity Expert, MalwareFox</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-s17-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo S17 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/exploring-the-app-settings-tab-functions-and-use-cases/"><u>Exploring the 'App Settings' Tab: Functions and Use Cases</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-funimate-video-downloader-review/"><u>In 2024, Funimate Video Downloader Review</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/leading-pimple-reduction-mobile-apps-reviewed-2021-edition/"><u>Leading Pimple Reduction Mobile Apps Reviewed: 2021 Edition</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/professional-media-management-dashboard/"><u>Professional Media Management Dashboard</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sequencing-spy-thrills-discover-the-best-viewing-order-for-james-bond-classics/"><u>Sequencing Spy Thrills: Discover the Best Viewing Order for James Bond Classics</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/simple-guide-how-to-quickly-duplicate-image-files-insights-by-yl-computing/"><u>Simple Guide: How to Quickly Duplicate Image Files - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/simple-tricks-seamlessly-connecting-your-iphone-with-itunes/"><u>Simple Tricks: Seamlessly Connecting Your iPhone with iTunes</u></a></li>
 </ul></div>
 

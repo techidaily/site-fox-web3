@@ -1,7 +1,7 @@
 ---
 title: "SongbookDB's Latest Update: Advanced Features for a Streamlined Karaoke and DJ Experience with PC-Compatible Systems"
-date: 2025-02-17T21:25:33.229Z
-updated: 2025-02-18T18:13:33.130Z
+date: 2025-03-03T12:06:56.080Z
+updated: 2025-03-07T02:45:07.640Z
 tags:
   - product
 categories:
@@ -30,10 +30,6 @@ These upgrades mark a significant leap forward in SongbookDB’s ongoing commitm
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s New, Changed, and Updated
 
 1. **Simplified Registration:** Singers can now send song requests without the need for an email address. They only need to provide a first name and an initial through the new Guest Account feature. However, singers can still choose to register a Full Account (for free) if they want to access the Favs folder. DJs can ban nuisance users from both Guest and Full accounts.
@@ -41,10 +37,6 @@ These upgrades mark a significant leap forward in SongbookDB’s ongoing commitm
 3. **Updated Promotional Tools:** A new version of the Letter and A4 size flyer is available. It includes your DJ code, QR code, and instructions on how to get the app. You can access this flyer through the ‘Promotional Tools’ menu option in the Dashboard at[www.songbookdb.com/dashboard](http://www.songbookdb.com/dashboard).
 4. **Improved Favs Folder:** The Favs folder has been upgraded to enhance its usability. Now, DJs will only receive song requests from the Favs folder for songs that they already have in their list.
 5. **Miscellaneous Improvements:** Several minor tweaks and bug fixes have been implemented.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -65,16 +57,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2023/06/songbookdb.jpg?fit=801%2C5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-alternative-video-editors-for-laptops/"><u>[Updated] Alternative Video Editors for Laptops</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-reverse-viewing-crafts-creative-youtube-video-methods-for-2024/"><u>[Updated] Reverse Viewing Crafts Creative Youtube Video Methods for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/affordable-lenovo-tab-m10-hd-202n-review-ultimate-guide-for-web-browsing-and-media-streaming/"><u>Affordable Lenovo Tab M10 HD 202N Review: Ultimate Guide for Web Browsing & Media Streaming</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effortlessly-access-and-save-lessons-from-yoyo-chinese-for-language-study/"><u>Effortlessly Access and Save Lessons From Yoyo Chinese for Language Study</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/enjoy-youtube-on-roku-discover-2-simple-ways-to-access-and-view-videos/"><u>Enjoy YouTube on Roku? Discover 2 Simple Ways to Access and View Videos</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/free-video-downloader-get-movies-from-cliphunter-without-paying-a-dime/"><u>Free Video Downloader: Get Movies From ClipHunter without Paying a Dime</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/get-the-best-audio-quality-for-your-music-with-zingmp3-downloads-now-available-as-mp3-flac-wav-aac-and-m4a/"><u>Get the Best Audio Quality for Your Music with ZingMP3 Downloads Now Available as MP3, FLAC, WAV, AAC, and M4A</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/guide-enjoy-spotify-tunes-anywhere-learn-how-to-listen-offline-without-a-paid-subscription/"><u>Guide: Enjoy Spotify Tunes Anywhere - Learn How to Listen Offline Without a Paid Subscription</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Change Netflix Location to Get More Country Version On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-honor-magic-5-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Honor Magic 5 by Name | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-essential-strategies-for-successful-mukbang-production/"><u>In 2024, Essential Strategies for Successful Mukbang Production</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-freely-accessible-cutting-edge-video-editor-tools/"><u>[New] In 2024, Freely Accessible Cutting Edge Video Editor Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-in-app-image-alterations-resizing-photos-made-simple-ios/"><u>[Updated] 2024 Approved In-App Image Alterations Resizing Photos Made Simple (iOS)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-excellence-engineers-select-laptop-choices-for-4k-editing-pros/"><u>[Updated] Excellence Engineers Select Laptop Choices for 4K Editing Pros</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-brighten-up-your-gaming-setup-eliminate-black-screens-with-obs/"><u>2024 Approved Brighten Up Your Gaming Setup Eliminate Black Screens with OBS</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/activex-component-class-exploring-icom-and-beyond/"><u>ActiveX Component Class - Exploring ICOM and Beyond</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/comparing-powerhouses-iphone-xs-max-versus-samsung-galaxy-note-9-a-comprehensive-showdown/"><u>Comparing Powerhouses: IPhone XS Max Versus Samsung Galaxy Note 9 – A Comprehensive Showdown</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-infinix-smart-8-hd-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Infinix Smart 8 HD</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-predictive-ai-insights-into-its-operation/"><u>Deciphering Predictive AI: Insights Into Its Operation</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effective-strategies-to-fix-apowerrec-device-recording-failures/"><u>Effective Strategies to Fix aPowerREC Device Recording Failures</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/engaging-kids-mastering-the-art-of-effective-child-conversations/"><u>Engaging Kids: Mastering the Art of Effective Child Conversations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-enhancing-visibility-and-following-on-instagram/"><u>In 2024, Enhancing Visibility & Following on Instagram</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-simultaneous-screen-and-camera-capture-guide/"><u>In 2024, Simultaneous Screen & Camera Capture Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-modular-architecture-with-ibuildcomponent-solutions/"><u>Mastering Modular Architecture with iBuildComponent Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/understanding-the-app-v-configuration-navigating-the-options-and-file-settings-panel/"><u>Understanding the App-V Configuration: Navigating the Options and File Settings Panel</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/unraveling-the-differences-antivirus-software-versus-anti-malware-making-the-right-decision/"><u>Unraveling the Differences: Antivirus Software Versus Anti-Malware – Making the Right Decision</u></a></li>
 </ul></div>
 

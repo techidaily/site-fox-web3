@@ -1,7 +1,7 @@
 ---
 title: Wie Man Dateien Von iPhone, iPad Oder iPod Sicher Auf Eine Externe Festplatte Übertragen
-date: 2025-02-17T00:48:51.312Z
-updated: 2025-02-18T23:25:13.958Z
+date: 2025-02-28T11:25:21.181Z
+updated: 2025-03-07T07:04:21.471Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a5594338591ba06831ec971383.jpg
@@ -48,14 +48,6 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
@@ -80,19 +72,11 @@ Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If yo
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2\. Locate and preview your lost/deleted files**
 
 The recovery tool will automatically start looking for all the deleted and lost files.
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3\. Recover selected files**
 
@@ -110,25 +94,13 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
 
@@ -159,10 +131,6 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
@@ -203,10 +171,6 @@ Was the provided information useful? Your vote is important to us!
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Recover Files from Hard Drive Using CMD? Easy & Free!](https://tools.techidaily.com/ubackup/products/)
@@ -237,10 +201,6 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -256,14 +216,18 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-androids-finest-moba-battles-compilation-10-edition-for-2024/"><u>[Updated] Android's Finest MOBA Battles Compilation (#10 Edition) for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/featured-artist-wanted-become-the-face-of-professional-pcdj-and-karaoke-software-solutions-today/"><u>Featured Artist Wanted! Become the Face of Professional PCDJ & Karaoke Software Solutions Today!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-7-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 7 to an Older Version? | Dr.fone</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/maximizing-scanning-efficiency-on-windows-tips-and-tricks-by-yl-computing/"><u>Maximizing Scanning Efficiency on Windows: Tips & Tricks by YL Computing</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/nixing-facebook-broadcasts-effortlessly/"><u>Nixing Facebook Broadcasts Effortlessly</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/resolving-deletedcorrupted-documents-expert-guide-by-yl-software/"><u>Resolving Deleted/Corrupted Documents: Expert Guide by YL Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-solving-audio-problems-with-windows-11-volume-slider/"><u>Step-by-Step Guide to Solving Audio Problems with Windows 11 Volume Slider</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-blueprint-for-successful-individual-podcasts-for-2024/"><u>The Blueprint for Successful Individual Podcasts for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/unlock-the-potential-of-exe-files-in-windows-with-expert-advice-from-yl-software/"><u>Unlock the Potential of EXE Files in Windows with Expert Advice From YL Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-apex-racecraft-games-5-top-titles-for-2024/"><u>[New] Apex Racecraft Games 5 Top Titles for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-detailed-instructions-to-record-and-save-facetime-calls/"><u>[Updated] Detailed Instructions to Record and Save FaceTime Calls</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-from-followers-to-fans-a-strategic-approach-to-instagram-brand-alliances-for-2024/"><u>[Updated] From Followers to Fans A Strategic Approach to Instagram Brand Alliances for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-lawful-ways-to-attain-a-million-followers-on-youtube-for-2024/"><u>[Updated] Lawful Ways to Attain a Million Followers on YouTube for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/bitcoin-purchase-interest-skyrockets-by-826-in-the-uk-a-deep-dive-into-buy-bitcoin-searches-with-yl-computing/"><u>Bitcoin Purchase Interest Skyrockets by 826% in the UK: A Deep Dive Into 'Buy Bitcoin' Searches with YL Computing</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/easy-and-safe-deletion-of-private-data-from-your-iphone-device/"><u>Easy and Safe Deletion of Private Data From Your iPhone Device</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-iphone-xripadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on iPhone XR/iPad/iPod</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-realme-gt-3-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Realme GT 3</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m54-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M54 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/premium-picture-selection-featuring-guitars-professional-hd-backdrops-and-visual-artwork-from-yl-software-solutions/"><u>Premium Picture Selection Featuring Guitars: Professional HD Backdrops & Visual Artwork From YL Software Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/revamp-your-song-collection-party-tymes-exclusive-karaoke-library-membership-launched-on-10-22-18/"><u>Revamp Your Song Collection! Party Tyme's Exclusive Karaoke Library Membership Launched on 10-22-18</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simple-steps-to-get-your-hp-drivers-installed-today/"><u>Simple Steps to Get Your HP Drivers Installed Today</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/the-top-reasons-for-systemic-inconsistency-explained-by-yl-software-professionals/"><u>The Top Reasons for Systemic Inconsistency Explained by YL Software Professionals</u></a></li>
 </ul></div>
 

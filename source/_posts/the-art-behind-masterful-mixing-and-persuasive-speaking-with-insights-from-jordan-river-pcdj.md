@@ -1,7 +1,7 @@
 ---
 title: The Art Behind Masterful Mixing and Persuasive Speaking with Insights From Jordan River | PCDJ
-date: 2025-02-17T17:17:55.441Z
-updated: 2025-02-18T22:34:34.189Z
+date: 2025-03-06T05:56:17.965Z
+updated: 2025-03-07T01:35:00.802Z
 tags:
   - product
 categories:
@@ -37,10 +37,6 @@ It’s no surprise that we are currently living in an attention-deficit culture.
 
 _DJ Jordan River has entertained thousands of special events over the last two decades. He will be public speaking to other national and international professional DJs at the American DJ convention September 2014, as well as the Mobile Beat Convention in February 2015\. He has studied public speaking from Professor James Wagstaff, Civil Attorney at Stanford University._
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i2.wp.com/pcdj.com/wp-content/uploads/2014/06/djspeakers-1.jpg?fit=530%2C298&ssl=1 298 530 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2014-06-13 16:48:572015-07-24 14:01:05What Do DJs And Great Public Speakers Have In Common? By Jordan River}
@@ -60,16 +56,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/06/djspeakers-1.jpg?fit=530%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-engaging-audiences-with-instagram-stories-surveys/"><u>[New] 2024 Approved Engaging Audiences with Instagram Stories Surveys</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/levate-your-cinematography-skills-editing-and-sharing-360-videos-on-youtube/"><u>[New] Elevate Your Cinematography Skills Editing and Sharing 360° Videos on YouTube</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-illustrate-instantly-image-to-illustration-on-any-device/"><u>[New] Illustrate Instantly Image to Illustration on Any Device</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-influencing-now-top-10-hashtags-for-your-next-post/"><u>[Updated] 2024 Approved Influencing Now Top 10 Hashtags for Your Next Post</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-mastering-the-exchange-of-fb-vids-on-whatsapp-for-2024/"><u>[Updated] Mastering the Exchange of FB Vids on WhatsApp for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1-solutions-to-restart-your-pc-a-comprehensive-guide-yl-computing/"><u>1. Solutions to Restart Your PC: A Comprehensive Guide - YL Computing</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/easily-modifying-speaker-volume-via-windows-control-panel-tutorial-by-yl-computing/"><u>Easily Modifying Speaker Volume via Windows Control Panel - Tutorial by YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/exploring-the-impact-of-mao-zedong-on-the-chinese-cultural-revolution-a-detailed-overview-by-yl-computing/"><u>Exploring the Impact of Mao Zedong on the Chinese Cultural Revolution: A Detailed Overview by YL Computing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-stars-in-the-outer-worlds-a-riveting-space-rpg/"><u>Exploring the Stars in 'The Outer Worlds' - A Riveting Space RPG</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-locate-your-printer-configuration-a-guide-by-yl-computing/"><u>How to Locate Your Printer Configuration: A Guide by YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/safe-and-effective-techniques-using-an-external-hard-drive-as-your-dj-controller-tutorial-video/"><u>Safe and Effective Techniques: Using an External Hard Drive as Your DJ Controller - Tutorial Video</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-a-guide-to-tailoring-your-hashtag-strategy-for-maximum-engagement-and-conversion-rates-on-facebook/"><u>[New] A Guide to Tailoring Your Hashtag Strategy for Maximum Engagement and Conversion Rates on Facebook</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-guidelines-to-erase-youtube-recordings-on-pc/"><u>[Updated] Guidelines to Erase YouTube Recordings on PC</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unlocking-fullscreen-potential-in-adobe-premiere/"><u>[Updated] In 2024, Unlocking Fullscreen Potential in Adobe Premiere</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/20996232-2024-approved-how-to-make-a-youtube-subscribe-link-easy/"><u>2024 Approved How to Make a YouTube Subscribe Link - Easy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-advanced-features-combining-chatgpts-capabilities-with-wolfram-technology/"><u>Explore Advanced Features: Combining ChatGPT's Capabilities with Wolfram Technology</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/g20-summit-update-russian-president-vladimir-putin-abstains-from-india-meeting-as-lavrov-takes-charge-insights-by-yl-computing/"><u>G20 Summit Update: Russian President Vladimir Putin Abstains From India Meeting as Lavrov Takes Charge - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-fix-your-pcs-failure-to-detect-hardware-tips-from-yl-technologies/"><u>How to Fix Your PC's Failure to Detect Hardware - Tips From YL Technologies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-through-the-premier-10-image-stock-websites/"><u>In 2024, Navigating Through the Premier 10 Image Stock Websites</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-connection-insights-from-how-to-fix-isolation-in-the-modern-workplace-expert-reviews-and-zdnet-analysis/"><u>Mastering Connection: Insights From 'How to Fix Isolation' In the Modern Workplace – Expert Reviews & ZDNET Analysis</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/navigating-notification-settings-a-comprehensive-guide-for-windows-11-users-tips-from-yl-computing/"><u>Navigating Notification Settings: A Comprehensive Guide for Windows 11 Users - Tips From YL Computing</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-enhancing-vocal-quality-post-pitch-correction-using-audacity-for-2024/"><u>New Enhancing Vocal Quality Post-Pitch Correction Using Audacity for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ays-to-youtube-stardom-in-video-games/"><u>Pathways to YouTube Stardom in Video Games</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-opening-the-admin-tools-panel-in-windows-insights-from-yl-computing/"><u>Step-by-Step Guide: Opening the Admin Tools Panel in Windows - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-tutorial-using-the-windows-control-panel-to-check-your-systems-program-listings-insights-from-yl-software-experts/"><u>Step-by-Step Tutorial: Using the Windows Control Panel to Check Your System's Program Listings – Insights From YL Software Experts</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/streamline-your-content-strategy-with-ai-powered-batch-articles-upload-on-wordpress-expert-tips-by-yl-software-solutions/"><u>Streamline Your Content Strategy with AI-Powered Batch Articles Upload on WordPress, Expert Tips by YL Software Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/the-positive-impacts-of-incorporating-digital-assets-into-your-finances-with-insights-from-yl-software/"><u>The Positive Impacts of Incorporating Digital Assets Into Your Finances with Insights From YL Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/tweak-display-posture-in-windows-software/"><u>Tweak Display Posture in Windows Software</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/unlocking-files-secrets-discover-how-with-yl-softwares-step-by-step-tutorial/"><u>Unlocking Files Secrets: Discover How with YL Software's Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/yl-software-user-profiles-learn-how-to-update-your-information-easily/"><u>YL Software User Profiles - Learn How to Update Your Information Easily!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Constructing Your Own Ghost Drives in Windows # - Unveiling Three Simple Techniques for Seamless Creation
-date: 2025-02-13T17:50:02.650Z
-updated: 2025-02-18T18:09:55.927Z
+date: 2025-03-01T10:00:38.145Z
+updated: 2025-03-07T11:13:16.743Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8bdde6a1d84cbac37f185e31d.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
 This page covers 4 ways on how to recover files from ransomware and offers some tips that can help you prevent ransomware attacks.
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
@@ -88,10 +84,6 @@ You can expand the Deleted files folder and Other missing files folder to select
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
 If you have a backup available, restoring files is as simple as ABC. You can easily recover encrypted files by finding the corresponding backup file and restoring the data you need. But this option is possible only when you regularly back up your data.
@@ -110,14 +102,6 @@ Step 3\. Click **Browse for files** to locate your lost data and choose to save 
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3\. Get back files from ransomware using File History
 
 If you have used File History to save a copy of your precious data, you can follow the steps below to figure out how to recover encrypted files from ransomware. You can use this tool to [recover permanently deleted folders](https://tools.techidaily.com/ubackup/products/) and files on your computer as well.
@@ -129,10 +113,6 @@ Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
@@ -148,10 +128,6 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
@@ -160,19 +136,11 @@ Step 3\. Choose a restore point from the list and tap on **Scan for affected pro
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -186,10 +154,6 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Don't click on emails and connections sent by strangers.
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -235,10 +199,6 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <ins class="adsbygoogle"
@@ -256,17 +216,17 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-web3.techidaily.com/avoiding-a-sluggish-pc-effective-tips-for-maintaining-speed-over-time-by-yl-software-experts/"><u>Avoiding a Sluggish PC: Effective Tips for Maintaining Speed Over Time by YL Software Experts</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/boost-your-computers-performance-top-software-recommendations-by-yl-computing/"><u>Boost Your Computer's Performance: Top Software Recommendations by YL Computing</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/boost-your-kj-store-now-exclusive-karaoke-downloads-at-30-off-shop-today/"><u>Boost Your KJ Store Now: Exclusive Karaoke Downloads at 30% Off - Shop Today!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-fix-a-disconnected-scanner-on-windowsmac-expert-advice-by-yl-software-team/"><u>How to Fix a Disconnected Scanner on Windows/Mac - Expert Advice by YL Software Team</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xr-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XR to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-adding-sounds-to-your-story-a-premiere-pro-guide/"><u>In 2024, Adding Sounds to Your Story A Premiere Pro Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-20c-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark 20C to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ring-design-principles-essential-knowledge-of-yt-banners-and-art-for-2024/"><u>Mastering Design Principles Essential Knowledge of YT Banners & Art for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/navigate-youtube-gaming-success-with-right-tags-for-2024/"><u>Navigate YouTube Gaming Success with Right Tags for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/step-by-step-guide-file-backup-essentials-from-yl-software/"><u>Step-by-Step Guide: File Backup Essentials From YL Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-bargain-acers-chromebook-plus-strikes-gold-under-400-outshines-competitors-zdnet/"><u>The Ultimate Bargain: Acer's Chromebook Plus Strikes Gold Under $400, Outshines Competitors | ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnets-expert-picks-top-of-the-line-iphone-1212-pro-cases-the-definitive-list/"><u>ZDNet's Expert Picks: Top-of-the-Line iPhone 12/12 Pro Cases | The Definitive List</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-top-10-vibes-a-discotheme-adventure/"><u>[New] In 2024, Top 10 Vibes A DiscoTheme Adventure</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-audio-conversion-made-simple-youtube-to-mp3-mac-edition/"><u>[Updated] Audio Conversion Made Simple YouTube to MP3, Mac Edition</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/detecting-graphics-card-overheat-methods-and-tips-insights-by-yl-computing/"><u>Detecting Graphics Card Overheat: Methods and Tips - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/efficient-techniques-for-locating-files-on-your-pc-with-windows-guidance-from-yl-computing/"><u>Efficient Techniques for Locating Files on Your PC with Windows - Guidance From YL Computing</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-and-reels-the-new-hope-for-tiktoks-market-share/"><u>Facebook and Reels: The New Hope for TikTok's Market Share</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-social-media-insta-to-tiksync/"><u>In 2024, Mastering Social Media Insta-To-TikSync</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-infinix-hot-40i-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Infinix Hot 40i Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-world-of-smartwatches-in-depth-analysis-of-the-amazfit-bip/"><u>Navigating the World of Smartwatches: In-Depth Analysis of the Amazfit Bip</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-power-of-pause-effectively-responding-to-comments/"><u>The Power of Pause Effectively Responding to Comments</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-video-streaming-services/"><u>Top Rated Video Streaming Services</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/top-strategies-for-enhancing-application-load-speeds-insights-from-yl-computing/"><u>Top Strategies for Enhancing Application Load Speeds - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/yl-softwares-premium-collection-of-high-res-abstraction-art-for-computer-screens/"><u>YL Software's Premium Collection of High-Res Abstraction Art for Computer Screens</u></a></li>
 </ul></div>
 
